@@ -1,6 +1,6 @@
-#Gut Microbial Mimics of Human Signaling Molecules
+# Gut Microbial Mimics of Human Signaling Molecules
 
-##Initial setup
+## Initial setup
 
 
 1. Uniprot accession for human signalling proteins were retreived by filtering for 
@@ -25,7 +25,7 @@ cat waldron_accs | parallel "curl 'https://alphafold.ebi.ac.uk/files/AF-{}-F1-mo
 
 
 
-##Foldseek search and quality filtering
+## Foldseek search and quality filtering
 
 1. Folseek easy-search
 2. The dataset was filtered for a foldseek probability score of 1 and alignment TM score of >= 0.5
@@ -63,7 +63,7 @@ awk -F"\t" 'FNR==NR {arr[$1] ; next} $2 in arr {print $0}' all_sig.u extracell_h
 ```
 
 
-#Additional Filters
+# Additional Filters
 
 1. We filtered for query coverage > 80%
 
