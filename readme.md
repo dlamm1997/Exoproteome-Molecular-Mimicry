@@ -42,8 +42,8 @@ cat waldron_accs | parallel "curl 'https://alphafold.ebi.ac.uk/files/AF-{}-F1-mo
 nohup  ~/foldseek/bin/foldseek easy-search human_extracell_structures waldron_structures extracell_hits.m8 tmpfolder --threads 50 --format-output "query,target,pident,alntmscore,prob,evalue,bits,alnlen,qstart,qend,tstart,tend,qseq,tseq,qcov,tcov" &
 awk -F"\t" '$5 == 1 && $4 >= 0.5 && $15 >= 0.8 {print $0}' extracell_hits.m8 > extracell_hits_prob1_TM50_qcov80.m8
 curl "https://rest.uniprot.org/idmapping/uniprotkb/results/stream/7ce976bbf7a6e7aa0a8694b71de7c98d73d5ab59?fields=accession%2Clineage&format=tsv" -o baccs.u.tax.tsv
-grep -v "Eukaryota" baccs.u.tax.tsv > baccs.u.tax.not_euk
-awk -F"\t" '{if (!seen[$2]++) {print ">" $2 "\n" $14}}' extracell_hits_prob1_TM50_qcov80_noteuk.m8  > extracell_hits_prob1_TM50_qcov80_noteuk.fa
+grep "Archaea\|Bacteria"   baccs.u.tax.tsv  >  baccs.u.tax.bact.arch.tsv
+awk -F"\t" 'FNR==NR {arr[$1] ; next} $2 in arr {print $0}'  baccs.u.tax.bact.arch.tsv   extracell_hits_prob1_TM50_qcov80.m8 > extracell_hits_prob1_TM50_qcov80_bact_arch.m8
 
 ```
 
@@ -54,8 +54,8 @@ awk -F"\t" '{if (!seen[$2]++) {print ">" $2 "\n" $14}}' extracell_hits_prob1_TM5
 2. DeepTMHMM was run on those sequences
 
 ```bash
-awk -F"\t" '{if (!seen[$2]++) {print ">" $2 "\n" $14}}' extracell_hits_prob1_TM50_qcov80_noteuk.m8  > extracell_hits_prob1_TM50_qcov80_noteuk.fa
-docker1 run -v /workdir/djl294/:/openprotein/data/ -w /openprotein -e LC_ALL=C.UTF-8 -e LANG=C.UTF-8 --rm 7eb681f7f663 python3 predict.py --fasta data/extracell_hits_prob1_TM50_qcov80_noteuk.fa
+awk -F"\t" '{if (!seen[$2]++) {print ">" $2 "\n" $14}}' extracell_hits_prob1_TM50_qcov80_bact_arch.m8 > extracell_hits_prob1_TM50_qcov80_bact_arch.fa
+docker1 run -v /workdir/djl294/:/openprotein/data/ -w /openprotein -e LC_ALL=C.UTF-8 -e LANG=C.UTF-8 --rm 7eb681f7f663 python3 predict.py --fasta data/extracell_hits_prob1_TM50_qcov80_bact_arch.fa
 ```
 
 
