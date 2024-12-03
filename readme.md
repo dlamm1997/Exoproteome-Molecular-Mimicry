@@ -47,19 +47,19 @@ awk -F"\t" 'FNR==NR {arr[$1] ; next} $2 in arr {print $0}'  baccs.u.tax.bact.arc
 
 ```
 
-## Signal Peptide Searching
+## Subcellular location sorting
 
 
 1. The sequences of the metagenomic proteins where put into a fasta file
-2. DeepTMHMM was run on those sequences
-3. The signal peptide containing accessions were extracted
-4. The alignmnet data was subsetted for thoe alignments were the metagenomic protein had  a signal peptide.
+2. DeepLocPro was run on those sequences
+3. The accessions annotated as extracellular were extracted
+4. The alignmnet data was subsetted for those alignments were the metagenomic protein was annotated as extracellular
 
 ```bash
 awk -F"\t" '{if (!seen[$2]++) {print ">" $2 "\n" $14}}' extracell_hits_prob1_TM50_qcov80_bact_arch.m8 > extracell_hits_prob1_TM50_qcov80_bact_arch.fa
-docker1 run -v /workdir/djl294/:/openprotein/data/ -w /openprotein -e LC_ALL=C.UTF-8 -e LANG=C.UTF-8 --rm 7eb681f7f663 python3 predict.py --fasta data/extracell_hits_prob1_TM50_qcov80_bact_arch.fa
-grep "| SP"  deeptmhmm_results/predicted_topologies.3line | awk -F" |" '{print $1}'  | awk -F">" '{print $2}' > sp_accs
-awk -F"\t" 'FNR==NR {arr[$1]; next} $2 in arr {print $0}' sp_accs  extracell_hits_prob1_TM50_qcov80_bact_arch.m8 > extracell_hits_prob1_TM50_qcov80_bact_arch.sp.m8
+deeplocpro -f /workdir/djl294/extracell_hits_prob1_TM50_qcov80_noteuk.fa -o /workdir/djl294/deeplocpro_out/
+cat deeplocpro_out/results_20241202-231226.csv | grep "Extracellular" | awk -F"," 'NR > 1 {print $2}' > deeploc_extracellular_accs 
+awk -F"\t" 'FNR==NR {arr[$1]; next} $2 in arr {print $0}'  deeploc_extracellular_accs  extracell_hits_prob1_TM50_qcov80_bact_arch.m8  >  extracell_hits_prob1_TM50_qcov80_bact_arch.DeeplocExtracell.m8
 ```
 
 
