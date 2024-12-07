@@ -1,0 +1,1 @@
+for acc in `cat FGF_cluster_mimic_list` ; do ida=$(curl -s https://www.ebi.ac.uk/interpro/api/protein/UniProt/$acc/?extra_fields=ida | jq -r ".extra_fields.ida") ; echo $acc, $ida  >> FGF_cluster_mimic_idas ; done

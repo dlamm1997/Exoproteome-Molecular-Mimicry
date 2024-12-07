@@ -1,0 +1,1765 @@
+HEJCBNKI_00001	COG2864	[C] Cytochrome b subunit of formate dehydrogenase
+HEJCBNKI_00002	COG0437	[C] Fe-S-cluster-containing hydrogenase components 1  
+HEJCBNKI_00003	COG1580	[N] Flagellar basal body-associated protein  
+HEJCBNKI_00004	COG0810	[M] Periplasmic protein TonB, links inner and
+HEJCBNKI_00005	ROG3110	
+HEJCBNKI_00006	COG1886	[NU] Flagellar motor switch/type III secretory pathway
+HEJCBNKI_00007	COG2171	[E] Tetrahydrodipicolinate N-succinyltransferase    
+HEJCBNKI_00009	COG0840	[NT] Methyl-accepting chemotaxis protein   
+HEJCBNKI_00010	ROG5923	
+HEJCBNKI_00011	ROG0251	
+HEJCBNKI_00015	COG0104	[F] Adenylosuccinate synthase    
+HEJCBNKI_00017	COG0031	[E] Cysteine synthase    
+HEJCBNKI_00018	COG1049	[C] Aconitase B    
+HEJCBNKI_00019	COG1664	[M] Integral membrane protein CcmA involved in
+HEJCBNKI_00020	COG0739	[M] Membrane proteins related to metalloendopeptidases 
+HEJCBNKI_00021	COG0739	[M] Membrane proteins related to metalloendopeptidases 
+HEJCBNKI_00022	COG0285	[H] Folylpolyglutamate synthase    
+HEJCBNKI_00024	ROG7317	
+HEJCBNKI_00025	COG0745	[TK] Response regulators consisting of a CheY-like
+HEJCBNKI_00026	COG1338	[NU] Flagellar biosynthesis pathway, component FliP 
+HEJCBNKI_00027	ROG2983	
+HEJCBNKI_00029	ROG2002	
+HEJCBNKI_00030	COG0534	[V] Na+-driven multidrug efflux pump  
+HEJCBNKI_00031	COG1158	[K] Transcription termination factor   
+HEJCBNKI_00032	COG0292	[J] Ribosomal protein L20   
+HEJCBNKI_00033	COG0291	[J] Ribosomal protein L35   
+HEJCBNKI_00034	COG0290	[J] Translation initiation factor 3 (IF-3) 
+HEJCBNKI_00035	COG0441	[J] Threonyl-tRNA synthetase    
+HEJCBNKI_00036	COG1252	[C] NADH dehydrogenase, FAD-containing subunit  
+HEJCBNKI_00037	COG0436	[E] Aspartate/tyrosine/aromatic aminotransferase    
+HEJCBNKI_00038	COG0219	[J] Predicted rRNA methylase (SpoU class) 
+HEJCBNKI_00039	COG0693	[R] Putative intracellular protease/amidase   
+HEJCBNKI_00041	COG0360	[J] Ribosomal protein S6   
+HEJCBNKI_00042	COG0629	[L] Single-stranded DNA-binding protein   
+HEJCBNKI_00043	COG0238	[J] Ribosomal protein S18   
+HEJCBNKI_00047	COG0754	[E] Glutathionylspermidine synthase    
+HEJCBNKI_00048	COG0840	[NT] Methyl-accepting chemotaxis protein   
+HEJCBNKI_00049	COG2870	[M] ADP-heptose synthase, bifunctional sugar kinase/adenylyltransferase 
+HEJCBNKI_00050	COG0451	[MG] Nucleoside-diphosphate-sugar epimerases    
+HEJCBNKI_00052	ROG2760	
+HEJCBNKI_00053	COG0537	[FGR] Diadenosine tetraphosphate (Ap4A) hydrolase and other
+HEJCBNKI_00054	COG0666	[R] FOG: Ankyrin repeat   
+HEJCBNKI_00055	COG0548	[E] Acetylglutamate kinase    
+HEJCBNKI_00056	ROG7351	
+HEJCBNKI_00057	ROG4899	
+HEJCBNKI_00058	COG1126	[E] ABC-type polar amino acid transport system,
+HEJCBNKI_00059	COG0206	[D] Cell division GTPase   
+HEJCBNKI_00060	COG0849	[D] Actin-like ATPase involved in cell division
+HEJCBNKI_00061	COG0760	[O] Parvulin-like peptidyl-prolyl isomerase   
+HEJCBNKI_00062	COG0177	[L] Predicted EndoIII-related endonuclease   
+HEJCBNKI_00063	ROG1946	
+HEJCBNKI_00064	ROG1600	
+HEJCBNKI_00065	COG2884	[D] Predicted ATPase involved in cell division
+HEJCBNKI_00066	COG0220	[R] Predicted S-adenosylmethionine-dependent methyltransferase   
+HEJCBNKI_00067	COG1788	[I] Acyl CoA:acetate/3-ketoacid CoA transferase, alpha subunit
+HEJCBNKI_00068	COG3401	[R] Fibronectin type 3 domain-containing protein 
+HEJCBNKI_00069	COG0564	[J] Pseudouridylate synthases, 23S RNA-specific  
+HEJCBNKI_00070	COG0151	[F] Phosphoribosylamine-glycine ligase    
+HEJCBNKI_00072	ROG0166	
+HEJCBNKI_00073	COG0450	[O] Peroxiredoxin     
+HEJCBNKI_00074	ROG1446	
+HEJCBNKI_00075	COG1734	[T] DnaK suppressor protein   
+HEJCBNKI_00076	COG1576	[S] Uncharacterized conserved protein   
+HEJCBNKI_00077	COG0777	[I] Acetyl-CoA carboxylase beta subunit  
+HEJCBNKI_00078	COG0158	[G] Fructose-1,6-bisphosphatase     
+HEJCBNKI_00079	COG0231	[J] Translation elongation factor P (EF-P)/translation initiation
+HEJCBNKI_00080	COG2137	[R] Uncharacterized protein conserved in bacteria 
+HEJCBNKI_00081	COG0020	[I] Undecaprenyl pyrophosphate synthase   
+HEJCBNKI_00082	COG1137	[R] ABC-type (unclassified) transport system, ATPase component
+HEJCBNKI_00083	COG1620	[C] L-lactate permease    
+HEJCBNKI_00085	ROG5353	
+HEJCBNKI_00086	COG3187	[O] Heat shock protein   
+HEJCBNKI_00087	ROG1853	
+HEJCBNKI_00088	ROG1853	
+HEJCBNKI_00089	COG0458	[EF] Carbamoylphosphate synthase large subunit (split gene
+HEJCBNKI_00091	ROG5353	
+HEJCBNKI_00093	COG0223	[J] Methionyl-tRNA formyltransferase    
+HEJCBNKI_00094	COG0110	[R] Acetyltransferase (isoleucine patch superfamily)  
+HEJCBNKI_00095	ROG4091	
+HEJCBNKI_00096	ROG4091	
+HEJCBNKI_00098	COG0500	[QR] SAM-dependent methyltransferases    
+HEJCBNKI_00099	COG0500	[QR] SAM-dependent methyltransferases    
+HEJCBNKI_00100	ROG0712	
+HEJCBNKI_00101	COG1088	[M] dTDP-D-glucose 4,6-dehydratase    
+HEJCBNKI_00102	COG1209	[M] dTDP-glucose pyrophosphorylase    
+HEJCBNKI_00103	COG0479	[C] Succinate dehydrogenase/fumarate reductase, Fe-S protein subunit
+HEJCBNKI_00104	COG1053	[C] Succinate dehydrogenase/fumarate reductase, flavoprotein subunit 
+HEJCBNKI_00105	ROG0018	
+HEJCBNKI_00106	COG1419	[N] Flagellar GTP-binding protein   
+HEJCBNKI_00107	COG0801	[H] 7,8-dihydro-6-hydroxymethylpterin-pyrophosphokinase     
+HEJCBNKI_00110	COG0502	[H] Biotin synthase and related enzymes 
+HEJCBNKI_00111	COG1087	[M] UDP-glucose 4-epimerase    
+HEJCBNKI_00112	COG1607	[I] Acyl-CoA hydrolase    
+HEJCBNKI_00114	COG3596	[R] Predicted GTPase    
+HEJCBNKI_00117	ROG0624	
+HEJCBNKI_00119	ROG8502	
+HEJCBNKI_00121	COG1696	[M] Predicted membrane protein involved in D-alanine
+HEJCBNKI_00122	ROG2191	
+HEJCBNKI_00123	ROG3047	
+HEJCBNKI_00124	ROG7885	
+HEJCBNKI_00125	COG0059	[EH] Ketol-acid reductoisomerase    
+HEJCBNKI_00126	COG2352	[C] Phosphoenolpyruvate carboxylase    
+HEJCBNKI_00128	COG0021	[G] Transketolase     
+HEJCBNKI_00130	COG1838	[C] Tartrate dehydratase beta subunit/Fumarate hydratase class
+HEJCBNKI_00131	COG2703	[P] Hemerythrin     
+HEJCBNKI_00132	COG2703	[P] Hemerythrin     
+HEJCBNKI_00133	COG1951	[C] Tartrate dehydratase alpha subunit/Fumarate hydratase class
+HEJCBNKI_00134	COG0760	[O] Parvulin-like peptidyl-prolyl isomerase   
+HEJCBNKI_00135	COG0251	[J] Putative translation initiation inhibitor, yjgF family
+HEJCBNKI_00139	COG0388	[R] Predicted amidohydrolase    
+HEJCBNKI_00141	COG0663	[R] Carbonic anhydrases/acetyltransferases, isoleucine patch superfamily 
+HEJCBNKI_00142	COG4786	[N] Flagellar basal body rod protein 
+HEJCBNKI_00144	ROG0149	
+HEJCBNKI_00145	COG1432	[S] Uncharacterized conserved protein   
+HEJCBNKI_00146	COG0451	[MG] Nucleoside-diphosphate-sugar epimerases    
+HEJCBNKI_00147	COG0438	[M] Glycosyltransferase     
+HEJCBNKI_00148	COG0535	[R] Predicted Fe-S oxidoreductases   
+HEJCBNKI_00149	ROG0014	
+HEJCBNKI_00150	ROG3466	
+HEJCBNKI_00154	COG2877	[M] 3-deoxy-D-manno-octulosonic acid (KDO) 8-phosphate synthase 
+HEJCBNKI_00155	COG1373	[R] Predicted ATPase (AAA+ superfamily)  
+HEJCBNKI_00156	COG0730	[R] Predicted permeases    
+HEJCBNKI_00157	ROG1370	
+HEJCBNKI_00158	COG1858	[P] Cytochrome c peroxidase   
+HEJCBNKI_00159	COG0859	[M] ADP-heptose:LPS heptosyltransferase    
+HEJCBNKI_00160	ROG6408	
+HEJCBNKI_00161	ROG1067	
+HEJCBNKI_00162	COG0467	[T] RecA-superfamily ATPases implicated in signal transduction
+HEJCBNKI_00164	ROG0864	
+HEJCBNKI_00172	ROG6838	
+HEJCBNKI_00176	COG0455	[D] ATPases involved in chromosome partitioning 
+HEJCBNKI_00178	ROG6842	
+HEJCBNKI_00179	COG4174	[R] ABC-type uncharacterized transport system, permease component
+HEJCBNKI_00180	COG1739	[S] Uncharacterized conserved protein   
+HEJCBNKI_00181	COG0803	[P] ABC-type metal ion transport system, periplasmic
+HEJCBNKI_00182	COG0707	[M] UDP-N-acetylglucosamine:LPS N-acetylglucosamine transferase   
+HEJCBNKI_00183	ROG1831	
+HEJCBNKI_00184	COG0824	[R] Predicted thioesterase    
+HEJCBNKI_00185	COG0620	[E] Methionine synthase II (cobalamin-independent)  
+HEJCBNKI_00187	COG0664	[T] cAMP-binding proteins - catabolite gene activator
+HEJCBNKI_00188	COG3399	[S] Uncharacterized protein conserved in bacteria 
+HEJCBNKI_00189	COG2346	[R] Truncated hemoglobins    
+HEJCBNKI_00191	ROG0280	
+HEJCBNKI_00192	ROG0280	
+HEJCBNKI_00193	COG3004	[P] Na+/H+ antiporter    
+HEJCBNKI_00194	COG1074	[L] ATP-dependent exoDNAse (exonuclease V) beta subunit
+HEJCBNKI_00196	COG4221	[R] Short-chain alcohol dehydrogenase of unknown specificity
+HEJCBNKI_00197	COG1216	[R] Predicted glycosyltransferases    
+HEJCBNKI_00198	ROG6655	
+HEJCBNKI_00199	COG0309	[O] Hydrogenase maturation factor   
+HEJCBNKI_00200	ROG4864	
+HEJCBNKI_00201	COG2246	[S] Predicted membrane protein   
+HEJCBNKI_00202	COG1216	[R] Predicted glycosyltransferases    
+HEJCBNKI_00203	COG0733	[R] Na+-dependent transporters of the SNF family
+HEJCBNKI_00204	COG0006	[E] Xaa-Pro aminopeptidase    
+HEJCBNKI_00205	COG0730	[R] Predicted permeases    
+HEJCBNKI_00207	COG3306	[M] Glycosyltransferase involved in LPS biosynthesis 
+HEJCBNKI_00208	COG0338	[L] Site-specific DNA methylase   
+HEJCBNKI_00211	COG0375	[R] Zn finger protein HypA/HybF (possibly regulating
+HEJCBNKI_00215	COG0556	[L] Helicase subunit of the DNA excision
+HEJCBNKI_00217	COG1280	[E] Putative threonine efflux protein  
+HEJCBNKI_00218	ROG5059	
+HEJCBNKI_00219	COG0265	[O] Trypsin-like serine proteases, typically periplasmic, contain
+HEJCBNKI_00220	COG0568	[K] DNA-directed RNA polymerase, sigma subunit (sigma70/sigma32)
+HEJCBNKI_00221	ROG1765	
+HEJCBNKI_00222	ROG3307	
+HEJCBNKI_00224	COG1442	[M] Lipopolysaccharide biosynthesis proteins, LPS:glycosyltransferases  
+HEJCBNKI_00225	COG1442	[M] Lipopolysaccharide biosynthesis proteins, LPS:glycosyltransferases  
+HEJCBNKI_00226	COG1408	[R] Predicted phosphohydrolases    
+HEJCBNKI_00227	COG0394	[T] Protein-tyrosine-phosphatase     
+HEJCBNKI_00228	COG0773	[M] UDP-N-acetylmuramate-alanine ligase    
+HEJCBNKI_00229	COG2996	[S] Uncharacterized protein conserved in bacteria 
+HEJCBNKI_00231	COG4853	[S] Uncharacterized protein conserved in bacteria 
+HEJCBNKI_00235	COG3926	[R] Putative secretion activating protein  
+HEJCBNKI_00236	COG5410	[S] Uncharacterized protein conserved in bacteria 
+HEJCBNKI_00238	ROG2137	
+HEJCBNKI_00239	ROG4899	
+HEJCBNKI_00240	COG2963	[L] Transposase and inactivated derivatives  
+HEJCBNKI_00241	ROG4899	
+HEJCBNKI_00242	COG0418	[F] Dihydroorotase     
+HEJCBNKI_00243	COG2914	[S] Uncharacterized protein conserved in bacteria 
+HEJCBNKI_00244	COG3654	[R] Prophage maintenance system killer protein 
+HEJCBNKI_00247	ROG6208	
+HEJCBNKI_00249	COG0531	[E] Amino acid transporters   
+HEJCBNKI_00251	ROG0611	
+HEJCBNKI_00252	COG2838	[C] Monomeric isocitrate dehydrogenase   
+HEJCBNKI_00253	COG3403	[S] Uncharacterized conserved protein   
+HEJCBNKI_00254	COG3403	[S] Uncharacterized conserved protein   
+HEJCBNKI_00255	COG1280	[E] Putative threonine efflux protein  
+HEJCBNKI_00256	COG4300	[P] Predicted permease, cadmium resistance protein 
+HEJCBNKI_00257	COG0603	[R] Predicted PP-loop superfamily ATPase  
+HEJCBNKI_00258	COG1409	[R] Predicted phosphohydrolases    
+HEJCBNKI_00259	ROG4895	
+HEJCBNKI_00260	COG1253	[R] Hemolysins and related proteins containing CBS
+HEJCBNKI_00262	COG0223	[J] Methionyl-tRNA formyltransferase    
+HEJCBNKI_00263	COG2189	[L] Adenine specific DNA methylase Mod 
+HEJCBNKI_00264	ROG4015	
+HEJCBNKI_00266	COG0519	[F] GMP synthase, PP-ATPase domain/subunit  
+HEJCBNKI_00267	COG0774	[M] UDP-3-O-acyl-N-acetylglucosamine deacetylase    
+HEJCBNKI_00269	COG0331	[I] (acyl-carrier-protein) S-malonyltransferase    
+HEJCBNKI_00272	COG1858	[P] Cytochrome c peroxidase   
+HEJCBNKI_00273	COG0352	[H] Thiamine monophosphate synthase   
+HEJCBNKI_00274	COG1089	[M] GDP-D-mannose dehydratase    
+HEJCBNKI_00275	ROG4232	
+HEJCBNKI_00276	COG0569	[P] K+ transport systems, NAD-binding component 
+HEJCBNKI_00277	COG0168	[P] Trk-type K+ transport systems, membrane components
+HEJCBNKI_00278	COG1060	[HR] Thiamine biosynthesis enzyme ThiH and related
+HEJCBNKI_00279	COG0334	[E] Glutamate dehydrogenase/leucine dehydrogenase   
+HEJCBNKI_00281	COG2067	[I] Long-chain fatty acid transport protein 
+HEJCBNKI_00286	COG3843	[U] Type IV secretory pathway, VirD2 components
+HEJCBNKI_00287	COG2425	[R] Uncharacterized protein containing a von Willebrand
+HEJCBNKI_00288	COG0225	[O] Peptide methionine sulfoxide reductase  
+HEJCBNKI_00290	COG2958	[S] Uncharacterized protein conserved in bacteria 
+HEJCBNKI_00292	COG1064	[R] Zn-dependent alcohol dehydrogenases   
+HEJCBNKI_00293	COG0597	[MU] Lipoprotein signal peptidase   
+HEJCBNKI_00294	COG2814	[G] Arabinose efflux permease   
+HEJCBNKI_00295	COG2089	[M] Sialic acid synthase   
+HEJCBNKI_00296	COG0846	[K] NAD-dependent protein deacetylases, SIR2 family 
+HEJCBNKI_00297	COG0298	[O] Hydrogenase maturation factor   
+HEJCBNKI_00299	COG0540	[F] Aspartate carbamoyltransferase, catalytic chain  
+HEJCBNKI_00300	COG4731	[S] Uncharacterized protein conserved in bacteria 
+HEJCBNKI_00301	ROG5975	
+HEJCBNKI_00303	COG0858	[J] Ribosome-binding factor A   
+HEJCBNKI_00304	COG0779	[S] Uncharacterized protein conserved in bacteria 
+HEJCBNKI_00307	ROG6105	
+HEJCBNKI_00308	COG2704	[R] Anaerobic C4-dicarboxylate transporter   
+HEJCBNKI_00309	COG1758	[K] DNA-directed RNA polymerase, subunit K/omega 
+HEJCBNKI_00310	COG0317	[TK] Guanosine polyphosphate pyrophosphohydrolases/synthetases   
+HEJCBNKI_00311	ROG3154	
+HEJCBNKI_00312	COG0041	[F] Phosphoribosylcarboxyaminoimidazole (NCAIR) mutase   
+HEJCBNKI_00314	COG1232	[H] Protoporphyrinogen oxidase    
+HEJCBNKI_00315	COG2246	[S] Predicted membrane protein   
+HEJCBNKI_00316	COG1087	[M] UDP-glucose 4-epimerase    
+HEJCBNKI_00317	COG0221	[C] Inorganic pyrophosphatase    
+HEJCBNKI_00319	COG0277	[C] FAD/FMN-containing dehydrogenases    
+HEJCBNKI_00320	COG3291	[R] FOG: PKD repeat   
+HEJCBNKI_00321	COG4646	[KL] DNA methylase    
+HEJCBNKI_00324	ROG0225	
+HEJCBNKI_00325	ROG5148	
+HEJCBNKI_00326	ROG3408	
+HEJCBNKI_00328	COG0823	[U] Periplasmic component of the Tol biopolymer
+HEJCBNKI_00329	COG2885	[M] Outer membrane protein and related peptidoglycan-associated
+HEJCBNKI_00330	ROG2778	
+HEJCBNKI_00331	COG1047	[O] FKBP-type peptidyl-prolyl cis-trans isomerases 2 
+HEJCBNKI_00332	COG2807	[P] Cyanate permease    
+HEJCBNKI_00333	COG0099	[J] Ribosomal protein S13   
+HEJCBNKI_00334	COG0100	[J] Ribosomal protein S11   
+HEJCBNKI_00335	COG0522	[J] Ribosomal protein S4 and related proteins
+HEJCBNKI_00336	COG0202	[K] DNA-directed RNA polymerase, alpha subunit/40 kD
+HEJCBNKI_00337	COG0203	[J] Ribosomal protein L17   
+HEJCBNKI_00338	COG0044	[F] Dihydroorotase and related cyclic amidohydrolases 
+HEJCBNKI_00339	COG0785	[O] Cytochrome c biogenesis protein  
+HEJCBNKI_00342	COG0042	[J] tRNA-dihydrouridine synthase    
+HEJCBNKI_00343	COG0191	[G] Fructose/tagatose bisphosphate aldolase   
+HEJCBNKI_00344	COG1442	[M] Lipopolysaccharide biosynthesis proteins, LPS:glycosyltransferases  
+HEJCBNKI_00345	COG1442	[M] Lipopolysaccharide biosynthesis proteins, LPS:glycosyltransferases  
+HEJCBNKI_00346	COG0721	[J] Asp-tRNAAsn/Glu-tRNAGln amidotransferase C subunit  
+HEJCBNKI_00347	COG0750	[M] Predicted membrane-associated Zn-dependent proteases 1 
+HEJCBNKI_00348	COG0558	[I] Phosphatidylglycerophosphate synthase    
+HEJCBNKI_00349	COG0535	[R] Predicted Fe-S oxidoreductases   
+HEJCBNKI_00350	COG0463	[M] Glycosyltransferases involved in cell wall biogenesis
+HEJCBNKI_00354	ROG8143	
+HEJCBNKI_00355	COG0840	[NT] Methyl-accepting chemotaxis protein   
+HEJCBNKI_00356	COG0075	[E] Serine-pyruvate aminotransferase/archaeal aspartate aminotransferase  
+HEJCBNKI_00357	COG0716	[C] Flavodoxins     
+HEJCBNKI_00358	COG0436	[E] Aspartate/tyrosine/aromatic aminotransferase    
+HEJCBNKI_00360	COG1937	[S] Uncharacterized protein conserved in bacteria 
+HEJCBNKI_00361	COG0790	[R] FOG: TPR repeat, SEL1 subfamily 
+HEJCBNKI_00362	ROG2288	
+HEJCBNKI_00363	COG1479	[S] Uncharacterized conserved protein   
+HEJCBNKI_00364	COG1748	[E] Saccharopine dehydrogenase and related proteins 
+HEJCBNKI_00365	COG2731	[G] Beta-galactosidase, beta subunit   
+HEJCBNKI_00366	COG4731	[S] Uncharacterized protein conserved in bacteria 
+HEJCBNKI_00367	ROG4054	
+HEJCBNKI_00368	COG0307	[H] Riboflavin synthase alpha chain  
+HEJCBNKI_00369	COG4552	[R] Predicted acetyltransferase involved in intracellular survival
+HEJCBNKI_00370	COG0036	[G] Pentose-5-phosphate-3-epimerase     
+HEJCBNKI_00374	COG2089	[M] Sialic acid synthase   
+HEJCBNKI_00378	COG2935	[O] Putative arginyl-tRNA:protein arginylyltransferase   
+HEJCBNKI_00379	COG1738	[S] Uncharacterized conserved protein   
+HEJCBNKI_00380	ROG3124	
+HEJCBNKI_00381	ROG3390	
+HEJCBNKI_00382	COG0382	[H] 4-hydroxybenzoate polyprenyltransferase and related prenyltransferases 
+HEJCBNKI_00383	COG0571	[K] dsRNA-specific ribonuclease    
+HEJCBNKI_00384	COG3291	[R] FOG: PKD repeat   
+HEJCBNKI_00385	ROG2789	
+HEJCBNKI_00387	COG0119	[E] Isopropylmalate/homocitrate/citramalate synthases    
+HEJCBNKI_00388	COG0124	[J] Histidyl-tRNA synthetase    
+HEJCBNKI_00389	COG1052	[CHR] Lactate dehydrogenase and related dehydrogenases 
+HEJCBNKI_00390	COG0795	[R] Predicted permeases    
+HEJCBNKI_00391	COG0012	[J] Predicted GTPase, probable translation factor 
+HEJCBNKI_00394	COG0477	[GEPR] Permeases of the major facilitator superfamily
+HEJCBNKI_00395	COG2834	[M] Outer membrane lipoprotein-sorting protein  
+HEJCBNKI_00396	COG0451	[MG] Nucleoside-diphosphate-sugar epimerases    
+HEJCBNKI_00397	COG2855	[S] Predicted membrane protein   
+HEJCBNKI_00398	ROG2884	
+HEJCBNKI_00399	COG2849	[S] Uncharacterized protein conserved in bacteria 
+HEJCBNKI_00401	ROG1339	
+HEJCBNKI_00402	COG2812	[L] DNA polymerase III, gamma/tau subunits 
+HEJCBNKI_00403	COG0294	[H] Dihydropteroate synthase and related enzymes 
+HEJCBNKI_00404	COG0582	[L] Integrase     
+HEJCBNKI_00405	ROG2662	
+HEJCBNKI_00406	ROG2662	
+HEJCBNKI_00408	ROG7367	
+HEJCBNKI_00409	COG0527	[E] Aspartokinases     
+HEJCBNKI_00410	COG0494	[LR] NTP pyrophosphohydrolases including oxidative damage repair
+HEJCBNKI_00411	COG1388	[M] FOG: LysM repeat   
+HEJCBNKI_00412	COG0797	[M] Lipoproteins     
+HEJCBNKI_00413	COG0194	[F] Guanylate kinase    
+HEJCBNKI_00414	COG1826	[U] Sec-independent protein secretion pathway components 
+HEJCBNKI_00415	COG0018	[J] Arginyl-tRNA synthetase    
+HEJCBNKI_00416	ROG3307	
+HEJCBNKI_00417	ROG1519	
+HEJCBNKI_00418	ROG1319	
+HEJCBNKI_00419	COG2861	[S] Uncharacterized protein conserved in bacteria 
+HEJCBNKI_00420	COG0460	[E] Homoserine dehydrogenase    
+HEJCBNKI_00422	ROG5041	
+HEJCBNKI_00423	COG0457	[R] FOG: TPR repeat   
+HEJCBNKI_00424	COG2067	[I] Long-chain fatty acid transport protein 
+HEJCBNKI_00428	COG0717	[F] Deoxycytidine deaminase    
+HEJCBNKI_00430	COG0472	[M] UDP-N-acetylmuramyl pentapeptide phosphotransferase/UDP-N-acetylglucosamine-1-phosphate transferase  
+HEJCBNKI_00433	ROG0086	
+HEJCBNKI_00435	COG0621	[J] 2-methylthioadenine synthetase    
+HEJCBNKI_00436	COG4771	[P] Outer membrane receptor for ferrienterochelin and
+HEJCBNKI_00438	COG1627	[S] Uncharacterized protein conserved in archaea 
+HEJCBNKI_00439	COG1636	[S] Uncharacterized protein conserved in bacteria 
+HEJCBNKI_00441	COG2202	[T] FOG: PAS/PAC domain   
+HEJCBNKI_00442	COG0130	[J] Pseudouridine synthase    
+HEJCBNKI_00443	COG1551	[T] Carbon storage regulator (could also regulate
+HEJCBNKI_00444	ROG8270	
+HEJCBNKI_00445	ROG8270	
+HEJCBNKI_00446	COG1298	[NU] Flagellar biosynthesis pathway, component FlhA 
+HEJCBNKI_00447	COG0184	[J] Ribosomal protein S15P/S13E   
+HEJCBNKI_00448	COG3278	[O] Cbb3-type cytochrome oxidase, subunit 1 
+HEJCBNKI_00449	COG2993	[C] Cbb3-type cytochrome oxidase, cytochrome c subunit
+HEJCBNKI_00450	COG4736	[O] Cbb3-type cytochrome oxidase, subunit 3 
+HEJCBNKI_00451	COG2010	[C] Cytochrome c, mono- and diheme variants
+HEJCBNKI_00452	ROG3139	
+HEJCBNKI_00453	COG1283	[P] Na+/phosphate symporter    
+HEJCBNKI_00454	ROG1562	
+HEJCBNKI_00455	ROG1871	
+HEJCBNKI_00456	COG0594	[J] RNase P protein component  
+HEJCBNKI_00457	COG2849	[S] Uncharacterized protein conserved in bacteria 
+HEJCBNKI_00459	COG0473	[CE] Isocitrate/isopropylmalate dehydrogenase    
+HEJCBNKI_00460	COG0210	[L] Superfamily I DNA and RNA helicases
+HEJCBNKI_00461	COG0564	[J] Pseudouridylate synthases, 23S RNA-specific  
+HEJCBNKI_00462	COG0471	[P] Di- and tricarboxylate transporters  
+HEJCBNKI_00464	COG2928	[S] Uncharacterized conserved protein   
+HEJCBNKI_00465	COG0557	[K] Exoribonuclease R    
+HEJCBNKI_00466	COG0209	[F] Ribonucleotide reductase, alpha subunit  
+HEJCBNKI_00467	COG0778	[C] Nitroreductase     
+HEJCBNKI_00468	COG0666	[R] FOG: Ankyrin repeat   
+HEJCBNKI_00469	COG1412	[R] Uncharacterized proteins of PilT N-term./Vapc superfamily
+HEJCBNKI_00470	COG3755	[S] Uncharacterized protein conserved in bacteria 
+HEJCBNKI_00471	COG0129	[EG] Dihydroxyacid dehydratase/phosphogluconate dehydratase   
+HEJCBNKI_00472	COG1479	[S] Uncharacterized conserved protein   
+HEJCBNKI_00473	COG0827	[L] Adenine-specific DNA methylase   
+HEJCBNKI_00475	ROG3873	
+HEJCBNKI_00476	ROG8324	
+HEJCBNKI_00477	COG1585	[OU] Membrane protein implicated in regulation of
+HEJCBNKI_00478	ROG1639	
+HEJCBNKI_00481	ROG3369	
+HEJCBNKI_00483	COG0165	[E] Argininosuccinate lyase    
+HEJCBNKI_00484	COG0847	[L] DNA polymerase III, epsilon subunit and
+HEJCBNKI_00485	ROG2596	
+HEJCBNKI_00486	COG0254	[J] Ribosomal protein L31   
+HEJCBNKI_00487	COG0359	[J] Ribosomal protein L9   
+HEJCBNKI_00488	COG1451	[R] Predicted metal-dependent hydrolase   
+HEJCBNKI_00489	ROG5385	
+HEJCBNKI_00491	COG0735	[P] Fe2+/Zn2+ uptake regulation proteins  
+HEJCBNKI_00492	COG2899	[S] Uncharacterized protein conserved in bacteria 
+HEJCBNKI_00493	COG0208	[F] Ribonucleotide reductase, beta subunit  
+HEJCBNKI_00494	COG0388	[R] Predicted amidohydrolase    
+HEJCBNKI_00495	COG2518	[O] Protein-L-isoaspartate carboxylmethyltransferase    
+HEJCBNKI_00496	ROG8045	
+HEJCBNKI_00497	COG0057	[G] Glyceraldehyde-3-phosphate dehydrogenase/erythrose-4-phosphate dehydrogenase   
+HEJCBNKI_00499	COG0133	[E] Tryptophan synthase beta chain  
+HEJCBNKI_00500	COG0834	[ET] ABC-type amino acid transport/signal transduction systems,
+HEJCBNKI_00501	COG1126	[E] ABC-type polar amino acid transport system,
+HEJCBNKI_00502	COG0765	[E] ABC-type amino acid transport system, permease
+HEJCBNKI_00503	COG0841	[V] Cation/multidrug efflux pump   
+HEJCBNKI_00505	COG0463	[M] Glycosyltransferases involved in cell wall biogenesis
+HEJCBNKI_00506	ROG1765	
+HEJCBNKI_00507	COG0673	[R] Predicted dehydrogenases and related proteins 
+HEJCBNKI_00508	ROG6647	
+HEJCBNKI_00509	COG0840	[NT] Methyl-accepting chemotaxis protein   
+HEJCBNKI_00510	COG1159	[R] GTPase     
+HEJCBNKI_00511	COG0790	[R] FOG: TPR repeat, SEL1 subfamily 
+HEJCBNKI_00512	COG1186	[J] Protein chain release factor B 
+HEJCBNKI_00515	COG2189	[L] Adenine specific DNA methylase Mod 
+HEJCBNKI_00518	COG3598	[L] RecA-family ATPase    
+HEJCBNKI_00521	COG1192	[D] ATPases involved in chromosome partitioning 
+HEJCBNKI_00526	COG0582	[L] Integrase     
+HEJCBNKI_00532	ROG6597	
+HEJCBNKI_00537	COG4725	[TK] Transcriptional activator, adenine-specific DNA methyltransferase 
+HEJCBNKI_00542	COG5266	[P] ABC-type Co2+ transport system, periplasmic component
+HEJCBNKI_00545	COG3179	[R] Predicted chitinase    
+HEJCBNKI_00547	COG0739	[M] Membrane proteins related to metalloendopeptidases 
+HEJCBNKI_00549	COG3179	[R] Predicted chitinase    
+HEJCBNKI_00551	COG3179	[R] Predicted chitinase    
+HEJCBNKI_00553	COG3179	[R] Predicted chitinase    
+HEJCBNKI_00556	COG0739	[M] Membrane proteins related to metalloendopeptidases 
+HEJCBNKI_00557	COG3501	[S] Uncharacterized protein conserved in bacteria 
+HEJCBNKI_00558	COG3157	[S] Hemolysin-coregulated protein (uncharacterized)   
+HEJCBNKI_00560	COG3177	[S] Uncharacterized conserved protein   
+HEJCBNKI_00561	COG1192	[D] ATPases involved in chromosome partitioning 
+HEJCBNKI_00562	ROG6842	
+HEJCBNKI_00564	COG4646	[KL] DNA methylase    
+HEJCBNKI_00567	ROG7998	
+HEJCBNKI_00569	COG0306	[P] Phosphate/sulphate permeases    
+HEJCBNKI_00573	COG0306	[P] Phosphate/sulphate permeases    
+HEJCBNKI_00579	COG3764	[M] Sortase (surface protein transpeptidase)  
+HEJCBNKI_00580	COG3675	[I] Predicted lipase    
+HEJCBNKI_00589	ROG1487	
+HEJCBNKI_00595	ROG3710	
+HEJCBNKI_00607	ROG4780	
+HEJCBNKI_00612	ROG3357	
+HEJCBNKI_00614	COG0306	[P] Phosphate/sulphate permeases    
+HEJCBNKI_00615	ROG0815	
+HEJCBNKI_00616	ROG2545	
+HEJCBNKI_00621	ROG1487	
+HEJCBNKI_00622	COG0306	[P] Phosphate/sulphate permeases    
+HEJCBNKI_00623	ROG6845	
+HEJCBNKI_00626	ROG1487	
+HEJCBNKI_00646	COG3456	[T] Uncharacterized conserved protein, contains FHA domain
+HEJCBNKI_00647	COG3523	[S] Uncharacterized protein conserved in bacteria 
+HEJCBNKI_00648	COG3455	[S] Uncharacterized protein conserved in bacteria 
+HEJCBNKI_00649	COG3522	[S] Uncharacterized protein conserved in bacteria 
+HEJCBNKI_00650	COG3521	[S] Uncharacterized protein conserved in bacteria 
+HEJCBNKI_00651	COG3516	[S] Uncharacterized protein conserved in bacteria 
+HEJCBNKI_00652	COG3517	[S] Uncharacterized protein conserved in bacteria 
+HEJCBNKI_00654	COG3519	[S] Uncharacterized protein conserved in bacteria 
+HEJCBNKI_00655	COG3520	[S] Uncharacterized protein conserved in bacteria 
+HEJCBNKI_00656	COG0582	[L] Integrase     
+HEJCBNKI_00660	ROG1067	
+HEJCBNKI_00661	COG4646	[KL] DNA methylase    
+HEJCBNKI_00662	COG0512	[EH] Anthranilate/para-aminobenzoate synthases component II  
+HEJCBNKI_00663	COG3400	[S] Uncharacterized protein conserved in bacteria 
+HEJCBNKI_00664	COG0028	[EH] Thiamine pyrophosphate-requiring enzymes [acetolactate synthase, pyruvate
+HEJCBNKI_00665	COG0440	[E] Acetolactate synthase, small (regulatory) subunit 
+HEJCBNKI_00667	COG0724	[R] RNA-binding proteins (RRM domain)  
+HEJCBNKI_00669	COG1200	[LK] RecG-like helicase    
+HEJCBNKI_00670	ROG2428	
+HEJCBNKI_00671	ROG2275	
+HEJCBNKI_00672	COG0112	[E] Glycine/serine hydroxymethyltransferase    
+HEJCBNKI_00673	COG1190	[J] Lysyl-tRNA synthetase (class II)  
+HEJCBNKI_00674	COG1286	[R] Uncharacterized membrane protein, required for colicin
+HEJCBNKI_00675	COG0181	[H] Porphobilinogen deaminase    
+HEJCBNKI_00676	COG0749	[L] DNA polymerase I - 3'-5' exonuclease
+HEJCBNKI_00678	COG2194	[R] Predicted membrane-associated, metal-dependent hydrolase  
+HEJCBNKI_00679	COG2220	[R] Predicted Zn-dependent hydrolases of the beta-lactamase
+HEJCBNKI_00681	ROG2283	
+HEJCBNKI_00682	COG0019	[E] Diaminopimelate decarboxylase    
+HEJCBNKI_00683	ROG0315	
+HEJCBNKI_00684	COG5633	[R] Predicted periplasmic lipoprotein   
+HEJCBNKI_00685	ROG8106	
+HEJCBNKI_00686	COG0790	[R] FOG: TPR repeat, SEL1 subfamily 
+HEJCBNKI_00688	COG2121	[S] Uncharacterized protein conserved in bacteria 
+HEJCBNKI_00689	COG0621	[J] 2-methylthioadenine synthetase    
+HEJCBNKI_00690	ROG0337	
+HEJCBNKI_00691	COG1479	[S] Uncharacterized conserved protein   
+HEJCBNKI_00696	COG2378	[K] Predicted transcriptional regulator   
+HEJCBNKI_00697	COG0846	[K] NAD-dependent protein deacetylases, SIR2 family 
+HEJCBNKI_00698	ROG2644	
+HEJCBNKI_00699	COG2425	[R] Uncharacterized protein containing a von Willebrand
+HEJCBNKI_00700	ROG5582	
+HEJCBNKI_00701	ROG1632	
+HEJCBNKI_00703	ROG7106	
+HEJCBNKI_00704	COG1479	[S] Uncharacterized conserved protein   
+HEJCBNKI_00705	COG1479	[S] Uncharacterized conserved protein   
+HEJCBNKI_00706	ROG1321	
+HEJCBNKI_00707	ROG1591	
+HEJCBNKI_00710	COG0464	[O] ATPases of the AAA+ class 
+HEJCBNKI_00711	COG2378	[K] Predicted transcriptional regulator   
+HEJCBNKI_00714	COG0471	[P] Di- and tricarboxylate transporters  
+HEJCBNKI_00715	ROG1743	
+HEJCBNKI_00716	ROG1845	
+HEJCBNKI_00717	COG0204	[I] 1-acyl-sn-glycerol-3-phosphate acyltransferase    
+HEJCBNKI_00718	COG0688	[I] Phosphatidylserine decarboxylase    
+HEJCBNKI_00719	COG0745	[TK] Response regulators consisting of a CheY-like
+HEJCBNKI_00720	ROG3270	
+HEJCBNKI_00721	COG5002	[T] Signal transduction histidine kinase  
+HEJCBNKI_00722	COG1684	[NU] Flagellar biosynthesis pathway, component FliR 
+HEJCBNKI_00723	COG1687	[E] Predicted branched-chain amino acid permeases (azaleucine
+HEJCBNKI_00724	COG0352	[H] Thiamine monophosphate synthase   
+HEJCBNKI_00725	COG2353	[S] Uncharacterized conserved protein   
+HEJCBNKI_00726	COG0534	[V] Na+-driven multidrug efflux pump  
+HEJCBNKI_00727	COG1183	[I] Phosphatidylserine synthase    
+HEJCBNKI_00728	COG0775	[F] Nucleoside phosphorylase    
+HEJCBNKI_00729	COG2326	[S] Uncharacterized conserved protein   
+HEJCBNKI_00730	COG1546	[R] Uncharacterized protein (competence- and mitomycin-induced) 
+HEJCBNKI_00731	COG0636	[C] F0F1-type ATP synthase, subunit c/Archaeal/vacuolar-type H+-ATPase,
+HEJCBNKI_00735	COG4887	[R] Uncharacterized metal-binding protein conserved in archaea
+HEJCBNKI_00736	COG0136	[E] Aspartate-semialdehyde dehydrogenase    
+HEJCBNKI_00737	ROG3145	
+HEJCBNKI_00738	ROG5059	
+HEJCBNKI_00739	ROG5059	
+HEJCBNKI_00740	ROG5059	
+HEJCBNKI_00741	COG0113	[H] Delta-aminolevulinic acid dehydratase   
+HEJCBNKI_00742	ROG1942	
+HEJCBNKI_00745	COG3200	[E] 3-deoxy-D-arabino-heptulosonate 7-phosphate (DAHP) synthase  
+HEJCBNKI_00747	COG0452	[H] Phosphopantothenoylcysteine synthetase/decarboxylase    
+HEJCBNKI_00748	COG0706	[U] Preprotein translocase subunit YidC  
+HEJCBNKI_00749	COG1887	[M] Putative glycosyl/glycerophosphate transferases involved in teichoic
+HEJCBNKI_00751	COG4172	[R] ABC-type uncharacterized transport system, duplicated ATPase
+HEJCBNKI_00752	COG1173	[EP] ABC-type dipeptide/oligopeptide/nickel transport systems, permease components
+HEJCBNKI_00753	COG0601	[EP] ABC-type dipeptide/oligopeptide/nickel transport systems, permease components
+HEJCBNKI_00754	COG0747	[E] ABC-type dipeptide transport system, periplasmic component
+HEJCBNKI_00756	COG3504	[U] Type IV secretory pathway, VirB9 components
+HEJCBNKI_00757	COG3451	[U] Type IV secretory pathway, VirB4 components
+HEJCBNKI_00760	ROG2130	
+HEJCBNKI_00762	COG3041	[S] Uncharacterized protein conserved in bacteria 
+HEJCBNKI_00763	ROG3135	
+HEJCBNKI_00764	COG0455	[D] ATPases involved in chromosome partitioning 
+HEJCBNKI_00765	ROG0563	
+HEJCBNKI_00772	ROG1271	
+HEJCBNKI_00775	COG0733	[R] Na+-dependent transporters of the SNF family
+HEJCBNKI_00776	COG1846	[K] Transcriptional regulators    
+HEJCBNKI_00777	COG2353	[S] Uncharacterized conserved protein   
+HEJCBNKI_00779	COG0324	[J] tRNA delta(2)-isopentenylpyrophosphate transferase   
+HEJCBNKI_00780	COG2849	[S] Uncharacterized protein conserved in bacteria 
+HEJCBNKI_00781	COG2849	[S] Uncharacterized protein conserved in bacteria 
+HEJCBNKI_00782	COG2849	[S] Uncharacterized protein conserved in bacteria 
+HEJCBNKI_00783	COG2849	[S] Uncharacterized protein conserved in bacteria 
+HEJCBNKI_00784	ROG4899	
+HEJCBNKI_00785	COG2963	[L] Transposase and inactivated derivatives  
+HEJCBNKI_00786	ROG4899	
+HEJCBNKI_00787	ROG2137	
+HEJCBNKI_00789	COG5410	[S] Uncharacterized protein conserved in bacteria 
+HEJCBNKI_00790	COG3926	[R] Putative secretion activating protein  
+HEJCBNKI_00791	ROG4899	
+HEJCBNKI_00794	COG2842	[R] Uncharacterized ATPase, putative transposase  
+HEJCBNKI_00797	ROG5180	
+HEJCBNKI_00802	ROG1045	
+HEJCBNKI_00805	ROG0086	
+HEJCBNKI_00808	COG0472	[M] UDP-N-acetylmuramyl pentapeptide phosphotransferase/UDP-N-acetylglucosamine-1-phosphate transferase  
+HEJCBNKI_00818	ROG0367	
+HEJCBNKI_00819	ROG5293	
+HEJCBNKI_00823	COG0358	[L] DNA primase (bacterial type)  
+HEJCBNKI_00824	COG0467	[T] RecA-superfamily ATPases implicated in signal transduction
+HEJCBNKI_00826	ROG2997	
+HEJCBNKI_00829	ROG5008	
+HEJCBNKI_00831	COG0582	[L] Integrase     
+HEJCBNKI_00836	COG2204	[T] Response regulator containing CheY-like receiver, AAA-type
+HEJCBNKI_00837	COG0668	[M] Small-conductance mechanosensitive channel   
+HEJCBNKI_00838	COG0337	[E] 3-dehydroquinate synthetase    
+HEJCBNKI_00839	COG0699	[R] Predicted GTPases (dynamin-related)   
+HEJCBNKI_00840	COG0656	[R] Aldo/keto reductases, related to diketogulonate reductase
+HEJCBNKI_00841	COG0686	[E] Alanine dehydrogenase    
+HEJCBNKI_00842	COG4121	[S] Uncharacterized conserved protein   
+HEJCBNKI_00844	COG0117	[H] Pyrimidine deaminase    
+HEJCBNKI_00845	COG0814	[E] Amino acid permeases   
+HEJCBNKI_00846	COG1012	[C] NAD-dependent aldehyde dehydrogenases   
+HEJCBNKI_00847	COG0160	[E] 4-aminobutyrate aminotransferase and related aminotransferases 
+HEJCBNKI_00849	COG1749	[N] Flagellar hook protein FlgE  
+HEJCBNKI_00851	ROG8486	
+HEJCBNKI_00852	ROG3569	
+HEJCBNKI_00853	COG4775	[M] Outer membrane protein/protective antigen OMA87 
+HEJCBNKI_00854	COG2217	[P] Cation transport ATPase   
+HEJCBNKI_00855	COG0228	[J] Ribosomal protein S16   
+HEJCBNKI_00856	COG1837	[R] Predicted RNA-binding protein (contains KH domain)
+HEJCBNKI_00857	COG0806	[J] RimM protein, required for 16S rRNA
+HEJCBNKI_00858	COG2849	[S] Uncharacterized protein conserved in bacteria 
+HEJCBNKI_00859	COG2849	[S] Uncharacterized protein conserved in bacteria 
+HEJCBNKI_00860	COG0107	[E] Imidazoleglycerol-phosphate synthase    
+HEJCBNKI_00861	COG0030	[J] Dimethyladenosine transferase (rRNA methylation)  
+HEJCBNKI_00862	COG0595	[R] Predicted hydrolase of the metallo-beta-lactamase superfamily
+HEJCBNKI_00863	ROG3774	
+HEJCBNKI_00864	COG1566	[V] Multidrug resistance efflux pump  
+HEJCBNKI_00865	ROG1150	
+HEJCBNKI_00866	COG0268	[J] Ribosomal protein S20   
+HEJCBNKI_00867	COG1109	[G] Phosphomannomutase     
+HEJCBNKI_00868	ROG2266	
+HEJCBNKI_00871	COG0480	[J] Translation elongation factors (GTPases)  
+HEJCBNKI_00872	COG0049	[J] Ribosomal protein S7   
+HEJCBNKI_00873	COG0048	[J] Ribosomal protein S12   
+HEJCBNKI_00874	COG0086	[K] DNA-directed RNA polymerase, beta' subunit/160 kD
+HEJCBNKI_00875	COG0222	[J] Ribosomal protein L7/L12   
+HEJCBNKI_00876	COG0244	[J] Ribosomal protein L10   
+HEJCBNKI_00877	COG0081	[J] Ribosomal protein L1   
+HEJCBNKI_00878	COG0080	[J] Ribosomal protein L11   
+HEJCBNKI_00879	COG0250	[K] Transcription antiterminator    
+HEJCBNKI_00881	COG0267	[J] Ribosomal protein L33   
+HEJCBNKI_00882	COG0050	[J] GTPases - translation elongation factors 
+HEJCBNKI_00887	COG0361	[J] Translation initiation factor 1 (IF-1) 
+HEJCBNKI_00888	COG0024	[J] Methionine aminopeptidase    
+HEJCBNKI_00889	COG0201	[U] Preprotein translocase subunit SecY  
+HEJCBNKI_00890	COG0200	[J] Ribosomal protein L15   
+HEJCBNKI_00891	COG0098	[J] Ribosomal protein S5   
+HEJCBNKI_00892	COG0256	[J] Ribosomal protein L18   
+HEJCBNKI_00893	COG0097	[J] Ribosomal protein L6P/L9E   
+HEJCBNKI_00894	COG0096	[J] Ribosomal protein S8   
+HEJCBNKI_00895	COG0199	[J] Ribosomal protein S14   
+HEJCBNKI_00896	COG0094	[J] Ribosomal protein L5   
+HEJCBNKI_00897	COG0198	[J] Ribosomal protein L24   
+HEJCBNKI_00898	COG0093	[J] Ribosomal protein L14   
+HEJCBNKI_00899	COG0186	[J] Ribosomal protein S17   
+HEJCBNKI_00900	COG0255	[J] Ribosomal protein L29   
+HEJCBNKI_00901	COG0197	[J] Ribosomal protein L16/L10E   
+HEJCBNKI_00902	COG0092	[J] Ribosomal protein S3   
+HEJCBNKI_00903	COG0091	[J] Ribosomal protein L22   
+HEJCBNKI_00904	COG0185	[J] Ribosomal protein S19   
+HEJCBNKI_00905	COG0090	[J] Ribosomal protein L2   
+HEJCBNKI_00906	COG0089	[J] Ribosomal protein L23   
+HEJCBNKI_00907	COG0088	[J] Ribosomal protein L4   
+HEJCBNKI_00908	COG0087	[J] Ribosomal protein L3   
+HEJCBNKI_00909	COG0051	[J] Ribosomal protein S10   
+HEJCBNKI_00910	COG1815	[N] Flagellar basal body protein  
+HEJCBNKI_00911	COG1558	[N] Flagellar basal body rod protein 
+HEJCBNKI_00912	COG1677	[NU] Flagellar hook-basal body protein  
+HEJCBNKI_00913	COG0768	[M] Cell division protein FtsI/penicillin-binding protein 2
+HEJCBNKI_00914	COG0318	[IQ] Acyl-CoA synthetases (AMP-forming)/AMP-acid ligases II 
+HEJCBNKI_00915	COG0463	[M] Glycosyltransferases involved in cell wall biogenesis
+HEJCBNKI_00916	COG0463	[M] Glycosyltransferases involved in cell wall biogenesis
+HEJCBNKI_00917	COG0463	[M] Glycosyltransferases involved in cell wall biogenesis
+HEJCBNKI_00918	COG0240	[C] Glycerol-3-phosphate dehydrogenase    
+HEJCBNKI_00919	ROG1660	
+HEJCBNKI_00920	COG0783	[P] DNA-binding ferritin-like protein (oxidative damage protectant)
+HEJCBNKI_00921	COG0743	[I] 1-deoxy-D-xylulose 5-phosphate reductoisomerase   
+HEJCBNKI_00922	COG4748	[S] Uncharacterized conserved protein   
+HEJCBNKI_00923	COG0372	[C] Citrate synthase    
+HEJCBNKI_00924	COG0102	[J] Ribosomal protein L13   
+HEJCBNKI_00925	COG0103	[J] Ribosomal protein S9   
+HEJCBNKI_00926	COG0694	[O] Thioredoxin-like proteins and domains  
+HEJCBNKI_00927	ROG1476	
+HEJCBNKI_00928	COG1827	[R] Predicted small molecule binding protein (contains
+HEJCBNKI_00929	COG0686	[E] Alanine dehydrogenase    
+HEJCBNKI_00930	COG2076	[P] Membrane transporters of cations and cationic
+HEJCBNKI_00931	COG1181	[M] D-alanine-D-alanine ligase and related ATP-grasp enzymes
+HEJCBNKI_00932	ROG3636	
+HEJCBNKI_00934	COG0143	[J] Methionyl-tRNA synthetase    
+HEJCBNKI_00935	COG0607	[P] Rhodanese-related sulfurtransferase    
+HEJCBNKI_00936	COG0793	[M] Periplasmic protease    
+HEJCBNKI_00937	COG0152	[F] Phosphoribosylaminoimidazolesuccinocarboxamide (SAICAR) synthase   
+HEJCBNKI_00938	ROG1759	
+HEJCBNKI_00941	ROG5073	
+HEJCBNKI_00942	COG0768	[M] Cell division protein FtsI/penicillin-binding protein 2
+HEJCBNKI_00943	ROG8486	
+HEJCBNKI_00944	COG0696	[G] Phosphoglyceromutase     
+HEJCBNKI_00945	COG2314	[S] Predicted membrane protein   
+HEJCBNKI_00946	ROG3915	
+HEJCBNKI_00948	COG0790	[R] FOG: TPR repeat, SEL1 subfamily 
+HEJCBNKI_00949	ROG5741	
+HEJCBNKI_00950	COG1086	[MG] Predicted nucleoside-diphosphate sugar epimerases  
+HEJCBNKI_00951	ROG2398	
+HEJCBNKI_00952	COG0795	[R] Predicted permeases    
+HEJCBNKI_00953	COG0101	[J] Pseudouridylate synthase    
+HEJCBNKI_00954	ROG2322	
+HEJCBNKI_00955	ROG1534	
+HEJCBNKI_00956	COG3018	[S] Uncharacterized protein conserved in bacteria 
+HEJCBNKI_00957	ROG7670	
+HEJCBNKI_00958	COG0118	[E] Glutamine amidotransferase    
+HEJCBNKI_00959	COG0617	[J] tRNA nucleotidyltransferase/poly(A) polymerase   
+HEJCBNKI_00960	COG3182	[S] Uncharacterized iron-regulated membrane protein  
+HEJCBNKI_00961	ROG1355	
+HEJCBNKI_00962	COG4866	[S] Uncharacterized conserved protein   
+HEJCBNKI_00963	COG0141	[E] Histidinol dehydrogenase    
+HEJCBNKI_00964	COG0367	[E] Asparagine synthase (glutamine-hydrolyzing)   
+HEJCBNKI_00965	COG0367	[E] Asparagine synthase (glutamine-hydrolyzing)   
+HEJCBNKI_00966	COG0786	[E] Na+/glutamate symporter    
+HEJCBNKI_00967	COG1420	[K] Transcriptional regulator of heat shock gene
+HEJCBNKI_00968	COG0576	[O] Molecular chaperone GrpE (heat shock protein)
+HEJCBNKI_00970	COG0443	[O] Molecular chaperone    
+HEJCBNKI_00974	COG1344	[N] Flagellin and related hook-associated proteins 
+HEJCBNKI_00975	COG0535	[R] Predicted Fe-S oxidoreductases   
+HEJCBNKI_00977	ROG8523	
+HEJCBNKI_00978	COG0807	[H] GTP cyclohydrolase II   
+HEJCBNKI_00979	COG2849	[S] Uncharacterized protein conserved in bacteria 
+HEJCBNKI_00980	COG0525	[J] Valyl-tRNA synthetase    
+HEJCBNKI_00981	ROG3677	
+HEJCBNKI_00982	ROG3044	
+HEJCBNKI_00983	ROG2793	
+HEJCBNKI_00984	ROG2106	
+HEJCBNKI_00985	ROG2106	
+HEJCBNKI_00986	COG2805	[NU] Tfp pilus assembly protein, pilus retraction
+HEJCBNKI_00989	COG0187	[L] Type IIA topoisomerase (DNA gyrase/topo II,
+HEJCBNKI_00990	COG0592	[L] DNA polymerase sliding clamp subunit (PCNA
+HEJCBNKI_00991	COG0593	[L] ATPase involved in DNA replication initiation
+HEJCBNKI_00993	COG0156	[H] 7-keto-8-aminopelargonate synthetase and related enzymes 
+HEJCBNKI_00994	COG0161	[H] Adenosylmethionine-8-amino-7-oxononanoate aminotransferase    
+HEJCBNKI_00995	ROG3078	
+HEJCBNKI_00996	COG2755	[E] Lysophospholipase L1 and related esterases 
+HEJCBNKI_00997	ROG3828	
+HEJCBNKI_00998	COG5085	[S] Predicted membrane protein   
+HEJCBNKI_01000	COG2192	[O] Predicted carbamoyl transferase, NodU family 
+HEJCBNKI_01001	COG2192	[O] Predicted carbamoyl transferase, NodU family 
+HEJCBNKI_01002	COG1132	[V] ABC-type multidrug transport system, ATPase and
+HEJCBNKI_01004	COG2849	[S] Uncharacterized protein conserved in bacteria 
+HEJCBNKI_01005	COG1295	[S] Predicted membrane protein   
+HEJCBNKI_01008	COG1421	[L] Uncharacterized protein predicted to be involved
+HEJCBNKI_01010	COG0230	[J] Ribosomal protein L34   
+HEJCBNKI_01011	COG0148	[G] Enolase     
+HEJCBNKI_01012	COG1121	[P] ABC-type Mn/Zn transport systems, ATPase component
+HEJCBNKI_01013	COG0579	[R] Predicted dehydrogenase    
+HEJCBNKI_01014	COG1897	[E] Homoserine trans-succinylase    
+HEJCBNKI_01015	COG2873	[E] O-acetylhomoserine sulfhydrylase    
+HEJCBNKI_01016	COG0825	[I] Acetyl-CoA carboxylase alpha subunit  
+HEJCBNKI_01017	COG0304	[IQ] 3-oxoacyl-(acyl-carrier-protein) synthase    
+HEJCBNKI_01018	COG0236	[IQ] Acyl carrier protein   
+HEJCBNKI_01019	COG1519	[M] 3-deoxy-D-manno-octulosonic-acid transferase    
+HEJCBNKI_01020	COG1579	[R] Zn-ribbon protein, possibly nucleic acid-binding 
+HEJCBNKI_01021	COG0327	[S] Uncharacterized conserved protein   
+HEJCBNKI_01022	ROG0756	
+HEJCBNKI_01023	COG0108	[H] 3,4-dihydroxy-2-butanone 4-phosphate synthase   
+HEJCBNKI_01026	COG0286	[V] Type I restriction-modification system methyltransferase subunit
+HEJCBNKI_01027	COG0547	[E] Anthranilate phosphoribosyltransferase    
+HEJCBNKI_01028	COG0217	[S] Uncharacterized conserved protein   
+HEJCBNKI_01029	COG0489	[D] ATPases involved in chromosome partitioning 
+HEJCBNKI_01030	COG0624	[E] Acetylornithine deacetylase/Succinyl-diaminopimelate desuccinylase and related deacylases
+HEJCBNKI_01031	COG1828	[F] Phosphoribosylformylglycinamidine (FGAM) synthase, PurS component 
+HEJCBNKI_01032	COG0047	[F] Phosphoribosylformylglycinamidine (FGAM) synthase, glutamine amidotransferase domain
+HEJCBNKI_01033	COG0790	[R] FOG: TPR repeat, SEL1 subfamily 
+HEJCBNKI_01034	COG2165	[NU] Type II secretory pathway, pseudopilin PulG
+HEJCBNKI_01035	COG0731	[C] Fe-S oxidoreductases    
+HEJCBNKI_01036	COG0150	[F] Phosphoribosylaminoimidazole (AIR) synthetase   
+HEJCBNKI_01037	ROG4792	
+HEJCBNKI_01038	COG0318	[IQ] Acyl-CoA synthetases (AMP-forming)/AMP-acid ligases II 
+HEJCBNKI_01039	COG3417	[R] Collagen-binding surface adhesin SpaP (antigen I/II
+HEJCBNKI_01040	COG0859	[M] ADP-heptose:LPS heptosyltransferase    
+HEJCBNKI_01041	COG0455	[D] ATPases involved in chromosome partitioning 
+HEJCBNKI_01042	ROG5582	
+HEJCBNKI_01043	ROG8270	
+HEJCBNKI_01044	COG2217	[P] Cation transport ATPase   
+HEJCBNKI_01046	COG0751	[J] Glycyl-tRNA synthetase, beta subunit  
+HEJCBNKI_01047	ROG2260	
+HEJCBNKI_01048	COG0319	[R] Predicted metal-dependent hydrolase   
+HEJCBNKI_01049	COG0812	[M] UDP-N-acetylmuramate dehydrogenase    
+HEJCBNKI_01050	COG1987	[NU] Flagellar biosynthesis pathway, component FliQ 
+HEJCBNKI_01056	COG0438	[M] Glycosyltransferase     
+HEJCBNKI_01057	ROG0035	
+HEJCBNKI_01058	ROG1127	
+HEJCBNKI_01059	COG1749	[N] Flagellar hook protein FlgE  
+HEJCBNKI_01063	ROG5745	
+HEJCBNKI_01067	COG0535	[R] Predicted Fe-S oxidoreductases   
+HEJCBNKI_01068	COG1368	[M] Phosphoglycerol transferase and related proteins, alkaline
+HEJCBNKI_01069	COG0355	[C] F0F1-type ATP synthase, epsilon subunit (mitochondrial
+HEJCBNKI_01070	COG0055	[C] F0F1-type ATP synthase, beta subunit 
+HEJCBNKI_01071	COG0224	[C] F0F1-type ATP synthase, gamma subunit 
+HEJCBNKI_01072	COG0056	[C] F0F1-type ATP synthase, alpha subunit 
+HEJCBNKI_01073	COG0712	[C] F0F1-type ATP synthase, delta subunit (mitochondrial
+HEJCBNKI_01074	COG0711	[C] F0F1-type ATP synthase, subunit b 
+HEJCBNKI_01075	COG0711	[C] F0F1-type ATP synthase, subunit b 
+HEJCBNKI_01076	COG0210	[L] Superfamily I DNA and RNA helicases
+HEJCBNKI_01079	COG1279	[R] Lysine efflux permease   
+HEJCBNKI_01085	COG1516	[NUO] Flagellin-specific chaperone FliS   
+HEJCBNKI_01086	COG1345	[N] Flagellar capping protein   
+HEJCBNKI_01087	COG0792	[L] Predicted endonuclease distantly related to archaeal
+HEJCBNKI_01088	ROG2104	
+HEJCBNKI_01089	COG0612	[R] Predicted Zn-dependent peptidases   
+HEJCBNKI_01090	COG0167	[F] Dihydroorotate dehydrogenase    
+HEJCBNKI_01091	COG0859	[M] ADP-heptose:LPS heptosyltransferase    
+HEJCBNKI_01093	COG2957	[E] Peptidylarginine deiminase and related enzymes 
+HEJCBNKI_01094	COG0533	[O] Metal-dependent proteases with possible chaperone activity
+HEJCBNKI_01095	COG0790	[R] FOG: TPR repeat, SEL1 subfamily 
+HEJCBNKI_01096	COG4786	[N] Flagellar basal body rod protein 
+HEJCBNKI_01097	COG1508	[K] DNA-directed RNA polymerase specialized sigma subunit,
+HEJCBNKI_01098	COG4795	[U] Type II secretory pathway, component PulJ
+HEJCBNKI_01099	COG0840	[NT] Methyl-accepting chemotaxis protein   
+HEJCBNKI_01102	COG1886	[NU] Flagellar motor switch/type III secretory pathway
+HEJCBNKI_01103	COG1868	[N] Flagellar motor switch protein  
+HEJCBNKI_01104	COG1191	[K] DNA-directed RNA polymerase specialized sigma subunit
+HEJCBNKI_01105	ROG3976	
+HEJCBNKI_01106	COG1296	[E] Predicted branched-chain amino acid permease (azaleucine
+HEJCBNKI_01107	COG1196	[D] Chromosome segregation ATPases   
+HEJCBNKI_01110	COG1004	[M] Predicted UDP-glucose 6-dehydrogenase   
+HEJCBNKI_01111	COG0500	[QR] SAM-dependent methyltransferases    
+HEJCBNKI_01112	COG4591	[M] ABC-type transport system, involved in lipoprotein
+HEJCBNKI_01115	COG1344	[N] Flagellin and related hook-associated proteins 
+HEJCBNKI_01116	COG0761	[IM] Penicillin tolerance protein   
+HEJCBNKI_01117	COG1002	[V] Type II restriction enzyme, methylase subunits
+HEJCBNKI_01119	COG3041	[S] Uncharacterized protein conserved in bacteria 
+HEJCBNKI_01121	COG0457	[R] FOG: TPR repeat   
+HEJCBNKI_01123	COG2076	[P] Membrane transporters of cations and cationic
+HEJCBNKI_01124	COG1858	[P] Cytochrome c peroxidase   
+HEJCBNKI_01125	COG1538	[MU] Outer membrane protein   
+HEJCBNKI_01126	COG1566	[V] Multidrug resistance efflux pump  
+HEJCBNKI_01127	COG1112	[L] Superfamily I DNA and RNA helicases
+HEJCBNKI_01130	COG1314	[U] Preprotein translocase subunit SecG  
+HEJCBNKI_01131	COG0233	[J] Ribosome recycling factor   
+HEJCBNKI_01132	COG0461	[F] Orotate phosphoribosyltransferase    
+HEJCBNKI_01133	COG0463	[M] Glycosyltransferases involved in cell wall biogenesis
+HEJCBNKI_01134	COG0463	[M] Glycosyltransferases involved in cell wall biogenesis
+HEJCBNKI_01135	COG0463	[M] Glycosyltransferases involved in cell wall biogenesis
+HEJCBNKI_01137	COG2267	[I] Lysophospholipase     
+HEJCBNKI_01138	COG0322	[L] Nuclease subunit of the excinuclease complex
+HEJCBNKI_01139	COG0842	[V] ABC-type multidrug transport system, permease component
+HEJCBNKI_01140	COG2836	[S] Uncharacterized conserved protein   
+HEJCBNKI_01141	COG0535	[R] Predicted Fe-S oxidoreductases   
+HEJCBNKI_01142	COG5039	[GM] Exopolysaccharide biosynthesis protein   
+HEJCBNKI_01144	COG4692	[G] Predicted neuraminidase (sialidase)   
+HEJCBNKI_01145	COG1027	[E] Aspartate ammonia-lyase    
+HEJCBNKI_01146	COG2704	[R] Anaerobic C4-dicarboxylate transporter   
+HEJCBNKI_01147	COG0632	[L] Holliday junction resolvasome, DNA-binding subunit 
+HEJCBNKI_01150	COG3338	[P] Carbonic anhydrase    
+HEJCBNKI_01151	COG3637	[M] Opacity protein and related surface antigens
+HEJCBNKI_01153	COG2046	[P] ATP sulfurylase (sulfate adenylyltransferase)  
+HEJCBNKI_01154	COG2204	[T] Response regulator containing CheY-like receiver, AAA-type
+HEJCBNKI_01155	COG0245	[I] 2C-methyl-D-erythritol 2,4-cyclodiphosphate synthase   
+HEJCBNKI_01156	COG0422	[H] Thiamine biosynthesis protein ThiC  
+HEJCBNKI_01157	COG2849	[S] Uncharacterized protein conserved in bacteria 
+HEJCBNKI_01160	COG0438	[M] Glycosyltransferase     
+HEJCBNKI_01161	COG0438	[M] Glycosyltransferase     
+HEJCBNKI_01162	COG0438	[M] Glycosyltransferase     
+HEJCBNKI_01163	COG1256	[N] Flagellar hook-associated protein   
+HEJCBNKI_01164	ROG3020	
+HEJCBNKI_01165	COG2747	[KNU] Negative regulator of flagellin synthesis (anti-sigma28
+HEJCBNKI_01166	COG0739	[M] Membrane proteins related to metalloendopeptidases 
+HEJCBNKI_01167	COG0494	[LR] NTP pyrophosphohydrolases including oxidative damage repair
+HEJCBNKI_01168	COG1699	[S] Uncharacterized protein conserved in bacteria 
+HEJCBNKI_01169	COG4105	[R] DNA uptake lipoprotein   
+HEJCBNKI_01170	COG0466	[O] ATP-dependent Lon protease, bacterial type 
+HEJCBNKI_01171	COG0815	[M] Apolipoprotein N-acyltransferase    
+HEJCBNKI_01172	COG1740	[C] Ni,Fe-hydrogenase I small subunit  
+HEJCBNKI_01173	COG0656	[R] Aldo/keto reductases, related to diketogulonate reductase
+HEJCBNKI_01174	COG0789	[K] Predicted transcriptional regulators   
+HEJCBNKI_01175	COG0599	[S] Uncharacterized homolog of gamma-carboxymuconolactone decarboxylase subunit
+HEJCBNKI_01176	COG1917	[S] Uncharacterized conserved protein, contains double-stranded beta-helix
+HEJCBNKI_01177	COG0656	[R] Aldo/keto reductases, related to diketogulonate reductase
+HEJCBNKI_01178	ROG1366	
+HEJCBNKI_01179	COG3202	[C] ATP/ADP translocase    
+HEJCBNKI_01180	COG0667	[C] Predicted oxidoreductases (related to aryl-alcohol dehydrogenases)
+HEJCBNKI_01181	COG3392	[L] Adenine-specific DNA methylase   
+HEJCBNKI_01183	COG0338	[L] Site-specific DNA methylase   
+HEJCBNKI_01184	COG3392	[L] Adenine-specific DNA methylase   
+HEJCBNKI_01185	COG0110	[R] Acetyltransferase (isoleucine patch superfamily)  
+HEJCBNKI_01186	ROG3863	
+HEJCBNKI_01187	COG2814	[G] Arabinose efflux permease   
+HEJCBNKI_01191	ROG0283	
+HEJCBNKI_01192	COG0286	[V] Type I restriction-modification system methyltransferase subunit
+HEJCBNKI_01193	COG2849	[S] Uncharacterized protein conserved in bacteria 
+HEJCBNKI_01194	COG1334	[N] Uncharacterized flagellar protein FlaG  
+HEJCBNKI_01195	COG0733	[R] Na+-dependent transporters of the SNF family
+HEJCBNKI_01196	COG0465	[O] ATP-dependent Zn proteases   
+HEJCBNKI_01197	ROG7662	
+HEJCBNKI_01198	COG0637	[R] Predicted phosphatase/phosphohexomutase    
+HEJCBNKI_01199	COG1212	[M] CMP-2-keto-3-deoxyoctulosonic acid synthetase   
+HEJCBNKI_01200	ROG0232	
+HEJCBNKI_01201	ROG3732	
+HEJCBNKI_01202	COG3298	[L] Predicted 3'-5' exonuclease related to the
+HEJCBNKI_01203	COG0820	[R] Predicted Fe-S-cluster redox enzyme  
+HEJCBNKI_01204	COG0770	[M] UDP-N-acetylmuramyl pentapeptide synthase   
+HEJCBNKI_01205	COG1254	[C] Acylphosphatases     
+HEJCBNKI_01206	COG0745	[TK] Response regulators consisting of a CheY-like
+HEJCBNKI_01207	COG2425	[R] Uncharacterized protein containing a von Willebrand
+HEJCBNKI_01208	ROG5582	
+HEJCBNKI_01210	COG0464	[O] ATPases of the AAA+ class 
+HEJCBNKI_01211	COG1385	[S] Uncharacterized protein conserved in bacteria 
+HEJCBNKI_01212	ROG1844	
+HEJCBNKI_01214	COG0057	[G] Glyceraldehyde-3-phosphate dehydrogenase/erythrose-4-phosphate dehydrogenase   
+HEJCBNKI_01215	COG0776	[L] Bacterial nucleoid DNA-binding protein  
+HEJCBNKI_01216	COG0126	[G] 3-phosphoglycerate kinase    
+HEJCBNKI_01217	COG0276	[H] Protoheme ferro-lyase (ferrochelatase)   
+HEJCBNKI_01218	COG2076	[P] Membrane transporters of cations and cationic
+HEJCBNKI_01219	COG2076	[P] Membrane transporters of cations and cationic
+HEJCBNKI_01221	ROG1369	
+HEJCBNKI_01222	COG0341	[U] Preprotein translocase subunit SecF  
+HEJCBNKI_01223	COG0342	[U] Preprotein translocase subunit SecD  
+HEJCBNKI_01224	COG1862	[U] Preprotein translocase subunit YajC  
+HEJCBNKI_01225	COG3004	[P] Na+/H+ antiporter    
+HEJCBNKI_01227	ROG4531	
+HEJCBNKI_01230	COG0840	[NT] Methyl-accepting chemotaxis protein   
+HEJCBNKI_01231	COG0414	[H] Panthothenate synthetase    
+HEJCBNKI_01233	COG0834	[ET] ABC-type amino acid transport/signal transduction systems,
+HEJCBNKI_01234	COG1432	[S] Uncharacterized conserved protein   
+HEJCBNKI_01235	COG2404	[R] Predicted phosphohydrolase (DHH superfamily)  
+HEJCBNKI_01236	COG1344	[N] Flagellin and related hook-associated proteins 
+HEJCBNKI_01237	COG1639	[T] Predicted signal transduction protein  
+HEJCBNKI_01238	COG0409	[O] Hydrogenase maturation factor   
+HEJCBNKI_01240	COG2804	[NU] Type II secretory pathway, ATPase PulE/Tfp
+HEJCBNKI_01241	COG1351	[F] Predicted alternative thymidylate synthase  
+HEJCBNKI_01243	COG0669	[H] Phosphopantetheine adenylyltransferase    
+HEJCBNKI_01244	COG0125	[F] Thymidylate kinase    
+HEJCBNKI_01245	COG1040	[R] Predicted amidophosphoribosyltransferases    
+HEJCBNKI_01246	COG1213	[M] Predicted sugar nucleotidyltransferases   
+HEJCBNKI_01247	COG0510	[M] Predicted choline kinase involved in LPS
+HEJCBNKI_01248	COG0697	[GER] Permeases of the drug/metabolite transporter (DMT)
+HEJCBNKI_01249	ROG2918	
+HEJCBNKI_01250	COG1261	[NO] Flagellar basal body P-ring biosynthesis protein
+HEJCBNKI_01251	COG2205	[T] Osmosensitive K+ channel histidine kinase 
+HEJCBNKI_01252	COG0745	[TK] Response regulators consisting of a CheY-like
+HEJCBNKI_01253	COG0115	[EH] Branched-chain amino acid aminotransferase/4-amino-4-deoxychorismate lyase 
+HEJCBNKI_01254	COG0330	[O] Membrane protease subunits, stomatin/prohibitin homologs 
+HEJCBNKI_01255	COG0139	[E] Phosphoribosyl-AMP cyclohydrolase    
+HEJCBNKI_01258	COG0528	[F] Uridylate kinase    
+HEJCBNKI_01259	COG0218	[R] Predicted GTPase    
+HEJCBNKI_01260	COG0495	[J] Leucyl-tRNA synthetase    
+HEJCBNKI_01261	ROG0644	
+HEJCBNKI_01262	COG1463	[Q] ABC-type transport system involved in resistance
+HEJCBNKI_01263	COG1127	[Q] ABC-type transport system involved in resistance
+HEJCBNKI_01264	COG0767	[Q] ABC-type transport system involved in resistance
+HEJCBNKI_01265	COG0818	[M] Diacylglycerol kinase    
+HEJCBNKI_01267	ROG7436	
+HEJCBNKI_01269	COG0239	[D] Integral membrane protein possibly involved in
+HEJCBNKI_01270	COG0656	[R] Aldo/keto reductases, related to diketogulonate reductase
+HEJCBNKI_01271	COG0656	[R] Aldo/keto reductases, related to diketogulonate reductase
+HEJCBNKI_01272	COG0486	[R] Predicted GTPase    
+HEJCBNKI_01273	ROG1848	
+HEJCBNKI_01274	COG0706	[U] Preprotein translocase subunit YidC  
+HEJCBNKI_01275	COG0765	[E] ABC-type amino acid transport system, permease
+HEJCBNKI_01276	ROG0246	
+HEJCBNKI_01277	COG0356	[C] F0F1-type ATP synthase, subunit a 
+HEJCBNKI_01280	ROG5857	
+HEJCBNKI_01282	COG1013	[C] Pyruvate:ferredoxin oxidoreductase and related 2-oxoacid:ferredoxin oxidoreductases,
+HEJCBNKI_01283	COG0674	[C] Pyruvate:ferredoxin oxidoreductase and related 2-oxoacid:ferredoxin oxidoreductases,
+HEJCBNKI_01284	COG1144	[C] Pyruvate:ferredoxin oxidoreductase and related 2-oxoacid:ferredoxin oxidoreductases,
+HEJCBNKI_01285	COG1014	[C] Pyruvate:ferredoxin oxidoreductase and related 2-oxoacid:ferredoxin oxidoreductases,
+HEJCBNKI_01286	COG0708	[L] Exonuclease III    
+HEJCBNKI_01287	ROG4811	
+HEJCBNKI_01288	COG0840	[NT] Methyl-accepting chemotaxis protein   
+HEJCBNKI_01289	COG0482	[J] Predicted tRNA(5-methylaminomethyl-2-thiouridylate) methyltransferase, contains the PP-loop
+HEJCBNKI_01290	ROG1392	
+HEJCBNKI_01291	COG0237	[H] Dephospho-CoA kinase    
+HEJCBNKI_01292	COG0855	[P] Polyphosphate kinase    
+HEJCBNKI_01293	COG0174	[E] Glutamine synthetase    
+HEJCBNKI_01294	COG0733	[R] Na+-dependent transporters of the SNF family
+HEJCBNKI_01295	COG0137	[E] Argininosuccinate synthase    
+HEJCBNKI_01296	COG4771	[P] Outer membrane receptor for ferrienterochelin and
+HEJCBNKI_01297	COG4771	[P] Outer membrane receptor for ferrienterochelin and
+HEJCBNKI_01298	COG4771	[P] Outer membrane receptor for ferrienterochelin and
+HEJCBNKI_01299	COG2833	[S] Uncharacterized protein conserved in bacteria 
+HEJCBNKI_01301	COG1108	[P] ABC-type Mn2+/Zn2+ transport systems, permease components
+HEJCBNKI_01302	ROG1590	
+HEJCBNKI_01303	COG1670	[J] Acetyltransferases, including N-acetylases of ribosomal proteins
+HEJCBNKI_01304	COG0318	[IQ] Acyl-CoA synthetases (AMP-forming)/AMP-acid ligases II 
+HEJCBNKI_01305	COG1028	[IQR] Dehydrogenases with different specificities (related to
+HEJCBNKI_01306	COG1028	[IQR] Dehydrogenases with different specificities (related to
+HEJCBNKI_01307	ROG6154	
+HEJCBNKI_01309	COG2356	[L] Endonuclease I    
+HEJCBNKI_01311	ROG2025	
+HEJCBNKI_01312	COG2879	[S] Uncharacterized small protein   
+HEJCBNKI_01313	COG0496	[R] Predicted acid phosphatase   
+HEJCBNKI_01314	COG0840	[NT] Methyl-accepting chemotaxis protein   
+HEJCBNKI_01315	COG3287	[S] Uncharacterized conserved protein   
+HEJCBNKI_01316	COG0697	[GER] Permeases of the drug/metabolite transporter (DMT)
+HEJCBNKI_01317	COG0402	[FR] Cytosine deaminase and related metal-dependent hydrolases
+HEJCBNKI_01318	COG2231	[L] Uncharacterized protein related to Endonuclease III
+HEJCBNKI_01319	ROG1853	
+HEJCBNKI_01320	ROG1853	
+HEJCBNKI_01325	ROG1365	
+HEJCBNKI_01326	COG0670	[R] Integral membrane protein, interacts with FtsH
+HEJCBNKI_01327	COG0758	[LU] Predicted Rossmann fold nucleotide-binding protein involved
+HEJCBNKI_01328	COG0286	[V] Type I restriction-modification system methyltransferase subunit
+HEJCBNKI_01330	COG3654	[R] Prophage maintenance system killer protein 
+HEJCBNKI_01331	COG0732	[V] Restriction endonuclease S subunits  
+HEJCBNKI_01333	COG0610	[V] Type I site-specific restriction-modification system, R
+HEJCBNKI_01334	COG0526	[OC] Thiol-disulfide isomerase and thioredoxins  
+HEJCBNKI_01335	COG0134	[E] Indole-3-glycerol phosphate synthase   
+HEJCBNKI_01336	COG0105	[F] Nucleoside diphosphate kinase   
+HEJCBNKI_01337	ROG1310	
+HEJCBNKI_01338	COG0333	[J] Ribosomal protein L32   
+HEJCBNKI_01339	COG0416	[I] Fatty acid/phospholipid biosynthesis enzyme  
+HEJCBNKI_01340	COG0332	[I] 3-oxoacyl-[acyl-carrier-protein] synthase III   
+HEJCBNKI_01341	COG0261	[J] Ribosomal protein L21   
+HEJCBNKI_01342	COG0211	[J] Ribosomal protein L27   
+HEJCBNKI_01344	ROG0109	
+HEJCBNKI_01345	COG0216	[J] Protein chain release factor A 
+HEJCBNKI_01346	ROG1853	
+HEJCBNKI_01347	ROG1853	
+HEJCBNKI_01348	COG0810	[M] Periplasmic protein TonB, links inner and
+HEJCBNKI_01349	COG0848	[U] Biopolymer transport protein   
+HEJCBNKI_01350	COG0811	[U] Biopolymer transport proteins   
+HEJCBNKI_01354	COG0560	[E] Phosphoserine phosphatase    
+HEJCBNKI_01355	COG0079	[E] Histidinol-phosphate/aromatic aminotransferase and cobyric acid decarboxylase
+HEJCBNKI_01356	ROG1853	
+HEJCBNKI_01357	COG0216	[J] Protein chain release factor A 
+HEJCBNKI_01358	COG2932	[K] Predicted transcriptional regulator   
+HEJCBNKI_01359	COG1212	[M] CMP-2-keto-3-deoxyoctulosonic acid synthetase   
+HEJCBNKI_01360	COG0539	[J] Ribosomal protein S1   
+HEJCBNKI_01361	ROG4735	
+HEJCBNKI_01362	COG0111	[HE] Phosphoglycerate dehydrogenase and related dehydrogenases 
+HEJCBNKI_01363	ROG5134	
+HEJCBNKI_01364	COG4086	[S] Predicted secreted protein   
+HEJCBNKI_01365	ROG1632	
+HEJCBNKI_01366	COG0277	[C] FAD/FMN-containing dehydrogenases    
+HEJCBNKI_01367	COG2256	[L] ATPase related to the helicase subunit
+HEJCBNKI_01368	COG0451	[MG] Nucleoside-diphosphate-sugar epimerases    
+HEJCBNKI_01369	COG0838	[C] NADH:ubiquinone oxidoreductase subunit 3 (chain A)
+HEJCBNKI_01370	COG0377	[C] NADH:ubiquinone oxidoreductase 20 kD subunit and
+HEJCBNKI_01371	COG1713	[H] Predicted HD superfamily hydrolase involved in
+HEJCBNKI_01372	COG0852	[C] NADH:ubiquinone oxidoreductase 27 kD subunit 
+HEJCBNKI_01373	COG0649	[C] NADH:ubiquinone oxidoreductase 49 kD subunit 7
+HEJCBNKI_01374	ROG1700	
+HEJCBNKI_01375	COG0493	[ER] NADPH-dependent glutamate synthase beta chain and
+HEJCBNKI_01376	COG1034	[C] NADH dehydrogenase/NADH:ubiquinone oxidoreductase 75 kD subunit
+HEJCBNKI_01377	COG1034	[C] NADH dehydrogenase/NADH:ubiquinone oxidoreductase 75 kD subunit
+HEJCBNKI_01378	COG1005	[C] NADH:ubiquinone oxidoreductase subunit 1 (chain H)
+HEJCBNKI_01379	COG1143	[C] Formate hydrogenlyase subunit 6/NADH:ubiquinone oxidoreductase 23
+HEJCBNKI_01380	COG0839	[C] NADH:ubiquinone oxidoreductase subunit 6 (chain J)
+HEJCBNKI_01381	COG0713	[C] NADH:ubiquinone oxidoreductase subunit 11 or 4L
+HEJCBNKI_01382	COG1009	[CP] NADH:ubiquinone oxidoreductase subunit 5 (chain L)/Multisubunit
+HEJCBNKI_01383	COG1008	[C] NADH:ubiquinone oxidoreductase subunit 4 (chain M)
+HEJCBNKI_01384	COG1007	[C] NADH:ubiquinone oxidoreductase subunit 2 (chain N)
+HEJCBNKI_01385	COG2829	[M] Outer membrane phospholipase A  
+HEJCBNKI_01386	COG1450	[NU] Type II secretory pathway, component PulD
+HEJCBNKI_01387	COG0264	[J] Translation elongation factor Ts  
+HEJCBNKI_01388	COG0052	[J] Ribosomal protein S2   
+HEJCBNKI_01389	COG0176	[G] Transaldolase     
+HEJCBNKI_01390	COG0399	[M] Predicted pyridoxal phosphate-dependent enzyme apparently involved
+HEJCBNKI_01391	ROG1407	
+HEJCBNKI_01392	COG0500	[QR] SAM-dependent methyltransferases    
+HEJCBNKI_01393	COG2849	[S] Uncharacterized protein conserved in bacteria 
+HEJCBNKI_01395	COG0682	[M] Prolipoprotein diacylglyceryltransferase    
+HEJCBNKI_01397	COG1057	[H] Nicotinic acid mononucleotide adenylyltransferase  
+HEJCBNKI_01398	COG0799	[S] Uncharacterized homolog of plant Iojap protein
+HEJCBNKI_01400	COG1293	[K] Predicted RNA-binding protein homologous to eukaryotic
+HEJCBNKI_01401	COG0405	[E] Gamma-glutamyltransferase     
+HEJCBNKI_01402	COG3637	[M] Opacity protein and related surface antigens
+HEJCBNKI_01403	COG1377	[NU] Flagellar biosynthesis pathway, component FlhB 
+HEJCBNKI_01404	COG1950	[S] Predicted membrane protein   
+HEJCBNKI_01407	ROG1148	
+HEJCBNKI_01408	ROG2789	
+HEJCBNKI_01409	COG3291	[R] FOG: PKD repeat   
+HEJCBNKI_01410	COG0586	[S] Uncharacterized membrane-associated protein   
+HEJCBNKI_01411	COG0195	[K] Transcription elongation factor   
+HEJCBNKI_01412	COG0488	[R] ATPase components of ABC transporters with
+HEJCBNKI_01413	COG0465	[O] ATP-dependent Zn proteases   
+HEJCBNKI_01414	COG2264	[J] Ribosomal protein L11 methylase  
+HEJCBNKI_01415	COG1060	[HR] Thiamine biosynthesis enzyme ThiH and related
+HEJCBNKI_01416	COG2849	[S] Uncharacterized protein conserved in bacteria 
+HEJCBNKI_01417	COG2890	[J] Methylase of polypeptide chain release factors
+HEJCBNKI_01418	COG0192	[H] S-adenosylmethionine synthetase    
+HEJCBNKI_01419	COG0582	[L] Integrase     
+HEJCBNKI_01420	COG0790	[R] FOG: TPR repeat, SEL1 subfamily 
+HEJCBNKI_01421	COG0040	[E] ATP phosphoribosyltransferase    
+HEJCBNKI_01422	COG1521	[K] Putative transcriptional regulator, homolog of Bvg
+HEJCBNKI_01423	ROG1381	
+HEJCBNKI_01424	ROG1610	
+HEJCBNKI_01425	COG0611	[H] Thiamine monophosphate kinase   
+HEJCBNKI_01426	ROG1628	
+HEJCBNKI_01427	COG2829	[M] Outer membrane phospholipase A  
+HEJCBNKI_01428	COG0378	[OK] Ni2+-binding GTPase involved in regulation of
+HEJCBNKI_01430	COG1042	[C] Acyl-CoA synthetase (NDP forming)  
+HEJCBNKI_01431	COG0313	[R] Predicted methyltransferases    
+HEJCBNKI_01433	COG1044	[M] UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase   
+HEJCBNKI_01434	ROG4214	
+HEJCBNKI_01436	ROG4872	
+HEJCBNKI_01439	COG0537	[FGR] Diadenosine tetraphosphate (Ap4A) hydrolase and other
+HEJCBNKI_01440	COG0016	[J] Phenylalanyl-tRNA synthetase alpha subunit  
+HEJCBNKI_01441	COG0072	[J] Phenylalanyl-tRNA synthetase beta subunit  
+HEJCBNKI_01442	ROG2132	
+HEJCBNKI_01443	COG0343	[J] Queuine/archaeosine tRNA-ribosyltransferase    
+HEJCBNKI_01444	COG0656	[R] Aldo/keto reductases, related to diketogulonate reductase
+HEJCBNKI_01448	COG0585	[S] Uncharacterized conserved protein   
+HEJCBNKI_01449	COG1322	[S] Uncharacterized protein conserved in bacteria 
+HEJCBNKI_01450	ROG1977	
+HEJCBNKI_01451	COG0078	[E] Ornithine carbamoyltransferase    
+HEJCBNKI_01452	COG1109	[G] Phosphomannomutase     
+HEJCBNKI_01453	COG0077	[E] Prephenate dehydratase    
+HEJCBNKI_01454	COG0510	[M] Predicted choline kinase involved in LPS
+HEJCBNKI_01455	COG0451	[MG] Nucleoside-diphosphate-sugar epimerases    
+HEJCBNKI_01456	COG0451	[MG] Nucleoside-diphosphate-sugar epimerases    
+HEJCBNKI_01457	COG5663	[S] Uncharacterized conserved protein   
+HEJCBNKI_01458	COG0279	[G] Phosphoheptose isomerase    
+HEJCBNKI_01461	COG4646	[KL] DNA methylase    
+HEJCBNKI_01462	COG0863	[L] DNA modification methylase   
+HEJCBNKI_01463	COG0863	[L] DNA modification methylase   
+HEJCBNKI_01464	ROG1575	
+HEJCBNKI_01466	COG0863	[L] DNA modification methylase   
+HEJCBNKI_01467	ROG0839	
+HEJCBNKI_01468	ROG0229	
+HEJCBNKI_01469	ROG2546	
+HEJCBNKI_01472	COG0164	[L] Ribonuclease HII    
+HEJCBNKI_01473	COG0370	[P] Fe2+ transport system protein B 
+HEJCBNKI_01474	COG3136	[R] Uncharacterized membrane protein required for alginate
+HEJCBNKI_01475	COG0299	[F] Folate-dependent phosphoribosylglycinamide formyltransferase PurN  
+HEJCBNKI_01476	ROG6511	
+HEJCBNKI_01477	COG2217	[P] Cation transport ATPase   
+HEJCBNKI_01478	ROG2106	
+HEJCBNKI_01479	ROG2789	
+HEJCBNKI_01485	COG1981	[S] Predicted membrane protein   
+HEJCBNKI_01488	COG0699	[R] Predicted GTPases (dynamin-related)   
+HEJCBNKI_01489	COG0500	[QR] SAM-dependent methyltransferases    
+HEJCBNKI_01490	COG0575	[I] CDP-diglyceride synthetase    
+HEJCBNKI_01491	COG0445	[D] NAD/FAD-utilizing enzyme apparently involved in cell
+HEJCBNKI_01493	COG1002	[V] Type II restriction enzyme, methylase subunits
+HEJCBNKI_01495	ROG2295	
+HEJCBNKI_01496	COG1555	[L] DNA uptake protein and related DNA-binding
+HEJCBNKI_01497	COG0163	[H] 3-polyprenyl-4-hydroxybenzoate decarboxylase    
+HEJCBNKI_01498	COG0832	[E] Urea amidohydrolase (urease) beta subunit 
+HEJCBNKI_01499	COG0804	[E] Urea amidohydrolase (urease) alpha subunit 
+HEJCBNKI_01500	ROG1393	
+HEJCBNKI_01501	COG2371	[O] Urease accessory protein UreE  
+HEJCBNKI_01502	COG0830	[O] Urease accessory protein UreF  
+HEJCBNKI_01503	COG0378	[OK] Ni2+-binding GTPase involved in regulation of
+HEJCBNKI_01504	COG0829	[O] Urease accessory protein UreH  
+HEJCBNKI_01505	COG0173	[J] Aspartyl-tRNA synthetase    
+HEJCBNKI_01506	COG0563	[F] Adenylate kinase and related kinases 
+HEJCBNKI_01507	COG1194	[L] A/G-specific DNA glycosylase   
+HEJCBNKI_01508	COG0054	[H] Riboflavin synthase beta-chain   
+HEJCBNKI_01509	COG0781	[K] Transcription termination factor   
+HEJCBNKI_01510	COG0284	[F] Orotidine-5'-phosphate decarboxylase    
+HEJCBNKI_01512	COG1066	[O] Predicted ATP-dependent serine protease  
+HEJCBNKI_01513	COG3893	[L] Inactivated superfamily I helicase  
+HEJCBNKI_01514	ROG0315	
+HEJCBNKI_01516	COG0791	[M] Cell wall-associated hydrolases (invasion-associated proteins) 
+HEJCBNKI_01517	COG1393	[P] Arsenate reductase and related proteins, glutaredoxin
+HEJCBNKI_01518	COG1966	[T] Carbon starvation protein, predicted membrane protein
+HEJCBNKI_01519	COG1966	[T] Carbon starvation protein, predicted membrane protein
+HEJCBNKI_01521	COG0438	[M] Glycosyltransferase     
+HEJCBNKI_01522	COG0463	[M] Glycosyltransferases involved in cell wall biogenesis
+HEJCBNKI_01523	COG1171	[E] Threonine dehydratase    
+HEJCBNKI_01524	COG3291	[R] FOG: PKD repeat   
+HEJCBNKI_01525	COG0405	[E] Gamma-glutamyltransferase     
+HEJCBNKI_01527	COG2849	[S] Uncharacterized protein conserved in bacteria 
+HEJCBNKI_01528	COG2849	[S] Uncharacterized protein conserved in bacteria 
+HEJCBNKI_01529	COG4186	[R] Predicted phosphoesterase or phosphohydrolase  
+HEJCBNKI_01530	COG2829	[M] Outer membrane phospholipase A  
+HEJCBNKI_01532	COG1160	[R] Predicted GTPases    
+HEJCBNKI_01533	COG0840	[NT] Methyl-accepting chemotaxis protein   
+HEJCBNKI_01535	COG0498	[E] Threonine synthase    
+HEJCBNKI_01536	COG4181	[Q] Predicted ABC-type transport system involved in
+HEJCBNKI_01539	COG2081	[R] Predicted flavoproteins    
+HEJCBNKI_01540	COG3197	[P] Uncharacterized protein, possibly involved in nitrogen
+HEJCBNKI_01541	COG4940	[U] Competence protein ComGF   
+HEJCBNKI_01542	COG1699	[S] Uncharacterized protein conserved in bacteria 
+HEJCBNKI_01543	COG0811	[U] Biopolymer transport proteins   
+HEJCBNKI_01544	COG0848	[U] Biopolymer transport protein   
+HEJCBNKI_01545	ROG2987	
+HEJCBNKI_01546	COG1610	[S] Uncharacterized conserved protein   
+HEJCBNKI_01547	COG2063	[N] Flagellar basal body L-ring protein 
+HEJCBNKI_01548	COG0481	[M] Membrane GTPase LepA   
+HEJCBNKI_01549	COG1984	[E] Allophanate hydrolase subunit 2  
+HEJCBNKI_01550	COG2049	[E] Allophanate hydrolase subunit 1  
+HEJCBNKI_01551	COG0439	[I] Biotin carboxylase    
+HEJCBNKI_01552	COG0511	[I] Biotin carboxyl carrier protein  
+HEJCBNKI_01553	COG1540	[R] Uncharacterized proteins, homologs of lactam utilization
+HEJCBNKI_01554	COG4555	[CP] ABC-type Na+ transport system, ATPase component
+HEJCBNKI_01555	ROG2141	
+HEJCBNKI_01556	COG0147	[EH] Anthranilate/para-aminobenzoate synthases component I  
+HEJCBNKI_01557	COG4639	[R] Predicted kinase    
+HEJCBNKI_01558	COG1427	[R] Predicted periplasmic solute-binding protein  
+HEJCBNKI_01560	COG0790	[R] FOG: TPR repeat, SEL1 subfamily 
+HEJCBNKI_01561	COG0790	[R] FOG: TPR repeat, SEL1 subfamily 
+HEJCBNKI_01562	COG0196	[H] FAD synthase    
+HEJCBNKI_01563	COG1189	[J] Predicted rRNA methylase   
+HEJCBNKI_01564	ROG2373	
+HEJCBNKI_01566	ROG2199	
+HEJCBNKI_01567	COG0760	[O] Parvulin-like peptidyl-prolyl isomerase   
+HEJCBNKI_01568	COG0691	[O] tmRNA-binding protein    
+HEJCBNKI_01569	COG0811	[U] Biopolymer transport proteins   
+HEJCBNKI_01570	COG0848	[U] Biopolymer transport protein   
+HEJCBNKI_01571	ROG5282	
+HEJCBNKI_01572	COG0272	[L] NAD-dependent DNA ligase (contains BRCT domain
+HEJCBNKI_01573	COG0241	[E] Histidinol phosphatase and related phosphatases 
+HEJCBNKI_01574	ROG1509	
+HEJCBNKI_01577	COG0552	[U] Signal recognition particle GTPase  
+HEJCBNKI_01578	COG1100	[R] GTPase SAR1 and related small G
+HEJCBNKI_01579	ROG1433	
+HEJCBNKI_01580	COG1854	[T] LuxS protein involved in autoinducer AI2
+HEJCBNKI_01581	COG0780	[R] Enzyme related to GTP cyclohydrolase I
+HEJCBNKI_01582	COG0037	[D] Predicted ATPase of the PP-loop superfamily
+HEJCBNKI_01583	COG0138	[F] AICAR transformylase/IMP cyclohydrolase PurH (only IMP
+HEJCBNKI_01584	COG0841	[V] Cation/multidrug efflux pump   
+HEJCBNKI_01585	COG0845	[M] Membrane-fusion protein    
+HEJCBNKI_01586	COG2849	[S] Uncharacterized protein conserved in bacteria 
+HEJCBNKI_01587	COG2849	[S] Uncharacterized protein conserved in bacteria 
+HEJCBNKI_01588	COG1528	[P] Ferritin-like protein    
+HEJCBNKI_01592	ROG2884	
+HEJCBNKI_01593	COG4245	[R] Uncharacterized protein encoded in toxicity protection
+HEJCBNKI_01594	COG4248	[R] Uncharacterized protein with protein kinase and
+HEJCBNKI_01595	COG0488	[R] ATPase components of ABC transporters with
+HEJCBNKI_01596	COG0348	[C] Polyferredoxin     
+HEJCBNKI_01597	COG0699	[R] Predicted GTPases (dynamin-related)   
+HEJCBNKI_01598	ROG3130	
+HEJCBNKI_01599	COG1139	[C] Uncharacterized conserved protein containing a ferredoxin-like
+HEJCBNKI_01600	COG1556	[S] Uncharacterized conserved protein   
+HEJCBNKI_01601	COG0166	[G] Glucose-6-phosphate isomerase    
+HEJCBNKI_01602	COG2849	[S] Uncharacterized protein conserved in bacteria 
+HEJCBNKI_01605	COG0463	[M] Glycosyltransferases involved in cell wall biogenesis
+HEJCBNKI_01606	COG0472	[M] UDP-N-acetylmuramyl pentapeptide phosphotransferase/UDP-N-acetylglucosamine-1-phosphate transferase  
+HEJCBNKI_01607	ROG1694	
+HEJCBNKI_01608	COG0745	[TK] Response regulators consisting of a CheY-like
+HEJCBNKI_01610	COG0692	[L] Uracil DNA glycosylase   
+HEJCBNKI_01612	COG0326	[O] Molecular chaperone, HSP90 family  
+HEJCBNKI_01613	COG0586	[S] Uncharacterized membrane-associated protein   
+HEJCBNKI_01614	COG0288	[P] Carbonic anhydrase    
+HEJCBNKI_01615	COG0008	[J] Glutamyl- and glutaminyl-tRNA synthetases  
+HEJCBNKI_01616	COG0535	[R] Predicted Fe-S oxidoreductases   
+HEJCBNKI_01617	COG1674	[D] DNA segregation ATPase FtsK/SpoIIIE and related
+HEJCBNKI_01619	COG0827	[L] Adenine-specific DNA methylase   
+HEJCBNKI_01620	COG0419	[L] ATPase involved in DNA repair 
+HEJCBNKI_01621	COG3969	[R] Predicted phosphoadenosine phosphosulfate sulfotransferase  
+HEJCBNKI_01623	COG1898	[M] dTDP-4-dehydrorhamnose 3,5-epimerase and related enzymes 
+HEJCBNKI_01624	COG0399	[M] Predicted pyridoxal phosphate-dependent enzyme apparently involved
+HEJCBNKI_01625	COG0451	[MG] Nucleoside-diphosphate-sugar epimerases    
+HEJCBNKI_01626	COG3696	[P] Putative silver efflux pump  
+HEJCBNKI_01627	COG0508	[C] Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide acyltransferase (E2)
+HEJCBNKI_01628	ROG5590	
+HEJCBNKI_01629	COG1459	[NU] Type II secretory pathway, component PulF
+HEJCBNKI_01631	COG1166	[E] Arginine decarboxylase (spermidine biosynthesis)  
+HEJCBNKI_01632	ROG1603	
+HEJCBNKI_01633	COG1154	[HI] Deoxyxylulose-5-phosphate synthase    
+HEJCBNKI_01634	COG0587	[L] DNA polymerase III, alpha subunit 
+HEJCBNKI_01636	COG0854	[H] Pyridoxal phosphate biosynthesis protein  
+HEJCBNKI_01637	COG1352	[NT] Methylase of chemotaxis methyl-accepting proteins 
+HEJCBNKI_01638	COG2201	[NT] Chemotaxis response regulator containing a CheY-like
+HEJCBNKI_01641	COG0542	[O] ATPases with chaperone activity, ATP-binding subunit
+HEJCBNKI_01643	COG2604	[S] Uncharacterized protein conserved in bacteria 
+HEJCBNKI_01644	COG1207	[M] N-acetylglucosamine-1-phosphate uridyltransferase (contains nucleotidyltransferase and I-patch
+HEJCBNKI_01645	COG2849	[S] Uncharacterized protein conserved in bacteria 
+HEJCBNKI_01646	COG2849	[S] Uncharacterized protein conserved in bacteria 
+HEJCBNKI_01647	COG0442	[J] Prolyl-tRNA synthetase    
+HEJCBNKI_01648	COG0178	[L] Excinuclease ATPase subunit   
+HEJCBNKI_01649	COG0306	[P] Phosphate/sulphate permeases    
+HEJCBNKI_01650	COG0840	[NT] Methyl-accepting chemotaxis protein   
+HEJCBNKI_01652	COG0794	[M] Predicted sugar phosphate isomerase involved in
+HEJCBNKI_01653	COG0335	[J] Ribosomal protein L19   
+HEJCBNKI_01654	COG0336	[J] tRNA-(guanine-N1)-methyltransferase     
+HEJCBNKI_01656	COG0581	[P] ABC-type phosphate transport system, permease component
+HEJCBNKI_01657	COG1117	[P] ABC-type phosphate transport system, ATPase component
+HEJCBNKI_01658	COG1741	[R] Pirin-related protein    
+HEJCBNKI_01659	COG1418	[R] Predicted HD superfamily hydrolase  
+HEJCBNKI_01660	COG0212	[H] 5-formyltetrahydrofolate cyclo-ligase    
+HEJCBNKI_01661	COG0328	[L] Ribonuclease HI    
+HEJCBNKI_01662	COG2255	[L] Holliday junction resolvasome, helicase subunit 
+HEJCBNKI_01663	COG1387	[ER] Histidinol phosphatase and related hydrolases of
+HEJCBNKI_01664	COG2246	[S] Predicted membrane protein   
+HEJCBNKI_01665	COG0790	[R] FOG: TPR repeat, SEL1 subfamily 
+HEJCBNKI_01667	COG0699	[R] Predicted GTPases (dynamin-related)   
+HEJCBNKI_01668	COG0778	[C] Nitroreductase     
+HEJCBNKI_01669	COG1217	[T] Predicted membrane GTPase involved in stress
+HEJCBNKI_01670	COG0653	[U] Preprotein translocase subunit SecA (ATPase, RNA
+HEJCBNKI_01671	ROG0188	
+HEJCBNKI_01672	COG2214	[O] DnaJ-class molecular chaperone   
+HEJCBNKI_01675	COG0252	[EJ] L-asparaginase/archaeal Glu-tRNAGln amidotransferase subunit D 
+HEJCBNKI_01677	COG0835	[NT] Chemotaxis signal transduction protein  
+HEJCBNKI_01678	COG0643	[NT] Chemotaxis protein histidine kinase and related
+HEJCBNKI_01679	COG0835	[NT] Chemotaxis signal transduction protein  
+HEJCBNKI_01680	COG2908	[S] Uncharacterized protein conserved in bacteria 
+HEJCBNKI_01681	COG2104	[H] Sulfur transfer protein involved in thiamine
+HEJCBNKI_01683	COG1403	[V] Restriction endonuclease    
+HEJCBNKI_01684	COG0863	[L] DNA modification methylase   
+HEJCBNKI_01686	COG0031	[E] Cysteine synthase    
+HEJCBNKI_01687	ROG1759	
+HEJCBNKI_01692	COG1706	[N] Flagellar basal-body P-ring protein  
+HEJCBNKI_01693	COG0013	[J] Alanyl-tRNA synthetase    
+HEJCBNKI_01694	COG0286	[V] Type I restriction-modification system methyltransferase subunit
+HEJCBNKI_01696	COG0863	[L] DNA modification methylase   
+HEJCBNKI_01697	COG0697	[GER] Permeases of the drug/metabolite transporter (DMT)
+HEJCBNKI_01698	COG0605	[P] Superoxide dismutase    
+HEJCBNKI_01699	COG1004	[M] Predicted UDP-glucose 6-dehydrogenase   
+HEJCBNKI_01700	COG1875	[T] Predicted ATPase related to phosphate starvation-inducible
+HEJCBNKI_01701	COG3980	[M] Spore coat polysaccharide biosynthesis protein, predicted
+HEJCBNKI_01702	COG1083	[M] CMP-N-acetylneuraminic acid synthetase   
+HEJCBNKI_01703	COG2245	[S] Predicted membrane protein   
+HEJCBNKI_01704	COG1055	[P] Na+/H+ antiporter NhaD and related arsenite
+HEJCBNKI_01706	COG0449	[M] Glucosamine 6-phosphate synthetase, contains amidotransferase and
+HEJCBNKI_01707	COG0859	[M] ADP-heptose:LPS heptosyltransferase    
+HEJCBNKI_01709	COG2141	[C] Coenzyme F420-dependent N5,N10-methylene tetrahydromethanopterin reductase and
+HEJCBNKI_01710	COG0477	[GEPR] Permeases of the major facilitator superfamily
+HEJCBNKI_01711	ROG3329	
+HEJCBNKI_01712	COG2141	[C] Coenzyme F420-dependent N5,N10-methylene tetrahydromethanopterin reductase and
+HEJCBNKI_01713	COG0736	[I] Phosphopantetheinyl transferase (holo-ACP synthase)  
+HEJCBNKI_01714	COG1580	[N] Flagellar basal body-associated protein  
+HEJCBNKI_01715	COG1580	[N] Flagellar basal body-associated protein  
+HEJCBNKI_01716	COG0742	[L] N6-adenine-specific methylase    
+HEJCBNKI_01719	COG0826	[O] Collagenase and related proteases  
+HEJCBNKI_01720	COG0350	[L] Methylated DNA-protein cysteine methyltransferase  
+HEJCBNKI_01721	COG0796	[M] Glutamate racemase    
+HEJCBNKI_01722	COG4123	[R] Predicted O-methyltransferase    
+HEJCBNKI_01723	COG0193	[J] Peptidyl-tRNA hydrolase    
+HEJCBNKI_01724	COG2095	[U] Multiple antibiotic transporter   
+HEJCBNKI_01725	COG0413	[H] Ketopantoate hydroxymethyltransferase    
+HEJCBNKI_01726	COG0532	[J] Translation initiation factor 2 (IF-2; GTPase)
+HEJCBNKI_01727	COG2740	[K] Predicted nucleic-acid-binding protein implicated in transcription
+HEJCBNKI_01728	COG0083	[E] Homoserine kinase    
+HEJCBNKI_01731	COG0068	[O] Hydrogenase maturation factor   
+HEJCBNKI_01732	COG0142	[H] Geranylgeranyl pyrophosphate synthase   
+HEJCBNKI_01733	COG0373	[H] Glutamyl-tRNA reductase    
+HEJCBNKI_01734	ROG2801	
+HEJCBNKI_01735	COG0188	[L] Type IIA topoisomerase (DNA gyrase/topo II,
+HEJCBNKI_01736	COG1220	[O] ATP-dependent protease HslVU (ClpYQ), ATPase subunit
+HEJCBNKI_01737	COG5405	[O] ATP-dependent protease HslVU (ClpYQ), peptidase subunit
+HEJCBNKI_01738	COG0782	[K] Transcription elongation factor   
+HEJCBNKI_01739	COG0596	[R] Predicted hydrolases or acyltransferases (alpha/beta hydrolase
+HEJCBNKI_01740	COG0635	[H] Coproporphyrinogen III oxidase and related Fe-S
+HEJCBNKI_01741	COG0717	[F] Deoxycytidine deaminase    
+HEJCBNKI_01743	COG1104	[E] Cysteine sulfinate desulfinase/cysteine desulfurase and related
+HEJCBNKI_01744	COG0270	[L] Site-specific DNA methylase   
+HEJCBNKI_01745	ROG2406	
+HEJCBNKI_01748	COG0694	[O] Thioredoxin-like proteins and domains  
+HEJCBNKI_01750	ROG6046	
+HEJCBNKI_01751	ROG0066	
+HEJCBNKI_01754	ROG0734	
+HEJCBNKI_01755	COG1995	[H] Pyridoxal phosphate biosynthesis protein  
+HEJCBNKI_01756	COG0463	[M] Glycosyltransferases involved in cell wall biogenesis
+HEJCBNKI_01757	COG0463	[M] Glycosyltransferases involved in cell wall biogenesis
+HEJCBNKI_01758	COG0840	[NT] Methyl-accepting chemotaxis protein   
+HEJCBNKI_01759	COG0766	[M] UDP-N-acetylglucosamine enolpyruvyl transferase   
+HEJCBNKI_01760	COG0851	[D] Septum formation topological specificity factor 
+HEJCBNKI_01761	COG2894	[D] Septum formation inhibitor-activating ATPase  
+HEJCBNKI_01762	ROG1425	
+HEJCBNKI_01763	COG0591	[ER] Na+/proline symporter    
+HEJCBNKI_01764	COG2011	[P] ABC-type metal ion transport system, permease
+HEJCBNKI_01765	COG1135	[P] ABC-type metal ion transport system, ATPase
+HEJCBNKI_01767	COG1124	[EP] ABC-type dipeptide/oligopeptide/nickel transport system, ATPase component
+HEJCBNKI_01768	COG4258	[R] Predicted exporter    
+HEJCBNKI_01769	COG0840	[NT] Methyl-accepting chemotaxis protein   
+HEJCBNKI_01773	COG4889	[R] Predicted helicase    
+HEJCBNKI_01775	COG0771	[M] UDP-N-acetylmuramoylalanine-D-glutamate ligase    
+HEJCBNKI_01776	COG3965	[P] Predicted Co/Zn/Cd cation transporters  
+HEJCBNKI_01777	COG0732	[V] Restriction endonuclease S subunits  
+HEJCBNKI_01778	COG2026	[JD] Cytotoxic translational repressor of toxin-antitoxin stability
+HEJCBNKI_01779	COG1869	[G] ABC-type ribose transport system, auxiliary component
+HEJCBNKI_01780	COG0286	[V] Type I restriction-modification system methyltransferase subunit
+HEJCBNKI_01781	COG4096	[V] Type I site-specific restriction-modification system, R
+HEJCBNKI_01782	COG0664	[T] cAMP-binding proteins - catabolite gene activator
+HEJCBNKI_01784	COG0462	[FE] Phosphoribosylpyrophosphate synthetase    
+HEJCBNKI_01785	ROG1459	
+HEJCBNKI_01786	COG0769	[M] UDP-N-acetylmuramyl tripeptide synthase   
+HEJCBNKI_01787	COG0727	[R] Predicted Fe-S-cluster oxidoreductase   
+HEJCBNKI_01788	COG0457	[R] FOG: TPR repeat   
+HEJCBNKI_01791	COG3291	[R] FOG: PKD repeat   
+HEJCBNKI_01792	ROG2789	
+HEJCBNKI_01794	COG1187	[J] 16S rRNA uridine-516 pseudouridylate synthase and
+HEJCBNKI_01795	COG0513	[LKJ] Superfamily II DNA and RNA helicases
+HEJCBNKI_01796	COG2604	[S] Uncharacterized protein conserved in bacteria 
+HEJCBNKI_01797	COG3528	[S] Uncharacterized protein conserved in bacteria 
+HEJCBNKI_01798	COG0407	[H] Uroporphyrinogen-III decarboxylase    
+HEJCBNKI_01799	COG0159	[E] Tryptophan synthase alpha chain  
+HEJCBNKI_01800	COG0671	[I] Membrane-associated phospholipid phosphatase   
+HEJCBNKI_01801	COG0082	[E] Chorismate synthase    
+HEJCBNKI_01802	ROG8270	
+HEJCBNKI_01803	COG2079	[R] Uncharacterized protein involved in propionate catabolism
+HEJCBNKI_01804	COG0372	[C] Citrate synthase    
+HEJCBNKI_01805	COG2513	[G] PEP phosphonomutase and related enzymes 
+HEJCBNKI_01806	COG0365	[I] Acyl-coenzyme A synthetases/AMP-(fatty) acid ligases 
+HEJCBNKI_01808	COG0536	[R] Predicted GTPase    
+HEJCBNKI_01809	COG2849	[S] Uncharacterized protein conserved in bacteria 
+HEJCBNKI_01810	COG2849	[S] Uncharacterized protein conserved in bacteria 
+HEJCBNKI_01811	COG0171	[H] NAD synthase    
+HEJCBNKI_01812	COG0723	[C] Rieske Fe-S protein   
+HEJCBNKI_01813	COG1290	[C] Cytochrome b subunit of the bc
+HEJCBNKI_01814	COG2857	[C] Cytochrome c1    
+HEJCBNKI_01815	COG0127	[F] Xanthosine triphosphate pyrophosphatase   
+HEJCBNKI_01816	COG0864	[K] Predicted transcriptional regulators containing the CopG/Arc/MetJ
+HEJCBNKI_01817	COG0787	[M] Alanine racemase    
+HEJCBNKI_01819	ROG5180	
+HEJCBNKI_01821	COG1198	[L] Primosomal protein N' (replication factor Y)
+HEJCBNKI_01823	COG2845	[S] Uncharacterized protein conserved in bacteria 
+HEJCBNKI_01824	COG1696	[M] Predicted membrane protein involved in D-alanine
+HEJCBNKI_01825	COG1064	[R] Zn-dependent alcohol dehydrogenases   
+HEJCBNKI_01826	COG3596	[R] Predicted GTPase    
+HEJCBNKI_01827	COG0302	[H] GTP cyclohydrolase I   
+HEJCBNKI_01828	COG1947	[I] 4-diphosphocytidyl-2C-methyl-D-erythritol 2-phosphate synthase   
+HEJCBNKI_01829	COG0043	[H] 3-polyprenyl-4-hydroxybenzoate decarboxylase and related decarboxylases 
+HEJCBNKI_01831	ROG6729	
+HEJCBNKI_01832	ROG0029	
+HEJCBNKI_01833	ROG0432	
+HEJCBNKI_01834	COG1585	[OU] Membrane protein implicated in regulation of
+HEJCBNKI_01835	COG1210	[M] UDP-glucose pyrophosphorylase    
+HEJCBNKI_01836	COG0763	[M] Lipid A disaccharide synthetase  
+HEJCBNKI_01837	COG0064	[J] Asp-tRNAAsn/Glu-tRNAGln amidotransferase B subunit (PET112 homolog)
+HEJCBNKI_01838	COG0065	[E] 3-isopropylmalate dehydratase large subunit  
+HEJCBNKI_01839	COG3596	[R] Predicted GTPase    
+HEJCBNKI_01840	COG0353	[L] Recombinational DNA repair protein (RecF pathway)
+HEJCBNKI_01841	COG0484	[O] DnaJ-class molecular chaperone with C-terminal Zn
+HEJCBNKI_01842	COG2257	[S] Uncharacterized homolog of the cytoplasmic domain
+HEJCBNKI_01843	COG0863	[L] DNA modification methylase   
+HEJCBNKI_01845	COG0784	[T] FOG: CheY-like receiver   
+HEJCBNKI_01846	COG0106	[E] Phosphoribosylformimino-5-aminoimidazole carboxamide ribonucleotide (ProFAR) isomerase 
+HEJCBNKI_01847	COG1317	[NU] Flagellar biosynthesis/type III secretory pathway protein
+HEJCBNKI_01848	COG1536	[N] Flagellar motor switch protein  
+HEJCBNKI_01849	COG1766	[NU] Flagellar biosynthesis/type III secretory pathway lipoprotein
+HEJCBNKI_01850	COG0079	[E] Histidinol-phosphate/aromatic aminotransferase and cobyric acid decarboxylase
+HEJCBNKI_01851	COG1918	[P] Fe2+ transport system protein A 
+HEJCBNKI_01852	ROG0525	
+HEJCBNKI_01854	COG3392	[L] Adenine-specific DNA methylase   
+HEJCBNKI_01856	COG1629	[P] Outer membrane receptor proteins, mostly Fe
+HEJCBNKI_01858	COG0664	[T] cAMP-binding proteins - catabolite gene activator
+HEJCBNKI_01859	COG0732	[V] Restriction endonuclease S subunits  
+HEJCBNKI_01861	COG2143	[O] Thioredoxin-related protein    
+HEJCBNKI_01862	COG2143	[O] Thioredoxin-related protein    
+HEJCBNKI_01863	COG0755	[O] ABC-type transport system involved in cytochrome
+HEJCBNKI_01864	COG0010	[E] Arginase/agmatinase/formimionoglutamate hydrolase, arginase family  
+HEJCBNKI_01865	COG0015	[F] Adenylosuccinate lyase    
+HEJCBNKI_01866	COG0732	[V] Restriction endonuclease S subunits  
+HEJCBNKI_01868	COG0468	[L] RecA/RadA recombinase    
+HEJCBNKI_01870	COG0286	[V] Type I restriction-modification system methyltransferase subunit
+HEJCBNKI_01871	ROG2789	
+HEJCBNKI_01872	COG2350	[S] Uncharacterized protein conserved in bacteria 
+HEJCBNKI_01873	COG0503	[F] Adenine/guanine phosphoribosyltransferases and related PRPP-binding proteins
+HEJCBNKI_01874	ROG2820	
+HEJCBNKI_01875	COG0698	[G] Ribose 5-phosphate isomerase RpiB  
+HEJCBNKI_01876	COG1994	[R] Zn-dependent proteases    
+HEJCBNKI_01877	COG0681	[U] Signal peptidase I   
+HEJCBNKI_01878	COG0835	[NT] Chemotaxis signal transduction protein  
+HEJCBNKI_01881	COG0325	[R] Predicted enzyme with a TIM-barrel fold
+HEJCBNKI_01882	COG0821	[I] Enzyme involved in the deoxyxylulose pathway
+HEJCBNKI_01887	COG0061	[G] Predicted sugar kinase   
+HEJCBNKI_01888	COG1076	[O] DnaJ-domain-containing proteins 1   
+HEJCBNKI_01889	COG0756	[F] dUTPase     
+HEJCBNKI_01890	COG0752	[J] Glycyl-tRNA synthetase, alpha subunit  
+HEJCBNKI_01891	COG0790	[R] FOG: TPR repeat, SEL1 subfamily 
+HEJCBNKI_01892	COG0149	[G] Triosephosphate isomerase    
+HEJCBNKI_01895	COG1629	[P] Outer membrane receptor proteins, mostly Fe
+HEJCBNKI_01896	COG2353	[S] Uncharacterized conserved protein   
+HEJCBNKI_01897	COG1832	[R] Predicted CoA-binding protein   
+HEJCBNKI_01898	COG0541	[U] Signal recognition particle GTPase  
+HEJCBNKI_01899	COG2226	[H] Methylase involved in ubiquinone/menaquinone biosynthesis 
+HEJCBNKI_01900	ROG1555	
+HEJCBNKI_01902	COG3528	[S] Uncharacterized protein conserved in bacteria 
+HEJCBNKI_01903	COG1442	[M] Lipopolysaccharide biosynthesis proteins, LPS:glycosyltransferases  
+HEJCBNKI_01904	ROG5894	
+HEJCBNKI_01906	ROG3466	
+HEJCBNKI_01907	COG1452	[M] Organic solvent tolerance protein OstA 
+HEJCBNKI_01908	COG1714	[S] Predicted membrane protein/domain   
+HEJCBNKI_01912	ROG4895	
+HEJCBNKI_01917	COG3041	[S] Uncharacterized protein conserved in bacteria 
+HEJCBNKI_01918	COG3843	[U] Type IV secretory pathway, VirD2 components
+HEJCBNKI_01919	COG0582	[L] Integrase     
+HEJCBNKI_01920	COG2022	[H] Uncharacterized enzyme of thiazole biosynthesis 
+HEJCBNKI_01921	COG2077	[O] Peroxiredoxin     
+HEJCBNKI_01922	COG1959	[K] Predicted transcriptional regulator   
+HEJCBNKI_01923	ROG3808	
+HEJCBNKI_01924	COG2425	[R] Uncharacterized protein containing a von Willebrand
+HEJCBNKI_01925	COG4832	[S] Uncharacterized conserved protein   
+HEJCBNKI_01926	ROG2048	
+HEJCBNKI_01927	ROG5059	
+HEJCBNKI_01928	COG0358	[L] DNA primase (bacterial type)  
+HEJCBNKI_01929	COG0840	[NT] Methyl-accepting chemotaxis protein   
+HEJCBNKI_01932	COG0863	[L] DNA modification methylase   
+HEJCBNKI_01933	ROG8502	
+HEJCBNKI_01935	ROG6841	
+HEJCBNKI_01937	COG0535	[R] Predicted Fe-S oxidoreductases   
+HEJCBNKI_01938	COG0454	[KR] Histone acetyltransferase HPA2 and related acetyltransferases
+HEJCBNKI_01940	COG1238	[S] Predicted membrane protein   
+HEJCBNKI_01941	COG2067	[I] Long-chain fatty acid transport protein 
+HEJCBNKI_01942	COG0287	[E] Prephenate dehydrogenase    
+HEJCBNKI_01943	COG0560	[E] Phosphoserine phosphatase    
+HEJCBNKI_01944	COG1565	[S] Uncharacterized conserved protein   
+HEJCBNKI_01945	COG0859	[M] ADP-heptose:LPS heptosyltransferase    
+HEJCBNKI_01946	COG0703	[E] Shikimate kinase    
+HEJCBNKI_01947	COG0475	[P] Kef-type K+ transport systems, membrane components
+HEJCBNKI_01948	COG0739	[M] Membrane proteins related to metalloendopeptidases 
+HEJCBNKI_01949	COG0463	[M] Glycosyltransferases involved in cell wall biogenesis
+HEJCBNKI_01950	ROG0280	
+HEJCBNKI_01951	COG0399	[M] Predicted pyridoxal phosphate-dependent enzyme apparently involved
+HEJCBNKI_01952	COG3334	[S] Uncharacterized conserved protein   
+HEJCBNKI_01953	COG0835	[NT] Chemotaxis signal transduction protein  
+HEJCBNKI_01954	COG0172	[J] Seryl-tRNA synthetase    
+HEJCBNKI_01955	COG0457	[R] FOG: TPR repeat   
+HEJCBNKI_01956	COG0229	[O] Conserved domain frequently associated with peptide
+HEJCBNKI_01957	COG0134	[E] Indole-3-glycerol phosphate synthase   
+HEJCBNKI_01958	COG0652	[O] Peptidyl-prolyl cis-trans isomerase (rotamase) - cyclophilin
+HEJCBNKI_01960	COG0790	[R] FOG: TPR repeat, SEL1 subfamily 
+HEJCBNKI_01961	COG1740	[C] Ni,Fe-hydrogenase I small subunit  
+HEJCBNKI_01962	COG0374	[C] Ni,Fe-hydrogenase I large subunit  
+HEJCBNKI_01963	COG1969	[C] Ni,Fe-hydrogenase I cytochrome b subunit 
+HEJCBNKI_01964	COG0680	[C] Ni,Fe-hydrogenase maturation factor   
+HEJCBNKI_01965	ROG3723	
+HEJCBNKI_01966	COG0500	[QR] SAM-dependent methyltransferases    
+HEJCBNKI_01967	COG5252	[R] Uncharacterized conserved protein, contains CCCH-type Zn-finger
+HEJCBNKI_01968	ROG3777	
+HEJCBNKI_01970	COG1663	[M] Tetraacyldisaccharide-1-P 4'-kinase    
+HEJCBNKI_01971	COG1301	[C] Na+/H+-dicarboxylate symporters    
+HEJCBNKI_01972	COG2107	[R] Predicted periplasmic solute-binding protein  
+HEJCBNKI_01973	COG0131	[E] Imidazoleglycerol-phosphate dehydratase    
+HEJCBNKI_01974	COG1778	[R] Low specificity phosphatase (HAD superfamily) 
+HEJCBNKI_01975	COG1193	[L] Mismatch repair ATPase (MutS family) 
+HEJCBNKI_01976	ROG3043	
+HEJCBNKI_01977	COG0842	[V] ABC-type multidrug transport system, permease component
+HEJCBNKI_01978	COG1539	[H] Dihydroneopterin aldolase    
+HEJCBNKI_01979	COG3637	[M] Opacity protein and related surface antigens
+HEJCBNKI_01980	COG0840	[NT] Methyl-accepting chemotaxis protein   
+HEJCBNKI_01981	COG3755	[S] Uncharacterized protein conserved in bacteria 
+HEJCBNKI_01982	COG0215	[J] Cysteinyl-tRNA synthetase    
+HEJCBNKI_01983	COG0728	[R] Uncharacterized membrane protein, putative virulence factor
+HEJCBNKI_01984	ROG2924	
+HEJCBNKI_01985	ROG4593	
+HEJCBNKI_01988	COG1843	[N] Flagellar hook capping protein  
+HEJCBNKI_01990	COG1045	[E] Serine acetyltransferase    
+HEJCBNKI_01991	COG0497	[L] ATPase involved in DNA repair 
+HEJCBNKI_01992	COG0744	[M] Membrane carboxypeptidase (penicillin-binding protein)  
+HEJCBNKI_01993	COG0227	[J] Ribosomal protein L28   
+HEJCBNKI_01994	COG0242	[J] N-formylmethionyl-tRNA deformylase    
+HEJCBNKI_01995	COG0084	[L] Mg-dependent DNase    
+HEJCBNKI_01997	COG0142	[H] Geranylgeranyl pyrophosphate synthase   
+HEJCBNKI_01998	COG1570	[L] Exonuclease VII, large subunit  
+HEJCBNKI_01999	COG0772	[D] Bacterial cell division membrane protein 
+HEJCBNKI_02000	COG0772	[D] Bacterial cell division membrane protein 
+HEJCBNKI_02001	COG0550	[L] Topoisomerase IA    
+HEJCBNKI_02002	COG0853	[H] Aspartate 1-decarboxylase    
+HEJCBNKI_02003	COG0718	[S] Uncharacterized protein conserved in bacteria 
+HEJCBNKI_02004	COG0265	[O] Trypsin-like serine proteases, typically periplasmic, contain
+HEJCBNKI_02005	COG5000	[T] Signal transduction histidine kinase involved in
+HEJCBNKI_02006	COG0464	[O] ATPases of the AAA+ class 
+HEJCBNKI_02007	COG1112	[L] Superfamily I DNA and RNA helicases
+HEJCBNKI_02009	COG0419	[L] ATPase involved in DNA repair 
+HEJCBNKI_02010	ROG2466	
+HEJCBNKI_02011	ROG7808	
+HEJCBNKI_02012	COG0041	[F] Phosphoribosylcarboxyaminoimidazole (NCAIR) mutase   
+HEJCBNKI_02016	COG0602	[O] Organic radical activating enzymes  
+HEJCBNKI_02017	COG3338	[P] Carbonic anhydrase    
+HEJCBNKI_02018	COG1196	[D] Chromosome segregation ATPases   
+HEJCBNKI_02019	COG0598	[P] Mg2+ and Co2+ transporters  
+HEJCBNKI_02020	COG0079	[E] Histidinol-phosphate/aromatic aminotransferase and cobyric acid decarboxylase
+HEJCBNKI_02021	COG1475	[K] Predicted transcriptional regulators   
+HEJCBNKI_02022	COG1192	[D] ATPases involved in chromosome partitioning 
+HEJCBNKI_02023	COG0340	[H] Biotin-(acetyl-CoA carboxylase) ligase   
+HEJCBNKI_02024	COG0457	[R] FOG: TPR repeat   
+HEJCBNKI_02025	COG3764	[M] Sortase (surface protein transpeptidase)  
+HEJCBNKI_02026	COG0034	[F] Glutamine phosphoribosylpyrophosphate amidotransferase   
+HEJCBNKI_02027	COG1242	[R] Predicted Fe-S oxidoreductase   
+HEJCBNKI_02028	COG0079	[E] Histidinol-phosphate/aromatic aminotransferase and cobyric acid decarboxylase
+HEJCBNKI_02029	COG0008	[J] Glutamyl- and glutaminyl-tRNA synthetases  
+HEJCBNKI_02030	COG0762	[S] Predicted integral membrane protein  
+HEJCBNKI_02031	COG0741	[M] Soluble lytic murein transglycosylase and related
+HEJCBNKI_02032	ROG1158	
+HEJCBNKI_02035	COG0500	[QR] SAM-dependent methyltransferases    
+HEJCBNKI_02036	COG0500	[QR] SAM-dependent methyltransferases    
+HEJCBNKI_02038	COG2071	[R] Predicted glutamine amidotransferases   
+HEJCBNKI_02039	COG1213	[M] Predicted sugar nucleotidyltransferases   
+HEJCBNKI_02040	COG0529	[P] Adenylylsulfate kinase and related kinases 
+HEJCBNKI_02041	COG0809	[J] S-adenosylmethionine:tRNA-ribosyltransferase-isomerase (queuine synthetase)   
+HEJCBNKI_02042	ROG3114	
+HEJCBNKI_02043	COG1934	[S] Uncharacterized protein conserved in bacteria 
+HEJCBNKI_02044	COG0840	[NT] Methyl-accepting chemotaxis protein   
+HEJCBNKI_02045	COG2860	[S] Predicted membrane protein   
+HEJCBNKI_02046	COG2849	[S] Uncharacterized protein conserved in bacteria 
+HEJCBNKI_02047	COG0454	[KR] Histone acetyltransferase HPA2 and related acetyltransferases
+HEJCBNKI_02048	COG1218	[P] 3'-Phosphoadenosine 5'-phosphosulfate (PAPS) 3'-phosphatase  
+HEJCBNKI_02049	COG1185	[J] Polyribonucleotide nucleotidyltransferase (polynucleotide phosphorylase)  
+HEJCBNKI_02050	COG0544	[O] FKBP-type peptidyl-prolyl cis-trans isomerase (trigger factor)
+HEJCBNKI_02051	COG1157	[NU] Flagellar biosynthesis/type III secretory pathway ATPase
+HEJCBNKI_02054	COG0840	[NT] Methyl-accepting chemotaxis protein   
+HEJCBNKI_02056	COG0234	[O] Co-chaperonin GroES (HSP10)   
+HEJCBNKI_02057	COG0459	[O] Chaperonin GroEL (HSP60 family)  
+HEJCBNKI_02059	COG0840	[NT] Methyl-accepting chemotaxis protein   
+HEJCBNKI_02062	COG0836	[M] Mannose-1-phosphate guanylyltransferase    
+HEJCBNKI_02064	ROG7817	
+HEJCBNKI_02065	ROG3209	
+HEJCBNKI_02066	ROG4475	
+HEJCBNKI_02067	COG2812	[L] DNA polymerase III, gamma/tau subunits 
+HEJCBNKI_02068	COG0253	[E] Diaminopimelate epimerase    
+HEJCBNKI_02071	ROG3307	
+HEJCBNKI_02072	COG0788	[F] Formyltetrahydrofolate hydrolase    
+HEJCBNKI_02073	COG1364	[E] N-acetylglutamate synthase (N-acetylornithine aminotransferase)  
+HEJCBNKI_02074	ROG3762	
+HEJCBNKI_02075	COG0747	[E] ABC-type dipeptide transport system, periplasmic component
+HEJCBNKI_02077	COG1188	[J] Ribosome-associated heat shock protein implicated in
+HEJCBNKI_02079	COG0260	[E] Leucyl aminopeptidase    
+HEJCBNKI_02080	COG0586	[S] Uncharacterized membrane-associated protein   
+HEJCBNKI_02081	COG0060	[J] Isoleucyl-tRNA synthetase    
+HEJCBNKI_02082	COG0501	[O] Zn-dependent protease with chaperone function 
+HEJCBNKI_02083	COG2890	[J] Methylase of polypeptide chain release factors
+HEJCBNKI_02084	COG0668	[M] Small-conductance mechanosensitive channel   
+HEJCBNKI_02085	COG1335	[Q] Amidases related to nicotinamidase  
+HEJCBNKI_02086	COG0421	[E] Spermidine synthase    
+HEJCBNKI_02087	ROG1460	
+HEJCBNKI_02088	COG1559	[R] Predicted periplasmic solute-binding protein  
+HEJCBNKI_02089	COG0045	[C] Succinyl-CoA synthetase, beta subunit  
+HEJCBNKI_02090	COG0074	[C] Succinyl-CoA synthetase, alpha subunit  
+HEJCBNKI_02091	COG1146	[C] Ferredoxin     
+HEJCBNKI_02092	COG0674	[C] Pyruvate:ferredoxin oxidoreductase and related 2-oxoacid:ferredoxin oxidoreductases,
+HEJCBNKI_02093	COG1013	[C] Pyruvate:ferredoxin oxidoreductase and related 2-oxoacid:ferredoxin oxidoreductases,
+HEJCBNKI_02094	COG1014	[C] Pyruvate:ferredoxin oxidoreductase and related 2-oxoacid:ferredoxin oxidoreductases,
+HEJCBNKI_02095	COG3187	[O] Heat shock protein   
+HEJCBNKI_02096	COG0464	[O] ATPases of the AAA+ class 
+HEJCBNKI_02098	COG1714	[S] Predicted membrane protein/domain   
+HEJCBNKI_02099	COG1587	[H] Uroporphyrinogen-III synthase    
+HEJCBNKI_02100	COG0132	[H] Dethiobiotin synthetase    
+HEJCBNKI_02101	COG0616	[OU] Periplasmic serine proteases (ClpP class) 
+HEJCBNKI_02102	COG3477	[S] Predicted periplasmic/secreted protein   
+HEJCBNKI_02103	COG3118	[O] Thioredoxin domain-containing protein   
+HEJCBNKI_02106	COG0419	[L] ATPase involved in DNA repair 
+HEJCBNKI_02107	ROG0624	
+HEJCBNKI_02110	COG4771	[P] Outer membrane receptor for ferrienterochelin and
+HEJCBNKI_02111	COG0753	[P] Catalase     
+HEJCBNKI_02112	COG0506	[E] Proline dehydrogenase    
+HEJCBNKI_02113	COG1225	[O] Peroxiredoxin     
+HEJCBNKI_02114	COG0757	[E] 3-dehydroquinate dehydratase II   
+HEJCBNKI_02115	COG2195	[E] Di- and tripeptidases   
+HEJCBNKI_02116	COG0132	[H] Dethiobiotin synthetase    
+HEJCBNKI_02117	COG0616	[OU] Periplasmic serine proteases (ClpP class) 
+HEJCBNKI_02118	COG3477	[S] Predicted periplasmic/secreted protein   
+HEJCBNKI_02119	COG3118	[O] Thioredoxin domain-containing protein   
+HEJCBNKI_02122	COG0419	[L] ATPase involved in DNA repair 
+HEJCBNKI_02123	ROG0624	
+HEJCBNKI_02126	COG4771	[P] Outer membrane receptor for ferrienterochelin and
+HEJCBNKI_02127	COG0753	[P] Catalase     
+HEJCBNKI_02128	COG0506	[E] Proline dehydrogenase    
+HEJCBNKI_02129	COG1225	[O] Peroxiredoxin     
+HEJCBNKI_02130	COG0757	[E] 3-dehydroquinate dehydratase II   
+HEJCBNKI_02131	COG2195	[E] Di- and tripeptidases   
+HEJCBNKI_02132	COG1502	[I] Phosphatidylserine/phosphatidylglycerophosphate/cardiolipin synthases and related enzymes 
+HEJCBNKI_02133	COG1136	[V] ABC-type antimicrobial peptide transport system, ATPase
+HEJCBNKI_02135	COG5659	[L] FOG: Transposase    
+HEJCBNKI_02136	COG2966	[S] Uncharacterized conserved protein   
+HEJCBNKI_02137	COG3610	[S] Uncharacterized conserved protein   
+HEJCBNKI_02138	COG0564	[J] Pseudouridylate synthases, 23S RNA-specific  
+HEJCBNKI_02139	COG0608	[L] Single-stranded DNA-specific exonuclease   
+HEJCBNKI_02140	COG0504	[F] CTP synthase (UTP-ammonia lyase)  
+HEJCBNKI_02142	COG0226	[P] ABC-type phosphate transport system, periplasmic component
+HEJCBNKI_02143	COG0573	[P] ABC-type phosphate transport system, permease component
+HEJCBNKI_02146	COG0840	[NT] Methyl-accepting chemotaxis protein   
+HEJCBNKI_02147	COG4564	[T] Signal transduction histidine kinase  
+HEJCBNKI_02148	COG3034	[S] Uncharacterized protein conserved in bacteria 
+HEJCBNKI_02149	COG1432	[S] Uncharacterized conserved protein   
+HEJCBNKI_02150	COG1124	[EP] ABC-type dipeptide/oligopeptide/nickel transport system, ATPase component
+HEJCBNKI_02151	ROG2281	
+HEJCBNKI_02152	ROG1944	
+HEJCBNKI_02153	COG0566	[J] rRNA methylases    
+HEJCBNKI_02155	ROG4430	
+HEJCBNKI_02156	COG0180	[J] Tryptophanyl-tRNA synthetase    
+HEJCBNKI_02157	ROG5769	
+HEJCBNKI_02160	COG4340	[S] Uncharacterized protein conserved in bacteria 
+HEJCBNKI_02161	COG3603	[S] Uncharacterized conserved protein   
+HEJCBNKI_02162	COG1279	[R] Lysine efflux permease   
+HEJCBNKI_02163	COG1279	[R] Lysine efflux permease   
+HEJCBNKI_02164	COG4239	[R] ABC-type uncharacterized transport system, permease component
+HEJCBNKI_02165	COG0511	[I] Biotin carboxyl carrier protein  
+HEJCBNKI_02166	COG0439	[I] Biotin carboxylase    
+HEJCBNKI_02168	ROG0307	
+HEJCBNKI_02170	COG0805	[U] Sec-independent protein secretion pathway component TatC
+HEJCBNKI_02171	COG1826	[U] Sec-independent protein secretion pathway components 
+HEJCBNKI_02172	COG1360	[N] Flagellar motor protein   
+HEJCBNKI_02173	COG1291	[N] Flagellar motor component   
+HEJCBNKI_02174	COG0476	[H] Dinucleotide-utilizing enzymes involved in molybdopterin and
+HEJCBNKI_02175	COG0491	[R] Zn-dependent hydrolases, including glyoxylases  
+HEJCBNKI_02176	COG0790	[R] FOG: TPR repeat, SEL1 subfamily 
+HEJCBNKI_02177	COG3014	[S] Uncharacterized protein conserved in bacteria 
+HEJCBNKI_02178	COG3417	[R] Collagen-binding surface adhesin SpaP (antigen I/II
+HEJCBNKI_02179	COG0727	[R] Predicted Fe-S-cluster oxidoreductase   
+HEJCBNKI_02180	ROG7095	
+HEJCBNKI_02181	COG0626	[E] Cystathionine beta-lyases/cystathionine gamma-synthases   
+HEJCBNKI_02182	ROG5645	
+HEJCBNKI_02184	COG0860	[M] N-acetylmuramoyl-L-alanine amidase    
+HEJCBNKI_02185	COG2070	[R] Dioxygenases related to 2-nitropropane dioxygenase 
+HEJCBNKI_02186	COG0162	[J] Tyrosyl-tRNA synthetase    
+HEJCBNKI_02187	COG0579	[R] Predicted dehydrogenase    
+HEJCBNKI_02188	ROG3396	
+HEJCBNKI_02189	ROG0886	
+HEJCBNKI_02190	COG0436	[E] Aspartate/tyrosine/aromatic aminotransferase    
+HEJCBNKI_02191	COG0697	[GER] Permeases of the drug/metabolite transporter (DMT)
+HEJCBNKI_02192	COG4106	[R] Trans-aconitate methyltransferase    
+HEJCBNKI_02193	COG2830	[S] Uncharacterized protein conserved in bacteria 
+HEJCBNKI_02194	COG1017	[C] Hemoglobin-like flavoprotein    
+HEJCBNKI_02197	ROG2627	
+HEJCBNKI_02199	COG1017	[C] Hemoglobin-like flavoprotein    
+HEJCBNKI_02200	COG0345	[E] Pyrroline-5-carboxylate reductase    
+HEJCBNKI_02202	COG0840	[NT] Methyl-accepting chemotaxis protein   
+HEJCBNKI_02204	COG0765	[E] ABC-type amino acid transport system, permease
+HEJCBNKI_02205	COG0046	[F] Phosphoribosylformylglycinamidine (FGAM) synthase, synthetase domain 
+HEJCBNKI_02206	COG0574	[G] Phosphoenolpyruvate synthase/pyruvate phosphate dikinase  
+HEJCBNKI_02207	ROG2194	
+HEJCBNKI_02208	COG0791	[M] Cell wall-associated hydrolases (invasion-associated proteins) 
+HEJCBNKI_02209	COG0577	[V] ABC-type antimicrobial peptide transport system, permease
+HEJCBNKI_02210	COG5610	[R] Predicted hydrolase (HAD superfamily)  
+HEJCBNKI_02211	COG5610	[R] Predicted hydrolase (HAD superfamily)  
+HEJCBNKI_02213	COG0500	[QR] SAM-dependent methyltransferases    
+HEJCBNKI_02214	COG1496	[S] Uncharacterized conserved protein   
+HEJCBNKI_02215	COG3591	[E] V8-like Glu-specific endopeptidase   
+HEJCBNKI_02216	COG2607	[R] Predicted ATPase (AAA+ superfamily)  
+HEJCBNKI_02217	COG1496	[S] Uncharacterized conserved protein   
+HEJCBNKI_02218	COG1853	[R] Conserved protein/domain typically associated with flavoprotein
+HEJCBNKI_02219	COG4147	[R] Predicted symporter    
+HEJCBNKI_02220	COG3162	[S] Predicted membrane protein   
+HEJCBNKI_02221	ROG0053	
+HEJCBNKI_02222	COG1083	[M] CMP-N-acetylneuraminic acid synthetase   
+HEJCBNKI_02223	COG0748	[P] Putative heme iron utilization protein 
+HEJCBNKI_02224	COG1825	[J] Ribosomal protein L25 (general stress protein
+HEJCBNKI_02225	COG0612	[R] Predicted Zn-dependent peptidases   
+HEJCBNKI_02226	COG1674	[D] DNA segregation ATPase FtsK/SpoIIIE and related
+HEJCBNKI_02227	ROG3733	
+HEJCBNKI_02228	COG3157	[S] Hemolysin-coregulated protein (uncharacterized)   
+HEJCBNKI_02231	COG3501	[S] Uncharacterized protein conserved in bacteria 
+HEJCBNKI_02235	ROG1660	
+HEJCBNKI_02236	ROG0972	
+HEJCBNKI_02237	COG0357	[M] Predicted S-adenosylmethionine-dependent methyltransferase involved in bacterial
+HEJCBNKI_02238	COG1729	[S] Uncharacterized protein conserved in bacteria 
+HEJCBNKI_02239	COG1028	[IQR] Dehydrogenases with different specificities (related to
+HEJCBNKI_02240	COG0158	[G] Fructose-1,6-bisphosphatase     
+HEJCBNKI_02241	ROG1714	
+HEJCBNKI_02242	COG0817	[L] Holliday junction resolvasome, endonuclease subunit 
+HEJCBNKI_02243	COG1766	[NU] Flagellar biosynthesis/type III secretory pathway lipoprotein
+HEJCBNKI_02246	COG0464	[O] ATPases of the AAA+ class 
+HEJCBNKI_02247	ROG2379	
+HEJCBNKI_02248	COG0727	[R] Predicted Fe-S-cluster oxidoreductase   
+HEJCBNKI_02249	ROG7095	
+HEJCBNKI_02252	COG0727	[R] Predicted Fe-S-cluster oxidoreductase   
+HEJCBNKI_02253	ROG7095	
+HEJCBNKI_02256	COG0727	[R] Predicted Fe-S-cluster oxidoreductase   
+HEJCBNKI_02258	COG4753	[T] Response regulator containing CheY-like receiver domain
+HEJCBNKI_02259	COG5000	[T] Signal transduction histidine kinase involved in
+HEJCBNKI_02260	COG1164	[E] Oligoendopeptidase F    
+HEJCBNKI_02261	COG0560	[E] Phosphoserine phosphatase    
+HEJCBNKI_02262	COG2189	[L] Adenine specific DNA methylase Mod 
+HEJCBNKI_02263	COG3421	[S] Uncharacterized protein conserved in bacteria 
+HEJCBNKI_02265	COG1401	[V] GTPase subunit of restriction endonuclease 
+HEJCBNKI_02266	COG4268	[V] McrBC 5-methylcytosine restriction system component 
+HEJCBNKI_02267	COG1283	[P] Na+/phosphate symporter    
+HEJCBNKI_02268	COG0329	[EM] Dihydrodipicolinate synthase/N-acetylneuraminate lyase   
+HEJCBNKI_02269	COG1028	[IQR] Dehydrogenases with different specificities (related to
+HEJCBNKI_02271	COG3413	[R] Predicted DNA binding protein  
+HEJCBNKI_02273	ROG5582	
+HEJCBNKI_02274	COG0542	[O] ATPases with chaperone activity, ATP-binding subunit
+HEJCBNKI_02275	COG2127	[S] Uncharacterized conserved protein   
+HEJCBNKI_02276	COG0066	[E] 3-isopropylmalate dehydratase small subunit  
+HEJCBNKI_02277	COG0179	[Q] 2-keto-4-pentenoate hydratase/2-oxohepta-3-ene-1,7-dioic acid hydratase (catechol pathway)
+HEJCBNKI_02281	COG3018	[S] Uncharacterized protein conserved in bacteria 
+HEJCBNKI_02284	COG0606	[O] Predicted ATPase with chaperone activity 
+HEJCBNKI_02285	COG0388	[R] Predicted amidohydrolase    
+HEJCBNKI_02286	ROG8137	
+HEJCBNKI_02287	COG3723	[L] Recombinational DNA repair protein (RecE pathway)
+HEJCBNKI_02288	COG0790	[R] FOG: TPR repeat, SEL1 subfamily 
+HEJCBNKI_02289	COG3853	[P] Uncharacterized protein involved in tellurite resistance
+HEJCBNKI_02290	ROG1319	
+HEJCBNKI_02291	COG2841	[S] Uncharacterized protein conserved in bacteria 
+HEJCBNKI_02292	COG3022	[S] Uncharacterized protein conserved in bacteria 
+HEJCBNKI_02293	COG0635	[H] Coproporphyrinogen III oxidase and related Fe-S
+HEJCBNKI_02294	COG2849	[S] Uncharacterized protein conserved in bacteria 
+HEJCBNKI_02295	COG1566	[V] Multidrug resistance efflux pump  
+HEJCBNKI_02296	ROG5055	
+HEJCBNKI_02298	COG1792	[M] Cell shape-determining protein   
+HEJCBNKI_02299	COG1077	[D] Actin-like ATPase involved in cell morphogenesis
+HEJCBNKI_02300	COG1219	[O] ATP-dependent protease Clp, ATPase subunit 
+HEJCBNKI_02301	COG1043	[M] Acyl-[acyl carrier protein]--UDP-N-acetylglucosamine O-acyltransferase  
+HEJCBNKI_02302	COG0764	[I] 3-hydroxymyristoyl/3-hydroxydecanoyl-(acyl carrier protein) dehydratases  
+HEJCBNKI_02304	COG0516	[F] IMP dehydrogenase/GMP reductase   
+HEJCBNKI_02305	COG0190	[H] 5,10-methylene-tetrahydrofolate dehydrogenase/Methenyl tetrahydrofolate cyclohydrolase  
+HEJCBNKI_02307	COG0658	[R] Predicted membrane metal-binding protein  
+HEJCBNKI_02308	ROG4629	
+HEJCBNKI_02309	COG0002	[E] Acetylglutamate semialdehyde dehydrogenase   
+HEJCBNKI_02310	COG0169	[E] Shikimate 5-dehydrogenase    
+HEJCBNKI_02311	COG0526	[OC] Thiol-disulfide isomerase and thioredoxins  
+HEJCBNKI_02312	COG0492	[O] Thioredoxin reductase    
+HEJCBNKI_02313	COG0289	[E] Dihydrodipicolinate reductase    
+HEJCBNKI_02314	COG0500	[QR] SAM-dependent methyltransferases    
+HEJCBNKI_02315	ROG0725	
+HEJCBNKI_02316	ROG0282	
+HEJCBNKI_02317	COG1197	[LK] Transcription-repair coupling factor (superfamily II helicase)
+HEJCBNKI_02318	COG0740	[OU] Protease subunit of ATP-dependent Clp proteases
+HEJCBNKI_02319	COG0001	[H] Glutamate-1-semialdehyde aminotransferase    
+HEJCBNKI_02320	ROG1815	
+HEJCBNKI_02321	COG0128	[E] 5-enolpyruvylshikimate-3-phosphate synthase    
+HEJCBNKI_02322	COG0790	[R] FOG: TPR repeat, SEL1 subfamily 
+HEJCBNKI_02323	COG2211	[G] Na+/melibiose symporter and related transporters 
+HEJCBNKI_02324	COG0344	[S] Predicted membrane protein   
+HEJCBNKI_02325	COG0115	[EH] Branched-chain amino acid aminotransferase/4-amino-4-deoxychorismate lyase 
+HEJCBNKI_02326	COG0505	[EF] Carbamoylphosphate synthase small subunit  
+HEJCBNKI_02327	COG2952	[S] Uncharacterized protein conserved in bacteria 
+HEJCBNKI_02328	COG0248	[FP] Exopolyphosphatase     
+HEJCBNKI_02329	COG1145	[C] Ferredoxin     
+HEJCBNKI_02330	COG0147	[EH] Anthranilate/para-aminobenzoate synthases component I  
+HEJCBNKI_02331	COG0305	[L] Replicative DNA helicase   
+HEJCBNKI_02332	COG2843	[M] Putative enzyme of poly-gamma-glutamate biosynthesis (capsule
+HEJCBNKI_02333	COG0154	[J] Asp-tRNAAsn/Glu-tRNAGln amidotransferase A subunit and related
+HEJCBNKI_02335	ROG1435	
+HEJCBNKI_02337	ROG4659	
+HEJCBNKI_02342	COG2056	[R] Predicted permease    
+HEJCBNKI_02343	COG0589	[T] Universal stress protein UspA and related
+HEJCBNKI_02344	COG0621	[J] 2-methylthioadenine synthetase    
+HEJCBNKI_02345	COG0816	[L] Predicted endonuclease involved in recombination (possible
+HEJCBNKI_02348	COG0275	[M] Predicted S-adenosylmethionine-dependent methyltransferase involved in cell
+HEJCBNKI_02349	COG0037	[D] Predicted ATPase of the PP-loop superfamily
+HEJCBNKI_02352	COG0365	[I] Acyl-coenzyme A synthetases/AMP-(fatty) acid ligases 
+HEJCBNKI_02353	COG0365	[I] Acyl-coenzyme A synthetases/AMP-(fatty) acid ligases 
+HEJCBNKI_02355	COG0247	[C] Fe-S oxidoreductase    
+HEJCBNKI_02356	COG0247	[C] Fe-S oxidoreductase    
+HEJCBNKI_02357	COG0814	[E] Amino acid permeases   
+HEJCBNKI_02358	COG1760	[E] L-serine deaminase    
+HEJCBNKI_02359	COG1464	[P] ABC-type metal ion transport system, periplasmic
+HEJCBNKI_02360	COG1324	[P] Uncharacterized protein involved in tolerance to
+HEJCBNKI_02361	COG1275	[P] Tellurite resistance protein and related permeases

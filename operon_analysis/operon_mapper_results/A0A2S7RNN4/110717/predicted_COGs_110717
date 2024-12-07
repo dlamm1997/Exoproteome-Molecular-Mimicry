@@ -1,0 +1,2664 @@
+IPLMCBOA_00001	COG0130	[J] Pseudouridine synthase    
+IPLMCBOA_00002	COG0196	[H] FAD synthase    
+IPLMCBOA_00003	COG1028	[IQR] Dehydrogenases with different specificities (related to
+IPLMCBOA_00004	COG4975	[G] Putative glucose uptake permease  
+IPLMCBOA_00006	ROG7009	
+IPLMCBOA_00007	COG2738	[R] Predicted Zn-dependent protease   
+IPLMCBOA_00008	COG2824	[P] Uncharacterized Zn-ribbon-containing protein involved in phosphonate
+IPLMCBOA_00009	COG0618	[R] Exopolyphosphatase-related proteins    
+IPLMCBOA_00010	COG4109	[K] Predicted transcriptional regulator containing CBS domains
+IPLMCBOA_00011	COG2220	[R] Predicted Zn-dependent hydrolases of the beta-lactamase
+IPLMCBOA_00012	COG1440	[G] Phosphotransferase system cellobiose-specific component IIB 
+IPLMCBOA_00013	COG0595	[R] Predicted hydrolase of the metallo-beta-lactamase superfamily
+IPLMCBOA_00015	COG4181	[Q] Predicted ABC-type transport system involved in
+IPLMCBOA_00016	COG3237	[S] Uncharacterized protein conserved in bacteria 
+IPLMCBOA_00017	COG0044	[F] Dihydroorotase and related cyclic amidohydrolases 
+IPLMCBOA_00018	COG1288	[S] Predicted membrane protein   
+IPLMCBOA_00019	COG4821	[R] Uncharacterized protein containing SIS (Sugar ISomerase)
+IPLMCBOA_00021	COG1210	[M] UDP-glucose pyrophosphorylase    
+IPLMCBOA_00022	COG0240	[C] Glycerol-3-phosphate dehydrogenase    
+IPLMCBOA_00023	COG3711	[K] Transcriptional antiterminator    
+IPLMCBOA_00024	ROG1429	
+IPLMCBOA_00025	ROG7668	
+IPLMCBOA_00026	ROG7668	
+IPLMCBOA_00027	COG3469	[G] Chitinase     
+IPLMCBOA_00028	COG1396	[K] Predicted transcriptional regulators   
+IPLMCBOA_00029	COG3397	[S] Uncharacterized protein conserved in bacteria 
+IPLMCBOA_00030	COG1132	[V] ABC-type multidrug transport system, ATPase and
+IPLMCBOA_00031	COG1132	[V] ABC-type multidrug transport system, ATPase and
+IPLMCBOA_00032	ROG0231	
+IPLMCBOA_00033	COG1803	[G] Methylglyoxal synthase    
+IPLMCBOA_00034	COG2337	[T] Growth inhibitor    
+IPLMCBOA_00035	ROG0259	
+IPLMCBOA_00036	COG3839	[G] ABC-type sugar transport systems, ATPase components
+IPLMCBOA_00037	ROG1151	
+IPLMCBOA_00038	COG0030	[J] Dimethyladenosine transferase (rRNA methylation)  
+IPLMCBOA_00039	COG1658	[L] Small primase-like proteins (Toprim domain) 
+IPLMCBOA_00040	COG0084	[L] Mg-dependent DNase    
+IPLMCBOA_00041	COG0531	[E] Amino acid transporters   
+IPLMCBOA_00043	COG3177	[S] Uncharacterized conserved protein   
+IPLMCBOA_00044	COG0143	[J] Methionyl-tRNA synthetase    
+IPLMCBOA_00046	COG1051	[F] ADP-ribose pyrophosphatase    
+IPLMCBOA_00047	COG0675	[L] Transposase and inactivated derivatives  
+IPLMCBOA_00048	COG4608	[E] ABC-type oligopeptide transport system, ATPase component
+IPLMCBOA_00049	COG0444	[EP] ABC-type dipeptide/oligopeptide/nickel transport system, ATPase component
+IPLMCBOA_00050	COG1173	[EP] ABC-type dipeptide/oligopeptide/nickel transport systems, permease components
+IPLMCBOA_00051	COG0601	[EP] ABC-type dipeptide/oligopeptide/nickel transport systems, permease components
+IPLMCBOA_00052	ROG6877	
+IPLMCBOA_00053	COG4166	[E] ABC-type oligopeptide transport system, periplasmic component
+IPLMCBOA_00054	COG0456	[R] Acetyltransferases     
+IPLMCBOA_00055	COG0820	[R] Predicted Fe-S-cluster redox enzyme  
+IPLMCBOA_00056	ROG2318	
+IPLMCBOA_00057	ROG3112	
+IPLMCBOA_00058	COG1674	[D] DNA segregation ATPase FtsK/SpoIIIE and related
+IPLMCBOA_00059	COG5555	[N] Cytolysin, a secreted calcineurin-like phosphatase 
+IPLMCBOA_00060	COG2723	[G] Beta-glucosidase/6-phospho-beta-glucosidase/beta-galactosidase     
+IPLMCBOA_00061	COG0834	[ET] ABC-type amino acid transport/signal transduction systems,
+IPLMCBOA_00062	COG1126	[E] ABC-type polar amino acid transport system,
+IPLMCBOA_00063	COG0765	[E] ABC-type amino acid transport system, permease
+IPLMCBOA_00064	COG3760	[S] Uncharacterized conserved protein   
+IPLMCBOA_00065	COG0550	[L] Topoisomerase IA    
+IPLMCBOA_00066	COG4699	[S] Uncharacterized protein conserved in bacteria 
+IPLMCBOA_00067	ROG6516	
+IPLMCBOA_00068	ROG2472	
+IPLMCBOA_00069	COG0482	[J] Predicted tRNA(5-methylaminomethyl-2-thiouridylate) methyltransferase, contains the PP-loop
+IPLMCBOA_00076	ROG4573	
+IPLMCBOA_00077	ROG3149	
+IPLMCBOA_00078	ROG6668	
+IPLMCBOA_00080	ROG7338	
+IPLMCBOA_00082	ROG7338	
+IPLMCBOA_00085	COG3863	[S] Uncharacterized distant relative of cell wall-associated
+IPLMCBOA_00086	ROG2570	
+IPLMCBOA_00087	COG4186	[R] Predicted phosphoesterase or phosphohydrolase  
+IPLMCBOA_00088	COG2211	[G] Na+/melibiose symporter and related transporters 
+IPLMCBOA_00089	ROG8359	
+IPLMCBOA_00090	ROG0499	
+IPLMCBOA_00091	COG1104	[E] Cysteine sulfinate desulfinase/cysteine desulfurase and related
+IPLMCBOA_00092	COG0462	[FE] Phosphoribosylpyrophosphate synthetase    
+IPLMCBOA_00094	COG3590	[O] Predicted metalloendopeptidase    
+IPLMCBOA_00096	COG1335	[Q] Amidases related to nicotinamidase  
+IPLMCBOA_00097	COG0775	[F] Nucleoside phosphorylase    
+IPLMCBOA_00098	ROG0195	
+IPLMCBOA_00099	COG0494	[LR] NTP pyrophosphohydrolases including oxidative damage repair
+IPLMCBOA_00100	COG4915	[R] 5-bromo-4-chloroindolyl phosphate hydrolysis protein  
+IPLMCBOA_00101	COG3853	[P] Uncharacterized protein involved in tellurite resistance
+IPLMCBOA_00102	COG0531	[E] Amino acid transporters   
+IPLMCBOA_00103	COG4975	[G] Putative glucose uptake permease  
+IPLMCBOA_00104	COG0642	[T] Signal transduction histidine kinase  
+IPLMCBOA_00105	COG0745	[TK] Response regulators consisting of a CheY-like
+IPLMCBOA_00106	COG3546	[P] Mn-containing catalase    
+IPLMCBOA_00108	COG1438	[K] Arginine repressor    
+IPLMCBOA_00109	COG4832	[S] Uncharacterized conserved protein   
+IPLMCBOA_00110	ROG2472	
+IPLMCBOA_00111	COG0665	[E] Glycine/D-amino acid oxidases (deaminating)  
+IPLMCBOA_00112	ROG7992	
+IPLMCBOA_00113	COG1600	[C] Uncharacterized Fe-S protein   
+IPLMCBOA_00115	COG0803	[P] ABC-type metal ion transport system, periplasmic
+IPLMCBOA_00116	COG1108	[P] ABC-type Mn2+/Zn2+ transport systems, permease components
+IPLMCBOA_00117	COG1121	[P] ABC-type Mn/Zn transport systems, ATPase component
+IPLMCBOA_00118	COG1113	[E] Gamma-aminobutyrate permease and related permeases 
+IPLMCBOA_00119	COG0642	[T] Signal transduction histidine kinase  
+IPLMCBOA_00120	COG0745	[TK] Response regulators consisting of a CheY-like
+IPLMCBOA_00121	COG0577	[V] ABC-type antimicrobial peptide transport system, permease
+IPLMCBOA_00122	COG1136	[V] ABC-type antimicrobial peptide transport system, ATPase
+IPLMCBOA_00123	COG0511	[I] Biotin carboxyl carrier protein  
+IPLMCBOA_00124	COG3521	[S] Uncharacterized protein conserved in bacteria 
+IPLMCBOA_00125	COG2315	[S] Uncharacterized protein conserved in bacteria 
+IPLMCBOA_00126	COG1357	[S] Uncharacterized low-complexity proteins   
+IPLMCBOA_00127	COG1454	[C] Alcohol dehydrogenase, class IV  
+IPLMCBOA_00128	COG2407	[G] L-fucose isomerase and related proteins 
+IPLMCBOA_00129	COG1879	[G] ABC-type sugar transport system, periplasmic component
+IPLMCBOA_00130	COG1172	[G] Ribose/xylose/arabinose/galactoside ABC-type transport systems, permease components
+IPLMCBOA_00131	COG1129	[G] ABC-type sugar transport system, ATPase component
+IPLMCBOA_00132	COG4154	[G] Fucose dissimilation pathway protein FucU 
+IPLMCBOA_00133	COG1070	[G] Sugar (pentulose and hexulose) kinases 
+IPLMCBOA_00134	COG0235	[G] Ribulose-5-phosphate 4-epimerase and related epimerases and
+IPLMCBOA_00135	COG1349	[KG] Transcriptional regulators of sugar metabolism 
+IPLMCBOA_00136	COG1061	[KL] DNA or RNA helicases of superfamily
+IPLMCBOA_00137	COG0274	[F] Deoxyribose-phosphate aldolase    
+IPLMCBOA_00139	ROG4356	
+IPLMCBOA_00142	ROG1253	
+IPLMCBOA_00143	ROG1632	
+IPLMCBOA_00144	COG1396	[K] Predicted transcriptional regulators   
+IPLMCBOA_00145	COG1132	[V] ABC-type multidrug transport system, ATPase and
+IPLMCBOA_00146	COG1132	[V] ABC-type multidrug transport system, ATPase and
+IPLMCBOA_00147	COG1132	[V] ABC-type multidrug transport system, ATPase and
+IPLMCBOA_00148	COG1961	[L] Site-specific recombinases, DNA invertase Pin homologs
+IPLMCBOA_00150	ROG7009	
+IPLMCBOA_00151	ROG7668	
+IPLMCBOA_00152	ROG1429	
+IPLMCBOA_00153	ROG7668	
+IPLMCBOA_00154	ROG7668	
+IPLMCBOA_00155	ROG1429	
+IPLMCBOA_00156	ROG7668	
+IPLMCBOA_00158	COG4555	[CP] ABC-type Na+ transport system, ATPase component
+IPLMCBOA_00162	ROG5912	
+IPLMCBOA_00163	ROG1253	
+IPLMCBOA_00164	ROG1632	
+IPLMCBOA_00165	COG1725	[K] Predicted transcriptional regulators   
+IPLMCBOA_00166	COG4555	[CP] ABC-type Na+ transport system, ATPase component
+IPLMCBOA_00167	COG0795	[R] Predicted permeases    
+IPLMCBOA_00168	ROG4388	
+IPLMCBOA_00169	COG0346	[E] Lactoylglutathione lyase and related lyases 
+IPLMCBOA_00171	COG1284	[S] Uncharacterized conserved protein   
+IPLMCBOA_00172	COG0627	[R] Predicted esterase    
+IPLMCBOA_00173	COG1062	[C] Zn-dependent alcohol dehydrogenases, class III 
+IPLMCBOA_00174	COG1733	[K] Predicted transcriptional regulators   
+IPLMCBOA_00175	ROG3224	
+IPLMCBOA_00176	COG2190	[G] Phosphotransferase system IIA components  
+IPLMCBOA_00177	COG4948	[MR] L-alanine-DL-glutamate epimerase and related enzymes of
+IPLMCBOA_00178	ROG0259	
+IPLMCBOA_00180	COG2188	[K] Transcriptional regulators    
+IPLMCBOA_00181	ROG8311	
+IPLMCBOA_00183	COG2249	[R] Putative NADPH-quinone reductase (modulator of drug
+IPLMCBOA_00184	COG2207	[K] AraC-type DNA-binding domain-containing proteins  
+IPLMCBOA_00185	COG2017	[G] Galactose mutarotase and related enzymes 
+IPLMCBOA_00186	COG0153	[G] Galactokinase     
+IPLMCBOA_00187	ROG0111	
+IPLMCBOA_00188	COG3077	[L] DNA-damage-inducible protein J   
+IPLMCBOA_00189	COG0693	[R] Putative intracellular protease/amidase   
+IPLMCBOA_00190	COG1598	[S] Uncharacterized conserved protein   
+IPLMCBOA_00191	COG0077	[E] Prephenate dehydratase    
+IPLMCBOA_00192	COG0703	[E] Shikimate kinase    
+IPLMCBOA_00193	COG0128	[E] 5-enolpyruvylshikimate-3-phosphate synthase    
+IPLMCBOA_00194	COG0287	[E] Prephenate dehydrogenase    
+IPLMCBOA_00195	COG0082	[E] Chorismate synthase    
+IPLMCBOA_00196	COG0337	[E] 3-dehydroquinate synthetase    
+IPLMCBOA_00197	COG2876	[E] 3-deoxy-D-arabino-heptulosonate 7-phosphate (DAHP) synthase  
+IPLMCBOA_00198	COG0389	[L] Nucleotidyltransferase/DNA polymerase involved in DNA repair
+IPLMCBOA_00199	ROG1612	
+IPLMCBOA_00201	COG3177	[S] Uncharacterized conserved protein   
+IPLMCBOA_00204	COG0146	[EQ] N-methylhydantoinase B/acetone carboxylase, alpha subunit 
+IPLMCBOA_00206	COG0732	[V] Restriction endonuclease S subunits  
+IPLMCBOA_00207	COG0286	[V] Type I restriction-modification system methyltransferase subunit
+IPLMCBOA_00208	COG4096	[V] Type I site-specific restriction-modification system, R
+IPLMCBOA_00210	COG2946	[L] Putative phage replication protein RstA 
+IPLMCBOA_00211	COG0582	[L] Integrase     
+IPLMCBOA_00212	COG3464	[L] Transposase and inactivated derivatives  
+IPLMCBOA_00213	COG0103	[J] Ribosomal protein S9   
+IPLMCBOA_00214	COG0102	[J] Ribosomal protein L13   
+IPLMCBOA_00215	COG0137	[E] Argininosuccinate synthase    
+IPLMCBOA_00216	COG0165	[E] Argininosuccinate lyase    
+IPLMCBOA_00219	COG0783	[P] DNA-binding ferritin-like protein (oxidative damage protectant)
+IPLMCBOA_00220	COG1070	[G] Sugar (pentulose and hexulose) kinases 
+IPLMCBOA_00221	COG1989	[NOU] Type II secretory pathway, prepilin signal
+IPLMCBOA_00222	COG0225	[O] Peptide methionine sulfoxide reductase  
+IPLMCBOA_00223	COG0086	[K] DNA-directed RNA polymerase, beta' subunit/160 kD
+IPLMCBOA_00224	COG0085	[K] DNA-directed RNA polymerase, beta subunit/140 kD
+IPLMCBOA_00225	COG0340	[H] Biotin-(acetyl-CoA carboxylase) ligase   
+IPLMCBOA_00228	COG1196	[D] Chromosome segregation ATPases   
+IPLMCBOA_00230	COG0142	[H] Geranylgeranyl pyrophosphate synthase   
+IPLMCBOA_00231	COG4769	[S] Predicted membrane protein   
+IPLMCBOA_00232	COG5341	[S] Uncharacterized protein conserved in bacteria 
+IPLMCBOA_00233	COG1252	[C] NADH dehydrogenase, FAD-containing subunit  
+IPLMCBOA_00234	COG4939	[S] Major membrane immunogen, membrane-anchored lipoprotein 
+IPLMCBOA_00235	COG1477	[H] Membrane-associated lipoprotein involved in thiamine biosynthesis
+IPLMCBOA_00236	COG1575	[H] 1,4-dihydroxy-2-naphthoate octaprenyltransferase    
+IPLMCBOA_00239	COG4322	[S] Uncharacterized protein conserved in bacteria 
+IPLMCBOA_00240	ROG4033	
+IPLMCBOA_00241	ROG5797	
+IPLMCBOA_00242	ROG4513	
+IPLMCBOA_00244	COG3505	[U] Type IV secretory pathway, VirD4 components
+IPLMCBOA_00247	ROG1960	
+IPLMCBOA_00248	ROG1960	
+IPLMCBOA_00249	COG1249	[C] Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide dehydrogenase (E3)
+IPLMCBOA_00250	COG0826	[O] Collagenase and related proteases  
+IPLMCBOA_00251	COG0826	[O] Collagenase and related proteases  
+IPLMCBOA_00252	COG0542	[O] ATPases with chaperone activity, ATP-binding subunit
+IPLMCBOA_00253	COG4463	[K] Transcriptional repressor of class III stress
+IPLMCBOA_00263	COG2184	[D] Protein involved in cell division 
+IPLMCBOA_00264	COG2184	[D] Protein involved in cell division 
+IPLMCBOA_00265	COG2898	[S] Uncharacterized conserved protein   
+IPLMCBOA_00266	COG0596	[R] Predicted hydrolases or acyltransferases (alpha/beta hydrolase
+IPLMCBOA_00267	ROG2422	
+IPLMCBOA_00268	COG2035	[S] Predicted membrane protein   
+IPLMCBOA_00269	COG2217	[P] Cation transport ATPase   
+IPLMCBOA_00270	COG0358	[L] DNA primase (bacterial type)  
+IPLMCBOA_00271	COG0568	[K] DNA-directed RNA polymerase, sigma subunit (sigma70/sigma32)
+IPLMCBOA_00272	ROG4636	
+IPLMCBOA_00273	COG2996	[S] Uncharacterized protein conserved in bacteria 
+IPLMCBOA_00274	COG0735	[P] Fe2+/Zn2+ uptake regulation proteins  
+IPLMCBOA_00275	COG4974	[L] Site-specific recombinase XerD   
+IPLMCBOA_00276	ROG0764	
+IPLMCBOA_00277	COG1354	[S] Uncharacterized conserved protein   
+IPLMCBOA_00278	COG1386	[K] Predicted transcriptional regulator containing the HTH
+IPLMCBOA_00279	COG1187	[J] 16S rRNA uridine-516 pseudouridylate synthase and
+IPLMCBOA_00280	COG3601	[S] Predicted membrane protein   
+IPLMCBOA_00281	COG1288	[S] Predicted membrane protein   
+IPLMCBOA_00282	COG0624	[E] Acetylornithine deacetylase/Succinyl-diaminopimelate desuccinylase and related deacylases
+IPLMCBOA_00283	ROG0259	
+IPLMCBOA_00284	COG3654	[R] Prophage maintenance system killer protein 
+IPLMCBOA_00285	COG2267	[I] Lysophospholipase     
+IPLMCBOA_00286	COG1141	[C] Ferredoxin     
+IPLMCBOA_00287	COG4955	[S] Uncharacterized protein conserved in bacteria 
+IPLMCBOA_00288	COG0514	[L] Superfamily II DNA helicase  
+IPLMCBOA_00289	ROG8311	
+IPLMCBOA_00290	COG0283	[F] Cytidylate kinase    
+IPLMCBOA_00291	COG0539	[J] Ribosomal protein S1   
+IPLMCBOA_00292	COG1160	[R] Predicted GTPases    
+IPLMCBOA_00293	COG0776	[L] Bacterial nucleoid DNA-binding protein  
+IPLMCBOA_00295	COG0457	[R] FOG: TPR repeat   
+IPLMCBOA_00296	COG5582	[S] Uncharacterized conserved protein   
+IPLMCBOA_00297	COG3290	[T] Signal transduction histidine kinase regulating citrate/malate
+IPLMCBOA_00298	COG3279	[KT] Response regulator of the LytR/AlgR family
+IPLMCBOA_00300	ROG1936	
+IPLMCBOA_00302	ROG1632	
+IPLMCBOA_00303	ROG5896	
+IPLMCBOA_00308	COG1284	[S] Uncharacterized conserved protein   
+IPLMCBOA_00309	COG1694	[R] Predicted pyrophosphatase    
+IPLMCBOA_00310	COG0617	[J] tRNA nucleotidyltransferase/poly(A) polymerase   
+IPLMCBOA_00313	COG0025	[P] NhaP-type Na+/H+ and K+/H+ antiporters 
+IPLMCBOA_00314	COG0488	[R] ATPase components of ABC transporters with
+IPLMCBOA_00315	COG0207	[F] Thymidylate synthase    
+IPLMCBOA_00316	COG0262	[H] Dihydrofolate reductase    
+IPLMCBOA_00317	COG1307	[S] Uncharacterized protein conserved in bacteria 
+IPLMCBOA_00318	COG2755	[E] Lysophospholipase L1 and related esterases 
+IPLMCBOA_00319	COG4698	[S] Uncharacterized protein conserved in bacteria 
+IPLMCBOA_00320	COG0225	[O] Peptide methionine sulfoxide reductase  
+IPLMCBOA_00321	COG4479	[S] Uncharacterized protein conserved in bacteria 
+IPLMCBOA_00322	COG0681	[U] Signal peptidase I   
+IPLMCBOA_00323	COG3607	[R] Predicted lactoylglutathione lyase   
+IPLMCBOA_00325	COG2932	[K] Predicted transcriptional regulator   
+IPLMCBOA_00326	ROG2099	
+IPLMCBOA_00327	COG1161	[R] Predicted GTPases    
+IPLMCBOA_00328	COG0164	[L] Ribonuclease HII    
+IPLMCBOA_00329	COG0758	[LU] Predicted Rossmann fold nucleotide-binding protein involved
+IPLMCBOA_00330	COG0550	[L] Topoisomerase IA    
+IPLMCBOA_00331	COG1206	[J] NAD(FAD)-utilizing enzyme possibly involved in translation
+IPLMCBOA_00332	COG4974	[L] Site-specific recombinase XerD   
+IPLMCBOA_00333	COG5405	[O] ATP-dependent protease HslVU (ClpYQ), peptidase subunit
+IPLMCBOA_00334	COG1220	[O] ATP-dependent protease HslVU (ClpYQ), ATPase subunit
+IPLMCBOA_00335	COG4465	[K] Pleiotropic transcriptional repressor   
+IPLMCBOA_00336	COG0676	[G] Uncharacterized enzymes related to aldose 1-epimerase
+IPLMCBOA_00337	COG0344	[S] Predicted membrane protein   
+IPLMCBOA_00338	COG1832	[R] Predicted CoA-binding protein   
+IPLMCBOA_00339	COG0187	[L] Type IIA topoisomerase (DNA gyrase/topo II,
+IPLMCBOA_00340	COG0188	[L] Type IIA topoisomerase (DNA gyrase/topo II,
+IPLMCBOA_00341	COG1882	[C] Pyruvate-formate lyase    
+IPLMCBOA_00342	COG1180	[O] Pyruvate-formate lyase-activating enzyme   
+IPLMCBOA_00343	COG1227	[C] Inorganic pyrophosphatase/exopolyphosphatase    
+IPLMCBOA_00347	COG4843	[S] Uncharacterized protein conserved in bacteria 
+IPLMCBOA_00349	COG1073	[R] Hydrolases of the alpha/beta superfamily 
+IPLMCBOA_00350	COG1609	[K] Transcriptional regulators    
+IPLMCBOA_00352	COG0604	[CR] NADPH:quinone reductase and related Zn-dependent oxidoreductases
+IPLMCBOA_00353	COG1284	[S] Uncharacterized conserved protein   
+IPLMCBOA_00355	COG1732	[M] Periplasmic glycine betaine/choline-binding (lipo)protein of an
+IPLMCBOA_00356	COG1125	[E] ABC-type proline/glycine betaine transport systems, ATPase
+IPLMCBOA_00357	ROG4163	
+IPLMCBOA_00358	ROG4163	
+IPLMCBOA_00361	ROG2228	
+IPLMCBOA_00364	ROG4978	
+IPLMCBOA_00365	COG2217	[P] Cation transport ATPase   
+IPLMCBOA_00366	COG0640	[K] Predicted transcriptional regulators   
+IPLMCBOA_00367	COG1230	[P] Co/Zn/Cd efflux system component  
+IPLMCBOA_00368	COG4300	[P] Predicted permease, cadmium resistance protein 
+IPLMCBOA_00369	COG0640	[K] Predicted transcriptional regulators   
+IPLMCBOA_00370	COG1476	[K] Predicted transcriptional regulators   
+IPLMCBOA_00372	COG4300	[P] Predicted permease, cadmium resistance protein 
+IPLMCBOA_00373	COG0640	[K] Predicted transcriptional regulators   
+IPLMCBOA_00374	ROG2541	
+IPLMCBOA_00375	COG2096	[S] Uncharacterized conserved protein   
+IPLMCBOA_00376	COG0209	[F] Ribonucleotide reductase, alpha subunit  
+IPLMCBOA_00377	ROG0237	
+IPLMCBOA_00378	COG3316	[L] Transposase and inactivated derivatives  
+IPLMCBOA_00379	COG3316	[L] Transposase and inactivated derivatives  
+IPLMCBOA_00380	COG3316	[L] Transposase and inactivated derivatives  
+IPLMCBOA_00381	COG4531	[P] ABC-type Zn2+ transport system, periplasmic component/surface
+IPLMCBOA_00382	COG0662	[G] Mannose-6-phosphate isomerase    
+IPLMCBOA_00383	COG0526	[OC] Thiol-disulfide isomerase and thioredoxins  
+IPLMCBOA_00384	COG0492	[O] Thioredoxin reductase    
+IPLMCBOA_00385	COG0607	[P] Rhodanese-related sulfurtransferase    
+IPLMCBOA_00386	COG3666	[L] Transposase and inactivated derivatives  
+IPLMCBOA_00387	COG3039	[L] Transposase and inactivated derivatives, IS5 family
+IPLMCBOA_00388	ROG4823	
+IPLMCBOA_00390	ROG7258	
+IPLMCBOA_00392	COG0106	[E] Phosphoribosylformimino-5-aminoimidazole carboxamide ribonucleotide (ProFAR) isomerase 
+IPLMCBOA_00394	COG0270	[L] Site-specific DNA methylase   
+IPLMCBOA_00395	COG1817	[S] Uncharacterized protein conserved in archaea 
+IPLMCBOA_00397	ROG2931	
+IPLMCBOA_00398	COG0629	[L] Single-stranded DNA-binding protein   
+IPLMCBOA_00399	COG3316	[L] Transposase and inactivated derivatives  
+IPLMCBOA_00400	COG1321	[K] Mn-dependent transcriptional regulator   
+IPLMCBOA_00401	COG0364	[G] Glucose-6-phosphate 1-dehydrogenase    
+IPLMCBOA_00402	COG0060	[J] Isoleucyl-tRNA synthetase    
+IPLMCBOA_00403	COG3599	[D] Cell division initiation protein  
+IPLMCBOA_00404	COG2302	[S] Uncharacterized conserved protein, contains S4-like domain
+IPLMCBOA_00405	COG1799	[S] Uncharacterized protein conserved in bacteria 
+IPLMCBOA_00406	COG0325	[R] Predicted enzyme with a TIM-barrel fold
+IPLMCBOA_00407	COG0206	[D] Cell division GTPase   
+IPLMCBOA_00408	COG0849	[D] Actin-like ATPase involved in cell division
+IPLMCBOA_00409	COG1589	[M] Cell division septal protein  
+IPLMCBOA_00410	COG0707	[M] UDP-N-acetylglucosamine:LPS N-acetylglucosamine transferase   
+IPLMCBOA_00411	COG0771	[M] UDP-N-acetylmuramoylalanine-D-glutamate ligase    
+IPLMCBOA_00412	COG0472	[M] UDP-N-acetylmuramyl pentapeptide phosphotransferase/UDP-N-acetylglucosamine-1-phosphate transferase  
+IPLMCBOA_00413	COG0768	[M] Cell division protein FtsI/penicillin-binding protein 2
+IPLMCBOA_00414	ROG2031	
+IPLMCBOA_00415	COG0275	[M] Predicted S-adenosylmethionine-dependent methyltransferase involved in cell
+IPLMCBOA_00416	COG2001	[S] Uncharacterized protein conserved in bacteria 
+IPLMCBOA_00418	COG0598	[P] Mg2+ and Co2+ transporters  
+IPLMCBOA_00420	COG0497	[L] ATPase involved in DNA repair 
+IPLMCBOA_00421	COG1438	[K] Arginine repressor    
+IPLMCBOA_00422	COG1189	[J] Predicted rRNA methylase   
+IPLMCBOA_00423	COG0142	[H] Geranylgeranyl pyrophosphate synthase   
+IPLMCBOA_00424	COG1722	[L] Exonuclease VII small subunit  
+IPLMCBOA_00425	COG1570	[L] Exonuclease VII, large subunit  
+IPLMCBOA_00426	COG0190	[H] 5,10-methylene-tetrahydrofolate dehydrogenase/Methenyl tetrahydrofolate cyclohydrolase  
+IPLMCBOA_00427	COG0781	[K] Transcription termination factor   
+IPLMCBOA_00428	COG1302	[S] Uncharacterized protein conserved in bacteria 
+IPLMCBOA_00429	COG0006	[E] Xaa-Pro aminopeptidase    
+IPLMCBOA_00430	COG2261	[S] Predicted membrane protein   
+IPLMCBOA_00431	COG4687	[S] Uncharacterized protein conserved in bacteria 
+IPLMCBOA_00432	COG3716	[G] Phosphotransferase system, mannose/fructose/N-acetylgalactosamine-specific component IID 
+IPLMCBOA_00433	COG3715	[G] Phosphotransferase system, mannose/fructose/N-acetylgalactosamine-specific component IIC 
+IPLMCBOA_00434	COG3444	[G] Phosphotransferase system, mannose/fructose/N-acetylgalactosamine-specific component IIB 
+IPLMCBOA_00435	COG3444	[G] Phosphotransferase system, mannose/fructose/N-acetylgalactosamine-specific component IIB 
+IPLMCBOA_00436	COG1221	[KT] Transcriptional regulators containing an AAA-type ATPase
+IPLMCBOA_00437	COG0211	[J] Ribosomal protein L27   
+IPLMCBOA_00438	COG2868	[J] Predicted ribosomal protein   
+IPLMCBOA_00439	COG0261	[J] Ribosomal protein L21   
+IPLMCBOA_00440	COG1573	[L] Uracil-DNA glycosylase    
+IPLMCBOA_00441	COG0789	[K] Predicted transcriptional regulators   
+IPLMCBOA_00442	COG0659	[P] Sulfate permease and related transporters (MFS
+IPLMCBOA_00443	COG3759	[S] Predicted membrane protein   
+IPLMCBOA_00444	ROG7690	
+IPLMCBOA_00445	COG1309	[K] Transcriptional regulator    
+IPLMCBOA_00447	COG1266	[R] Predicted metal-dependent membrane protease  
+IPLMCBOA_00449	COG4122	[R] Predicted O-methyltransferase    
+IPLMCBOA_00452	COG3547	[L] Transposase and inactivated derivatives  
+IPLMCBOA_00454	COG0095	[H] Lipoate-protein ligase A   
+IPLMCBOA_00455	COG1234	[R] Metal-dependent hydrolases of the beta-lactamase superfamily
+IPLMCBOA_00456	ROG0319	
+IPLMCBOA_00457	COG1363	[G] Cellulase M and related proteins 
+IPLMCBOA_00458	COG3966	[M] Protein involved in D-alanine esterification of
+IPLMCBOA_00459	ROG6154	
+IPLMCBOA_00460	COG1696	[M] Predicted membrane protein involved in D-alanine
+IPLMCBOA_00461	COG1020	[Q] Non-ribosomal peptide synthetase modules and related
+IPLMCBOA_00462	ROG7624	
+IPLMCBOA_00463	ROG3052	
+IPLMCBOA_00464	COG1136	[V] ABC-type antimicrobial peptide transport system, ATPase
+IPLMCBOA_00465	COG1328	[F] Oxygen-sensitive ribonucleoside-triphosphate reductase   
+IPLMCBOA_00466	COG0602	[O] Organic radical activating enzymes  
+IPLMCBOA_00467	COG0389	[L] Nucleotidyltransferase/DNA polymerase involved in DNA repair
+IPLMCBOA_00468	COG0313	[R] Predicted methyltransferases    
+IPLMCBOA_00469	COG4467	[S] Uncharacterized protein conserved in bacteria 
+IPLMCBOA_00470	COG1774	[S] Uncharacterized homolog of PSP1  
+IPLMCBOA_00471	COG2812	[L] DNA polymerase III, gamma/tau subunits 
+IPLMCBOA_00472	COG3870	[S] Uncharacterized protein conserved in bacteria 
+IPLMCBOA_00473	COG0125	[F] Thymidylate kinase    
+IPLMCBOA_00474	COG0353	[L] Recombinational DNA repair protein (RecF pathway)
+IPLMCBOA_00475	COG0718	[S] Uncharacterized protein conserved in bacteria 
+IPLMCBOA_00476	COG2812	[L] DNA polymerase III, gamma/tau subunits 
+IPLMCBOA_00477	COG4260	[S] Putative virion core protein (lumpy skin
+IPLMCBOA_00478	ROG0309	
+IPLMCBOA_00479	COG1512	[R] Beta-propeller domains of methanol dehydrogenase type
+IPLMCBOA_00481	COG1455	[G] Phosphotransferase system cellobiose-specific component IIC 
+IPLMCBOA_00482	COG3979	[R] Uncharacterized protein contain chitin-binding domain type
+IPLMCBOA_00484	COG3575	[S] Uncharacterized protein conserved in bacteria 
+IPLMCBOA_00485	COG0254	[J] Ribosomal protein L31   
+IPLMCBOA_00486	COG1158	[K] Transcription termination factor   
+IPLMCBOA_00487	COG0766	[M] UDP-N-acetylglucosamine enolpyruvyl transferase   
+IPLMCBOA_00488	COG0191	[G] Fructose/tagatose bisphosphate aldolase   
+IPLMCBOA_00489	COG0504	[F] CTP synthase (UTP-ammonia lyase)  
+IPLMCBOA_00491	COG0609	[P] ABC-type Fe3+-siderophore transport system, permease component
+IPLMCBOA_00492	COG0609	[P] ABC-type Fe3+-siderophore transport system, permease component
+IPLMCBOA_00493	COG1120	[PH] ABC-type cobalamin/Fe3+-siderophores transport systems, ATPase components
+IPLMCBOA_00494	COG0614	[P] ABC-type Fe3+-hydroxamate transport system, periplasmic component
+IPLMCBOA_00495	COG0745	[TK] Response regulators consisting of a CheY-like
+IPLMCBOA_00496	COG2205	[T] Osmosensitive K+ channel histidine kinase 
+IPLMCBOA_00497	COG2156	[P] K+-transporting ATPase, c chain  
+IPLMCBOA_00498	COG2216	[P] High-affinity K+ transport system, ATPase chain
+IPLMCBOA_00499	COG2060	[P] K+-transporting ATPase, A chain  
+IPLMCBOA_00500	COG0262	[H] Dihydrofolate reductase    
+IPLMCBOA_00501	COG0267	[J] Ribosomal protein L33   
+IPLMCBOA_00502	COG4876	[S] Uncharacterized protein conserved in bacteria 
+IPLMCBOA_00503	COG0367	[E] Asparagine synthase (glutamine-hydrolyzing)   
+IPLMCBOA_00504	COG1426	[S] Uncharacterized protein conserved in bacteria 
+IPLMCBOA_00506	COG1309	[K] Transcriptional regulator    
+IPLMCBOA_00507	ROG4499	
+IPLMCBOA_00509	COG0398	[S] Uncharacterized conserved protein   
+IPLMCBOA_00510	COG4781	[C] Membrane domain of membrane-anchored glycerophosphoryl diester
+IPLMCBOA_00511	COG0586	[S] Uncharacterized membrane-associated protein   
+IPLMCBOA_00513	COG4824	[R] Phage-related holin (Lysis protein)  
+IPLMCBOA_00514	COG2932	[K] Predicted transcriptional regulator   
+IPLMCBOA_00515	COG2856	[E] Predicted Zn peptidase   
+IPLMCBOA_00516	COG4748	[S] Uncharacterized conserved protein   
+IPLMCBOA_00517	COG0454	[KR] Histone acetyltransferase HPA2 and related acetyltransferases
+IPLMCBOA_00518	COG1278	[K] Cold shock proteins   
+IPLMCBOA_00519	ROG1225	
+IPLMCBOA_00520	COG0166	[G] Glucose-6-phosphate isomerase    
+IPLMCBOA_00521	COG0334	[E] Glutamate dehydrogenase/leucine dehydrogenase   
+IPLMCBOA_00522	COG2081	[R] Predicted flavoproteins    
+IPLMCBOA_00523	COG2606	[S] Uncharacterized conserved protein   
+IPLMCBOA_00524	COG0710	[E] 3-dehydroquinate dehydratase    
+IPLMCBOA_00525	COG1092	[R] Predicted SAM-dependent methyltransferases   
+IPLMCBOA_00526	COG1368	[M] Phosphoglycerol transferase and related proteins, alkaline
+IPLMCBOA_00528	ROG7818	
+IPLMCBOA_00529	COG0642	[T] Signal transduction histidine kinase  
+IPLMCBOA_00530	COG0745	[TK] Response regulators consisting of a CheY-like
+IPLMCBOA_00531	ROG6554	
+IPLMCBOA_00532	COG0561	[R] Predicted hydrolases of the HAD superfamily
+IPLMCBOA_00533	COG5016	[C] Pyruvate/oxaloacetate carboxyltransferase    
+IPLMCBOA_00534	COG3697	[HI] Phosphoribosyl-dephospho-CoA transferase (holo-ACP synthetase)  
+IPLMCBOA_00535	COG3051	[C] Citrate lyase, alpha subunit  
+IPLMCBOA_00536	COG2301	[G] Citrate lyase beta subunit  
+IPLMCBOA_00537	COG3052	[C] Citrate lyase, gamma subunit  
+IPLMCBOA_00538	COG3053	[C] Citrate lyase synthetase   
+IPLMCBOA_00539	COG2271	[G] Sugar phosphate permease   
+IPLMCBOA_00540	COG1883	[C] Na+-transporting methylmalonyl-CoA/oxaloacetate decarboxylase, beta subunit 
+IPLMCBOA_00541	COG4770	[I] Acetyl/propionyl-CoA carboxylase, alpha subunit  
+IPLMCBOA_00543	COG2851	[C] H+/citrate symporter    
+IPLMCBOA_00544	COG1802	[K] Transcriptional regulators    
+IPLMCBOA_00545	COG1767	[H] Triphosphoribosyl-dephospho-CoA synthetase    
+IPLMCBOA_00546	COG0745	[TK] Response regulators consisting of a CheY-like
+IPLMCBOA_00548	COG1359	[S] Uncharacterized conserved protein   
+IPLMCBOA_00549	COG0778	[C] Nitroreductase     
+IPLMCBOA_00550	COG1846	[K] Transcriptional regulators    
+IPLMCBOA_00551	ROG1680	
+IPLMCBOA_00552	COG1956	[T] GAF domain-containing protein   
+IPLMCBOA_00553	COG3527	[Q] Alpha-acetolactate decarboxylase    
+IPLMCBOA_00554	COG0028	[EH] Thiamine pyrophosphate-requiring enzymes [acetolactate synthase, pyruvate
+IPLMCBOA_00555	COG1247	[M] Sortase and related acyltransferases  
+IPLMCBOA_00556	COG1537	[R] Predicted RNA-binding proteins   
+IPLMCBOA_00557	COG0267	[J] Ribosomal protein L33   
+IPLMCBOA_00558	COG3525	[G] N-acetyl-beta-hexosaminidase     
+IPLMCBOA_00559	ROG6730	
+IPLMCBOA_00560	COG1349	[KG] Transcriptional regulators of sugar metabolism 
+IPLMCBOA_00561	COG0546	[R] Predicted phosphatases    
+IPLMCBOA_00562	COG0075	[E] Serine-pyruvate aminotransferase/archaeal aspartate aminotransferase  
+IPLMCBOA_00563	COG1840	[P] ABC-type Fe3+ transport system, periplasmic component
+IPLMCBOA_00564	COG1178	[P] ABC-type Fe3+ transport system, permease component
+IPLMCBOA_00565	COG3842	[E] ABC-type spermidine/putrescine transport systems, ATPase components
+IPLMCBOA_00566	COG1154	[HI] Deoxyxylulose-5-phosphate synthase    
+IPLMCBOA_00567	ROG6247	
+IPLMCBOA_00569	COG3117	[S] Uncharacterized protein conserved in bacteria 
+IPLMCBOA_00571	ROG4163	
+IPLMCBOA_00576	ROG0697	
+IPLMCBOA_00577	COG1054	[R] Predicted sulfurtransferase    
+IPLMCBOA_00579	COG2183	[K] Transcriptional accessory protein   
+IPLMCBOA_00580	COG3091	[S] Uncharacterized protein conserved in bacteria 
+IPLMCBOA_00581	COG1434	[S] Uncharacterized conserved protein   
+IPLMCBOA_00582	COG0773	[M] UDP-N-acetylmuramate-alanine ligase    
+IPLMCBOA_00583	ROG2306	
+IPLMCBOA_00584	COG0670	[R] Integral membrane protein, interacts with FtsH
+IPLMCBOA_00585	COG0749	[L] DNA polymerase I - 3'-5' exonuclease
+IPLMCBOA_00586	COG0266	[L] Formamidopyrimidine-DNA glycosylase    
+IPLMCBOA_00587	COG0237	[H] Dephospho-CoA kinase    
+IPLMCBOA_00589	COG1327	[K] Predicted transcriptional regulator, consists of a
+IPLMCBOA_00590	COG3611	[L] Replication initiation/membrane attachment protein  
+IPLMCBOA_00591	COG1484	[L] DNA replication protein   
+IPLMCBOA_00592	ROG3131	
+IPLMCBOA_00593	COG2384	[R] Predicted SAM-dependent methyltransferase   
+IPLMCBOA_00594	COG0327	[S] Uncharacterized conserved protein   
+IPLMCBOA_00595	COG2195	[E] Di- and tripeptidases   
+IPLMCBOA_00596	COG1597	[IR] Sphingosine kinase and enzymes related to
+IPLMCBOA_00597	COG3326	[S] Predicted membrane protein   
+IPLMCBOA_00598	COG0392	[S] Predicted integral membrane protein  
+IPLMCBOA_00599	COG2188	[K] Transcriptional regulators    
+IPLMCBOA_00600	COG0624	[E] Acetylornithine deacetylase/Succinyl-diaminopimelate desuccinylase and related deacylases
+IPLMCBOA_00601	COG1446	[E] Asparaginase     
+IPLMCBOA_00602	COG1440	[G] Phosphotransferase system cellobiose-specific component IIB 
+IPLMCBOA_00603	COG1455	[G] Phosphotransferase system cellobiose-specific component IIC 
+IPLMCBOA_00604	ROG2504	
+IPLMCBOA_00605	COG0542	[O] ATPases with chaperone activity, ATP-binding subunit
+IPLMCBOA_00606	COG3711	[K] Transcriptional antiterminator    
+IPLMCBOA_00607	COG1762	[GT] Phosphotransferase system mannitol/fructose-specific IIA domain (Ntr-type)
+IPLMCBOA_00608	COG1445	[G] Phosphotransferase system fructose-specific component IIB 
+IPLMCBOA_00609	COG1299	[G] Phosphotransferase system, fructose-specific IIC component 
+IPLMCBOA_00610	COG0383	[G] Alpha-mannosidase     
+IPLMCBOA_00611	COG4975	[G] Putative glucose uptake permease  
+IPLMCBOA_00612	ROG0137	
+IPLMCBOA_00613	COG3613	[F] Nucleoside 2-deoxyribosyltransferase    
+IPLMCBOA_00614	COG4552	[R] Predicted acetyltransferase involved in intracellular survival
+IPLMCBOA_00615	COG0481	[M] Membrane GTPase LepA   
+IPLMCBOA_00616	COG0582	[L] Integrase     
+IPLMCBOA_00617	ROG7287	
+IPLMCBOA_00618	COG2856	[E] Predicted Zn peptidase   
+IPLMCBOA_00619	COG1396	[K] Predicted transcriptional regulators   
+IPLMCBOA_00620	COG1476	[K] Predicted transcriptional regulators   
+IPLMCBOA_00624	ROG2040	
+IPLMCBOA_00625	ROG5714	
+IPLMCBOA_00627	COG5377	[L] Phage-related protein, predicted endonuclease  
+IPLMCBOA_00628	COG3723	[L] Recombinational DNA repair protein (RecE pathway)
+IPLMCBOA_00629	COG3935	[L] Putative primosome component and related proteins
+IPLMCBOA_00630	ROG2013	
+IPLMCBOA_00631	ROG7430	
+IPLMCBOA_00637	ROG1680	
+IPLMCBOA_00638	ROG0245	
+IPLMCBOA_00640	COG1595	[K] DNA-directed RNA polymerase specialized sigma subunit,
+IPLMCBOA_00642	ROG4582	
+IPLMCBOA_00645	COG5484	[S] Uncharacterized conserved protein   
+IPLMCBOA_00646	COG1783	[R] Phage terminase large subunit  
+IPLMCBOA_00647	ROG2781	
+IPLMCBOA_00648	ROG2932	
+IPLMCBOA_00649	ROG1636	
+IPLMCBOA_00650	ROG3494	
+IPLMCBOA_00656	ROG4379	
+IPLMCBOA_00658	ROG0251	
+IPLMCBOA_00659	ROG8241	
+IPLMCBOA_00660	ROG7670	
+IPLMCBOA_00661	ROG0923	
+IPLMCBOA_00662	ROG3190	
+IPLMCBOA_00664	COG0160	[E] 4-aminobutyrate aminotransferase and related aminotransferases 
+IPLMCBOA_00665	ROG3733	
+IPLMCBOA_00667	COG1388	[M] FOG: LysM repeat   
+IPLMCBOA_00669	COG1278	[K] Cold shock proteins   
+IPLMCBOA_00671	COG1429	[H] Cobalamin biosynthesis protein CobN and related
+IPLMCBOA_00672	COG3290	[T] Signal transduction histidine kinase regulating citrate/malate
+IPLMCBOA_00673	COG3279	[KT] Response regulator of the LytR/AlgR family
+IPLMCBOA_00674	ROG1388	
+IPLMCBOA_00675	ROG1627	
+IPLMCBOA_00677	COG1770	[E] Protease II    
+IPLMCBOA_00678	COG1136	[V] ABC-type antimicrobial peptide transport system, ATPase
+IPLMCBOA_00679	COG4990	[S] Uncharacterized protein conserved in bacteria 
+IPLMCBOA_00680	COG5294	[S] Uncharacterized protein conserved in bacteria 
+IPLMCBOA_00681	COG0199	[J] Ribosomal protein S14   
+IPLMCBOA_00682	COG0333	[J] Ribosomal protein L32   
+IPLMCBOA_00684	COG5341	[S] Uncharacterized protein conserved in bacteria 
+IPLMCBOA_00685	COG4810	[E] Ethanolamine utilization protein   
+IPLMCBOA_00686	COG4917	[E] Ethanolamine utilization protein   
+IPLMCBOA_00687	COG4936	[TK] Predicted sensor domain   
+IPLMCBOA_00688	COG4577	[QC] Carbon dioxide concentrating mechanism/carboxysome shell protein
+IPLMCBOA_00689	COG4816	[E] Ethanolamine utilization protein   
+IPLMCBOA_00690	COG4909	[Q] Propanediol dehydratase, large subunit  
+IPLMCBOA_00691	ROG6636	
+IPLMCBOA_00692	COG4910	[Q] Propanediol dehydratase, small subunit  
+IPLMCBOA_00693	ROG4508	
+IPLMCBOA_00694	ROG6636	
+IPLMCBOA_00695	COG4577	[QC] Carbon dioxide concentrating mechanism/carboxysome shell protein
+IPLMCBOA_00696	COG4577	[QC] Carbon dioxide concentrating mechanism/carboxysome shell protein
+IPLMCBOA_00697	COG4869	[Q] Propanediol utilization protein   
+IPLMCBOA_00698	COG4820	[E] Ethanolamine utilization protein, possible chaperonin 
+IPLMCBOA_00699	ROG8322	
+IPLMCBOA_00700	COG4576	[QC] Carbon dioxide concentrating mechanism/carboxysome shell protein
+IPLMCBOA_00701	COG2096	[S] Uncharacterized conserved protein   
+IPLMCBOA_00703	COG1454	[C] Alcohol dehydrogenase, class IV  
+IPLMCBOA_00704	COG0580	[G] Glycerol uptake facilitator and related permeases
+IPLMCBOA_00705	COG0282	[C] Acetate kinase    
+IPLMCBOA_00706	COG4555	[CP] ABC-type Na+ transport system, ATPase component
+IPLMCBOA_00707	COG4555	[CP] ABC-type Na+ transport system, ATPase component
+IPLMCBOA_00708	COG1277	[R] ABC-type transport system involved in multi-copper
+IPLMCBOA_00709	ROG2081	
+IPLMCBOA_00710	COG0664	[T] cAMP-binding proteins - catabolite gene activator
+IPLMCBOA_00711	COG2608	[P] Copper chaperone    
+IPLMCBOA_00712	COG2217	[P] Cation transport ATPase   
+IPLMCBOA_00713	COG4974	[L] Site-specific recombinase XerD   
+IPLMCBOA_00714	COG2963	[L] Transposase and inactivated derivatives  
+IPLMCBOA_00715	COG2801	[L] Transposase and inactivated derivatives  
+IPLMCBOA_00716	COG0524	[G] Sugar kinases, ribokinase family  
+IPLMCBOA_00717	COG2222	[M] Predicted phosphosugar isomerases   
+IPLMCBOA_00718	COG3716	[G] Phosphotransferase system, mannose/fructose/N-acetylgalactosamine-specific component IID 
+IPLMCBOA_00719	COG3715	[G] Phosphotransferase system, mannose/fructose/N-acetylgalactosamine-specific component IIC 
+IPLMCBOA_00720	COG3444	[G] Phosphotransferase system, mannose/fructose/N-acetylgalactosamine-specific component IIB 
+IPLMCBOA_00721	COG2893	[G] Phosphotransferase system, mannose/fructose-specific component IIA 
+IPLMCBOA_00722	COG1221	[KT] Transcriptional regulators containing an AAA-type ATPase
+IPLMCBOA_00724	COG3666	[L] Transposase and inactivated derivatives  
+IPLMCBOA_00725	COG3344	[L] Retron-type reverse transcriptase   
+IPLMCBOA_00726	COG1820	[G] N-acetylglucosamine-6-phosphate deacetylase    
+IPLMCBOA_00727	COG4821	[R] Uncharacterized protein containing SIS (Sugar ISomerase)
+IPLMCBOA_00728	COG2893	[G] Phosphotransferase system, mannose/fructose-specific component IIA 
+IPLMCBOA_00729	COG3716	[G] Phosphotransferase system, mannose/fructose/N-acetylgalactosamine-specific component IID 
+IPLMCBOA_00730	COG3444	[G] Phosphotransferase system, mannose/fructose/N-acetylgalactosamine-specific component IIB 
+IPLMCBOA_00731	COG2188	[K] Transcriptional regulators    
+IPLMCBOA_00732	ROG3100	
+IPLMCBOA_00733	COG1192	[D] ATPases involved in chromosome partitioning 
+IPLMCBOA_00736	ROG0514	
+IPLMCBOA_00738	COG1192	[D] ATPases involved in chromosome partitioning 
+IPLMCBOA_00739	COG0389	[L] Nucleotidyltransferase/DNA polymerase involved in DNA repair
+IPLMCBOA_00740	ROG1612	
+IPLMCBOA_00741	COG2135	[S] Uncharacterized conserved protein   
+IPLMCBOA_00742	COG3682	[K] Predicted transcriptional regulator   
+IPLMCBOA_00743	COG2217	[P] Cation transport ATPase   
+IPLMCBOA_00744	COG2608	[P] Copper chaperone    
+IPLMCBOA_00745	COG2217	[P] Cation transport ATPase   
+IPLMCBOA_00746	COG0563	[F] Adenylate kinase and related kinases 
+IPLMCBOA_00747	COG3764	[M] Sortase (surface protein transpeptidase)  
+IPLMCBOA_00748	COG0739	[M] Membrane proteins related to metalloendopeptidases 
+IPLMCBOA_00749	COG5341	[S] Uncharacterized protein conserved in bacteria 
+IPLMCBOA_00750	COG2801	[L] Transposase and inactivated derivatives  
+IPLMCBOA_00751	COG2963	[L] Transposase and inactivated derivatives  
+IPLMCBOA_00752	ROG1575	
+IPLMCBOA_00753	ROG0888	
+IPLMCBOA_00754	ROG0888	
+IPLMCBOA_00755	COG0682	[M] Prolipoprotein diacylglyceryltransferase    
+IPLMCBOA_00756	COG4478	[S] Predicted membrane protein   
+IPLMCBOA_00757	COG2217	[P] Cation transport ATPase   
+IPLMCBOA_00758	COG2217	[P] Cation transport ATPase   
+IPLMCBOA_00759	COG2608	[P] Copper chaperone    
+IPLMCBOA_00760	COG2608	[P] Copper chaperone    
+IPLMCBOA_00761	COG2132	[Q] Putative multicopper oxidases   
+IPLMCBOA_00762	COG0745	[TK] Response regulators consisting of a CheY-like
+IPLMCBOA_00763	COG0642	[T] Signal transduction histidine kinase  
+IPLMCBOA_00765	ROG4831	
+IPLMCBOA_00767	COG1284	[S] Uncharacterized conserved protein   
+IPLMCBOA_00768	COG4753	[T] Response regulator containing CheY-like receiver domain
+IPLMCBOA_00769	COG2972	[T] Predicted signal transduction protein with a
+IPLMCBOA_00770	COG1879	[G] ABC-type sugar transport system, periplasmic component
+IPLMCBOA_00771	COG4213	[G] ABC-type xylose transport system, periplasmic component
+IPLMCBOA_00772	COG1129	[G] ABC-type sugar transport system, ATPase component
+IPLMCBOA_00773	COG4214	[G] ABC-type xylose transport system, permease component
+IPLMCBOA_00774	COG1440	[G] Phosphotransferase system cellobiose-specific component IIB 
+IPLMCBOA_00775	COG1609	[K] Transcriptional regulators    
+IPLMCBOA_00776	COG1070	[G] Sugar (pentulose and hexulose) kinases 
+IPLMCBOA_00777	COG0235	[G] Ribulose-5-phosphate 4-epimerase and related epimerases and
+IPLMCBOA_00778	COG2160	[G] L-arabinose isomerase    
+IPLMCBOA_00779	COG3957	[G] Phosphoketolase     
+IPLMCBOA_00782	ROG7668	
+IPLMCBOA_00783	COG2770	[T] FOG: HAMP domain   
+IPLMCBOA_00784	ROG1429	
+IPLMCBOA_00786	ROG3213	
+IPLMCBOA_00788	COG0604	[CR] NADPH:quinone reductase and related Zn-dependent oxidoreductases
+IPLMCBOA_00789	COG3077	[L] DNA-damage-inducible protein J   
+IPLMCBOA_00791	COG0463	[M] Glycosyltransferases involved in cell wall biogenesis
+IPLMCBOA_00792	COG1233	[Q] Phytoene dehydrogenase and related proteins 
+IPLMCBOA_00793	COG1502	[I] Phosphatidylserine/phosphatidylglycerophosphate/cardiolipin synthases and related enzymes 
+IPLMCBOA_00794	ROG7668	
+IPLMCBOA_00795	ROG1429	
+IPLMCBOA_00796	ROG7668	
+IPLMCBOA_00798	ROG7009	
+IPLMCBOA_00799	COG0640	[K] Predicted transcriptional regulators   
+IPLMCBOA_00800	COG1012	[C] NAD-dependent aldehyde dehydrogenases   
+IPLMCBOA_00802	ROG3379	
+IPLMCBOA_00803	ROG1253	
+IPLMCBOA_00804	ROG1632	
+IPLMCBOA_00805	COG2365	[T] Protein tyrosine/serine phosphatase   
+IPLMCBOA_00806	COG1834	[E] N-Dimethylarginine dimethylaminohydrolase    
+IPLMCBOA_00807	ROG3078	
+IPLMCBOA_00808	COG2723	[G] Beta-glucosidase/6-phospho-beta-glucosidase/beta-galactosidase     
+IPLMCBOA_00809	COG2893	[G] Phosphotransferase system, mannose/fructose-specific component IIA 
+IPLMCBOA_00810	COG3716	[G] Phosphotransferase system, mannose/fructose/N-acetylgalactosamine-specific component IID 
+IPLMCBOA_00811	COG3715	[G] Phosphotransferase system, mannose/fructose/N-acetylgalactosamine-specific component IIC 
+IPLMCBOA_00812	COG3444	[G] Phosphotransferase system, mannose/fructose/N-acetylgalactosamine-specific component IIB 
+IPLMCBOA_00813	COG3684	[G] Tagatose-1,6-bisphosphate aldolase    
+IPLMCBOA_00814	COG2222	[M] Predicted phosphosugar isomerases   
+IPLMCBOA_00815	COG2188	[K] Transcriptional regulators    
+IPLMCBOA_00816	COG3684	[G] Tagatose-1,6-bisphosphate aldolase    
+IPLMCBOA_00817	COG1762	[GT] Phosphotransferase system mannitol/fructose-specific IIA domain (Ntr-type)
+IPLMCBOA_00818	COG1299	[G] Phosphotransferase system, fructose-specific IIC component 
+IPLMCBOA_00819	COG1105	[G] Fructose-1-phosphate kinase and related fructose-6-phosphate kinase
+IPLMCBOA_00820	COG1737	[K] Transcriptional regulators    
+IPLMCBOA_00822	COG3711	[K] Transcriptional antiterminator    
+IPLMCBOA_00824	ROG1429	
+IPLMCBOA_00825	ROG7668	
+IPLMCBOA_00826	ROG7668	
+IPLMCBOA_00827	COG1705	[NU] Muramidase (flagellum-specific)    
+IPLMCBOA_00828	ROG1632	
+IPLMCBOA_00831	COG1320	[P] Multisubunit Na+/H+ antiporter, MnhG subunit 
+IPLMCBOA_00833	COG0446	[R] Uncharacterized NAD(FAD)-dependent dehydrogenases   
+IPLMCBOA_00834	COG0436	[E] Aspartate/tyrosine/aromatic aminotransferase    
+IPLMCBOA_00835	COG1473	[R] Metal-dependent amidase/aminoacylase/carboxypeptidase    
+IPLMCBOA_00836	COG0527	[E] Aspartokinases     
+IPLMCBOA_00837	COG0136	[E] Aspartate-semialdehyde dehydrogenase    
+IPLMCBOA_00838	COG2171	[E] Tetrahydrodipicolinate N-succinyltransferase    
+IPLMCBOA_00839	COG0289	[E] Dihydrodipicolinate reductase    
+IPLMCBOA_00840	COG0329	[EM] Dihydrodipicolinate synthase/N-acetylneuraminate lyase   
+IPLMCBOA_00841	COG0253	[E] Diaminopimelate epimerase    
+IPLMCBOA_00842	COG0019	[E] Diaminopimelate decarboxylase    
+IPLMCBOA_00843	COG1272	[R] Predicted membrane protein, hemolysin III homolog
+IPLMCBOA_00844	COG3764	[M] Sortase (surface protein transpeptidase)  
+IPLMCBOA_00845	ROG1862	
+IPLMCBOA_00846	ROG1862	
+IPLMCBOA_00847	ROG1862	
+IPLMCBOA_00848	ROG7009	
+IPLMCBOA_00849	COG0231	[J] Translation elongation factor P (EF-P)/translation initiation
+IPLMCBOA_00850	COG0031	[E] Cysteine synthase    
+IPLMCBOA_00851	COG0626	[E] Cystathionine beta-lyases/cystathionine gamma-synthases   
+IPLMCBOA_00852	COG1854	[T] LuxS protein involved in autoinducer AI2
+IPLMCBOA_00853	COG0386	[O] Glutathione peroxidase    
+IPLMCBOA_00855	COG1823	[R] Predicted Na+/dicarboxylate symporter   
+IPLMCBOA_00856	COG4835	[S] Uncharacterized protein conserved in bacteria 
+IPLMCBOA_00857	COG0546	[R] Predicted phosphatases    
+IPLMCBOA_00858	ROG2729	
+IPLMCBOA_00859	COG1316	[K] Transcriptional regulator    
+IPLMCBOA_00861	ROG0194	
+IPLMCBOA_00862	ROG0026	
+IPLMCBOA_00863	ROG0026	
+IPLMCBOA_00864	COG0395	[G] ABC-type sugar transport system, permease component
+IPLMCBOA_00865	COG1175	[G] ABC-type sugar transport systems, permease components
+IPLMCBOA_00866	COG1653	[G] ABC-type sugar transport system, periplasmic component
+IPLMCBOA_00867	COG4753	[T] Response regulator containing CheY-like receiver domain
+IPLMCBOA_00868	COG2972	[T] Predicted signal transduction protein with a
+IPLMCBOA_00869	COG3250	[G] Beta-galactosidase/beta-glucuronidase     
+IPLMCBOA_00870	COG3250	[G] Beta-galactosidase/beta-glucuronidase     
+IPLMCBOA_00871	COG3345	[G] Alpha-galactosidase     
+IPLMCBOA_00872	COG1609	[K] Transcriptional regulators    
+IPLMCBOA_00873	COG0620	[E] Methionine synthase II (cobalamin-independent)  
+IPLMCBOA_00874	COG2452	[L] Predicted site-specific integrase-resolvase   
+IPLMCBOA_00875	COG1132	[V] ABC-type multidrug transport system, ATPase and
+IPLMCBOA_00876	COG1132	[V] ABC-type multidrug transport system, ATPase and
+IPLMCBOA_00877	ROG1632	
+IPLMCBOA_00878	ROG7009	
+IPLMCBOA_00879	ROG0888	
+IPLMCBOA_00880	ROG3463	
+IPLMCBOA_00881	ROG7461	
+IPLMCBOA_00883	COG2217	[P] Cation transport ATPase   
+IPLMCBOA_00885	COG0622	[R] Predicted phosphoesterase    
+IPLMCBOA_00886	COG1178	[P] ABC-type Fe3+ transport system, permease component
+IPLMCBOA_00887	COG1840	[P] ABC-type Fe3+ transport system, periplasmic component
+IPLMCBOA_00888	COG3842	[E] ABC-type spermidine/putrescine transport systems, ATPase components
+IPLMCBOA_00890	COG1455	[G] Phosphotransferase system cellobiose-specific component IIC 
+IPLMCBOA_00891	COG0561	[R] Predicted hydrolases of the HAD superfamily
+IPLMCBOA_00892	COG0457	[R] FOG: TPR repeat   
+IPLMCBOA_00893	COG4092	[M] Predicted glycosyltransferase involved in capsule biosynthesis
+IPLMCBOA_00894	COG4997	[S] Uncharacterized conserved protein   
+IPLMCBOA_00896	COG0520	[E] Selenocysteine lyase    
+IPLMCBOA_00897	COG1396	[K] Predicted transcriptional regulators   
+IPLMCBOA_00898	COG2265	[J] SAM-dependent methyltransferases related to tRNA (uracil-5-)-methyltransferase
+IPLMCBOA_00899	COG1597	[IR] Sphingosine kinase and enzymes related to
+IPLMCBOA_00900	COG0064	[J] Asp-tRNAAsn/Glu-tRNAGln amidotransferase B subunit (PET112 homolog)
+IPLMCBOA_00901	COG0154	[J] Asp-tRNAAsn/Glu-tRNAGln amidotransferase A subunit and related
+IPLMCBOA_00902	COG0721	[J] Asp-tRNAAsn/Glu-tRNAGln amidotransferase C subunit  
+IPLMCBOA_00903	COG0272	[L] NAD-dependent DNA ligase (contains BRCT domain
+IPLMCBOA_00904	COG0210	[L] Superfamily I DNA and RNA helicases
+IPLMCBOA_00905	ROG0195	
+IPLMCBOA_00908	COG0471	[P] Di- and tricarboxylate transporters  
+IPLMCBOA_00909	COG1729	[S] Uncharacterized protein conserved in bacteria 
+IPLMCBOA_00910	ROG4790	
+IPLMCBOA_00912	COG1299	[G] Phosphotransferase system, fructose-specific IIC component 
+IPLMCBOA_00913	COG1105	[G] Fructose-1-phosphate kinase and related fructose-6-phosphate kinase
+IPLMCBOA_00914	COG1349	[KG] Transcriptional regulators of sugar metabolism 
+IPLMCBOA_00917	COG0218	[R] Predicted GTPase    
+IPLMCBOA_00918	COG1219	[O] ATP-dependent protease Clp, ATPase subunit 
+IPLMCBOA_00919	COG0544	[O] FKBP-type peptidyl-prolyl cis-trans isomerase (trigger factor)
+IPLMCBOA_00920	ROG1882	
+IPLMCBOA_00921	COG1714	[S] Predicted membrane protein/domain   
+IPLMCBOA_00922	COG0616	[OU] Periplasmic serine proteases (ClpP class) 
+IPLMCBOA_00924	COG0449	[M] Glucosamine 6-phosphate synthetase, contains amidotransferase and
+IPLMCBOA_00925	COG1109	[G] Phosphomannomutase     
+IPLMCBOA_00926	COG4856	[S] Uncharacterized protein conserved in bacteria 
+IPLMCBOA_00927	COG1624	[S] Uncharacterized conserved protein   
+IPLMCBOA_00928	COG0674	[C] Pyruvate:ferredoxin oxidoreductase and related 2-oxoacid:ferredoxin oxidoreductases,
+IPLMCBOA_00929	COG1651	[O] Protein-disulfide isomerase    
+IPLMCBOA_00930	ROG1960	
+IPLMCBOA_00931	ROG1960	
+IPLMCBOA_00932	COG1481	[S] Uncharacterized protein conserved in bacteria 
+IPLMCBOA_00933	COG0391	[S] Uncharacterized conserved protein   
+IPLMCBOA_00934	COG1660	[R] Predicted P-loop-containing kinase   
+IPLMCBOA_00935	COG4181	[Q] Predicted ABC-type transport system involved in
+IPLMCBOA_00937	COG0477	[GEPR] Permeases of the major facilitator superfamily
+IPLMCBOA_00940	COG0454	[KR] Histone acetyltransferase HPA2 and related acetyltransferases
+IPLMCBOA_00941	COG1996	[K] DNA-directed RNA polymerase, subunit RPC10 (contains
+IPLMCBOA_00943	COG0346	[E] Lactoylglutathione lyase and related lyases 
+IPLMCBOA_00944	COG3201	[H] Nicotinamide mononucleotide transporter   
+IPLMCBOA_00946	COG2039	[O] Pyrrolidone-carboxylate peptidase (N-terminal pyroglutamyl peptidase) 
+IPLMCBOA_00947	COG3817	[S] Predicted membrane protein   
+IPLMCBOA_00948	COG3819	[S] Predicted membrane protein   
+IPLMCBOA_00949	ROG1688	
+IPLMCBOA_00950	COG0531	[E] Amino acid transporters   
+IPLMCBOA_00951	COG1780	[F] Protein involved in ribonucleotide reduction 
+IPLMCBOA_00952	COG2190	[G] Phosphotransferase system IIA components  
+IPLMCBOA_00953	COG2103	[R] Predicted sugar phosphate isomerase  
+IPLMCBOA_00954	COG3589	[S] Uncharacterized conserved protein   
+IPLMCBOA_00958	ROG4433	
+IPLMCBOA_00959	ROG3131	
+IPLMCBOA_00960	COG0406	[G] Fructose-2,6-bisphosphatase     
+IPLMCBOA_00961	COG0406	[G] Fructose-2,6-bisphosphatase     
+IPLMCBOA_00962	COG0488	[R] ATPase components of ABC transporters with
+IPLMCBOA_00963	COG1929	[G] Glycerate kinase    
+IPLMCBOA_00964	ROG3667	
+IPLMCBOA_00965	COG1113	[E] Gamma-aminobutyrate permease and related permeases 
+IPLMCBOA_00966	COG1757	[C] Na+/H+ antiporter    
+IPLMCBOA_00967	COG0624	[E] Acetylornithine deacetylase/Succinyl-diaminopimelate desuccinylase and related deacylases
+IPLMCBOA_00968	COG1464	[P] ABC-type metal ion transport system, periplasmic
+IPLMCBOA_00969	COG2011	[P] ABC-type metal ion transport system, permease
+IPLMCBOA_00970	COG1135	[P] ABC-type metal ion transport system, ATPase
+IPLMCBOA_00971	COG0637	[R] Predicted phosphatase/phosphohexomutase    
+IPLMCBOA_00972	ROG7009	
+IPLMCBOA_00974	ROG1429	
+IPLMCBOA_00975	ROG7668	
+IPLMCBOA_00976	ROG7668	
+IPLMCBOA_00977	ROG7668	
+IPLMCBOA_00978	ROG3338	
+IPLMCBOA_00979	ROG6265	
+IPLMCBOA_00980	ROG5073	
+IPLMCBOA_00981	COG0474	[P] Cation transport ATPase   
+IPLMCBOA_00983	COG0105	[F] Nucleoside diphosphate kinase   
+IPLMCBOA_00984	COG1396	[K] Predicted transcriptional regulators   
+IPLMCBOA_00985	COG1368	[M] Phosphoglycerol transferase and related proteins, alkaline
+IPLMCBOA_00987	COG2723	[G] Beta-glucosidase/6-phospho-beta-glucosidase/beta-galactosidase     
+IPLMCBOA_00988	ROG0568	
+IPLMCBOA_00990	COG1428	[F] Deoxynucleoside kinases    
+IPLMCBOA_00991	COG3613	[F] Nucleoside 2-deoxyribosyltransferase    
+IPLMCBOA_00992	COG1611	[R] Predicted Rossmann fold nucleotide-binding protein 
+IPLMCBOA_00993	COG0524	[G] Sugar kinases, ribokinase family  
+IPLMCBOA_00994	ROG1892	
+IPLMCBOA_00995	COG1921	[E] Selenocysteine synthase [seryl-tRNASer selenium transferase] 
+IPLMCBOA_00996	COG3964	[R] Predicted amidohydrolase    
+IPLMCBOA_00997	COG3589	[S] Uncharacterized conserved protein   
+IPLMCBOA_00998	COG1455	[G] Phosphotransferase system cellobiose-specific component IIC 
+IPLMCBOA_00999	COG2188	[K] Transcriptional regulators    
+IPLMCBOA_01000	COG2723	[G] Beta-glucosidase/6-phospho-beta-glucosidase/beta-galactosidase     
+IPLMCBOA_01001	COG2190	[G] Phosphotransferase system IIA components  
+IPLMCBOA_01002	COG3711	[K] Transcriptional antiterminator    
+IPLMCBOA_01003	COG3764	[M] Sortase (surface protein transpeptidase)  
+IPLMCBOA_01004	ROG0806	
+IPLMCBOA_01005	COG2211	[G] Na+/melibiose symporter and related transporters 
+IPLMCBOA_01006	COG3010	[G] Putative N-acetylmannosamine-6-phosphate epimerase   
+IPLMCBOA_01007	COG0613	[R] Predicted metal-dependent phosphoesterases (PHP family) 
+IPLMCBOA_01008	COG3639	[P] ABC-type phosphate/phosphonate transport system, permease component
+IPLMCBOA_01009	COG3639	[P] ABC-type phosphate/phosphonate transport system, permease component
+IPLMCBOA_01010	COG3638	[P] ABC-type phosphate/phosphonate transport system, ATPase component
+IPLMCBOA_01011	COG3221	[P] ABC-type phosphate/phosphonate transport system, periplasmic component
+IPLMCBOA_01012	COG1597	[IR] Sphingosine kinase and enzymes related to
+IPLMCBOA_01013	COG4766	[E] Ethanolamine utilization protein   
+IPLMCBOA_01014	COG3192	[E] Ethanolamine utilization protein   
+IPLMCBOA_01015	COG4576	[QC] Carbon dioxide concentrating mechanism/carboxysome shell protein
+IPLMCBOA_01016	ROG3749	
+IPLMCBOA_01017	COG4869	[Q] Propanediol utilization protein   
+IPLMCBOA_01018	COG4812	[E] Ethanolamine utilization cobalamin adenosyltransferase  
+IPLMCBOA_01019	COG4577	[QC] Carbon dioxide concentrating mechanism/carboxysome shell protein
+IPLMCBOA_01020	COG0014	[E] Gamma-glutamyl phosphate reductase   
+IPLMCBOA_01021	COG4577	[QC] Carbon dioxide concentrating mechanism/carboxysome shell protein
+IPLMCBOA_01022	COG4816	[E] Ethanolamine utilization protein   
+IPLMCBOA_01023	COG4302	[E] Ethanolamine ammonia-lyase, small subunit  
+IPLMCBOA_01024	COG4303	[E] Ethanolamine ammonia-lyase, large subunit  
+IPLMCBOA_01025	COG4819	[E] Ethanolamine utilization protein, possible chaperonin protecting
+IPLMCBOA_01026	COG3920	[T] Signal transduction histidine kinase  
+IPLMCBOA_01027	COG3707	[T] Response regulator with putative antiterminator output
+IPLMCBOA_01028	COG4810	[E] Ethanolamine utilization protein   
+IPLMCBOA_01029	COG1454	[C] Alcohol dehydrogenase, class IV  
+IPLMCBOA_01030	COG2096	[S] Uncharacterized conserved protein   
+IPLMCBOA_01031	COG4917	[E] Ethanolamine utilization protein   
+IPLMCBOA_01032	COG1373	[R] Predicted ATPase (AAA+ superfamily)  
+IPLMCBOA_01033	ROG1641	
+IPLMCBOA_01034	COG1455	[G] Phosphotransferase system cellobiose-specific component IIC 
+IPLMCBOA_01035	COG2188	[K] Transcriptional regulators    
+IPLMCBOA_01036	COG1705	[NU] Muramidase (flagellum-specific)    
+IPLMCBOA_01037	ROG0682	
+IPLMCBOA_01038	COG1109	[G] Phosphomannomutase     
+IPLMCBOA_01039	COG2152	[G] Predicted glycosylase    
+IPLMCBOA_01041	COG0366	[G] Glycosidases     
+IPLMCBOA_01042	COG0395	[G] ABC-type sugar transport system, permease component
+IPLMCBOA_01043	COG1175	[G] ABC-type sugar transport systems, permease components
+IPLMCBOA_01044	COG1653	[G] ABC-type sugar transport system, periplasmic component
+IPLMCBOA_01045	COG1609	[K] Transcriptional regulators    
+IPLMCBOA_01046	ROG5831	
+IPLMCBOA_01047	ROG1808	
+IPLMCBOA_01048	COG0338	[L] Site-specific DNA methylase   
+IPLMCBOA_01049	COG1120	[PH] ABC-type cobalamin/Fe3+-siderophores transport systems, ATPase components
+IPLMCBOA_01050	COG2096	[S] Uncharacterized conserved protein   
+IPLMCBOA_01051	COG0609	[P] ABC-type Fe3+-siderophore transport system, permease component
+IPLMCBOA_01052	COG0614	[P] ABC-type Fe3+-hydroxamate transport system, periplasmic component
+IPLMCBOA_01055	COG4767	[V] Glycopeptide antibiotics resistance protein  
+IPLMCBOA_01056	COG2723	[G] Beta-glucosidase/6-phospho-beta-glucosidase/beta-galactosidase     
+IPLMCBOA_01057	COG2190	[G] Phosphotransferase system IIA components  
+IPLMCBOA_01058	COG3711	[K] Transcriptional antiterminator    
+IPLMCBOA_01061	COG1713	[H] Predicted HD superfamily hydrolase involved in
+IPLMCBOA_01065	COG0025	[P] NhaP-type Na+/H+ and K+/H+ antiporters 
+IPLMCBOA_01066	COG5002	[T] Signal transduction histidine kinase  
+IPLMCBOA_01067	COG0745	[TK] Response regulators consisting of a CheY-like
+IPLMCBOA_01068	COG0362	[G] 6-phosphogluconate dehydrogenase    
+IPLMCBOA_01069	COG0333	[J] Ribosomal protein L32   
+IPLMCBOA_01070	COG1399	[R] Predicted metal-binding, possibly nucleic acid-binding protein
+IPLMCBOA_01071	COG0679	[R] Predicted permeases    
+IPLMCBOA_01072	COG0583	[K] Transcriptional regulator    
+IPLMCBOA_01073	COG0469	[G] Pyruvate kinase    
+IPLMCBOA_01074	COG0205	[G] 6-phosphofructokinase     
+IPLMCBOA_01075	COG0587	[L] DNA polymerase III, alpha subunit 
+IPLMCBOA_01076	COG5658	[S] Predicted integral membrane protein  
+IPLMCBOA_01077	ROG2472	
+IPLMCBOA_01078	COG2252	[R] Permeases     
+IPLMCBOA_01079	COG0561	[R] Predicted hydrolases of the HAD superfamily
+IPLMCBOA_01080	COG0768	[M] Cell division protein FtsI/penicillin-binding protein 2
+IPLMCBOA_01081	COG1737	[K] Transcriptional regulators    
+IPLMCBOA_01082	COG0346	[E] Lactoylglutathione lyase and related lyases 
+IPLMCBOA_01083	ROG4388	
+IPLMCBOA_01084	COG0441	[J] Threonyl-tRNA synthetase    
+IPLMCBOA_01086	COG1942	[R] Uncharacterized protein, 4-oxalocrotonate tautomerase homolog 
+IPLMCBOA_01087	COG2217	[P] Cation transport ATPase   
+IPLMCBOA_01088	COG3973	[R] Superfamily I DNA and RNA helicases
+IPLMCBOA_01090	COG0217	[S] Uncharacterized conserved protein   
+IPLMCBOA_01091	COG1323	[R] Predicted nucleotidyltransferase    
+IPLMCBOA_01092	COG0500	[QR] SAM-dependent methyltransferases    
+IPLMCBOA_01093	COG0799	[S] Uncharacterized homolog of plant Iojap protein
+IPLMCBOA_01094	COG1713	[H] Predicted HD superfamily hydrolase involved in
+IPLMCBOA_01095	COG1057	[H] Nicotinic acid mononucleotide adenylyltransferase  
+IPLMCBOA_01096	COG1534	[J] Predicted RNA-binding protein containing KH domain,
+IPLMCBOA_01097	COG1161	[R] Predicted GTPases    
+IPLMCBOA_01098	COG2179	[R] Predicted hydrolase of the HAD superfamily
+IPLMCBOA_01099	COG1126	[E] ABC-type polar amino acid transport system,
+IPLMCBOA_01100	COG0765	[E] ABC-type amino acid transport system, permease
+IPLMCBOA_01101	COG0834	[ET] ABC-type amino acid transport/signal transduction systems,
+IPLMCBOA_01102	ROG1014	
+IPLMCBOA_01103	ROG1014	
+IPLMCBOA_01104	COG5340	[K] Predicted transcriptional regulator   
+IPLMCBOA_01105	COG0675	[L] Transposase and inactivated derivatives  
+IPLMCBOA_01106	ROG4819	
+IPLMCBOA_01107	ROG1014	
+IPLMCBOA_01108	COG5340	[K] Predicted transcriptional regulator   
+IPLMCBOA_01109	COG0825	[I] Acetyl-CoA carboxylase alpha subunit  
+IPLMCBOA_01110	COG0777	[I] Acetyl-CoA carboxylase beta subunit  
+IPLMCBOA_01111	COG0439	[I] Biotin carboxylase    
+IPLMCBOA_01112	COG0764	[I] 3-hydroxymyristoyl/3-hydroxydecanoyl-(acyl carrier protein) dehydratases  
+IPLMCBOA_01113	COG0511	[I] Biotin carboxyl carrier protein  
+IPLMCBOA_01114	COG0304	[IQ] 3-oxoacyl-(acyl-carrier-protein) synthase    
+IPLMCBOA_01115	COG1028	[IQR] Dehydrogenases with different specificities (related to
+IPLMCBOA_01116	COG0331	[I] (acyl-carrier-protein) S-malonyltransferase    
+IPLMCBOA_01117	COG0236	[IQ] Acyl carrier protein   
+IPLMCBOA_01118	COG0332	[I] 3-oxoacyl-[acyl-carrier-protein] synthase III   
+IPLMCBOA_01119	COG1846	[K] Transcriptional regulators    
+IPLMCBOA_01120	COG0322	[L] Nuclease subunit of the excinuclease complex
+IPLMCBOA_01121	COG4703	[S] Uncharacterized protein conserved in bacteria 
+IPLMCBOA_01122	COG2084	[I] 3-hydroxyisobutyrate dehydrogenase and related beta-hydroxyacid dehydrogenases
+IPLMCBOA_01123	COG0438	[M] Glycosyltransferase     
+IPLMCBOA_01124	COG0438	[M] Glycosyltransferase     
+IPLMCBOA_01125	COG1080	[G] Phosphoenolpyruvate-protein kinase (PTS system EI component
+IPLMCBOA_01126	COG1925	[G] Phosphotransferase system, HPr-related proteins  
+IPLMCBOA_01127	COG0542	[O] ATPases with chaperone activity, ATP-binding subunit
+IPLMCBOA_01128	ROG1955	
+IPLMCBOA_01130	COG4108	[J] Peptide chain release factor RF-3 
+IPLMCBOA_01131	COG1253	[R] Hemolysins and related proteins containing CBS
+IPLMCBOA_01132	COG0628	[R] Predicted permease    
+IPLMCBOA_01133	COG2153	[R] Predicted acyltransferase    
+IPLMCBOA_01134	COG3557	[J] Uncharacterized domain/protein associated with RNAses G
+IPLMCBOA_01135	COG1194	[L] A/G-specific DNA glycosylase   
+IPLMCBOA_01136	COG2137	[R] Uncharacterized protein conserved in bacteria 
+IPLMCBOA_01137	COG2265	[J] SAM-dependent methyltransferases related to tRNA (uracil-5-)-methyltransferase
+IPLMCBOA_01138	COG3597	[S] Uncharacterized protein/domain associated with GTPases 
+IPLMCBOA_01139	COG3397	[S] Uncharacterized protein conserved in bacteria 
+IPLMCBOA_01140	ROG1669	
+IPLMCBOA_01141	COG3476	[T] Tryptophan-rich sensory protein (mitochondrial benzodiazepine receptor
+IPLMCBOA_01151	ROG2647	
+IPLMCBOA_01152	COG0192	[H] S-adenosylmethionine synthetase    
+IPLMCBOA_01153	COG0477	[GEPR] Permeases of the major facilitator superfamily
+IPLMCBOA_01154	COG0627	[R] Predicted esterase    
+IPLMCBOA_01155	COG1607	[I] Acyl-CoA hydrolase    
+IPLMCBOA_01157	COG1132	[V] ABC-type multidrug transport system, ATPase and
+IPLMCBOA_01158	COG1132	[V] ABC-type multidrug transport system, ATPase and
+IPLMCBOA_01160	COG4798	[R] Predicted methyltransferase    
+IPLMCBOA_01161	COG1242	[R] Predicted Fe-S oxidoreductase   
+IPLMCBOA_01162	COG0671	[I] Membrane-associated phospholipid phosphatase   
+IPLMCBOA_01163	COG1388	[M] FOG: LysM repeat   
+IPLMCBOA_01164	COG0495	[J] Leucyl-tRNA synthetase    
+IPLMCBOA_01166	COG0552	[U] Signal recognition particle GTPase  
+IPLMCBOA_01167	COG1440	[G] Phosphotransferase system cellobiose-specific component IIB 
+IPLMCBOA_01168	COG3711	[K] Transcriptional antiterminator    
+IPLMCBOA_01169	COG1447	[G] Phosphotransferase system cellobiose-specific component IIA 
+IPLMCBOA_01170	ROG7153	
+IPLMCBOA_01171	COG1455	[G] Phosphotransferase system cellobiose-specific component IIC 
+IPLMCBOA_01173	ROG1691	
+IPLMCBOA_01174	COG0677	[M] UDP-N-acetyl-D-mannosaminuronate dehydrogenase    
+IPLMCBOA_01175	COG3944	[M] Capsular polysaccharide biosynthesis protein  
+IPLMCBOA_01176	COG0455	[D] ATPases involved in chromosome partitioning 
+IPLMCBOA_01177	COG2148	[M] Sugar transferases involved in lipopolysaccharide synthesis
+IPLMCBOA_01178	COG1922	[M] Teichoic acid biosynthesis proteins  
+IPLMCBOA_01180	COG2244	[R] Membrane protein involved in the export
+IPLMCBOA_01181	COG0438	[M] Glycosyltransferase     
+IPLMCBOA_01182	COG0381	[M] UDP-N-acetylglucosamine 2-epimerase    
+IPLMCBOA_01183	ROG7009	
+IPLMCBOA_01185	COG1316	[K] Transcriptional regulator    
+IPLMCBOA_01186	COG1878	[R] Predicted metal-dependent hydrolase   
+IPLMCBOA_01191	COG0769	[M] UDP-N-acetylmuramyl tripeptide synthase   
+IPLMCBOA_01195	COG2244	[R] Membrane protein involved in the export
+IPLMCBOA_01196	COG1187	[J] 16S rRNA uridine-516 pseudouridylate synthase and
+IPLMCBOA_01197	COG2884	[D] Predicted ATPase involved in cell division
+IPLMCBOA_01199	COG4209	[G] ABC-type polysaccharide transport system, permease component
+IPLMCBOA_01200	COG0395	[G] ABC-type sugar transport system, permease component
+IPLMCBOA_01201	COG1653	[G] ABC-type sugar transport system, periplasmic component
+IPLMCBOA_01202	COG5578	[S] Predicted integral membrane protein  
+IPLMCBOA_01203	COG2972	[T] Predicted signal transduction protein with a
+IPLMCBOA_01204	COG4753	[T] Response regulator containing CheY-like receiver domain
+IPLMCBOA_01205	COG3537	[G] Putative alpha-1,2-mannosidase    
+IPLMCBOA_01206	COG1609	[K] Transcriptional regulators    
+IPLMCBOA_01207	COG3538	[S] Uncharacterized conserved protein   
+IPLMCBOA_01208	COG0383	[G] Alpha-mannosidase     
+IPLMCBOA_01209	COG1940	[KG] Transcriptional regulator/sugar kinase   
+IPLMCBOA_01210	COG4978	[KT] Transcriptional regulator, effector-binding domain/component  
+IPLMCBOA_01211	COG0564	[J] Pseudouridylate synthases, 23S RNA-specific  
+IPLMCBOA_01212	COG0744	[M] Membrane carboxypeptidase (penicillin-binding protein)  
+IPLMCBOA_01213	COG3679	[S] Uncharacterized conserved protein   
+IPLMCBOA_01214	ROG6983	
+IPLMCBOA_01215	ROG2874	
+IPLMCBOA_01216	COG1489	[R] DNA-binding protein, stimulates sugar fermentation 
+IPLMCBOA_01217	COG0673	[R] Predicted dehydrogenases and related proteins 
+IPLMCBOA_01218	COG0513	[LKJ] Superfamily II DNA and RNA helicases
+IPLMCBOA_01219	COG1221	[KT] Transcriptional regulators containing an AAA-type ATPase
+IPLMCBOA_01220	COG1440	[G] Phosphotransferase system cellobiose-specific component IIB 
+IPLMCBOA_01221	COG1447	[G] Phosphotransferase system cellobiose-specific component IIA 
+IPLMCBOA_01222	COG1455	[G] Phosphotransferase system cellobiose-specific component IIC 
+IPLMCBOA_01223	ROG8506	
+IPLMCBOA_01224	COG0531	[E] Amino acid transporters   
+IPLMCBOA_01225	ROG2833	
+IPLMCBOA_01226	COG4552	[R] Predicted acetyltransferase involved in intracellular survival
+IPLMCBOA_01227	ROG1068	
+IPLMCBOA_01230	COG2309	[E] Leucyl aminopeptidase (aminopeptidase T)  
+IPLMCBOA_01231	ROG3002	
+IPLMCBOA_01232	COG0716	[C] Flavodoxins     
+IPLMCBOA_01233	COG0024	[J] Methionine aminopeptidase    
+IPLMCBOA_01234	COG1295	[S] Predicted membrane protein   
+IPLMCBOA_01235	COG0472	[M] UDP-N-acetylmuramyl pentapeptide phosphotransferase/UDP-N-acetylglucosamine-1-phosphate transferase  
+IPLMCBOA_01236	COG1216	[R] Predicted glycosyltransferases    
+IPLMCBOA_01238	COG0463	[M] Glycosyltransferases involved in cell wall biogenesis
+IPLMCBOA_01239	COG1209	[M] dTDP-glucose pyrophosphorylase    
+IPLMCBOA_01240	COG1898	[M] dTDP-4-dehydrorhamnose 3,5-epimerase and related enzymes 
+IPLMCBOA_01241	COG1088	[M] dTDP-D-glucose 4,6-dehydratase    
+IPLMCBOA_01242	COG1091	[M] dTDP-4-dehydrorhamnose reductase    
+IPLMCBOA_01245	COG1682	[GM] ABC-type polysaccharide/polyol phosphate export systems, permease
+IPLMCBOA_01246	COG1134	[GM] ABC-type polysaccharide/polyol phosphate transport system, ATPase
+IPLMCBOA_01247	COG0500	[QR] SAM-dependent methyltransferases    
+IPLMCBOA_01248	COG1216	[R] Predicted glycosyltransferases    
+IPLMCBOA_01250	COG2148	[M] Sugar transferases involved in lipopolysaccharide synthesis
+IPLMCBOA_01251	COG0463	[M] Glycosyltransferases involved in cell wall biogenesis
+IPLMCBOA_01252	COG1211	[I] 4-diphosphocytidyl-2-methyl-D-erithritol synthase    
+IPLMCBOA_01253	COG0451	[MG] Nucleoside-diphosphate-sugar epimerases    
+IPLMCBOA_01254	COG0438	[M] Glycosyltransferase     
+IPLMCBOA_01255	COG3475	[M] LPS biosynthesis protein   
+IPLMCBOA_01256	COG1216	[R] Predicted glycosyltransferases    
+IPLMCBOA_01257	ROG3078	
+IPLMCBOA_01258	ROG3142	
+IPLMCBOA_01260	COG0451	[MG] Nucleoside-diphosphate-sugar epimerases    
+IPLMCBOA_01261	COG1680	[V] Beta-lactamase class C and other penicillin
+IPLMCBOA_01262	COG1559	[R] Predicted periplasmic solute-binding protein  
+IPLMCBOA_01263	COG0782	[K] Transcription elongation factor   
+IPLMCBOA_01264	COG4758	[S] Predicted membrane protein   
+IPLMCBOA_01265	COG4585	[T] Signal transduction histidine kinase  
+IPLMCBOA_01266	COG2197	[TK] Response regulator containing a CheY-like receiver
+IPLMCBOA_01267	COG5492	[N] Bacterial surface proteins containing Ig-like domains
+IPLMCBOA_01268	COG2239	[P] Mg/Co/Ni transporter MgtE (contains CBS domain)
+IPLMCBOA_01269	COG0569	[P] K+ transport systems, NAD-binding component 
+IPLMCBOA_01270	COG4841	[S] Uncharacterized protein conserved in bacteria 
+IPLMCBOA_01271	COG1052	[CHR] Lactate dehydrogenase and related dehydrogenases 
+IPLMCBOA_01272	ROG3118	
+IPLMCBOA_01273	COG2246	[S] Predicted membrane protein   
+IPLMCBOA_01274	COG0605	[P] Superoxide dismutase    
+IPLMCBOA_01275	COG1278	[K] Cold shock proteins   
+IPLMCBOA_01276	ROG7009	
+IPLMCBOA_01277	COG1276	[P] Putative copper export protein  
+IPLMCBOA_01278	ROG2496	
+IPLMCBOA_01280	COG0770	[M] UDP-N-acetylmuramyl pentapeptide synthase   
+IPLMCBOA_01281	COG1316	[K] Transcriptional regulator    
+IPLMCBOA_01282	COG2452	[L] Predicted site-specific integrase-resolvase   
+IPLMCBOA_01283	ROG5602	
+IPLMCBOA_01284	COG4932	[M] Predicted outer membrane protein  
+IPLMCBOA_01285	COG4668	[G] Mannitol/fructose-specific phosphotransferase system, IIA domain 
+IPLMCBOA_01286	COG3711	[K] Transcriptional antiterminator    
+IPLMCBOA_01287	COG2213	[G] Phosphotransferase system, mannitol-specific IIBC component 
+IPLMCBOA_01288	COG4975	[G] Putative glucose uptake permease  
+IPLMCBOA_01289	COG1869	[G] ABC-type ribose transport system, auxiliary component
+IPLMCBOA_01290	COG0524	[G] Sugar kinases, ribokinase family  
+IPLMCBOA_01291	COG1482	[G] Phosphomannose isomerase    
+IPLMCBOA_01292	COG1680	[V] Beta-lactamase class C and other penicillin
+IPLMCBOA_01293	ROG7677	
+IPLMCBOA_01294	COG1132	[V] ABC-type multidrug transport system, ATPase and
+IPLMCBOA_01295	COG1132	[V] ABC-type multidrug transport system, ATPase and
+IPLMCBOA_01296	COG1309	[K] Transcriptional regulator    
+IPLMCBOA_01297	COG0607	[P] Rhodanese-related sulfurtransferase    
+IPLMCBOA_01298	COG1182	[I] Acyl carrier protein phosphodiesterase  
+IPLMCBOA_01300	COG1268	[R] Uncharacterized conserved protein   
+IPLMCBOA_01302	COG2706	[G] 3-carboxymuconate cyclase    
+IPLMCBOA_01303	COG3731	[G] Phosphotransferase system sorbitol-specific component IIA 
+IPLMCBOA_01304	COG0628	[R] Predicted permease    
+IPLMCBOA_01305	ROG3088	
+IPLMCBOA_01306	COG1368	[M] Phosphoglycerol transferase and related proteins, alkaline
+IPLMCBOA_01307	COG3940	[R] Predicted beta-xylosidase    
+IPLMCBOA_01308	COG3534	[G] Alpha-L-arabinofuranosidase     
+IPLMCBOA_01309	ROG5412	
+IPLMCBOA_01310	COG0395	[G] ABC-type sugar transport system, permease component
+IPLMCBOA_01311	COG1175	[G] ABC-type sugar transport systems, permease components
+IPLMCBOA_01312	COG1653	[G] ABC-type sugar transport system, periplasmic component
+IPLMCBOA_01313	COG3534	[G] Alpha-L-arabinofuranosidase     
+IPLMCBOA_01314	COG4189	[K] Predicted transcriptional regulator   
+IPLMCBOA_01315	COG0251	[J] Putative translation initiation inhibitor, yjgF family
+IPLMCBOA_01316	COG0171	[H] NAD synthase    
+IPLMCBOA_01317	COG1488	[H] Nicotinic acid phosphoribosyltransferase   
+IPLMCBOA_01318	ROG1955	
+IPLMCBOA_01319	COG0789	[K] Predicted transcriptional regulators   
+IPLMCBOA_01321	COG1609	[K] Transcriptional regulators    
+IPLMCBOA_01323	COG1455	[G] Phosphotransferase system cellobiose-specific component IIC 
+IPLMCBOA_01324	COG0459	[O] Chaperonin GroEL (HSP60 family)  
+IPLMCBOA_01325	COG0234	[O] Co-chaperonin GroES (HSP10)   
+IPLMCBOA_01326	COG1266	[R] Predicted metal-dependent membrane protease  
+IPLMCBOA_01327	COG1235	[R] Metal-dependent hydrolases of the beta-lactamase superfamily
+IPLMCBOA_01328	COG4853	[S] Uncharacterized protein conserved in bacteria 
+IPLMCBOA_01329	COG4863	[S] Uncharacterized protein conserved in bacteria 
+IPLMCBOA_01330	COG5002	[T] Signal transduction histidine kinase  
+IPLMCBOA_01331	COG0745	[TK] Response regulators consisting of a CheY-like
+IPLMCBOA_01332	COG4086	[S] Predicted secreted protein   
+IPLMCBOA_01333	COG1307	[S] Uncharacterized protein conserved in bacteria 
+IPLMCBOA_01334	ROG0143	
+IPLMCBOA_01336	COG0477	[GEPR] Permeases of the major facilitator superfamily
+IPLMCBOA_01338	ROG2481	
+IPLMCBOA_01339	COG0561	[R] Predicted hydrolases of the HAD superfamily
+IPLMCBOA_01340	COG4176	[E] ABC-type proline/glycine betaine transport system, permease
+IPLMCBOA_01341	COG4175	[E] ABC-type proline/glycine betaine transport system, ATPase
+IPLMCBOA_01342	COG0490	[P] Putative regulatory, ligand-binding protein related to
+IPLMCBOA_01343	ROG7262	
+IPLMCBOA_01344	COG0695	[O] Glutaredoxin and related proteins  
+IPLMCBOA_01345	COG0209	[F] Ribonucleotide reductase, alpha subunit  
+IPLMCBOA_01346	COG0208	[F] Ribonucleotide reductase, beta subunit  
+IPLMCBOA_01347	COG0289	[E] Dihydrodipicolinate reductase    
+IPLMCBOA_01348	COG0686	[E] Alanine dehydrogenase    
+IPLMCBOA_01349	COG0161	[H] Adenosylmethionine-8-amino-7-oxononanoate aminotransferase    
+IPLMCBOA_01350	COG0679	[R] Predicted permeases    
+IPLMCBOA_01351	COG1052	[CHR] Lactate dehydrogenase and related dehydrogenases 
+IPLMCBOA_01352	COG0702	[MG] Predicted nucleoside-diphosphate-sugar epimerases   
+IPLMCBOA_01353	COG3965	[P] Predicted Co/Zn/Cd cation transporters  
+IPLMCBOA_01355	ROG2954	
+IPLMCBOA_01356	ROG1071	
+IPLMCBOA_01358	ROG0692	
+IPLMCBOA_01359	COG3716	[G] Phosphotransferase system, mannose/fructose/N-acetylgalactosamine-specific component IID 
+IPLMCBOA_01360	COG3715	[G] Phosphotransferase system, mannose/fructose/N-acetylgalactosamine-specific component IIC 
+IPLMCBOA_01361	COG3444	[G] Phosphotransferase system, mannose/fructose/N-acetylgalactosamine-specific component IIB 
+IPLMCBOA_01362	COG2188	[K] Transcriptional regulators    
+IPLMCBOA_01363	ROG0265	
+IPLMCBOA_01364	COG1874	[G] Beta-galactosidase     
+IPLMCBOA_01365	COG0628	[R] Predicted permease    
+IPLMCBOA_01366	COG1285	[S] Uncharacterized membrane protein   
+IPLMCBOA_01367	COG0363	[G] 6-phosphogluconolactonase/Glucosamine-6-phosphate isomerase/deaminase    
+IPLMCBOA_01368	COG3177	[S] Uncharacterized conserved protein   
+IPLMCBOA_01369	COG2814	[G] Arabinose efflux permease   
+IPLMCBOA_01370	COG0398	[S] Uncharacterized conserved protein   
+IPLMCBOA_01371	ROG5463	
+IPLMCBOA_01373	ROG5697	
+IPLMCBOA_01374	COG2865	[K] Predicted transcriptional regulator containing an HTH
+IPLMCBOA_01375	COG2865	[K] Predicted transcriptional regulator containing an HTH
+IPLMCBOA_01377	COG0222	[J] Ribosomal protein L7/L12   
+IPLMCBOA_01378	COG0244	[J] Ribosomal protein L10   
+IPLMCBOA_01379	COG0081	[J] Ribosomal protein L1   
+IPLMCBOA_01380	COG0080	[J] Ribosomal protein L11   
+IPLMCBOA_01381	COG1760	[E] L-serine deaminase    
+IPLMCBOA_01382	COG1760	[E] L-serine deaminase    
+IPLMCBOA_01383	COG0402	[FR] Cytosine deaminase and related metal-dependent hydrolases
+IPLMCBOA_01384	COG1001	[F] Adenine deaminase    
+IPLMCBOA_01385	COG0687	[E] Spermidine/putrescine-binding periplasmic protein   
+IPLMCBOA_01386	COG3842	[E] ABC-type spermidine/putrescine transport systems, ATPase components
+IPLMCBOA_01387	COG1177	[E] ABC-type spermidine/putrescine transport system, permease component
+IPLMCBOA_01388	COG1176	[E] ABC-type spermidine/putrescine transport system, permease component
+IPLMCBOA_01392	COG2884	[D] Predicted ATPase involved in cell division
+IPLMCBOA_01393	COG4555	[CP] ABC-type Na+ transport system, ATPase component
+IPLMCBOA_01394	COG4814	[R] Uncharacterized protein with an alpha/beta hydrolase
+IPLMCBOA_01395	COG0250	[K] Transcription antiterminator    
+IPLMCBOA_01397	ROG1061	
+IPLMCBOA_01398	ROG1465	
+IPLMCBOA_01399	COG0267	[J] Ribosomal protein L33   
+IPLMCBOA_01400	COG0517	[R] FOG: CBS domain   
+IPLMCBOA_01401	COG4708	[S] Predicted membrane protein   
+IPLMCBOA_01402	COG1597	[IR] Sphingosine kinase and enzymes related to
+IPLMCBOA_01403	COG0507	[L] ATP-dependent exoDNAse (exonuclease V), alpha subunit
+IPLMCBOA_01404	COG0406	[G] Fructose-2,6-bisphosphatase     
+IPLMCBOA_01405	COG0219	[J] Predicted rRNA methylase (SpoU class) 
+IPLMCBOA_01406	COG0500	[QR] SAM-dependent methyltransferases    
+IPLMCBOA_01407	COG3142	[P] Uncharacterized protein involved in copper resistance
+IPLMCBOA_01408	COG2239	[P] Mg/Co/Ni transporter MgtE (contains CBS domain)
+IPLMCBOA_01409	COG0564	[J] Pseudouridylate synthases, 23S RNA-specific  
+IPLMCBOA_01410	COG0061	[G] Predicted sugar kinase   
+IPLMCBOA_01411	COG2357	[S] Uncharacterized protein conserved in bacteria 
+IPLMCBOA_01412	COG4116	[S] Uncharacterized protein conserved in bacteria 
+IPLMCBOA_01415	COG0670	[R] Integral membrane protein, interacts with FtsH
+IPLMCBOA_01416	COG3958	[G] Transketolase, C-terminal subunit   
+IPLMCBOA_01417	COG3959	[G] Transketolase, N-terminal subunit   
+IPLMCBOA_01418	COG3037	[S] Uncharacterized protein conserved in bacteria 
+IPLMCBOA_01419	COG3414	[G] Phosphotransferase system, galactitol-specific IIB component 
+IPLMCBOA_01420	COG3711	[K] Transcriptional antiterminator    
+IPLMCBOA_01421	COG3711	[K] Transcriptional antiterminator    
+IPLMCBOA_01422	COG0488	[R] ATPase components of ABC transporters with
+IPLMCBOA_01423	COG1063	[ER] Threonine dehydrogenase and related Zn-dependent dehydrogenases
+IPLMCBOA_01424	COG1164	[E] Oligoendopeptidase F    
+IPLMCBOA_01425	COG4469	[R] Competence protein    
+IPLMCBOA_01426	COG4862	[OTN] Negative regulator of genetic competence, sporulation
+IPLMCBOA_01427	COG1393	[P] Arsenate reductase and related proteins, glutaredoxin
+IPLMCBOA_01428	COG1011	[R] Predicted hydrolase (HAD superfamily)  
+IPLMCBOA_01429	COG0553	[KL] Superfamily II DNA/RNA helicases, SNF2 family
+IPLMCBOA_01430	COG0419	[L] ATPase involved in DNA repair 
+IPLMCBOA_01431	COG0420	[L] DNA repair exonuclease   
+IPLMCBOA_01432	COG0204	[I] 1-acyl-sn-glycerol-3-phosphate acyltransferase    
+IPLMCBOA_01433	COG4123	[R] Predicted O-methyltransferase    
+IPLMCBOA_01434	COG2827	[L] Predicted endonuclease containing a URI domain
+IPLMCBOA_01435	ROG7832	
+IPLMCBOA_01437	ROG5100	
+IPLMCBOA_01440	COG0860	[M] N-acetylmuramoyl-L-alanine amidase    
+IPLMCBOA_01442	COG4824	[R] Phage-related holin (Lysis protein)  
+IPLMCBOA_01444	ROG5511	
+IPLMCBOA_01445	ROG3762	
+IPLMCBOA_01446	COG4926	[S] Phage-related protein    
+IPLMCBOA_01447	COG4722	[S] Phage-related protein    
+IPLMCBOA_01448	COG5412	[S] Phage-related protein    
+IPLMCBOA_01449	ROG4314	
+IPLMCBOA_01450	ROG5308	
+IPLMCBOA_01451	ROG8129	
+IPLMCBOA_01452	ROG5264	
+IPLMCBOA_01454	ROG4718	
+IPLMCBOA_01456	ROG7221	
+IPLMCBOA_01458	ROG4302	
+IPLMCBOA_01460	ROG3483	
+IPLMCBOA_01462	ROG0305	
+IPLMCBOA_01463	COG5410	[S] Uncharacterized protein conserved in bacteria 
+IPLMCBOA_01464	ROG2040	
+IPLMCBOA_01467	ROG4576	
+IPLMCBOA_01471	ROG4723	
+IPLMCBOA_01475	ROG6027	
+IPLMCBOA_01476	COG1694	[R] Predicted pyrophosphatase    
+IPLMCBOA_01477	ROG5274	
+IPLMCBOA_01481	COG3415	[L] Transposase and inactivated derivatives  
+IPLMCBOA_01482	ROG3846	
+IPLMCBOA_01483	ROG7792	
+IPLMCBOA_01484	ROG5713	
+IPLMCBOA_01489	ROG3963	
+IPLMCBOA_01491	ROG5621	
+IPLMCBOA_01492	ROG0229	
+IPLMCBOA_01493	COG3617	[K] Prophage antirepressor    
+IPLMCBOA_01495	COG1513	[P] Cyanate lyase    
+IPLMCBOA_01496	COG2932	[K] Predicted transcriptional regulator   
+IPLMCBOA_01497	ROG1003	
+IPLMCBOA_01498	COG0582	[L] Integrase     
+IPLMCBOA_01499	COG0719	[O] ABC-type transport system involved in Fe-S
+IPLMCBOA_01500	COG0822	[C] NifU homolog involved in Fe-S cluster
+IPLMCBOA_01501	COG0520	[E] Selenocysteine lyase    
+IPLMCBOA_01502	COG0719	[O] ABC-type transport system involved in Fe-S
+IPLMCBOA_01503	COG0396	[O] ABC-type transport system involved in Fe-S
+IPLMCBOA_01504	COG1464	[P] ABC-type metal ion transport system, periplasmic
+IPLMCBOA_01505	COG2011	[P] ABC-type metal ion transport system, permease
+IPLMCBOA_01506	COG1135	[P] ABC-type metal ion transport system, ATPase
+IPLMCBOA_01507	COG0509	[E] Glycine cleavage system H protein (lipoate-binding)
+IPLMCBOA_01508	COG1393	[P] Arsenate reductase and related proteins, glutaredoxin
+IPLMCBOA_01509	COG0772	[D] Bacterial cell division membrane protein 
+IPLMCBOA_01510	COG0583	[K] Transcriptional regulator    
+IPLMCBOA_01511	COG1275	[P] Tellurite resistance protein and related permeases
+IPLMCBOA_01512	COG2855	[S] Predicted membrane protein   
+IPLMCBOA_01513	COG0350	[L] Methylated DNA-protein cysteine methyltransferase  
+IPLMCBOA_01514	COG0463	[M] Glycosyltransferases involved in cell wall biogenesis
+IPLMCBOA_01516	COG3417	[R] Collagen-binding surface adhesin SpaP (antigen I/II
+IPLMCBOA_01518	COG3940	[R] Predicted beta-xylosidase    
+IPLMCBOA_01519	COG3250	[G] Beta-galactosidase/beta-glucuronidase     
+IPLMCBOA_01520	COG0395	[G] ABC-type sugar transport system, permease component
+IPLMCBOA_01521	COG1175	[G] ABC-type sugar transport systems, permease components
+IPLMCBOA_01522	COG1653	[G] ABC-type sugar transport system, periplasmic component
+IPLMCBOA_01523	COG4189	[K] Predicted transcriptional regulator   
+IPLMCBOA_01524	COG1168	[E] Bifunctional PLP-dependent enzyme with beta-cystathionase and
+IPLMCBOA_01525	COG1263	[G] Phosphotransferase system IIC components, glucose/maltose/N-acetylglucosamine-specific 
+IPLMCBOA_01526	COG1737	[K] Transcriptional regulators    
+IPLMCBOA_01527	COG0363	[G] 6-phosphogluconolactonase/Glucosamine-6-phosphate isomerase/deaminase    
+IPLMCBOA_01530	COG0035	[F] Uracil phosphoribosyltransferase    
+IPLMCBOA_01531	COG0657	[I] Esterase/lipase     
+IPLMCBOA_01532	COG0112	[E] Glycine/serine hydroxymethyltransferase    
+IPLMCBOA_01533	COG0009	[J] Putative translation factor (SUA5)  
+IPLMCBOA_01534	COG2890	[J] Methylase of polypeptide chain release factors
+IPLMCBOA_01535	COG0216	[J] Protein chain release factor A 
+IPLMCBOA_01536	COG1435	[F] Thymidine kinase    
+IPLMCBOA_01537	COG0500	[QR] SAM-dependent methyltransferases    
+IPLMCBOA_01538	COG0760	[O] Parvulin-like peptidyl-prolyl isomerase   
+IPLMCBOA_01539	COG0681	[U] Signal peptidase I   
+IPLMCBOA_01540	ROG2261	
+IPLMCBOA_01542	COG0168	[P] Trk-type K+ transport systems, membrane components
+IPLMCBOA_01543	COG0770	[M] UDP-N-acetylmuramyl pentapeptide synthase   
+IPLMCBOA_01544	COG3442	[R] Predicted glutamine amidotransferase   
+IPLMCBOA_01545	COG0246	[G] Mannitol-1-phosphate/altronate dehydrogenases    
+IPLMCBOA_01546	COG4668	[G] Mannitol/fructose-specific phosphotransferase system, IIA domain 
+IPLMCBOA_01547	COG2213	[G] Phosphotransferase system, mannitol-specific IIBC component 
+IPLMCBOA_01549	ROG2811	
+IPLMCBOA_01551	ROG0797	
+IPLMCBOA_01552	ROG5797	
+IPLMCBOA_01553	ROG4513	
+IPLMCBOA_01554	COG4723	[S] Phage-related protein, tail component  
+IPLMCBOA_01555	COG0675	[L] Transposase and inactivated derivatives  
+IPLMCBOA_01556	COG1190	[J] Lysyl-tRNA synthetase (class II)  
+IPLMCBOA_01557	COG0042	[J] tRNA-dihydrouridine synthase    
+IPLMCBOA_01558	COG1281	[O] Disulfide bond chaperones of the HSP33
+IPLMCBOA_01559	COG0465	[O] ATP-dependent Zn proteases   
+IPLMCBOA_01560	COG0634	[F] Hypoxanthine-guanine phosphoribosyltransferase    
+IPLMCBOA_01561	COG0037	[D] Predicted ATPase of the PP-loop superfamily
+IPLMCBOA_01562	COG1098	[J] Predicted RNA binding protein (contains ribosomal
+IPLMCBOA_01563	ROG5596	
+IPLMCBOA_01564	COG1188	[J] Ribosome-associated heat shock protein implicated in
+IPLMCBOA_01565	COG2244	[R] Membrane protein involved in the export
+IPLMCBOA_01566	COG1197	[LK] Transcription-repair coupling factor (superfamily II helicase)
+IPLMCBOA_01567	COG0193	[J] Peptidyl-tRNA hydrolase    
+IPLMCBOA_01568	COG0039	[C] Malate/lactate dehydrogenases    
+IPLMCBOA_01569	ROG2219	
+IPLMCBOA_01570	ROG8293	
+IPLMCBOA_01571	COG1164	[E] Oligoendopeptidase F    
+IPLMCBOA_01572	COG3883	[S] Uncharacterized protein conserved in bacteria 
+IPLMCBOA_01574	COG0145	[EQ] N-methylhydantoinase A/acetone carboxylase, beta subunit 
+IPLMCBOA_01575	ROG3393	
+IPLMCBOA_01576	COG0644	[C] Dehydrogenases (flavoproteins)    
+IPLMCBOA_01577	COG1610	[S] Uncharacterized conserved protein   
+IPLMCBOA_01578	COG0828	[J] Ribosomal protein S21   
+IPLMCBOA_01579	COG0735	[P] Fe2+/Zn2+ uptake regulation proteins  
+IPLMCBOA_01580	COG1806	[S] Uncharacterized protein conserved in bacteria 
+IPLMCBOA_01581	COG0640	[K] Predicted transcriptional regulators   
+IPLMCBOA_01582	COG1109	[G] Phosphomannomutase     
+IPLMCBOA_01583	COG0492	[O] Thioredoxin reductase    
+IPLMCBOA_01584	COG2723	[G] Beta-glucosidase/6-phospho-beta-glucosidase/beta-galactosidase     
+IPLMCBOA_01585	COG1486	[G] Alpha-galactosidases/6-phospho-beta-glucosidases, family 4 of glycosyl hydrolases
+IPLMCBOA_01586	COG1737	[K] Transcriptional regulators    
+IPLMCBOA_01587	COG2190	[G] Phosphotransferase system IIA components  
+IPLMCBOA_01588	COG3711	[K] Transcriptional antiterminator    
+IPLMCBOA_01589	COG1132	[V] ABC-type multidrug transport system, ATPase and
+IPLMCBOA_01590	COG1132	[V] ABC-type multidrug transport system, ATPase and
+IPLMCBOA_01591	COG3763	[S] Uncharacterized protein conserved in bacteria 
+IPLMCBOA_01592	COG1914	[P] Mn2+ and Fe2+ transporters of the
+IPLMCBOA_01593	COG0648	[L] Endonuclease IV    
+IPLMCBOA_01594	COG0744	[M] Membrane carboxypeptidase (penicillin-binding protein)  
+IPLMCBOA_01595	COG1609	[K] Transcriptional regulators    
+IPLMCBOA_01596	COG0006	[E] Xaa-Pro aminopeptidase    
+IPLMCBOA_01597	COG0454	[KR] Histone acetyltransferase HPA2 and related acetyltransferases
+IPLMCBOA_01598	COG2963	[L] Transposase and inactivated derivatives  
+IPLMCBOA_01599	COG2801	[L] Transposase and inactivated derivatives  
+IPLMCBOA_01600	COG4980	[R] Gas vesicle protein   
+IPLMCBOA_01601	COG4768	[R] Uncharacterized protein containing a divergent version
+IPLMCBOA_01602	COG1210	[M] UDP-glucose pyrophosphorylase    
+IPLMCBOA_01603	COG0240	[C] Glycerol-3-phosphate dehydrogenase    
+IPLMCBOA_01604	COG0682	[M] Prolipoprotein diacylglyceryltransferase    
+IPLMCBOA_01605	COG1493	[T] Serine kinase of the HPr protein,
+IPLMCBOA_01606	COG1950	[S] Predicted membrane protein   
+IPLMCBOA_01607	COG1983	[KT] Putative stress-responsive transcriptional regulator  
+IPLMCBOA_01608	COG3595	[S] Uncharacterized conserved protein   
+IPLMCBOA_01609	COG5438	[S] Predicted multitransmembrane protein   
+IPLMCBOA_01610	COG5438	[S] Predicted multitransmembrane protein   
+IPLMCBOA_01611	COG0704	[P] Phosphate uptake regulator   
+IPLMCBOA_01612	COG1117	[P] ABC-type phosphate transport system, ATPase component
+IPLMCBOA_01613	COG1117	[P] ABC-type phosphate transport system, ATPase component
+IPLMCBOA_01614	COG0581	[P] ABC-type phosphate transport system, permease component
+IPLMCBOA_01615	COG0573	[P] ABC-type phosphate transport system, permease component
+IPLMCBOA_01616	COG0226	[P] ABC-type phosphate transport system, periplasmic component
+IPLMCBOA_01617	COG1502	[I] Phosphatidylserine/phosphatidylglycerophosphate/cardiolipin synthases and related enzymes 
+IPLMCBOA_01618	COG2177	[D] Cell division protein   
+IPLMCBOA_01619	COG2884	[D] Predicted ATPase involved in cell division
+IPLMCBOA_01620	COG1186	[J] Protein chain release factor B 
+IPLMCBOA_01621	COG0653	[U] Preprotein translocase subunit SecA (ATPase, RNA
+IPLMCBOA_01622	COG1544	[J] Ribosome-associated protein Y (PSrp-1)  
+IPLMCBOA_01623	COG1040	[R] Predicted amidophosphoribosyltransferases    
+IPLMCBOA_01624	COG4098	[L] Superfamily II DNA/RNA helicase required for
+IPLMCBOA_01625	ROG5209	
+IPLMCBOA_01626	COG1739	[S] Uncharacterized conserved protein   
+IPLMCBOA_01627	COG2188	[K] Transcriptional regulators    
+IPLMCBOA_01628	COG1924	[I] Activator of 2-hydroxyglutaryl-CoA dehydratase (HSP70-class ATPase
+IPLMCBOA_01629	COG1309	[K] Transcriptional regulator    
+IPLMCBOA_01633	ROG3291	
+IPLMCBOA_01634	COG1940	[KG] Transcriptional regulator/sugar kinase   
+IPLMCBOA_01635	COG0456	[R] Acetyltransferases     
+IPLMCBOA_01636	COG0759	[S] Uncharacterized conserved protein   
+IPLMCBOA_01637	ROG4207	
+IPLMCBOA_01638	COG0766	[M] UDP-N-acetylglucosamine enolpyruvyl transferase   
+IPLMCBOA_01639	COG4836	[S] Predicted membrane protein   
+IPLMCBOA_01641	COG0355	[C] F0F1-type ATP synthase, epsilon subunit (mitochondrial
+IPLMCBOA_01642	COG0055	[C] F0F1-type ATP synthase, beta subunit 
+IPLMCBOA_01643	COG0224	[C] F0F1-type ATP synthase, gamma subunit 
+IPLMCBOA_01644	COG0056	[C] F0F1-type ATP synthase, alpha subunit 
+IPLMCBOA_01645	COG0712	[C] F0F1-type ATP synthase, delta subunit (mitochondrial
+IPLMCBOA_01646	COG0711	[C] F0F1-type ATP synthase, subunit b 
+IPLMCBOA_01647	COG0636	[C] F0F1-type ATP synthase, subunit c/Archaeal/vacuolar-type H+-ATPase,
+IPLMCBOA_01648	COG0356	[C] F0F1-type ATP synthase, subunit a 
+IPLMCBOA_01649	COG0691	[O] tmRNA-binding protein    
+IPLMCBOA_01650	COG0557	[K] Exoribonuclease R    
+IPLMCBOA_01651	COG1647	[R] Esterase/lipase     
+IPLMCBOA_01652	COG1314	[U] Preprotein translocase subunit SecG  
+IPLMCBOA_01653	COG2388	[R] Predicted acetyltransferase    
+IPLMCBOA_01654	COG1073	[R] Hydrolases of the alpha/beta superfamily 
+IPLMCBOA_01655	COG1957	[F] Inosine-uridine nucleoside N-ribohydrolase   
+IPLMCBOA_01656	ROG0240	
+IPLMCBOA_01657	COG0110	[R] Acetyltransferase (isoleucine patch superfamily)  
+IPLMCBOA_01658	ROG2474	
+IPLMCBOA_01660	ROG5614	
+IPLMCBOA_01666	ROG6234	
+IPLMCBOA_01667	COG4025	[S] Predicted membrane protein   
+IPLMCBOA_01671	COG0148	[G] Enolase     
+IPLMCBOA_01672	COG0149	[G] Triosephosphate isomerase    
+IPLMCBOA_01673	COG0126	[G] 3-phosphoglycerate kinase    
+IPLMCBOA_01674	COG0057	[G] Glyceraldehyde-3-phosphate dehydrogenase/erythrose-4-phosphate dehydrogenase   
+IPLMCBOA_01675	COG2390	[K] Transcriptional regulator, contains sigma factor-related N-terminal
+IPLMCBOA_01676	COG1508	[K] DNA-directed RNA polymerase specialized sigma subunit,
+IPLMCBOA_01678	ROG7223	
+IPLMCBOA_01679	ROG0126	
+IPLMCBOA_01680	COG3343	[K] DNA-directed RNA polymerase, delta subunit 
+IPLMCBOA_01681	COG4506	[S] Uncharacterized protein conserved in bacteria 
+IPLMCBOA_01682	COG0095	[H] Lipoate-protein ligase A   
+IPLMCBOA_01683	COG1078	[R] HD superfamily phosphohydrolases   
+IPLMCBOA_01684	COG0561	[R] Predicted hydrolases of the HAD superfamily
+IPLMCBOA_01685	COG2816	[L] NTP pyrophosphohydrolases containing a Zn-finger, probably
+IPLMCBOA_01686	COG0346	[E] Lactoylglutathione lyase and related lyases 
+IPLMCBOA_01687	COG0168	[P] Trk-type K+ transport systems, membrane components
+IPLMCBOA_01688	COG1394	[C] Archaeal/vacuolar-type H+-ATPase subunit D  
+IPLMCBOA_01689	COG1156	[C] Archaeal/vacuolar-type H+-ATPase subunit B  
+IPLMCBOA_01690	COG1155	[C] Archaeal/vacuolar-type H+-ATPase subunit A  
+IPLMCBOA_01691	COG1436	[C] Archaeal/vacuolar-type H+-ATPase subunit F  
+IPLMCBOA_01692	COG1527	[C] Archaeal/vacuolar-type H+-ATPase subunit C  
+IPLMCBOA_01693	COG1390	[C] Archaeal/vacuolar-type H+-ATPase subunit E  
+IPLMCBOA_01694	COG0636	[C] F0F1-type ATP synthase, subunit c/Archaeal/vacuolar-type H+-ATPase,
+IPLMCBOA_01695	COG1269	[C] Archaeal/vacuolar-type H+-ATPase subunit I  
+IPLMCBOA_01697	COG2071	[R] Predicted glutamine amidotransferases   
+IPLMCBOA_01698	COG3855	[G] Uncharacterized protein conserved in bacteria 
+IPLMCBOA_01699	COG1668	[CP] ABC-type Na+ efflux pump, permease component
+IPLMCBOA_01700	COG4152	[R] ABC-type uncharacterized transport system, ATPase component
+IPLMCBOA_01701	COG0322	[L] Nuclease subunit of the excinuclease complex
+IPLMCBOA_01702	COG0526	[OC] Thiol-disulfide isomerase and thioredoxins  
+IPLMCBOA_01703	COG1193	[L] Mismatch repair ATPase (MutS family) 
+IPLMCBOA_01704	COG1286	[R] Uncharacterized membrane protein, required for colicin
+IPLMCBOA_01705	ROG8070	
+IPLMCBOA_01706	COG1039	[L] Ribonuclease HIII    
+IPLMCBOA_01707	COG0860	[M] N-acetylmuramoyl-L-alanine amidase    
+IPLMCBOA_01708	COG3325	[G] Chitinase     
+IPLMCBOA_01709	COG3325	[G] Chitinase     
+IPLMCBOA_01710	COG1309	[K] Transcriptional regulator    
+IPLMCBOA_01711	COG1136	[V] ABC-type antimicrobial peptide transport system, ATPase
+IPLMCBOA_01713	COG3623	[G] Putative L-xylulose-5-phosphate 3-epimerase   
+IPLMCBOA_01714	COG0269	[G] 3-hexulose-6-phosphate synthase and related proteins 
+IPLMCBOA_01715	COG3414	[G] Phosphotransferase system, galactitol-specific IIB component 
+IPLMCBOA_01716	COG3037	[S] Uncharacterized protein conserved in bacteria 
+IPLMCBOA_01717	COG1762	[GT] Phosphotransferase system mannitol/fructose-specific IIA domain (Ntr-type)
+IPLMCBOA_01718	COG2220	[R] Predicted Zn-dependent hydrolases of the beta-lactamase
+IPLMCBOA_01719	COG1349	[KG] Transcriptional regulators of sugar metabolism 
+IPLMCBOA_01720	COG1304	[C] L-lactate dehydrogenase (FMN-dependent) and related alpha-hydroxy
+IPLMCBOA_01721	COG0384	[R] Predicted epimerase, PhzC/PhzF homolog  
+IPLMCBOA_01722	COG2423	[E] Predicted ornithine cyclodeaminase, mu-crystallin homolog 
+IPLMCBOA_01723	COG1167	[KE] Transcriptional regulators containing a DNA-binding HTH
+IPLMCBOA_01724	COG1263	[G] Phosphotransferase system IIC components, glucose/maltose/N-acetylglucosamine-specific 
+IPLMCBOA_01725	COG0632	[L] Holliday junction resolvasome, DNA-binding subunit 
+IPLMCBOA_01726	COG2255	[L] Holliday junction resolvasome, helicase subunit 
+IPLMCBOA_01727	COG1309	[K] Transcriptional regulator    
+IPLMCBOA_01728	COG0394	[T] Protein-tyrosine-phosphatase     
+IPLMCBOA_01730	COG1114	[E] Branched-chain amino acid permeases  
+IPLMCBOA_01731	COG1126	[E] ABC-type polar amino acid transport system,
+IPLMCBOA_01732	COG0765	[E] ABC-type amino acid transport system, permease
+IPLMCBOA_01734	COG0846	[K] NAD-dependent protein deacetylases, SIR2 family 
+IPLMCBOA_01735	COG0110	[R] Acetyltransferase (isoleucine patch superfamily)  
+IPLMCBOA_01736	COG1827	[R] Predicted small molecule binding protein (contains
+IPLMCBOA_01741	COG0242	[J] N-formylmethionyl-tRNA deformylase    
+IPLMCBOA_01742	COG0184	[J] Ribosomal protein S15P/S13E   
+IPLMCBOA_01743	COG1185	[J] Polyribonucleotide nucleotidyltransferase (polynucleotide phosphorylase)  
+IPLMCBOA_01744	COG2261	[S] Predicted membrane protein   
+IPLMCBOA_01745	COG3158	[P] K+ transporter    
+IPLMCBOA_01746	COG1253	[R] Hemolysins and related proteins containing CBS
+IPLMCBOA_01747	COG0534	[V] Na+-driven multidrug efflux pump  
+IPLMCBOA_01748	ROG4034	
+IPLMCBOA_01749	COG1825	[J] Ribosomal protein L25 (general stress protein
+IPLMCBOA_01750	COG1187	[J] 16S rRNA uridine-516 pseudouridylate synthase and
+IPLMCBOA_01751	COG3077	[L] DNA-damage-inducible protein J   
+IPLMCBOA_01752	ROG0748	
+IPLMCBOA_01753	COG1011	[R] Predicted hydrolase (HAD superfamily)  
+IPLMCBOA_01754	COG0572	[F] Uridine kinase    
+IPLMCBOA_01755	COG0398	[S] Uncharacterized conserved protein   
+IPLMCBOA_01756	COG0454	[KR] Histone acetyltransferase HPA2 and related acetyltransferases
+IPLMCBOA_01758	COG1671	[S] Uncharacterized protein conserved in bacteria 
+IPLMCBOA_01759	ROG2806	
+IPLMCBOA_01760	COG0661	[R] Predicted unusual protein kinase  
+IPLMCBOA_01761	COG1181	[M] D-alanine-D-alanine ligase and related ATP-grasp enzymes
+IPLMCBOA_01762	COG0770	[M] UDP-N-acetylmuramyl pentapeptide synthase   
+IPLMCBOA_01763	COG0513	[LKJ] Superfamily II DNA and RNA helicases
+IPLMCBOA_01764	COG0736	[I] Phosphopantetheinyl transferase (holo-ACP synthase)  
+IPLMCBOA_01765	COG0787	[M] Alanine racemase    
+IPLMCBOA_01766	COG2337	[T] Growth inhibitor    
+IPLMCBOA_01767	COG1511	[S] Predicted membrane protein   
+IPLMCBOA_01768	COG0531	[E] Amino acid transporters   
+IPLMCBOA_01769	COG1174	[E] ABC-type proline/glycine betaine transport systems, permease
+IPLMCBOA_01770	COG1732	[M] Periplasmic glycine betaine/choline-binding (lipo)protein of an
+IPLMCBOA_01771	COG1174	[E] ABC-type proline/glycine betaine transport systems, permease
+IPLMCBOA_01772	COG1125	[E] ABC-type proline/glycine betaine transport systems, ATPase
+IPLMCBOA_01773	COG0809	[J] S-adenosylmethionine:tRNA-ribosyltransferase-isomerase (queuine synthetase)   
+IPLMCBOA_01774	COG0474	[P] Cation transport ATPase   
+IPLMCBOA_01775	COG0474	[P] Cation transport ATPase   
+IPLMCBOA_01776	COG5523	[S] Predicted integral membrane protein  
+IPLMCBOA_01777	COG0343	[J] Queuine/archaeosine tRNA-ribosyltransferase    
+IPLMCBOA_01778	COG1862	[U] Preprotein translocase subunit YajC  
+IPLMCBOA_01779	COG1454	[C] Alcohol dehydrogenase, class IV  
+IPLMCBOA_01781	COG4225	[R] Predicted unsaturated glucuronyl hydrolase involved in
+IPLMCBOA_01782	COG1638	[G] TRAP-type C4-dicarboxylate transport system, periplasmic component
+IPLMCBOA_01783	COG3090	[G] TRAP-type C4-dicarboxylate transport system, small permease
+IPLMCBOA_01784	COG1593	[G] TRAP-type C4-dicarboxylate transport system, large permease
+IPLMCBOA_01785	COG1082	[G] Sugar phosphate isomerases/epimerases   
+IPLMCBOA_01786	COG2207	[K] AraC-type DNA-binding domain-containing proteins  
+IPLMCBOA_01787	COG1414	[K] Transcriptional regulator    
+IPLMCBOA_01788	COG0800	[G] 2-keto-3-deoxy-6-phosphogluconate aldolase    
+IPLMCBOA_01789	COG0524	[G] Sugar kinases, ribokinase family  
+IPLMCBOA_01790	COG3717	[G] 5-keto 4-deoxyuronate isomerase   
+IPLMCBOA_01791	COG1028	[IQR] Dehydrogenases with different specificities (related to
+IPLMCBOA_01792	COG1304	[C] L-lactate dehydrogenase (FMN-dependent) and related alpha-hydroxy
+IPLMCBOA_01793	COG1577	[I] Mevalonate kinase    
+IPLMCBOA_01794	COG3407	[I] Mevalonate pyrophosphate decarboxylase   
+IPLMCBOA_01795	COG1577	[I] Mevalonate kinase    
+IPLMCBOA_01796	COG1428	[F] Deoxynucleoside kinases    
+IPLMCBOA_01797	COG3397	[S] Uncharacterized protein conserved in bacteria 
+IPLMCBOA_01798	COG3397	[S] Uncharacterized protein conserved in bacteria 
+IPLMCBOA_01799	COG0290	[J] Translation initiation factor 3 (IF-3) 
+IPLMCBOA_01800	COG0291	[J] Ribosomal protein L35   
+IPLMCBOA_01801	COG0292	[J] Ribosomal protein L20   
+IPLMCBOA_01802	COG3431	[S] Predicted membrane protein   
+IPLMCBOA_01803	ROG3393	
+IPLMCBOA_01804	COG0145	[EQ] N-methylhydantoinase A/acetone carboxylase, beta subunit 
+IPLMCBOA_01806	COG1802	[K] Transcriptional regulators    
+IPLMCBOA_01808	COG0824	[R] Predicted thioesterase    
+IPLMCBOA_01809	COG0063	[G] Predicted sugar kinase   
+IPLMCBOA_01810	COG0624	[E] Acetylornithine deacetylase/Succinyl-diaminopimelate desuccinylase and related deacylases
+IPLMCBOA_01811	COG2188	[K] Transcriptional regulators    
+IPLMCBOA_01812	COG1455	[G] Phosphotransferase system cellobiose-specific component IIC 
+IPLMCBOA_01813	COG2723	[G] Beta-glucosidase/6-phospho-beta-glucosidase/beta-galactosidase     
+IPLMCBOA_01816	ROG0061	
+IPLMCBOA_01817	COG1012	[C] NAD-dependent aldehyde dehydrogenases   
+IPLMCBOA_01818	COG1215	[M] Glycosyltransferases, probably involved in cell wall
+IPLMCBOA_01819	COG5584	[S] Predicted small secreted protein  
+IPLMCBOA_01820	COG1363	[G] Cellulase M and related proteins 
+IPLMCBOA_01821	ROG0471	
+IPLMCBOA_01822	COG0589	[T] Universal stress protein UspA and related
+IPLMCBOA_01824	COG0073	[R] EMAP domain    
+IPLMCBOA_01825	COG0265	[O] Trypsin-like serine proteases, typically periplasmic, contain
+IPLMCBOA_01826	COG1576	[S] Uncharacterized conserved protein   
+IPLMCBOA_01828	ROG0479	
+IPLMCBOA_01830	ROG8137	
+IPLMCBOA_01832	COG4495	[S] Uncharacterized protein conserved in bacteria 
+IPLMCBOA_01833	ROG5652	
+IPLMCBOA_01834	COG5574	[O] RING-finger-containing E3 ubiquitin ligase  
+IPLMCBOA_01835	ROG4140	
+IPLMCBOA_01836	ROG2789	
+IPLMCBOA_01837	COG3633	[E] Na+/serine symporter    
+IPLMCBOA_01838	COG3711	[K] Transcriptional antiterminator    
+IPLMCBOA_01839	COG1762	[GT] Phosphotransferase system mannitol/fructose-specific IIA domain (Ntr-type)
+IPLMCBOA_01840	COG3414	[G] Phosphotransferase system, galactitol-specific IIB component 
+IPLMCBOA_01841	COG3037	[S] Uncharacterized protein conserved in bacteria 
+IPLMCBOA_01842	COG4821	[R] Uncharacterized protein containing SIS (Sugar ISomerase)
+IPLMCBOA_01843	ROG4115	
+IPLMCBOA_01844	COG3711	[K] Transcriptional antiterminator    
+IPLMCBOA_01845	COG3414	[G] Phosphotransferase system, galactitol-specific IIB component 
+IPLMCBOA_01846	COG3037	[S] Uncharacterized protein conserved in bacteria 
+IPLMCBOA_01847	COG0457	[R] FOG: TPR repeat   
+IPLMCBOA_01848	COG0191	[G] Fructose/tagatose bisphosphate aldolase   
+IPLMCBOA_01849	ROG3621	
+IPLMCBOA_01851	COG2508	[TQ] Regulator of polyketide synthase expression 
+IPLMCBOA_01852	ROG1330	
+IPLMCBOA_01854	ROG2472	
+IPLMCBOA_01855	COG0549	[E] Carbamate kinase    
+IPLMCBOA_01856	COG1301	[C] Na+/H+-dicarboxylate symporters    
+IPLMCBOA_01857	COG2190	[G] Phosphotransferase system IIA components  
+IPLMCBOA_01858	COG2723	[G] Beta-glucosidase/6-phospho-beta-glucosidase/beta-galactosidase     
+IPLMCBOA_01859	COG3711	[K] Transcriptional antiterminator    
+IPLMCBOA_01860	COG1893	[H] Ketopantoate reductase    
+IPLMCBOA_01861	COG3641	[R] Predicted membrane protein, putative toxin regulator
+IPLMCBOA_01862	COG0101	[J] Pseudouridylate synthase    
+IPLMCBOA_01863	COG0225	[O] Peptide methionine sulfoxide reductase  
+IPLMCBOA_01864	COG0667	[C] Predicted oxidoreductases (related to aryl-alcohol dehydrogenases)
+IPLMCBOA_01866	COG0681	[U] Signal peptidase I   
+IPLMCBOA_01867	ROG5084	
+IPLMCBOA_01868	COG3764	[M] Sortase (surface protein transpeptidase)  
+IPLMCBOA_01870	COG4932	[M] Predicted outer membrane protein  
+IPLMCBOA_01871	ROG1862	
+IPLMCBOA_01874	COG1705	[NU] Muramidase (flagellum-specific)    
+IPLMCBOA_01875	COG3599	[D] Cell division initiation protein  
+IPLMCBOA_01876	ROG1928	
+IPLMCBOA_01878	COG1440	[G] Phosphotransferase system cellobiose-specific component IIB 
+IPLMCBOA_01879	COG1447	[G] Phosphotransferase system cellobiose-specific component IIA 
+IPLMCBOA_01880	COG1455	[G] Phosphotransferase system cellobiose-specific component IIC 
+IPLMCBOA_01881	COG2315	[S] Uncharacterized protein conserved in bacteria 
+IPLMCBOA_01882	COG0500	[QR] SAM-dependent methyltransferases    
+IPLMCBOA_01883	COG1246	[E] N-acetylglutamate synthase and related acetyltransferases 
+IPLMCBOA_01884	ROG1422	
+IPLMCBOA_01885	COG1063	[ER] Threonine dehydrogenase and related Zn-dependent dehydrogenases
+IPLMCBOA_01886	ROG6234	
+IPLMCBOA_01887	COG4716	[S] Myosin-crossreactive antigen    
+IPLMCBOA_01889	ROG0259	
+IPLMCBOA_01890	COG4828	[S] Predicted membrane protein   
+IPLMCBOA_01891	COG4828	[S] Predicted membrane protein   
+IPLMCBOA_01892	COG3732	[G] Phosphotransferase system sorbitol-specific component IIBC 
+IPLMCBOA_01893	COG3730	[G] Phosphotransferase system sorbitol-specific component IIC 
+IPLMCBOA_01894	COG4578	[K] Glucitol operon activator   
+IPLMCBOA_01895	COG4091	[E] Predicted homoserine dehydrogenase   
+IPLMCBOA_01896	COG2390	[K] Transcriptional regulator, contains sigma factor-related N-terminal
+IPLMCBOA_01897	COG1071	[C] Pyruvate/2-oxoglutarate dehydrogenase complex, dehydrogenase (E1) component,
+IPLMCBOA_01898	COG0022	[C] Pyruvate/2-oxoglutarate dehydrogenase complex, dehydrogenase (E1) component,
+IPLMCBOA_01899	COG0508	[C] Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide acyltransferase (E2)
+IPLMCBOA_01900	COG1249	[C] Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide dehydrogenase (E3)
+IPLMCBOA_01901	COG3731	[G] Phosphotransferase system sorbitol-specific component IIA 
+IPLMCBOA_01903	COG0076	[E] Glutamate decarboxylase and related PLP-dependent proteins
+IPLMCBOA_01904	COG0531	[E] Amino acid transporters   
+IPLMCBOA_01905	COG0474	[P] Cation transport ATPase   
+IPLMCBOA_01906	ROG7009	
+IPLMCBOA_01907	COG1051	[F] ADP-ribose pyrophosphatase    
+IPLMCBOA_01908	COG1846	[K] Transcriptional regulators    
+IPLMCBOA_01909	COG0454	[KR] Histone acetyltransferase HPA2 and related acetyltransferases
+IPLMCBOA_01910	COG3382	[S] Uncharacterized conserved protein   
+IPLMCBOA_01911	ROG0697	
+IPLMCBOA_01913	COG2252	[R] Permeases     
+IPLMCBOA_01915	COG2849	[S] Uncharacterized protein conserved in bacteria 
+IPLMCBOA_01918	COG1126	[E] ABC-type polar amino acid transport system,
+IPLMCBOA_01919	COG1136	[V] ABC-type antimicrobial peptide transport system, ATPase
+IPLMCBOA_01920	COG5294	[S] Uncharacterized protein conserved in bacteria 
+IPLMCBOA_01921	COG0366	[G] Glycosidases     
+IPLMCBOA_01922	ROG4514	
+IPLMCBOA_01923	COG1902	[C] NADH:flavin oxidoreductases, Old Yellow Enzyme family
+IPLMCBOA_01924	COG0693	[R] Putative intracellular protease/amidase   
+IPLMCBOA_01925	COG0656	[R] Aldo/keto reductases, related to diketogulonate reductase
+IPLMCBOA_01927	COG3077	[L] DNA-damage-inducible protein J   
+IPLMCBOA_01928	COG0446	[R] Uncharacterized NAD(FAD)-dependent dehydrogenases   
+IPLMCBOA_01929	ROG4163	
+IPLMCBOA_01930	COG0554	[C] Glycerol kinase    
+IPLMCBOA_01931	COG0578	[C] Glycerol-3-phosphate dehydrogenase    
+IPLMCBOA_01932	COG0580	[G] Glycerol uptake facilitator and related permeases
+IPLMCBOA_01933	COG1454	[C] Alcohol dehydrogenase, class IV  
+IPLMCBOA_01934	COG0110	[R] Acetyltransferase (isoleucine patch superfamily)  
+IPLMCBOA_01935	COG0235	[G] Ribulose-5-phosphate 4-epimerase and related epimerases and
+IPLMCBOA_01936	COG4806	[G] L-rhamnose isomerase    
+IPLMCBOA_01937	COG1070	[G] Sugar (pentulose and hexulose) kinases 
+IPLMCBOA_01938	COG2211	[G] Na+/melibiose symporter and related transporters 
+IPLMCBOA_01939	COG2207	[K] AraC-type DNA-binding domain-containing proteins  
+IPLMCBOA_01940	ROG4163	
+IPLMCBOA_01941	ROG5922	
+IPLMCBOA_01942	ROG0677	
+IPLMCBOA_01943	COG1609	[K] Transcriptional regulators    
+IPLMCBOA_01944	COG4289	[S] Uncharacterized protein conserved in bacteria 
+IPLMCBOA_01945	ROG0265	
+IPLMCBOA_01946	COG1653	[G] ABC-type sugar transport system, periplasmic component
+IPLMCBOA_01947	COG1175	[G] ABC-type sugar transport systems, permease components
+IPLMCBOA_01948	COG0395	[G] ABC-type sugar transport system, permease component
+IPLMCBOA_01949	ROG8273	
+IPLMCBOA_01950	COG2211	[G] Na+/melibiose symporter and related transporters 
+IPLMCBOA_01951	ROG3709	
+IPLMCBOA_01952	ROG2358	
+IPLMCBOA_01954	ROG3709	
+IPLMCBOA_01955	ROG3126	
+IPLMCBOA_01959	COG0400	[R] Predicted esterase    
+IPLMCBOA_01960	COG0346	[E] Lactoylglutathione lyase and related lyases 
+IPLMCBOA_01961	COG2188	[K] Transcriptional regulators    
+IPLMCBOA_01962	COG1455	[G] Phosphotransferase system cellobiose-specific component IIC 
+IPLMCBOA_01963	COG2723	[G] Beta-glucosidase/6-phospho-beta-glucosidase/beta-galactosidase     
+IPLMCBOA_01964	COG0589	[T] Universal stress protein UspA and related
+IPLMCBOA_01965	COG0351	[H] Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase    
+IPLMCBOA_01966	ROG4504	
+IPLMCBOA_01969	COG1131	[V] ABC-type multidrug transport system, ATPase component
+IPLMCBOA_01971	COG1502	[I] Phosphatidylserine/phosphatidylglycerophosphate/cardiolipin synthases and related enzymes 
+IPLMCBOA_01972	COG0474	[P] Cation transport ATPase   
+IPLMCBOA_01973	ROG2908	
+IPLMCBOA_01974	COG3425	[I] 3-hydroxy-3-methylglutaryl CoA synthase   
+IPLMCBOA_01975	COG0183	[I] Acetyl-CoA acetyltransferase    
+IPLMCBOA_01976	COG0772	[D] Bacterial cell division membrane protein 
+IPLMCBOA_01977	COG0772	[D] Bacterial cell division membrane protein 
+IPLMCBOA_01978	COG1316	[K] Transcriptional regulator    
+IPLMCBOA_01979	ROG2046	
+IPLMCBOA_01981	COG0656	[R] Aldo/keto reductases, related to diketogulonate reductase
+IPLMCBOA_01982	ROG0345	
+IPLMCBOA_01983	COG5294	[S] Uncharacterized protein conserved in bacteria 
+IPLMCBOA_01984	COG1215	[M] Glycosyltransferases, probably involved in cell wall
+IPLMCBOA_01985	COG0050	[J] GTPases - translation elongation factors 
+IPLMCBOA_01986	COG1307	[S] Uncharacterized protein conserved in bacteria 
+IPLMCBOA_01987	COG0104	[F] Adenylosuccinate synthase    
+IPLMCBOA_01989	ROG3987	
+IPLMCBOA_01990	COG5547	[S] Small integral membrane protein  
+IPLMCBOA_01991	COG1302	[S] Uncharacterized protein conserved in bacteria 
+IPLMCBOA_01992	COG2261	[S] Predicted membrane protein   
+IPLMCBOA_01993	COG3842	[E] ABC-type spermidine/putrescine transport systems, ATPase components
+IPLMCBOA_01994	COG1175	[G] ABC-type sugar transport systems, permease components
+IPLMCBOA_01995	COG0395	[G] ABC-type sugar transport system, permease component
+IPLMCBOA_01996	COG0595	[R] Predicted hydrolase of the metallo-beta-lactamase superfamily
+IPLMCBOA_01997	COG1653	[G] ABC-type sugar transport system, periplasmic component
+IPLMCBOA_01998	COG0737	[F] 5'-nucleotidase/2',3'-cyclic phosphodiesterase and related esterases 
+IPLMCBOA_01999	COG0666	[R] FOG: Ankyrin repeat   
+IPLMCBOA_02000	COG3397	[S] Uncharacterized protein conserved in bacteria 
+IPLMCBOA_02001	COG1853	[R] Conserved protein/domain typically associated with flavoprotein
+IPLMCBOA_02002	COG1316	[K] Transcriptional regulator    
+IPLMCBOA_02003	COG0768	[M] Cell division protein FtsI/penicillin-binding protein 2
+IPLMCBOA_02005	COG0475	[P] Kef-type K+ transport systems, membrane components
+IPLMCBOA_02006	COG3247	[S] Uncharacterized conserved protein   
+IPLMCBOA_02007	COG4898	[S] Uncharacterized protein conserved in bacteria 
+IPLMCBOA_02008	ROG4163	
+IPLMCBOA_02010	COG3049	[M] Penicillin V acylase and related amidases
+IPLMCBOA_02011	COG1846	[K] Transcriptional regulators    
+IPLMCBOA_02012	COG1764	[O] Predicted redox protein, regulator of disulfide
+IPLMCBOA_02013	COG1284	[S] Uncharacterized conserved protein   
+IPLMCBOA_02014	COG2050	[Q] Uncharacterized protein, possibly involved in aromatic
+IPLMCBOA_02015	COG0447	[H] Dihydroxynaphthoic acid synthase   
+IPLMCBOA_02016	COG0318	[IQ] Acyl-CoA synthetases (AMP-forming)/AMP-acid ligases II 
+IPLMCBOA_02017	COG1169	[HQ] Isochorismate synthase    
+IPLMCBOA_02018	COG1165	[H] 2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase    
+IPLMCBOA_02019	COG0596	[R] Predicted hydrolases or acyltransferases (alpha/beta hydrolase
+IPLMCBOA_02020	COG4948	[MR] L-alanine-DL-glutamate epimerase and related enzymes of
+IPLMCBOA_02021	COG0366	[G] Glycosidases     
+IPLMCBOA_02022	COG2182	[G] Maltose-binding periplasmic proteins/domains   
+IPLMCBOA_02023	COG1175	[G] ABC-type sugar transport systems, permease components
+IPLMCBOA_02024	COG3833	[G] ABC-type maltose transport systems, permease component
+IPLMCBOA_02025	COG5521	[S] Predicted integral membrane protein  
+IPLMCBOA_02026	COG2230	[M] Cyclopropane fatty acid synthase and related
+IPLMCBOA_02027	COG3212	[S] Predicted membrane protein   
+IPLMCBOA_02028	COG0167	[F] Dihydroorotate dehydrogenase    
+IPLMCBOA_02029	COG0154	[J] Asp-tRNAAsn/Glu-tRNAGln amidotransferase A subunit and related
+IPLMCBOA_02030	ROG7821	
+IPLMCBOA_02032	COG0454	[KR] Histone acetyltransferase HPA2 and related acetyltransferases
+IPLMCBOA_02033	COG0194	[F] Guanylate kinase    
+IPLMCBOA_02034	COG1972	[F] Nucleoside permease    
+IPLMCBOA_02035	COG4868	[S] Uncharacterized protein conserved in bacteria 
+IPLMCBOA_02037	COG0419	[L] ATPase involved in DNA repair 
+IPLMCBOA_02038	ROG3566	
+IPLMCBOA_02039	ROG2541	
+IPLMCBOA_02041	COG1296	[E] Predicted branched-chain amino acid permease (azaleucine
+IPLMCBOA_02042	COG1296	[E] Predicted branched-chain amino acid permease (azaleucine
+IPLMCBOA_02043	COG4392	[S] Predicted membrane protein   
+IPLMCBOA_02044	COG2244	[R] Membrane protein involved in the export
+IPLMCBOA_02045	COG1307	[S] Uncharacterized protein conserved in bacteria 
+IPLMCBOA_02047	ROG2164	
+IPLMCBOA_02048	COG0366	[G] Glycosidases     
+IPLMCBOA_02049	COG4475	[S] Uncharacterized protein conserved in bacteria 
+IPLMCBOA_02050	COG4720	[S] Predicted membrane protein   
+IPLMCBOA_02051	COG0351	[H] Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase    
+IPLMCBOA_02052	COG0318	[IQ] Acyl-CoA synthetases (AMP-forming)/AMP-acid ligases II 
+IPLMCBOA_02054	COG0582	[L] Integrase     
+IPLMCBOA_02055	COG5002	[T] Signal transduction histidine kinase  
+IPLMCBOA_02056	COG0745	[TK] Response regulators consisting of a CheY-like
+IPLMCBOA_02057	ROG0694	
+IPLMCBOA_02058	ROG0533	
+IPLMCBOA_02059	ROG2844	
+IPLMCBOA_02060	COG4591	[M] ABC-type transport system, involved in lipoprotein
+IPLMCBOA_02061	COG4181	[Q] Predicted ABC-type transport system involved in
+IPLMCBOA_02062	COG4492	[R] ACT domain-containing protein   
+IPLMCBOA_02063	COG0406	[G] Fructose-2,6-bisphosphatase     
+IPLMCBOA_02064	COG1737	[K] Transcriptional regulators    
+IPLMCBOA_02065	COG0673	[R] Predicted dehydrogenases and related proteins 
+IPLMCBOA_02066	COG1609	[K] Transcriptional regulators    
+IPLMCBOA_02067	COG1455	[G] Phosphotransferase system cellobiose-specific component IIC 
+IPLMCBOA_02068	ROG2833	
+IPLMCBOA_02069	COG3345	[G] Alpha-galactosidase     
+IPLMCBOA_02070	COG1874	[G] Beta-galactosidase     
+IPLMCBOA_02073	ROG3899	
+IPLMCBOA_02075	COG0039	[C] Malate/lactate dehydrogenases    
+IPLMCBOA_02076	ROG1435	
+IPLMCBOA_02078	COG0474	[P] Cation transport ATPase   
+IPLMCBOA_02079	COG0454	[KR] Histone acetyltransferase HPA2 and related acetyltransferases
+IPLMCBOA_02081	COG0550	[L] Topoisomerase IA    
+IPLMCBOA_02082	ROG5847	
+IPLMCBOA_02095	COG1316	[K] Transcriptional regulator    
+IPLMCBOA_02096	COG0169	[E] Shikimate 5-dehydrogenase    
+IPLMCBOA_02097	COG1101	[R] ABC-type uncharacterized transport system, ATPase component
+IPLMCBOA_02098	COG4120	[R] ABC-type uncharacterized transport system, permease component
+IPLMCBOA_02099	COG2984	[R] ABC-type uncharacterized transport system, periplasmic component
+IPLMCBOA_02100	ROG8211	
+IPLMCBOA_02101	COG1293	[K] Predicted RNA-binding protein homologous to eukaryotic
+IPLMCBOA_02103	COG0583	[K] Transcriptional regulator    
+IPLMCBOA_02104	COG3338	[P] Carbonic anhydrase    
+IPLMCBOA_02105	COG1896	[R] Predicted hydrolases of HD superfamily 
+IPLMCBOA_02106	COG0461	[F] Orotate phosphoribosyltransferase    
+IPLMCBOA_02107	COG0284	[F] Orotidine-5'-phosphate decarboxylase    
+IPLMCBOA_02108	COG0167	[F] Dihydroorotate dehydrogenase    
+IPLMCBOA_02109	COG0543	[HC] 2-polyprenylphenol hydroxylase and related flavodoxin oxidoreductases
+IPLMCBOA_02110	COG0458	[EF] Carbamoylphosphate synthase large subunit (split gene
+IPLMCBOA_02111	COG0505	[EF] Carbamoylphosphate synthase small subunit  
+IPLMCBOA_02112	COG0044	[F] Dihydroorotase and related cyclic amidohydrolases 
+IPLMCBOA_02113	COG0540	[F] Aspartate carbamoyltransferase, catalytic chain  
+IPLMCBOA_02114	COG2233	[F] Xanthine/uracil permeases    
+IPLMCBOA_02115	COG2065	[F] Pyrimidine operon attenuation protein/uracil phosphoribosyltransferase 
+IPLMCBOA_02116	COG0564	[J] Pseudouridylate synthases, 23S RNA-specific  
+IPLMCBOA_02117	COG0597	[MU] Lipoprotein signal peptidase   
+IPLMCBOA_02118	ROG3518	
+IPLMCBOA_02119	ROG7447	
+IPLMCBOA_02120	ROG3747	
+IPLMCBOA_02121	COG1476	[K] Predicted transcriptional regulators   
+IPLMCBOA_02124	COG2759	[F] Formyltetrahydrofolate synthetase    
+IPLMCBOA_02125	COG1278	[K] Cold shock proteins   
+IPLMCBOA_02126	ROG4243	
+IPLMCBOA_02127	ROG4502	
+IPLMCBOA_02129	COG0053	[P] Predicted Co/Zn/Cd cation transporters  
+IPLMCBOA_02130	COG4684	[S] Predicted membrane protein   
+IPLMCBOA_02131	COG0013	[J] Alanyl-tRNA synthetase    
+IPLMCBOA_02132	COG0454	[KR] Histone acetyltransferase HPA2 and related acetyltransferases
+IPLMCBOA_02133	COG0513	[LKJ] Superfamily II DNA and RNA helicases
+IPLMCBOA_02134	COG4767	[V] Glycopeptide antibiotics resistance protein  
+IPLMCBOA_02135	COG3274	[S] Uncharacterized protein conserved in bacteria 
+IPLMCBOA_02136	COG0516	[F] IMP dehydrogenase/GMP reductase   
+IPLMCBOA_02137	COG5185	[D] Protein involved in chromosome segregation, interacts
+IPLMCBOA_02138	COG4989	[R] Predicted oxidoreductase    
+IPLMCBOA_02139	COG0151	[F] Phosphoribosylamine-glycine ligase    
+IPLMCBOA_02140	COG0138	[F] AICAR transformylase/IMP cyclohydrolase PurH (only IMP
+IPLMCBOA_02141	COG0299	[F] Folate-dependent phosphoribosylglycinamide formyltransferase PurN  
+IPLMCBOA_02142	COG0150	[F] Phosphoribosylaminoimidazole (AIR) synthetase   
+IPLMCBOA_02143	COG0034	[F] Glutamine phosphoribosylpyrophosphate amidotransferase   
+IPLMCBOA_02144	COG0046	[F] Phosphoribosylformylglycinamidine (FGAM) synthase, synthetase domain 
+IPLMCBOA_02145	COG0047	[F] Phosphoribosylformylglycinamidine (FGAM) synthase, glutamine amidotransferase domain
+IPLMCBOA_02146	COG1828	[F] Phosphoribosylformylglycinamidine (FGAM) synthase, PurS component 
+IPLMCBOA_02147	COG0152	[F] Phosphoribosylaminoimidazolesuccinocarboxamide (SAICAR) synthase   
+IPLMCBOA_02148	ROG7572	
+IPLMCBOA_02149	COG0015	[F] Adenylosuccinate lyase    
+IPLMCBOA_02150	COG0026	[F] Phosphoribosylaminoimidazole carboxylase (NCAIR synthetase)  
+IPLMCBOA_02151	COG0041	[F] Phosphoribosylcarboxyaminoimidazole (NCAIR) mutase   
+IPLMCBOA_02152	COG2233	[F] Xanthine/uracil permeases    
+IPLMCBOA_02153	COG0503	[F] Adenine/guanine phosphoribosyltransferases and related PRPP-binding proteins
+IPLMCBOA_02154	ROG0714	
+IPLMCBOA_02155	COG1705	[NU] Muramidase (flagellum-specific)    
+IPLMCBOA_02156	COG1876	[M] D-alanyl-D-alanine carboxypeptidase    
+IPLMCBOA_02158	COG0673	[R] Predicted dehydrogenases and related proteins 
+IPLMCBOA_02159	COG4129	[S] Predicted membrane protein   
+IPLMCBOA_02160	COG4129	[S] Predicted membrane protein   
+IPLMCBOA_02161	COG2268	[S] Uncharacterized protein conserved in bacteria 
+IPLMCBOA_02162	ROG2851	
+IPLMCBOA_02163	ROG0661	
+IPLMCBOA_02165	COG0474	[P] Cation transport ATPase   
+IPLMCBOA_02166	COG0789	[K] Predicted transcriptional regulators   
+IPLMCBOA_02167	COG1820	[G] N-acetylglucosamine-6-phosphate deacetylase    
+IPLMCBOA_02168	COG0457	[R] FOG: TPR repeat   
+IPLMCBOA_02169	COG0436	[E] Aspartate/tyrosine/aromatic aminotransferase    
+IPLMCBOA_02173	COG1196	[D] Chromosome segregation ATPases   
+IPLMCBOA_02174	COG2155	[S] Uncharacterized conserved protein   
+IPLMCBOA_02175	ROG7992	
+IPLMCBOA_02177	COG0446	[R] Uncharacterized NAD(FAD)-dependent dehydrogenases   
+IPLMCBOA_02178	COG0176	[G] Transaldolase     
+IPLMCBOA_02179	COG3731	[G] Phosphotransferase system sorbitol-specific component IIA 
+IPLMCBOA_02180	COG3732	[G] Phosphotransferase system sorbitol-specific component IIBC 
+IPLMCBOA_02181	COG3730	[G] Phosphotransferase system sorbitol-specific component IIC 
+IPLMCBOA_02182	COG4578	[K] Glucitol operon activator   
+IPLMCBOA_02183	COG3711	[K] Transcriptional antiterminator    
+IPLMCBOA_02184	COG1028	[IQR] Dehydrogenases with different specificities (related to
+IPLMCBOA_02185	ROG7580	
+IPLMCBOA_02186	ROG5433	
+IPLMCBOA_02188	ROG1429	
+IPLMCBOA_02189	ROG7668	
+IPLMCBOA_02190	ROG7009	
+IPLMCBOA_02191	COG0351	[H] Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase    
+IPLMCBOA_02192	COG2145	[H] Hydroxyethylthiazole kinase, sugar kinase family 
+IPLMCBOA_02193	COG0352	[H] Thiamine monophosphate synthase   
+IPLMCBOA_02194	COG1806	[S] Uncharacterized protein conserved in bacteria 
+IPLMCBOA_02195	COG0517	[R] FOG: CBS domain   
+IPLMCBOA_02196	COG0574	[G] Phosphoenolpyruvate synthase/pyruvate phosphate dikinase  
+IPLMCBOA_02197	COG1162	[R] Predicted GTPases    
+IPLMCBOA_02198	COG0335	[J] Ribosomal protein L19   
+IPLMCBOA_02199	COG0336	[J] tRNA-(guanine-N1)-methyltransferase     
+IPLMCBOA_02200	COG0806	[J] RimM protein, required for 16S rRNA
+IPLMCBOA_02201	ROG5516	
+IPLMCBOA_02202	COG1837	[R] Predicted RNA-binding protein (contains KH domain)
+IPLMCBOA_02203	COG0228	[J] Ribosomal protein S16   
+IPLMCBOA_02204	COG0431	[R] Predicted flavoprotein    
+IPLMCBOA_02205	COG0262	[H] Dihydrofolate reductase    
+IPLMCBOA_02206	COG2818	[L] 3-methyladenine DNA glycosylase   
+IPLMCBOA_02207	COG0541	[U] Signal recognition particle GTPase  
+IPLMCBOA_02208	COG2739	[S] Uncharacterized protein conserved in bacteria 
+IPLMCBOA_02209	COG1683	[S] Uncharacterized conserved protein   
+IPLMCBOA_02210	COG0745	[TK] Response regulators consisting of a CheY-like
+IPLMCBOA_02211	COG0642	[T] Signal transduction histidine kinase  
+IPLMCBOA_02212	COG2217	[P] Cation transport ATPase   
+IPLMCBOA_02213	COG0226	[P] ABC-type phosphate transport system, periplasmic component
+IPLMCBOA_02216	COG2161	[D] Antitoxin of toxin-antitoxin stability system 
+IPLMCBOA_02217	ROG0514	
+IPLMCBOA_02218	COG0178	[L] Excinuclease ATPase subunit   
+IPLMCBOA_02219	COG2344	[R] AT-rich DNA-binding protein   
+IPLMCBOA_02220	COG0488	[R] ATPase components of ABC transporters with
+IPLMCBOA_02221	COG3254	[S] Uncharacterized conserved protein   
+IPLMCBOA_02223	COG0842	[V] ABC-type multidrug transport system, permease component
+IPLMCBOA_02225	COG1131	[V] ABC-type multidrug transport system, ATPase component
+IPLMCBOA_02226	COG4585	[T] Signal transduction histidine kinase  
+IPLMCBOA_02227	COG2197	[TK] Response regulator containing a CheY-like receiver
+IPLMCBOA_02230	COG3731	[G] Phosphotransferase system sorbitol-specific component IIA 
+IPLMCBOA_02231	COG4091	[E] Predicted homoserine dehydrogenase   
+IPLMCBOA_02232	COG4578	[K] Glucitol operon activator   
+IPLMCBOA_02233	COG0111	[HE] Phosphoglycerate dehydrogenase and related dehydrogenases 
+IPLMCBOA_02234	COG1063	[ER] Threonine dehydrogenase and related Zn-dependent dehydrogenases
+IPLMCBOA_02235	COG3732	[G] Phosphotransferase system sorbitol-specific component IIBC 
+IPLMCBOA_02236	COG3730	[G] Phosphotransferase system sorbitol-specific component IIC 
+IPLMCBOA_02237	COG2390	[K] Transcriptional regulator, contains sigma factor-related N-terminal
+IPLMCBOA_02238	COG4717	[S] Uncharacterized conserved protein   
+IPLMCBOA_02240	COG0687	[E] Spermidine/putrescine-binding periplasmic protein   
+IPLMCBOA_02241	COG1177	[E] ABC-type spermidine/putrescine transport system, permease component
+IPLMCBOA_02242	COG1176	[E] ABC-type spermidine/putrescine transport system, permease component
+IPLMCBOA_02243	COG3842	[E] ABC-type spermidine/putrescine transport systems, ATPase components
+IPLMCBOA_02244	COG1396	[K] Predicted transcriptional regulators   
+IPLMCBOA_02245	COG0604	[CR] NADPH:quinone reductase and related Zn-dependent oxidoreductases
+IPLMCBOA_02246	COG0452	[H] Phosphopantothenoylcysteine synthetase/decarboxylase    
+IPLMCBOA_02247	COG0452	[H] Phosphopantothenoylcysteine synthetase/decarboxylase    
+IPLMCBOA_02248	COG4684	[S] Predicted membrane protein   
+IPLMCBOA_02249	COG0702	[MG] Predicted nucleoside-diphosphate-sugar epimerases   
+IPLMCBOA_02250	COG0604	[CR] NADPH:quinone reductase and related Zn-dependent oxidoreductases
+IPLMCBOA_02251	COG1053	[C] Succinate dehydrogenase/fumarate reductase, flavoprotein subunit 
+IPLMCBOA_02252	ROG0137	
+IPLMCBOA_02253	COG0454	[KR] Histone acetyltransferase HPA2 and related acetyltransferases
+IPLMCBOA_02254	COG0812	[M] UDP-N-acetylmuramate dehydrogenase    
+IPLMCBOA_02255	COG0673	[R] Predicted dehydrogenases and related proteins 
+IPLMCBOA_02256	COG0708	[L] Exonuclease III    
+IPLMCBOA_02257	COG0847	[L] DNA polymerase III, epsilon subunit and
+IPLMCBOA_02258	COG0454	[KR] Histone acetyltransferase HPA2 and related acetyltransferases
+IPLMCBOA_02259	COG0802	[R] Predicted ATPase or kinase  
+IPLMCBOA_02260	COG0280	[C] Phosphotransacetylase     
+IPLMCBOA_02261	COG0692	[L] Uracil DNA glycosylase   
+IPLMCBOA_02262	COG0561	[R] Predicted hydrolases of the HAD superfamily
+IPLMCBOA_02263	ROG6346	
+IPLMCBOA_02265	COG2891	[M] Cell shape-determining protein   
+IPLMCBOA_02266	COG1792	[M] Cell shape-determining protein   
+IPLMCBOA_02267	COG1564	[H] Thiamine pyrophosphokinase    
+IPLMCBOA_02268	COG0036	[G] Pentose-5-phosphate-3-epimerase     
+IPLMCBOA_02269	COG1162	[R] Predicted GTPases    
+IPLMCBOA_02270	COG2815	[S] Uncharacterized protein conserved in bacteria 
+IPLMCBOA_02271	COG0631	[T] Serine/threonine protein phosphatase   
+IPLMCBOA_02272	COG0144	[J] tRNA and rRNA cytosine-C5-methylases  
+IPLMCBOA_02273	COG0223	[J] Methionyl-tRNA formyltransferase    
+IPLMCBOA_02274	COG0242	[J] N-formylmethionyl-tRNA deformylase    
+IPLMCBOA_02275	COG1198	[L] Primosomal protein N' (replication factor Y)
+IPLMCBOA_02276	COG1758	[K] DNA-directed RNA polymerase, subunit K/omega 
+IPLMCBOA_02277	COG0194	[F] Guanylate kinase    
+IPLMCBOA_02278	COG1561	[S] Uncharacterized stress-induced protein   
+IPLMCBOA_02279	COG4443	[S] Uncharacterized protein conserved in bacteria 
+IPLMCBOA_02280	COG1752	[R] Predicted esterase of the alpha-beta hydrolase
+IPLMCBOA_02281	ROG3475	
+IPLMCBOA_02282	COG3859	[S] Predicted membrane protein   
+IPLMCBOA_02283	COG0462	[FE] Phosphoribosylpyrophosphate synthetase    
+IPLMCBOA_02284	COG1207	[M] N-acetylglucosamine-1-phosphate uridyltransferase (contains nucleotidyltransferase and I-patch
+IPLMCBOA_02285	COG0503	[F] Adenine/guanine phosphoribosyltransferases and related PRPP-binding proteins
+IPLMCBOA_02286	COG1108	[P] ABC-type Mn2+/Zn2+ transport systems, permease components
+IPLMCBOA_02287	COG1121	[P] ABC-type Mn/Zn transport systems, ATPase component
+IPLMCBOA_02288	COG0803	[P] ABC-type metal ion transport system, periplasmic
+IPLMCBOA_02289	COG1947	[I] 4-diphosphocytidyl-2C-methyl-D-erythritol 2-phosphate synthase   
+IPLMCBOA_02290	COG2898	[S] Uncharacterized conserved protein   
+IPLMCBOA_02291	COG0345	[E] Pyrroline-5-carboxylate reductase    
+IPLMCBOA_02295	COG1418	[R] Predicted HD superfamily hydrolase  
+IPLMCBOA_02296	COG0468	[L] RecA/RadA recombinase    
+IPLMCBOA_02297	COG1058	[R] Predicted nucleotide-utilizing enzyme related to molybdopterin-biosynthesis
+IPLMCBOA_02298	COG0558	[I] Phosphatidylglycerophosphate synthase    
+IPLMCBOA_02299	COG1426	[S] Uncharacterized protein conserved in bacteria 
+IPLMCBOA_02300	COG0612	[R] Predicted Zn-dependent peptidases   
+IPLMCBOA_02301	COG0612	[R] Predicted Zn-dependent peptidases   
+IPLMCBOA_02302	COG1970	[M] Large-conductance mechanosensitive channel   
+IPLMCBOA_02303	COG2153	[R] Predicted acyltransferase    
+IPLMCBOA_02304	COG4466	[S] Uncharacterized protein conserved in bacteria 
+IPLMCBOA_02305	ROG3055	
+IPLMCBOA_02306	COG3688	[R] Predicted RNA-binding protein containing a PIN
+IPLMCBOA_02307	COG0566	[J] rRNA methylases    
+IPLMCBOA_02308	COG1939	[S] Uncharacterized protein conserved in bacteria 
+IPLMCBOA_02309	COG0215	[J] Cysteinyl-tRNA synthetase    
+IPLMCBOA_02310	COG1045	[E] Serine acetyltransferase    
+IPLMCBOA_02311	COG0008	[J] Glutamyl- and glutaminyl-tRNA synthetases  
+IPLMCBOA_02312	COG4956	[R] Integral membrane protein (PIN domain superfamily)
+IPLMCBOA_02313	COG1066	[O] Predicted ATP-dependent serine protease  
+IPLMCBOA_02314	COG0756	[F] dUTPase     
+IPLMCBOA_02315	COG0263	[E] Glutamate 5-kinase    
+IPLMCBOA_02316	COG0014	[E] Gamma-glutamyl phosphate reductase   
+IPLMCBOA_02317	ROG7075	
+IPLMCBOA_02318	ROG2253	
+IPLMCBOA_02319	COG5492	[N] Bacterial surface proteins containing Ig-like domains
+IPLMCBOA_02320	COG1705	[NU] Muramidase (flagellum-specific)    
+IPLMCBOA_02322	COG0702	[MG] Predicted nucleoside-diphosphate-sugar epimerases   
+IPLMCBOA_02323	COG1959	[K] Predicted transcriptional regulator   
+IPLMCBOA_02324	ROG6185	
+IPLMCBOA_02325	COG4495	[S] Uncharacterized protein conserved in bacteria 
+IPLMCBOA_02331	COG4495	[S] Uncharacterized protein conserved in bacteria 
+IPLMCBOA_02332	COG1674	[D] DNA segregation ATPase FtsK/SpoIIIE and related
+IPLMCBOA_02333	COG4499	[S] Predicted membrane protein   
+IPLMCBOA_02335	ROG1926	
+IPLMCBOA_02336	COG1511	[S] Predicted membrane protein   
+IPLMCBOA_02337	COG4842	[S] Uncharacterized protein conserved in bacteria 
+IPLMCBOA_02339	COG1562	[I] Phytoene/squalene synthetase    
+IPLMCBOA_02340	COG1233	[Q] Phytoene dehydrogenase and related proteins 
+IPLMCBOA_02341	COG0042	[J] tRNA-dihydrouridine synthase    
+IPLMCBOA_02342	COG0842	[V] ABC-type multidrug transport system, permease component
+IPLMCBOA_02343	COG1131	[V] ABC-type multidrug transport system, ATPase component
+IPLMCBOA_02345	COG3828	[S] Uncharacterized protein conserved in bacteria 
+IPLMCBOA_02346	COG1070	[G] Sugar (pentulose and hexulose) kinases 
+IPLMCBOA_02347	COG1879	[G] ABC-type sugar transport system, periplasmic component
+IPLMCBOA_02348	COG1172	[G] Ribose/xylose/arabinose/galactoside ABC-type transport systems, permease components
+IPLMCBOA_02349	COG1129	[G] ABC-type sugar transport system, ATPase component
+IPLMCBOA_02350	COG3507	[G] Beta-xylosidase     
+IPLMCBOA_02351	COG2115	[G] Xylose isomerase    
+IPLMCBOA_02352	COG1940	[KG] Transcriptional regulator/sugar kinase   
+IPLMCBOA_02353	COG0021	[G] Transketolase     
+IPLMCBOA_02354	COG0036	[G] Pentose-5-phosphate-3-epimerase     
+IPLMCBOA_02355	COG0176	[G] Transaldolase     
+IPLMCBOA_02356	COG1299	[G] Phosphotransferase system, fructose-specific IIC component 
+IPLMCBOA_02357	COG1445	[G] Phosphotransferase system fructose-specific component IIB 
+IPLMCBOA_02358	COG1762	[GT] Phosphotransferase system mannitol/fructose-specific IIA domain (Ntr-type)
+IPLMCBOA_02359	COG1445	[G] Phosphotransferase system fructose-specific component IIB 
+IPLMCBOA_02361	COG3711	[K] Transcriptional antiterminator    
+IPLMCBOA_02362	ROG7668	
+IPLMCBOA_02363	ROG7009	
+IPLMCBOA_02364	COG3764	[M] Sortase (surface protein transpeptidase)  
+IPLMCBOA_02367	ROG7009	
+IPLMCBOA_02368	ROG1429	
+IPLMCBOA_02369	ROG7668	
+IPLMCBOA_02370	ROG7668	
+IPLMCBOA_02371	ROG7668	
+IPLMCBOA_02376	ROG4123	
+IPLMCBOA_02378	ROG0999	
+IPLMCBOA_02381	ROG5516	
+IPLMCBOA_02383	COG2856	[E] Predicted Zn peptidase   
+IPLMCBOA_02384	COG4249	[R] Uncharacterized protein containing caspase domain 
+IPLMCBOA_02385	ROG7790	
+IPLMCBOA_02386	ROG3558	
+IPLMCBOA_02387	COG3183	[V] Predicted restriction endonuclease   
+IPLMCBOA_02389	ROG0944	
+IPLMCBOA_02390	ROG2110	
+IPLMCBOA_02391	COG4658	[C] Predicted NADH:ubiquinone oxidoreductase, subunit RnfD 
+IPLMCBOA_02392	COG4656	[C] Predicted NADH:ubiquinone oxidoreductase, subunit RnfC 
+IPLMCBOA_02395	ROG0733	
+IPLMCBOA_02396	ROG7058	
+IPLMCBOA_02398	COG0420	[L] DNA repair exonuclease   
+IPLMCBOA_02399	COG4717	[S] Uncharacterized conserved protein   
+IPLMCBOA_02400	COG3481	[R] Predicted HD-superfamily hydrolase   
+IPLMCBOA_02401	COG0760	[O] Parvulin-like peptidyl-prolyl isomerase   
+IPLMCBOA_02402	COG4980	[R] Gas vesicle protein   
+IPLMCBOA_02403	COG0537	[FGR] Diadenosine tetraphosphate (Ap4A) hydrolase and other
+IPLMCBOA_02404	COG4555	[CP] ABC-type Na+ transport system, ATPase component
+IPLMCBOA_02405	COG4473	[U] Predicted ABC-type exoprotein transport system, permease
+IPLMCBOA_02406	COG0510	[M] Predicted choline kinase involved in LPS
+IPLMCBOA_02407	COG0220	[R] Predicted S-adenosylmethionine-dependent methyltransferase   
+IPLMCBOA_02408	COG1001	[F] Adenine deaminase    
+IPLMCBOA_02409	COG2804	[NU] Type II secretory pathway, ATPase PulE/Tfp
+IPLMCBOA_02411	COG4537	[U] Competence protein ComGC   
+IPLMCBOA_02412	ROG7072	
+IPLMCBOA_02414	COG4940	[U] Competence protein ComGF   
+IPLMCBOA_02416	COG0827	[L] Adenine-specific DNA methylase   
+IPLMCBOA_02417	COG0282	[C] Acetate kinase    
+IPLMCBOA_02418	COG1609	[K] Transcriptional regulators    
+IPLMCBOA_02419	COG1621	[G] Beta-fructosidases (levanase/invertase)    
+IPLMCBOA_02420	COG1263	[G] Phosphotransferase system IIC components, glucose/maltose/N-acetylglucosamine-specific 
+IPLMCBOA_02421	COG0589	[T] Universal stress protein UspA and related
+IPLMCBOA_02423	COG2256	[L] ATPase related to the helicase subunit
+IPLMCBOA_02424	COG2094	[L] 3-methyladenine DNA glycosylase   
+IPLMCBOA_02425	ROG2236	
+IPLMCBOA_02426	COG2264	[J] Ribosomal protein L11 methylase  
+IPLMCBOA_02427	COG1385	[S] Uncharacterized protein conserved in bacteria 
+IPLMCBOA_02428	COG0317	[TK] Guanosine polyphosphate pyrophosphohydrolases/synthetases   
+IPLMCBOA_02429	COG1490	[J] D-Tyr-tRNAtyr deacylase    
+IPLMCBOA_02431	COG2124	[Q] Cytochrome P450    
+IPLMCBOA_02432	ROG7014	
+IPLMCBOA_02433	COG0667	[C] Predicted oxidoreductases (related to aryl-alcohol dehydrogenases)
+IPLMCBOA_02434	COG0124	[J] Histidyl-tRNA synthetase    
+IPLMCBOA_02435	COG0173	[J] Aspartyl-tRNA synthetase    
+IPLMCBOA_02436	COG1284	[S] Uncharacterized conserved protein   
+IPLMCBOA_02437	COG2826	[L] Transposase and inactivated derivatives, IS30 family
+IPLMCBOA_02438	COG2217	[P] Cation transport ATPase   
+IPLMCBOA_02439	COG2217	[P] Cation transport ATPase   
+IPLMCBOA_02440	COG2608	[P] Copper chaperone    
+IPLMCBOA_02441	COG3682	[K] Predicted transcriptional regulator   
+IPLMCBOA_02442	COG4917	[E] Ethanolamine utilization protein   
+IPLMCBOA_02443	COG0531	[E] Amino acid transporters   
+IPLMCBOA_02444	COG2217	[P] Cation transport ATPase   
+IPLMCBOA_02447	COG3304	[S] Predicted membrane protein   
+IPLMCBOA_02448	ROG8056	
+IPLMCBOA_02449	COG0454	[KR] Histone acetyltransferase HPA2 and related acetyltransferases
+IPLMCBOA_02450	COG2755	[E] Lysophospholipase L1 and related esterases 
+IPLMCBOA_02451	COG0017	[J] Aspartyl/asparaginyl-tRNA synthetases    
+IPLMCBOA_02452	COG0436	[E] Aspartate/tyrosine/aromatic aminotransferase    
+IPLMCBOA_02453	COG5353	[S] Uncharacterized protein conserved in bacteria 
+IPLMCBOA_02454	COG1199	[KL] Rad3-related DNA helicases   
+IPLMCBOA_02455	COG1278	[K] Cold shock proteins   
+IPLMCBOA_02456	ROG0099	
+IPLMCBOA_02458	COG1686	[M] D-alanyl-D-alanine carboxypeptidase    
+IPLMCBOA_02459	COG1434	[S] Uncharacterized conserved protein   
+IPLMCBOA_02460	COG0038	[P] Chloride channel protein EriC  
+IPLMCBOA_02461	ROG2890	
+IPLMCBOA_02462	COG1418	[R] Predicted HD superfamily hydrolase  
+IPLMCBOA_02463	COG0566	[J] rRNA methylases    
+IPLMCBOA_02464	COG1254	[C] Acylphosphatases     
+IPLMCBOA_02465	COG0706	[U] Preprotein translocase subunit YidC  
+IPLMCBOA_02466	COG0751	[J] Glycyl-tRNA synthetase, beta subunit  
+IPLMCBOA_02467	COG0752	[J] Glycyl-tRNA synthetase, alpha subunit  
+IPLMCBOA_02468	COG1381	[L] Recombinational DNA repair protein (RecF pathway)
+IPLMCBOA_02469	COG1159	[R] GTPase     
+IPLMCBOA_02470	COG0818	[M] Diacylglycerol kinase    
+IPLMCBOA_02471	COG0319	[R] Predicted metal-dependent hydrolase   
+IPLMCBOA_02472	COG1480	[R] Predicted membrane-associated HD superfamily hydrolase 
+IPLMCBOA_02473	COG1702	[T] Phosphate starvation-inducible protein PhoH, predicted ATPase
+IPLMCBOA_02474	COG1737	[K] Transcriptional regulators    
+IPLMCBOA_02475	COG1940	[KG] Transcriptional regulator/sugar kinase   
+IPLMCBOA_02476	COG1794	[M] Aspartate racemase    
+IPLMCBOA_02477	COG3919	[R] Predicted ATP-grasp enzyme   
+IPLMCBOA_02478	COG0178	[L] Excinuclease ATPase subunit   
+IPLMCBOA_02479	COG0556	[L] Helicase subunit of the DNA excision
+IPLMCBOA_02480	COG0765	[E] ABC-type amino acid transport system, permease
+IPLMCBOA_02481	COG1126	[E] ABC-type polar amino acid transport system,
+IPLMCBOA_02482	COG3867	[G] Arabinogalactan endo-1,4-beta-galactosidase    
+IPLMCBOA_02483	COG1455	[G] Phosphotransferase system cellobiose-specific component IIC 
+IPLMCBOA_02484	COG1447	[G] Phosphotransferase system cellobiose-specific component IIA 
+IPLMCBOA_02485	COG2723	[G] Beta-glucosidase/6-phospho-beta-glucosidase/beta-galactosidase     
+IPLMCBOA_02486	COG1349	[KG] Transcriptional regulators of sugar metabolism 
+IPLMCBOA_02487	COG0637	[R] Predicted phosphatase/phosphohexomutase    
+IPLMCBOA_02488	COG0484	[O] DnaJ-class molecular chaperone with C-terminal Zn
+IPLMCBOA_02489	COG0443	[O] Molecular chaperone    
+IPLMCBOA_02490	COG0576	[O] Molecular chaperone GrpE (heat shock protein)
+IPLMCBOA_02491	COG1420	[K] Transcriptional regulator of heat shock gene
+IPLMCBOA_02492	COG0635	[H] Coproporphyrinogen III oxidase and related Fe-S
+IPLMCBOA_02493	COG0582	[L] Integrase     
+IPLMCBOA_02496	ROG3525	
+IPLMCBOA_02497	COG1669	[R] Predicted nucleotidyltransferases    
+IPLMCBOA_02499	ROG3252	
+IPLMCBOA_02500	ROG5851	
+IPLMCBOA_02506	COG1817	[S] Uncharacterized protein conserved in archaea 
+IPLMCBOA_02507	COG0270	[L] Site-specific DNA methylase   
+IPLMCBOA_02508	COG0270	[L] Site-specific DNA methylase   
+IPLMCBOA_02510	ROG3309	
+IPLMCBOA_02511	COG2184	[D] Protein involved in cell division 
+IPLMCBOA_02512	COG1961	[L] Site-specific recombinases, DNA invertase Pin homologs
+IPLMCBOA_02514	COG2963	[L] Transposase and inactivated derivatives  
+IPLMCBOA_02515	COG2801	[L] Transposase and inactivated derivatives  
+IPLMCBOA_02516	COG1737	[K] Transcriptional regulators    
+IPLMCBOA_02517	COG1486	[G] Alpha-galactosidases/6-phospho-beta-glucosidases, family 4 of glycosyl hydrolases
+IPLMCBOA_02518	COG0673	[R] Predicted dehydrogenases and related proteins 
+IPLMCBOA_02519	COG1455	[G] Phosphotransferase system cellobiose-specific component IIC 
+IPLMCBOA_02520	COG2723	[G] Beta-glucosidase/6-phospho-beta-glucosidase/beta-galactosidase     
+IPLMCBOA_02521	COG1609	[K] Transcriptional regulators    
+IPLMCBOA_02522	ROG7795	
+IPLMCBOA_02523	COG1653	[G] ABC-type sugar transport system, periplasmic component
+IPLMCBOA_02524	COG1175	[G] ABC-type sugar transport systems, permease components
+IPLMCBOA_02525	COG0395	[G] ABC-type sugar transport system, permease component
+IPLMCBOA_02526	COG1621	[G] Beta-fructosidases (levanase/invertase)    
+IPLMCBOA_02527	COG1940	[KG] Transcriptional regulator/sugar kinase   
+IPLMCBOA_02528	COG3839	[G] ABC-type sugar transport systems, ATPase components
+IPLMCBOA_02529	COG1961	[L] Site-specific recombinases, DNA invertase Pin homologs
+IPLMCBOA_02530	COG4974	[L] Site-specific recombinase XerD   
+IPLMCBOA_02531	COG3654	[R] Prophage maintenance system killer protein 
+IPLMCBOA_02533	COG2826	[L] Transposase and inactivated derivatives, IS30 family
+IPLMCBOA_02534	COG2826	[L] Transposase and inactivated derivatives, IS30 family
+IPLMCBOA_02535	COG0286	[V] Type I restriction-modification system methyltransferase subunit
+IPLMCBOA_02536	COG0732	[V] Restriction endonuclease S subunits  
+IPLMCBOA_02537	COG0610	[V] Type I site-specific restriction-modification system, R
+IPLMCBOA_02538	COG3464	[L] Transposase and inactivated derivatives  
+IPLMCBOA_02539	COG3464	[L] Transposase and inactivated derivatives  
+IPLMCBOA_02540	COG1004	[M] Predicted UDP-glucose 6-dehydrogenase   
+IPLMCBOA_02541	COG0664	[T] cAMP-binding proteins - catabolite gene activator
+IPLMCBOA_02542	COG2235	[E] Arginine deiminase    
+IPLMCBOA_02543	COG0078	[E] Ornithine carbamoyltransferase    
+IPLMCBOA_02544	COG0549	[E] Carbamate kinase    
+IPLMCBOA_02545	COG0018	[J] Arginyl-tRNA synthetase    
+IPLMCBOA_02555	COG1438	[K] Arginine repressor    
+IPLMCBOA_02556	COG0052	[J] Ribosomal protein S2   
+IPLMCBOA_02557	COG0264	[J] Translation elongation factor Ts  
+IPLMCBOA_02558	COG0528	[F] Uridylate kinase    
+IPLMCBOA_02559	COG0233	[J] Ribosome recycling factor   
+IPLMCBOA_02560	COG0020	[I] Undecaprenyl pyrophosphate synthase   
+IPLMCBOA_02561	COG0575	[I] CDP-diglyceride synthetase    
+IPLMCBOA_02562	COG0750	[M] Predicted membrane-associated Zn-dependent proteases 1 
+IPLMCBOA_02563	COG0442	[J] Prolyl-tRNA synthetase    
+IPLMCBOA_02564	COG2176	[L] DNA polymerase III, alpha subunit (gram-positive
+IPLMCBOA_02565	COG0779	[S] Uncharacterized protein conserved in bacteria 
+IPLMCBOA_02566	COG0195	[K] Transcription elongation factor   
+IPLMCBOA_02567	COG2740	[K] Predicted nucleic-acid-binding protein implicated in transcription
+IPLMCBOA_02568	COG1358	[J] Ribosomal protein HS6-type (S12/L30/L7a)  
+IPLMCBOA_02569	COG0532	[J] Translation initiation factor 2 (IF-2; GTPase)
+IPLMCBOA_02570	COG0858	[J] Ribosome-binding factor A   
+IPLMCBOA_02571	COG1167	[KE] Transcriptional regulators containing a DNA-binding HTH
+IPLMCBOA_02572	COG1071	[C] Pyruvate/2-oxoglutarate dehydrogenase complex, dehydrogenase (E1) component,
+IPLMCBOA_02573	COG0022	[C] Pyruvate/2-oxoglutarate dehydrogenase complex, dehydrogenase (E1) component,
+IPLMCBOA_02574	COG0508	[C] Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide acyltransferase (E2)
+IPLMCBOA_02575	COG1249	[C] Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide dehydrogenase (E3)
+IPLMCBOA_02576	COG4476	[S] Uncharacterized protein conserved in bacteria 
+IPLMCBOA_02577	COG0483	[G] Archaeal fructose-1,6-bisphosphatase and related enzymes of
+IPLMCBOA_02578	COG1217	[T] Predicted membrane GTPase involved in stress
+IPLMCBOA_02580	COG0033	[G] Phosphoglucomutase     
+IPLMCBOA_02581	COG0514	[L] Superfamily II DNA helicase  
+IPLMCBOA_02582	COG4838	[S] Uncharacterized protein conserved in bacteria 
+IPLMCBOA_02583	COG0772	[D] Bacterial cell division membrane protein 
+IPLMCBOA_02584	COG1038	[C] Pyruvate carboxylase    
+IPLMCBOA_02586	COG3679	[S] Uncharacterized conserved protein   
+IPLMCBOA_02587	COG4471	[S] Uncharacterized protein conserved in bacteria 
+IPLMCBOA_02588	COG0742	[L] N6-adenine-specific methylase    
+IPLMCBOA_02589	COG0669	[H] Phosphopantetheine adenylyltransferase    
+IPLMCBOA_02590	COG3480	[T] Predicted secreted protein containing a PDZ
+IPLMCBOA_02592	COG1555	[L] DNA uptake protein and related DNA-binding
+IPLMCBOA_02593	COG2131	[F] Deoxycytidylate deaminase    
+IPLMCBOA_02594	COG2333	[R] Predicted hydrolase (metallo-beta-lactamase superfamily)  
+IPLMCBOA_02595	COG1466	[L] DNA polymerase III, delta subunit 
+IPLMCBOA_02596	COG0268	[J] Ribosomal protein S20   
+IPLMCBOA_02599	COG2707	[S] Predicted membrane protein   
+IPLMCBOA_02605	ROG6320	
+IPLMCBOA_02607	ROG1487	
+IPLMCBOA_02608	COG3599	[D] Cell division initiation protein  
+IPLMCBOA_02610	ROG2422	
+IPLMCBOA_02611	COG1695	[K] Predicted transcriptional regulators   
+IPLMCBOA_02613	COG0488	[R] ATPase components of ABC transporters with
+IPLMCBOA_02614	COG1968	[V] Uncharacterized bacitracin resistance protein  
+IPLMCBOA_02615	COG0406	[G] Fructose-2,6-bisphosphatase     
+IPLMCBOA_02616	COG0491	[R] Zn-dependent hydrolases, including glyoxylases  
+IPLMCBOA_02617	COG1199	[KL] Rad3-related DNA helicases   
+IPLMCBOA_02618	COG1666	[S] Uncharacterized protein conserved in bacteria 
+IPLMCBOA_02619	COG1284	[S] Uncharacterized conserved protein   
+IPLMCBOA_02620	COG2151	[R] Predicted metal-sulfur cluster biosynthetic enzyme 
+IPLMCBOA_02623	ROG5695	
+IPLMCBOA_02625	COG4405	[S] Uncharacterized protein conserved in bacteria 
+IPLMCBOA_02626	COG0454	[KR] Histone acetyltransferase HPA2 and related acetyltransferases
+IPLMCBOA_02628	COG0454	[KR] Histone acetyltransferase HPA2 and related acetyltransferases
+IPLMCBOA_02630	COG1476	[K] Predicted transcriptional regulators   
+IPLMCBOA_02631	COG0394	[T] Protein-tyrosine-phosphatase     
+IPLMCBOA_02632	COG3708	[S] Uncharacterized protein conserved in bacteria 
+IPLMCBOA_02633	COG4283	[S] Uncharacterized conserved protein   
+IPLMCBOA_02634	ROG7992	
+IPLMCBOA_02635	COG0589	[T] Universal stress protein UspA and related
+IPLMCBOA_02638	ROG2180	
+IPLMCBOA_02639	ROG6841	
+IPLMCBOA_02640	COG5294	[S] Uncharacterized protein conserved in bacteria 
+IPLMCBOA_02642	COG4990	[S] Uncharacterized protein conserved in bacteria 
+IPLMCBOA_02643	ROG5756	
+IPLMCBOA_02645	COG3560	[R] Predicted oxidoreductase related to nitroreductase 
+IPLMCBOA_02646	COG3104	[E] Dipeptide/tripeptide permease    
+IPLMCBOA_02647	COG3857	[L] ATP-dependent nuclease, subunit B  
+IPLMCBOA_02648	COG1074	[L] ATP-dependent exoDNAse (exonuclease V) beta subunit
+IPLMCBOA_02649	COG1733	[K] Predicted transcriptional regulators   
+IPLMCBOA_02650	COG0016	[J] Phenylalanyl-tRNA synthetase alpha subunit  
+IPLMCBOA_02651	COG0072	[J] Phenylalanyl-tRNA synthetase beta subunit  
+IPLMCBOA_02652	COG0180	[J] Tryptophanyl-tRNA synthetase    
+IPLMCBOA_02653	COG1126	[E] ABC-type polar amino acid transport system,
+IPLMCBOA_02654	COG0834	[ET] ABC-type amino acid transport/signal transduction systems,
+IPLMCBOA_02655	COG0765	[E] ABC-type amino acid transport system, permease
+IPLMCBOA_02656	COG0765	[E] ABC-type amino acid transport system, permease
+IPLMCBOA_02657	COG0796	[M] Glutamate racemase    
+IPLMCBOA_02658	COG0689	[J] RNase PH    
+IPLMCBOA_02659	COG0622	[R] Predicted phosphoesterase    
+IPLMCBOA_02660	COG4175	[E] ABC-type proline/glycine betaine transport system, ATPase
+IPLMCBOA_02661	COG1695	[K] Predicted transcriptional regulators   
+IPLMCBOA_02662	COG4817	[S] Uncharacterized protein conserved in bacteria 
+IPLMCBOA_02663	COG4817	[S] Uncharacterized protein conserved in bacteria 
+IPLMCBOA_02664	COG0668	[M] Small-conductance mechanosensitive channel   
+IPLMCBOA_02665	COG0115	[EH] Branched-chain amino acid aminotransferase/4-amino-4-deoxychorismate lyase 
+IPLMCBOA_02666	COG0623	[I] Enoyl-[acyl-carrier-protein] reductase (NADH)   
+IPLMCBOA_02667	COG0764	[I] 3-hydroxymyristoyl/3-hydroxydecanoyl-(acyl carrier protein) dehydratases  
+IPLMCBOA_02668	COG0652	[O] Peptidyl-prolyl cis-trans isomerase (rotamase) - cyclophilin
+IPLMCBOA_02669	COG3589	[S] Uncharacterized conserved protein   
+IPLMCBOA_02670	COG1073	[R] Hydrolases of the alpha/beta superfamily 
+IPLMCBOA_02671	COG0536	[R] Predicted GTPase    
+IPLMCBOA_02672	ROG6597	
+IPLMCBOA_02673	COG1234	[R] Metal-dependent hydrolases of the beta-lactamase superfamily
+IPLMCBOA_02674	COG0300	[R] Short-chain dehydrogenases of various substrate specificities
+IPLMCBOA_02675	COG5416	[S] Uncharacterized integral membrane protein  
+IPLMCBOA_02676	COG0608	[L] Single-stranded DNA-specific exonuclease   
+IPLMCBOA_02677	COG0503	[F] Adenine/guanine phosphoribosyltransferases and related PRPP-binding proteins
+IPLMCBOA_02679	COG1974	[KT] SOS-response transcriptional repressors (RecA-mediated autopeptidases) 
+IPLMCBOA_02680	COG4224	[S] Uncharacterized protein conserved in bacteria 
+IPLMCBOA_02681	COG0021	[G] Transketolase     
+IPLMCBOA_02682	COG1705	[NU] Muramidase (flagellum-specific)    
+IPLMCBOA_02683	COG0031	[E] Cysteine synthase    
+IPLMCBOA_02684	COG0735	[P] Fe2+/Zn2+ uptake regulation proteins  
+IPLMCBOA_02685	COG0446	[R] Uncharacterized NAD(FAD)-dependent dehydrogenases   
+IPLMCBOA_02687	COG3935	[L] Putative primosome component and related proteins
+IPLMCBOA_02688	COG0177	[L] Predicted EndoIII-related endonuclease   
+IPLMCBOA_02689	COG4337	[S] Uncharacterized protein conserved in bacteria 
+IPLMCBOA_02690	ROG7009	
+IPLMCBOA_02691	COG3397	[S] Uncharacterized protein conserved in bacteria 
+IPLMCBOA_02692	ROG7009	
+IPLMCBOA_02693	COG3505	[U] Type IV secretory pathway, VirD4 components
+IPLMCBOA_02695	ROG4513	
+IPLMCBOA_02696	ROG5797	
+IPLMCBOA_02697	ROG4033	
+IPLMCBOA_02698	ROG3453	
+IPLMCBOA_02699	ROG3212	
+IPLMCBOA_02700	ROG0965	
+IPLMCBOA_02701	ROG5433	
+IPLMCBOA_02705	ROG1632	
+IPLMCBOA_02707	ROG3867	
+IPLMCBOA_02709	COG0744	[M] Membrane carboxypeptidase (penicillin-binding protein)  
+IPLMCBOA_02710	COG3331	[R] Penicillin-binding protein-related factor A, putative recombinase
+IPLMCBOA_02711	COG4474	[S] Uncharacterized protein conserved in bacteria 
+IPLMCBOA_02712	COG3599	[D] Cell division initiation protein  
+IPLMCBOA_02713	COG0116	[L] Predicted N6-adenine-specific DNA methylase  
+IPLMCBOA_02714	COG4405	[S] Uncharacterized protein conserved in bacteria 
+IPLMCBOA_02715	COG2317	[E] Zn-dependent carboxypeptidase    
+IPLMCBOA_02716	ROG1750	
+IPLMCBOA_02717	COG2723	[G] Beta-glucosidase/6-phospho-beta-glucosidase/beta-galactosidase     
+IPLMCBOA_02718	COG1904	[G] Glucuronate isomerase    
+IPLMCBOA_02719	COG2721	[G] Altronate dehydratase    
+IPLMCBOA_02720	COG0246	[G] Mannitol-1-phosphate/altronate dehydrogenases    
+IPLMCBOA_02721	COG2207	[K] AraC-type DNA-binding domain-containing proteins  
+IPLMCBOA_02722	COG0395	[G] ABC-type sugar transport system, permease component
+IPLMCBOA_02723	COG4209	[G] ABC-type polysaccharide transport system, permease component
+IPLMCBOA_02724	COG5578	[S] Predicted integral membrane protein  
+IPLMCBOA_02725	COG1653	[G] ABC-type sugar transport system, periplasmic component
+IPLMCBOA_02726	COG4225	[R] Predicted unsaturated glucuronyl hydrolase involved in
+IPLMCBOA_02727	COG5434	[M] Endopolygalacturonase     
+IPLMCBOA_02728	COG1073	[R] Hydrolases of the alpha/beta superfamily 
+IPLMCBOA_02729	COG4677	[G] Pectin methylesterase    
+IPLMCBOA_02730	ROG1989	
+IPLMCBOA_02731	COG3507	[G] Beta-xylosidase     
+IPLMCBOA_02732	ROG1669	
+IPLMCBOA_02733	COG1846	[K] Transcriptional regulators    
+IPLMCBOA_02734	COG2070	[R] Dioxygenases related to 2-nitropropane dioxygenase 
+IPLMCBOA_02735	COG1028	[IQR] Dehydrogenases with different specificities (related to
+IPLMCBOA_02736	COG4221	[R] Short-chain alcohol dehydrogenase of unknown specificity
+IPLMCBOA_02737	COG1835	[I] Predicted acyltransferases    
+IPLMCBOA_02738	COG1396	[K] Predicted transcriptional regulators   
+IPLMCBOA_02739	COG4639	[R] Predicted kinase    
+IPLMCBOA_02740	COG0662	[G] Mannose-6-phosphate isomerase    
+IPLMCBOA_02741	COG4619	[R] ABC-type uncharacterized transport system, ATPase component
+IPLMCBOA_02742	COG0390	[R] ABC-type uncharacterized transport system, permease component
+IPLMCBOA_02744	ROG0568	
+IPLMCBOA_02745	COG0454	[KR] Histone acetyltransferase HPA2 and related acetyltransferases
+IPLMCBOA_02746	ROG3723	
+IPLMCBOA_02748	COG1464	[P] ABC-type metal ion transport system, periplasmic
+IPLMCBOA_02749	COG2011	[P] ABC-type metal ion transport system, permease
+IPLMCBOA_02750	COG1135	[P] ABC-type metal ion transport system, ATPase
+IPLMCBOA_02751	ROG0733	
+IPLMCBOA_02752	COG0535	[R] Predicted Fe-S oxidoreductases   
+IPLMCBOA_02753	COG4988	[CO] ABC-type transport system involved in cytochrome
+IPLMCBOA_02754	ROG7058	
+IPLMCBOA_02755	COG0500	[QR] SAM-dependent methyltransferases    
+IPLMCBOA_02756	COG1611	[R] Predicted Rossmann fold nucleotide-binding protein 
+IPLMCBOA_02757	ROG1959	
+IPLMCBOA_02758	COG1737	[K] Transcriptional regulators    
+IPLMCBOA_02759	COG1455	[G] Phosphotransferase system cellobiose-specific component IIC 
+IPLMCBOA_02760	COG2723	[G] Beta-glucosidase/6-phospho-beta-glucosidase/beta-galactosidase     
+IPLMCBOA_02761	COG1289	[S] Predicted membrane protein   
+IPLMCBOA_02764	COG3548	[S] Predicted integral membrane protein  
+IPLMCBOA_02765	ROG3899	
+IPLMCBOA_02766	COG0428	[P] Predicted divalent heavy-metal cations transporter 
+IPLMCBOA_02767	COG0673	[R] Predicted dehydrogenases and related proteins 
+IPLMCBOA_02768	COG0028	[EH] Thiamine pyrophosphate-requiring enzymes [acetolactate synthase, pyruvate
+IPLMCBOA_02769	COG0675	[L] Transposase and inactivated derivatives  
+IPLMCBOA_02770	COG2188	[K] Transcriptional regulators    
+IPLMCBOA_02771	COG0229	[O] Conserved domain frequently associated with peptide
+IPLMCBOA_02772	ROG2552	
+IPLMCBOA_02773	COG0424	[D] Nucleotide-binding protein implicated in inhibition of
+IPLMCBOA_02774	COG0323	[L] DNA mismatch repair enzyme (predicted ATPase)
+IPLMCBOA_02775	COG0249	[L] Mismatch repair ATPase (MutS family) 
+IPLMCBOA_02776	COG4550	[S] Predicted membrane protein   
+IPLMCBOA_02777	COG1692	[S] Uncharacterized protein conserved in bacteria 
+IPLMCBOA_02778	COG0561	[R] Predicted hydrolases of the HAD superfamily
+IPLMCBOA_02779	COG4912	[L] Predicted DNA alkylation repair enzyme 
+IPLMCBOA_02780	COG2116	[P] Formate/nitrite family of transporters  
+IPLMCBOA_02781	COG0522	[J] Ribosomal protein S4 and related proteins
+IPLMCBOA_02782	COG1853	[R] Conserved protein/domain typically associated with flavoprotein
+IPLMCBOA_02783	COG1268	[R] Uncharacterized conserved protein   
+IPLMCBOA_02784	COG0604	[CR] NADPH:quinone reductase and related Zn-dependent oxidoreductases
+IPLMCBOA_02785	COG1819	[GC] Glycosyl transferases, related to UDP-glucuronosyltransferase 
+IPLMCBOA_02786	COG0454	[KR] Histone acetyltransferase HPA2 and related acetyltransferases
+IPLMCBOA_02787	COG1668	[CP] ABC-type Na+ efflux pump, permease component
+IPLMCBOA_02788	COG4152	[R] ABC-type uncharacterized transport system, ATPase component
+IPLMCBOA_02790	COG1028	[IQR] Dehydrogenases with different specificities (related to
+IPLMCBOA_02791	ROG1737	
+IPLMCBOA_02792	ROG7009	
+IPLMCBOA_02793	COG0580	[G] Glycerol uptake facilitator and related permeases
+IPLMCBOA_02794	ROG0146	
+IPLMCBOA_02795	ROG3155	
+IPLMCBOA_02796	COG1670	[J] Acetyltransferases, including N-acetylases of ribosomal proteins
+IPLMCBOA_02798	COG4607	[P] ABC-type enterochelin transport system, periplasmic component
+IPLMCBOA_02799	COG4604	[P] ABC-type enterochelin transport system, ATPase component
+IPLMCBOA_02800	COG4605	[P] ABC-type enterochelin transport system, permease component
+IPLMCBOA_02801	COG4606	[P] ABC-type enterochelin transport system, permease component
+IPLMCBOA_02802	COG5506	[S] Uncharacterized conserved protein   
+IPLMCBOA_02805	ROG4474	
+IPLMCBOA_02806	COG2918	[H] Gamma-glutamylcysteine synthetase    
+IPLMCBOA_02807	ROG1924	
+IPLMCBOA_02808	ROG3072	
+IPLMCBOA_02809	COG0212	[H] 5-formyltetrahydrofolate cyclo-ligase    
+IPLMCBOA_02810	COG0705	[R] Uncharacterized membrane protein (homolog of Drosophila
+IPLMCBOA_02811	COG4483	[S] Uncharacterized protein conserved in bacteria 
+IPLMCBOA_02812	COG1940	[KG] Transcriptional regulator/sugar kinase   
+IPLMCBOA_02813	COG0607	[P] Rhodanese-related sulfurtransferase    
+IPLMCBOA_02814	ROG1448	
+IPLMCBOA_02815	ROG1554	
+IPLMCBOA_02816	COG1087	[M] UDP-glucose 4-epimerase    
+IPLMCBOA_02817	COG4468	[G] Galactose-1-phosphate uridyltransferase    
+IPLMCBOA_02818	COG1609	[K] Transcriptional regulators    
+IPLMCBOA_02819	COG1214	[O] Inactive homolog of metal-dependent proteases, putative
+IPLMCBOA_02820	COG0456	[R] Acetyltransferases     
+IPLMCBOA_02821	COG0456	[R] Acetyltransferases     
+IPLMCBOA_02822	COG0533	[O] Metal-dependent proteases with possible chaperone activity
+IPLMCBOA_02824	COG3764	[M] Sortase (surface protein transpeptidase)  
+IPLMCBOA_02825	ROG2210	
+IPLMCBOA_02826	COG3944	[M] Capsular polysaccharide biosynthesis protein  
+IPLMCBOA_02827	COG0455	[D] ATPases involved in chromosome partitioning 
+IPLMCBOA_02828	COG4464	[GM] Capsular polysaccharide biosynthesis protein  
+IPLMCBOA_02829	COG1086	[MG] Predicted nucleoside-diphosphate sugar epimerases  
+IPLMCBOA_02830	COG1086	[MG] Predicted nucleoside-diphosphate sugar epimerases  
+IPLMCBOA_02831	COG0399	[M] Predicted pyridoxal phosphate-dependent enzyme apparently involved
+IPLMCBOA_02832	COG2148	[M] Sugar transferases involved in lipopolysaccharide synthesis
+IPLMCBOA_02833	COG0454	[KR] Histone acetyltransferase HPA2 and related acetyltransferases
+IPLMCBOA_02834	COG0438	[M] Glycosyltransferase     
+IPLMCBOA_02835	COG0438	[M] Glycosyltransferase     
+IPLMCBOA_02837	COG1045	[E] Serine acetyltransferase    
+IPLMCBOA_02838	COG2244	[R] Membrane protein involved in the export
+IPLMCBOA_02839	COG0438	[M] Glycosyltransferase     
+IPLMCBOA_02840	COG0451	[MG] Nucleoside-diphosphate-sugar epimerases    
+IPLMCBOA_02841	COG5547	[S] Small integral membrane protein  
+IPLMCBOA_02842	ROG3987	
+IPLMCBOA_02843	COG1028	[IQR] Dehydrogenases with different specificities (related to
+IPLMCBOA_02845	ROG5789	
+IPLMCBOA_02846	COG1442	[M] Lipopolysaccharide biosynthesis proteins, LPS:glycosyltransferases  
+IPLMCBOA_02847	COG1442	[M] Lipopolysaccharide biosynthesis proteins, LPS:glycosyltransferases  
+IPLMCBOA_02848	COG0561	[R] Predicted hydrolases of the HAD superfamily
+IPLMCBOA_02849	COG1335	[Q] Amidases related to nicotinamidase  
+IPLMCBOA_02853	ROG3269	
+IPLMCBOA_02855	COG3415	[L] Transposase and inactivated derivatives  
+IPLMCBOA_02856	ROG0568	
+IPLMCBOA_02857	ROG3723	
+IPLMCBOA_02858	COG2207	[K] AraC-type DNA-binding domain-containing proteins  
+IPLMCBOA_02859	COG1653	[G] ABC-type sugar transport system, periplasmic component
+IPLMCBOA_02860	COG1175	[G] ABC-type sugar transport systems, permease components
+IPLMCBOA_02861	COG0395	[G] ABC-type sugar transport system, permease component
+IPLMCBOA_02862	COG1501	[G] Alpha-glucosidases, family 31 of glycosyl hydrolases
+IPLMCBOA_02863	COG0432	[S] Uncharacterized conserved protein   
+IPLMCBOA_02864	COG0107	[E] Imidazoleglycerol-phosphate synthase    
+IPLMCBOA_02865	COG0191	[G] Fructose/tagatose bisphosphate aldolase   
+IPLMCBOA_02866	COG3414	[G] Phosphotransferase system, galactitol-specific IIB component 
+IPLMCBOA_02867	COG3775	[G] Phosphotransferase system, galactitol-specific IIC component 
+IPLMCBOA_02868	COG1762	[GT] Phosphotransferase system mannitol/fructose-specific IIA domain (Ntr-type)
+IPLMCBOA_02869	COG3711	[K] Transcriptional antiterminator    
+IPLMCBOA_02871	ROG7009	
+IPLMCBOA_02872	ROG1632	
+IPLMCBOA_02873	COG0551	[L] Zn-finger domain associated with topoisomerase type
+IPLMCBOA_02875	COG2932	[K] Predicted transcriptional regulator   
+IPLMCBOA_02876	COG2856	[E] Predicted Zn peptidase   
+IPLMCBOA_02877	COG0519	[F] GMP synthase, PP-ATPase domain/subunit  
+IPLMCBOA_02878	COG1072	[H] Panthothenate kinase    
+IPLMCBOA_02879	COG0583	[K] Transcriptional regulator    
+IPLMCBOA_02880	COG0675	[L] Transposase and inactivated derivatives  
+IPLMCBOA_02881	COG2813	[J] 16S RNA G1207 methylase RsmC 
+IPLMCBOA_02885	COG1609	[K] Transcriptional regulators    
+IPLMCBOA_02886	COG0213	[F] Thymidine phosphorylase    
+IPLMCBOA_02887	COG0274	[F] Deoxyribose-phosphate aldolase    
+IPLMCBOA_02888	COG0295	[F] Cytidine deaminase    
+IPLMCBOA_02889	COG1744	[R] Uncharacterized ABC-type transport system, periplasmic component/surface
+IPLMCBOA_02890	COG3845	[R] ABC-type uncharacterized transport systems, ATPase components
+IPLMCBOA_02891	COG4603	[R] ABC-type uncharacterized transport system, permease component
+IPLMCBOA_02892	COG1079	[R] Uncharacterized ABC-type transport system, permease component
+IPLMCBOA_02893	COG1015	[G] Phosphopentomutase     
+IPLMCBOA_02894	COG0005	[F] Purine nucleoside phosphorylase   
+IPLMCBOA_02895	COG0813	[F] Purine-nucleoside phosphorylase    
+IPLMCBOA_02897	COG1266	[R] Predicted metal-dependent membrane protease  
+IPLMCBOA_02898	COG0588	[G] Phosphoglycerate mutase 1   
+IPLMCBOA_02899	COG1961	[L] Site-specific recombinases, DNA invertase Pin homologs
+IPLMCBOA_02900	COG0120	[G] Ribose 5-phosphate isomerase   
+IPLMCBOA_02901	COG0048	[J] Ribosomal protein S12   
+IPLMCBOA_02902	COG0049	[J] Ribosomal protein S7   
+IPLMCBOA_02903	COG0480	[J] Translation elongation factors (GTPases)  
+IPLMCBOA_02904	COG0050	[J] GTPases - translation elongation factors 
+IPLMCBOA_02905	COG0051	[J] Ribosomal protein S10   
+IPLMCBOA_02906	COG0087	[J] Ribosomal protein L3   
+IPLMCBOA_02907	COG0088	[J] Ribosomal protein L4   
+IPLMCBOA_02908	COG0089	[J] Ribosomal protein L23   
+IPLMCBOA_02909	COG0090	[J] Ribosomal protein L2   
+IPLMCBOA_02910	COG0185	[J] Ribosomal protein S19   
+IPLMCBOA_02911	COG0091	[J] Ribosomal protein L22   
+IPLMCBOA_02912	COG0092	[J] Ribosomal protein S3   
+IPLMCBOA_02913	COG0197	[J] Ribosomal protein L16/L10E   
+IPLMCBOA_02914	COG0255	[J] Ribosomal protein L29   
+IPLMCBOA_02915	COG0186	[J] Ribosomal protein S17   
+IPLMCBOA_02916	COG0093	[J] Ribosomal protein L14   
+IPLMCBOA_02917	COG0198	[J] Ribosomal protein L24   
+IPLMCBOA_02918	COG0094	[J] Ribosomal protein L5   
+IPLMCBOA_02919	COG0199	[J] Ribosomal protein S14   
+IPLMCBOA_02920	COG0096	[J] Ribosomal protein S8   
+IPLMCBOA_02921	COG0097	[J] Ribosomal protein L6P/L9E   
+IPLMCBOA_02922	COG0256	[J] Ribosomal protein L18   
+IPLMCBOA_02923	COG0098	[J] Ribosomal protein S5   
+IPLMCBOA_02924	COG1841	[J] Ribosomal protein L30/L7E   
+IPLMCBOA_02925	COG0200	[J] Ribosomal protein L15   
+IPLMCBOA_02926	COG0201	[U] Preprotein translocase subunit SecY  
+IPLMCBOA_02927	COG0563	[F] Adenylate kinase and related kinases 
+IPLMCBOA_02928	COG0361	[J] Translation initiation factor 1 (IF-1) 
+IPLMCBOA_02929	COG0257	[J] Ribosomal protein L36   
+IPLMCBOA_02930	COG0099	[J] Ribosomal protein S13   
+IPLMCBOA_02931	COG0100	[J] Ribosomal protein S11   
+IPLMCBOA_02932	COG0202	[K] DNA-directed RNA polymerase, alpha subunit/40 kD
+IPLMCBOA_02933	COG0203	[J] Ribosomal protein L17   
+IPLMCBOA_02934	COG1122	[P] ABC-type cobalt transport system, ATPase component
+IPLMCBOA_02935	COG1122	[P] ABC-type cobalt transport system, ATPase component
+IPLMCBOA_02936	COG0619	[P] ABC-type cobalt transport system, permease component
+IPLMCBOA_02937	COG0101	[J] Pseudouridylate synthase    
+IPLMCBOA_02938	COG0494	[LR] NTP pyrophosphohydrolases including oxidative damage repair
+IPLMCBOA_02939	COG3464	[L] Transposase and inactivated derivatives  
+IPLMCBOA_02940	COG4485	[S] Predicted membrane protein   
+IPLMCBOA_02941	COG0227	[J] Ribosomal protein L28   
+IPLMCBOA_02942	COG1302	[S] Uncharacterized protein conserved in bacteria 
+IPLMCBOA_02943	COG1461	[R] Predicted kinase related to dihydroxyacetone kinase
+IPLMCBOA_02944	COG1200	[LK] RecG-like helicase    
+IPLMCBOA_02945	COG0416	[I] Fatty acid/phospholipid biosynthesis enzyme  
+IPLMCBOA_02946	COG0236	[IQ] Acyl carrier protein   
+IPLMCBOA_02947	COG0444	[EP] ABC-type dipeptide/oligopeptide/nickel transport system, ATPase component
+IPLMCBOA_02948	COG4608	[E] ABC-type oligopeptide transport system, ATPase component
+IPLMCBOA_02949	COG0601	[EP] ABC-type dipeptide/oligopeptide/nickel transport systems, permease components
+IPLMCBOA_02950	COG1173	[EP] ABC-type dipeptide/oligopeptide/nickel transport systems, permease components
+IPLMCBOA_02951	COG0747	[E] ABC-type dipeptide transport system, periplasmic component
+IPLMCBOA_02952	COG4652	[S] Uncharacterized protein conserved in bacteria 
+IPLMCBOA_02953	COG4181	[Q] Predicted ABC-type transport system involved in
+IPLMCBOA_02954	COG0571	[K] dsRNA-specific ribonuclease    
+IPLMCBOA_02955	COG1196	[D] Chromosome segregation ATPases   
+IPLMCBOA_02956	COG0561	[R] Predicted hydrolases of the HAD superfamily
+IPLMCBOA_02957	COG0552	[U] Signal recognition particle GTPase  
+IPLMCBOA_02958	COG2826	[L] Transposase and inactivated derivatives, IS30 family
+IPLMCBOA_02959	COG1393	[P] Arsenate reductase and related proteins, glutaredoxin
+IPLMCBOA_02960	COG1393	[P] Arsenate reductase and related proteins, glutaredoxin
+IPLMCBOA_02961	COG0210	[L] Superfamily I DNA and RNA helicases
+IPLMCBOA_02962	ROG1680	
+IPLMCBOA_02963	COG4512	[OTK] Membrane protein putatively involved in post-translational
+IPLMCBOA_02965	COG3290	[T] Signal transduction histidine kinase regulating citrate/malate
+IPLMCBOA_02966	COG3279	[KT] Response regulator of the LytR/AlgR family
+IPLMCBOA_02967	COG0803	[P] ABC-type metal ion transport system, periplasmic
+IPLMCBOA_02968	COG0628	[R] Predicted permease    
+IPLMCBOA_02969	COG0366	[G] Glycosidases     
+IPLMCBOA_02970	COG0628	[R] Predicted permease    
+IPLMCBOA_02971	COG1359	[S] Uncharacterized conserved protein   
+IPLMCBOA_02972	COG4591	[M] ABC-type transport system, involved in lipoprotein
+IPLMCBOA_02973	COG1136	[V] ABC-type antimicrobial peptide transport system, ATPase
+IPLMCBOA_02974	COG1609	[K] Transcriptional regulators    
+IPLMCBOA_02975	COG1705	[NU] Muramidase (flagellum-specific)    
+IPLMCBOA_02976	COG2337	[T] Growth inhibitor    
+IPLMCBOA_02979	COG1486	[G] Alpha-galactosidases/6-phospho-beta-glucosidases, family 4 of glycosyl hydrolases
+IPLMCBOA_02980	COG1263	[G] Phosphotransferase system IIC components, glucose/maltose/N-acetylglucosamine-specific 
+IPLMCBOA_02981	COG1737	[K] Transcriptional regulators    
+IPLMCBOA_02982	COG3860	[S] Uncharacterized protein conserved in bacteria 
+IPLMCBOA_02983	ROG3052	
+IPLMCBOA_02984	COG1136	[V] ABC-type antimicrobial peptide transport system, ATPase
+IPLMCBOA_02985	COG5294	[S] Uncharacterized protein conserved in bacteria 
+IPLMCBOA_02986	COG0330	[O] Membrane protease subunits, stomatin/prohibitin homologs 
+IPLMCBOA_02988	ROG5437	
+IPLMCBOA_02989	COG4709	[S] Predicted membrane protein   
+IPLMCBOA_02990	COG1695	[K] Predicted transcriptional regulators   
+IPLMCBOA_02992	ROG5852	
+IPLMCBOA_02993	COG0642	[T] Signal transduction histidine kinase  
+IPLMCBOA_02994	COG0745	[TK] Response regulators consisting of a CheY-like
+IPLMCBOA_02995	COG1136	[V] ABC-type antimicrobial peptide transport system, ATPase
+IPLMCBOA_02996	COG2336	[T] Growth regulator    
+IPLMCBOA_02997	ROG1002	
+IPLMCBOA_02998	COG2814	[G] Arabinose efflux permease   
+IPLMCBOA_02999	COG4220	[L] Phage DNA packaging protein, Nu1 subunit
+IPLMCBOA_03000	COG1695	[K] Predicted transcriptional regulators   
+IPLMCBOA_03001	COG0745	[TK] Response regulators consisting of a CheY-like
+IPLMCBOA_03002	COG5002	[T] Signal transduction histidine kinase  
+IPLMCBOA_03003	COG0172	[J] Seryl-tRNA synthetase    
+IPLMCBOA_03004	COG0516	[F] IMP dehydrogenase/GMP reductase   
+IPLMCBOA_03006	COG4858	[S] Uncharacterized membrane-bound protein conserved in bacteria
+IPLMCBOA_03007	COG0012	[J] Predicted GTPase, probable translation factor 
+IPLMCBOA_03008	COG4481	[S] Uncharacterized protein conserved in bacteria 
+IPLMCBOA_03009	COG1475	[K] Predicted transcriptional regulators   
+IPLMCBOA_03010	COG1192	[D] ATPases involved in chromosome partitioning 
+IPLMCBOA_03011	COG0357	[M] Predicted S-adenosylmethionine-dependent methyltransferase involved in bacterial
+IPLMCBOA_03012	COG0445	[D] NAD/FAD-utilizing enzyme apparently involved in cell
+IPLMCBOA_03013	COG0486	[R] Predicted GTPase    
+IPLMCBOA_03014	ROG8164	
+IPLMCBOA_03015	COG1847	[R] Predicted RNA-binding protein   
+IPLMCBOA_03016	COG0706	[U] Preprotein translocase subunit YidC  
+IPLMCBOA_03017	COG0594	[J] RNase P protein component  
+IPLMCBOA_03018	ROG1469	
+IPLMCBOA_03019	COG0593	[L] ATPase involved in DNA replication initiation
+IPLMCBOA_03020	COG0592	[L] DNA polymerase sliding clamp subunit (PCNA
+IPLMCBOA_03021	COG2501	[S] Uncharacterized conserved protein   
+IPLMCBOA_03022	COG1195	[L] Recombinational DNA repair ATPase (RecF pathway)
+IPLMCBOA_03023	COG0187	[L] Type IIA topoisomerase (DNA gyrase/topo II,
+IPLMCBOA_03024	COG0188	[L] Type IIA topoisomerase (DNA gyrase/topo II,
+IPLMCBOA_03025	COG0360	[J] Ribosomal protein S6   
+IPLMCBOA_03026	COG0629	[L] Single-stranded DNA-binding protein   
+IPLMCBOA_03027	COG0238	[J] Ribosomal protein S18   
+IPLMCBOA_03028	COG3887	[T] Predicted signaling protein consisting of a
+IPLMCBOA_03029	COG0359	[J] Ribosomal protein L9   
+IPLMCBOA_03030	COG0305	[L] Replicative DNA helicase   
+IPLMCBOA_03033	COG3579	[E] Aminopeptidase C    
+IPLMCBOA_03034	COG3001	[G] Fructosamine-3-kinase     
+IPLMCBOA_03035	COG3884	[I] Acyl-ACP thioesterase    
+IPLMCBOA_03036	COG0252	[EJ] L-asparaginase/archaeal Glu-tRNAGln amidotransferase subunit D 
+IPLMCBOA_03037	COG1801	[S] Uncharacterized conserved protein   
+IPLMCBOA_03038	COG0561	[R] Predicted hydrolases of the HAD superfamily
+IPLMCBOA_03039	COG4696	[S] Uncharacterized protein conserved in bacteria 
+IPLMCBOA_03040	COG4477	[D] Negative regulator of septation ring formation
+IPLMCBOA_03041	COG1104	[E] Cysteine sulfinate desulfinase/cysteine desulfurase and related
+IPLMCBOA_03042	COG0301	[H] Thiamine biosynthesis ATP pyrophosphatase  
+IPLMCBOA_03043	COG2344	[R] AT-rich DNA-binding protein   
+IPLMCBOA_03044	COG0525	[J] Valyl-tRNA synthetase    
+IPLMCBOA_03045	COG0285	[H] Folylpolyglutamate synthase    
+IPLMCBOA_03046	COG0637	[R] Predicted phosphatase/phosphohexomutase    
+IPLMCBOA_03047	COG2003	[L] DNA repair proteins   
+IPLMCBOA_03048	COG1278	[K] Cold shock proteins   
+IPLMCBOA_03049	COG0595	[R] Predicted hydrolase of the metallo-beta-lactamase superfamily
+IPLMCBOA_03050	COG5503	[S] Uncharacterized conserved small protein  
+IPLMCBOA_03051	COG1132	[V] ABC-type multidrug transport system, ATPase and
+IPLMCBOA_03052	COG1132	[V] ABC-type multidrug transport system, ATPase and
+IPLMCBOA_03053	COG0663	[R] Carbonic anhydrases/acetyltransferases, isoleucine patch superfamily 
+IPLMCBOA_03054	COG0740	[OU] Protease subunit of ATP-dependent Clp proteases
+IPLMCBOA_03055	COG3166	[NU] Tfp pilus assembly protein PilN 
+IPLMCBOA_03056	COG0584	[C] Glycerophosphoryl diester phosphodiesterase   
+IPLMCBOA_03057	COG0324	[J] tRNA delta(2)-isopentenylpyrophosphate transferase   
+IPLMCBOA_03058	COG2262	[R] GTPases     
+IPLMCBOA_03059	COG0789	[K] Predicted transcriptional regulators   
+IPLMCBOA_03060	COG0174	[E] Glutamine synthetase    
+IPLMCBOA_03062	COG0789	[K] Predicted transcriptional regulators   
+IPLMCBOA_03063	COG4724	[G] Endo-beta-N-acetylglucosaminidase D    
+IPLMCBOA_03065	ROG5991	
+IPLMCBOA_03066	COG1193	[L] Mismatch repair ATPase (MutS family) 
+IPLMCBOA_03067	COG0558	[I] Phosphatidylglycerophosphate synthase    
+IPLMCBOA_03069	COG1609	[K] Transcriptional regulators    
+IPLMCBOA_03070	COG0561	[R] Predicted hydrolases of the HAD superfamily
+IPLMCBOA_03071	COG1937	[S] Uncharacterized protein conserved in bacteria 
+IPLMCBOA_03072	COG0607	[P] Rhodanese-related sulfurtransferase    
+IPLMCBOA_03073	COG0446	[R] Uncharacterized NAD(FAD)-dependent dehydrogenases   
+IPLMCBOA_03074	COG1196	[D] Chromosome segregation ATPases   
+IPLMCBOA_03075	COG1263	[G] Phosphotransferase system IIC components, glucose/maltose/N-acetylglucosamine-specific 
+IPLMCBOA_03076	COG0393	[S] Uncharacterized conserved protein   
+IPLMCBOA_03077	COG3412	[S] Uncharacterized protein conserved in bacteria 
+IPLMCBOA_03078	COG2376	[G] Dihydroxyacetone kinase    
+IPLMCBOA_03079	COG2376	[G] Dihydroxyacetone kinase    
+IPLMCBOA_03081	COG0162	[J] Tyrosyl-tRNA synthetase    
+IPLMCBOA_03082	COG0076	[E] Glutamate decarboxylase and related PLP-dependent proteins
+IPLMCBOA_03083	COG0531	[E] Amino acid transporters   
+IPLMCBOA_03084	COG1609	[K] Transcriptional regulators    
+IPLMCBOA_03085	COG2017	[G] Galactose mutarotase and related enzymes 
+IPLMCBOA_03086	COG0637	[R] Predicted phosphatase/phosphohexomutase    
+IPLMCBOA_03087	COG1554	[G] Trehalose and maltose hydrolases (possible phosphorylases)
+IPLMCBOA_03088	COG1263	[G] Phosphotransferase system IIC components, glucose/maltose/N-acetylglucosamine-specific 
+IPLMCBOA_03089	COG3568	[R] Metal-dependent hydrolase    
+IPLMCBOA_03090	ROG4133	
+IPLMCBOA_03091	COG3479	[Q] Phenolic acid decarboxylase   
+IPLMCBOA_03093	COG0701	[R] Predicted permeases    
+IPLMCBOA_03094	COG3689	[S] Predicted membrane protein   
+IPLMCBOA_03095	COG3689	[S] Predicted membrane protein   
+IPLMCBOA_03096	COG3610	[S] Uncharacterized conserved protein   
+IPLMCBOA_03097	COG2966	[S] Uncharacterized conserved protein   
+IPLMCBOA_03098	COG1309	[K] Transcriptional regulator    
+IPLMCBOA_03099	ROG4803	
+IPLMCBOA_03100	ROG0661	
+IPLMCBOA_03101	COG4472	[S] Uncharacterized protein conserved in bacteria 
+IPLMCBOA_03102	COG0816	[L] Predicted endonuclease involved in recombination (possible
+IPLMCBOA_03103	COG3906	[S] Uncharacterized protein conserved in bacteria 
+IPLMCBOA_03104	COG0454	[KR] Histone acetyltransferase HPA2 and related acetyltransferases
+IPLMCBOA_03105	COG3493	[C] Na+/citrate symporter    
+IPLMCBOA_03106	COG0281	[C] Malic enzyme    
+IPLMCBOA_03107	COG2026	[JD] Cytotoxic translational repressor of toxin-antitoxin stability
+IPLMCBOA_03108	ROG7014	
+IPLMCBOA_03109	COG3247	[S] Uncharacterized conserved protein   
+IPLMCBOA_03110	COG0488	[R] ATPase components of ABC transporters with
+IPLMCBOA_03112	COG2508	[TQ] Regulator of polyketide synthase expression 
+IPLMCBOA_03113	COG0590	[FJ] Cytosine/adenosine deaminases    
+IPLMCBOA_03114	COG0737	[F] 5'-nucleotidase/2',3'-cyclic phosphodiesterase and related esterases 
+IPLMCBOA_03115	COG4470	[S] Uncharacterized protein conserved in bacteria 
+IPLMCBOA_03116	COG0647	[G] Predicted sugar phosphatases of the HAD
+IPLMCBOA_03117	COG4478	[S] Predicted membrane protein   
+IPLMCBOA_03118	COG3328	[L] Transposase and inactivated derivatives  
+IPLMCBOA_03120	COG3279	[KT] Response regulator of the LytR/AlgR family
+IPLMCBOA_03121	COG4512	[OTK] Membrane protein putatively involved in post-translational
+IPLMCBOA_03123	COG0640	[K] Predicted transcriptional regulators   
+IPLMCBOA_03124	ROG0111	
+IPLMCBOA_03125	COG0640	[K] Predicted transcriptional regulators   
+IPLMCBOA_03126	COG0003	[P] Oxyanion-translocating ATPase    
+IPLMCBOA_03127	COG0798	[P] Arsenite efflux pump ACR3 and related
+IPLMCBOA_03128	COG0798	[P] Arsenite efflux pump ACR3 and related
+IPLMCBOA_03129	COG0446	[R] Uncharacterized NAD(FAD)-dependent dehydrogenases   
+IPLMCBOA_03130	ROG0792	
+IPLMCBOA_03131	COG1131	[V] ABC-type multidrug transport system, ATPase component
+IPLMCBOA_03132	COG0842	[V] ABC-type multidrug transport system, permease component
+IPLMCBOA_03133	ROG1437	
+IPLMCBOA_03134	COG0652	[O] Peptidyl-prolyl cis-trans isomerase (rotamase) - cyclophilin
+IPLMCBOA_03135	COG1055	[P] Na+/H+ antiporter NhaD and related arsenite
+IPLMCBOA_03136	COG0492	[O] Thioredoxin reductase    
+IPLMCBOA_03137	COG1267	[I] Phosphatidylglycerophosphatase A and related proteins 
+IPLMCBOA_03138	COG1302	[S] Uncharacterized protein conserved in bacteria 
+IPLMCBOA_03140	COG1098	[J] Predicted RNA binding protein (contains ribosomal
+IPLMCBOA_03141	COG1168	[E] Bifunctional PLP-dependent enzyme with beta-cystathionase and
+IPLMCBOA_03143	ROG4163	
+IPLMCBOA_03144	COG3655	[K] Predicted transcriptional regulator   
+IPLMCBOA_03145	ROG1205	
+IPLMCBOA_03146	ROG3525	
+IPLMCBOA_03163	COG2826	[L] Transposase and inactivated derivatives, IS30 family
+IPLMCBOA_03164	ROG1612	
+IPLMCBOA_03165	COG2217	[P] Cation transport ATPase   
+IPLMCBOA_03166	ROG2842	

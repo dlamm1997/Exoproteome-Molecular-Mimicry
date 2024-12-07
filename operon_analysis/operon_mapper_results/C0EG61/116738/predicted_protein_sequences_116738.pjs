@@ -1,0 +1,22 @@
+{
+  "version": "1.2",
+  "dbname": "predicted_protein_sequences_116738",
+  "dbtype": "Protein",
+  "db-version": 5,
+  "description": "operon_mapper_results/C0EG61/116738/predicted_protein_sequences_116738",
+  "number-of-letters": 898026,
+  "number-of-sequences": 2777,
+  "last-updated": "2024-12-06T16:00:00",
+  "number-of-volumes": 1,
+  "bytes-total": 1220982,
+  "bytes-to-cache": 923196,
+  "files": [
+    "predicted_protein_sequences_116738.pdb",
+    "predicted_protein_sequences_116738.phr",
+    "predicted_protein_sequences_116738.pin",
+    "predicted_protein_sequences_116738.pot",
+    "predicted_protein_sequences_116738.psq",
+    "predicted_protein_sequences_116738.ptf",
+    "predicted_protein_sequences_116738.pto"
+  ]
+}

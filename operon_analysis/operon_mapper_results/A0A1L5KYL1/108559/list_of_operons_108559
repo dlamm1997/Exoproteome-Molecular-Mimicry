@@ -1,0 +1,6 @@
+Operon	IdGene	Type	COGgene	PosLeft	postRight	Strand	Function
+1
+	CJCAOCKE_00001	CDS	NA	7	558	+	NA
+2
+	CJCAOCKE_00002	CDS	ROG3511	631	792	-	NA
+	CJCAOCKE_00003	CDS	COG0463	802	1353	-	[M] Glycosyltransferases involved in cell wall biogenesis

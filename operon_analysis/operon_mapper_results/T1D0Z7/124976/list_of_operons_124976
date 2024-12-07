@@ -1,0 +1,3058 @@
+Operon	IdGene	Type	COGgene	PosLeft	postRight	Strand	Function
+1
+	INAHJMBO_00001	CDS	COG4283	191	703	+	[S] Uncharacterized conserved protein   
+2
+	INAHJMBO_00002	CDS	COG2833	727	1530	-	[S] Uncharacterized protein conserved in bacteria 
+3
+	INAHJMBO_00003	CDS	COG0254	1615	1821	+	[J] Ribosomal protein L31   
+	INAHJMBO_00004	CDS	COG0313	1824	2729	+	[R] Predicted methyltransferases    
+	INAHJMBO_00005	CDS	COG0566	2726	3412	+	[J] rRNA methylases    
+	INAHJMBO_00006	CDS	ROG1944	3422	4342	+	NA
+	INAHJMBO_00007	CDS	ROG2281	4342	5151	+	NA
+	INAHJMBO_00008	CDS	COG0436	5170	6375	+	[E] Aspartate/tyrosine/aromatic aminotransferase    
+	INAHJMBO_00009	CDS	COG0835	6437	7393	+	[NT] Chemotaxis signal transduction protein  
+	INAHJMBO_00010	CDS	NA	7395	8609	+	NA
+4
+	INAHJMBO_00011	CDS	COG0136	8694	9719	+	[E] Aspartate-semialdehyde dehydrogenase    
+5
+	INAHJMBO_00012	CDS	COG0309	10375	11388	-	[O] Hydrogenase maturation factor   
+	INAHJMBO_00013	CDS	COG0068	11391	13988	-	[O] Hydrogenase maturation factor   
+	INAHJMBO_00014	CDS	COG2957	14003	15118	-	[E] Peptidylarginine deiminase and related enzymes 
+6
+	INAHJMBO_00015	CDS	COG1538	15390	16961	+	[MU] Outer membrane protein   
+	INAHJMBO_00016	CDS	COG1566	16958	18277	+	[V] Multidrug resistance efflux pump  
+	INAHJMBO_00017	CDS	COG1136	18277	19068	+	[V] ABC-type antimicrobial peptide transport system, ATPase
+	INAHJMBO_00018	CDS	COG0577	19065	20273	+	[V] ABC-type antimicrobial peptide transport system, permease
+7
+	INAHJMBO_00019	CDS	COG0560	20745	21455	-	[E] Phosphoserine phosphatase    
+	INAHJMBO_00020	CDS	COG0079	21443	22519	-	[E] Histidinol-phosphate/aromatic aminotransferase and cobyric acid decarboxylase
+	INAHJMBO_00021	CDS	ROG1853	22506	23411	-	NA
+	INAHJMBO_00022	CDS	ROG1853	23605	24030	-	NA
+8
+	INAHJMBO_00023	CDS	COG0004	24396	25631	+	[P] Ammonia permease    
+9
+	INAHJMBO_00024	CDS	ROG1389	25697	26080	+	NA
+10
+	INAHJMBO_00025	CDS	NA	26234	27175	-	NA
+	INAHJMBO_00026	CDS	NA	27229	27375	-	NA
+11
+	INAHJMBO_00027	CDS	COG2829	27671	28762	-	[M] Outer membrane phospholipase A  
+12
+	INAHJMBO_00028	CDS	COG4709	29082	30089	-	[S] Predicted membrane protein   
+13
+	INAHJMBO_00029	CDS	COG0113	30245	31213	+	[H] Delta-aminolevulinic acid dehydratase   
+	INAHJMBO_00030	CDS	COG1187	31213	31971	+	[J] 16S rRNA uridine-516 pseudouridylate synthase and
+14
+	INAHJMBO_00031	CDS	ROG4817	33193	33882	+	NA
+15
+	INAHJMBO_00032	CDS	ROG2454	33958	35016	+	NA
+	INAHJMBO_00033	CDS	NA	35003	35311	+	NA
+	INAHJMBO_00034	CDS	NA	35316	35672	+	NA
+16
+	INAHJMBO_00035	CDS	NA	35641	36150	-	NA
+	INAHJMBO_00036	CDS	ROG7940	36207	37406	-	NA
+	INAHJMBO_00037	CDS	COG1418	37406	38263	-	[R] Predicted HD superfamily hydrolase  
+	INAHJMBO_00038	CDS	ROG4672	38260	38520	-	NA
+17
+	INAHJMBO_00039	CDS	ROG7417	38841	39473	+	NA
+	INAHJMBO_00040	CDS	ROG1442	39470	41074	+	NA
+18
+	INAHJMBO_00041	CDS	COG4185	41182	41433	-	[S] Uncharacterized protein conserved in bacteria 
+	INAHJMBO_00042	CDS	ROG8364	41420	41701	-	NA
+19
+	INAHJMBO_00043	CDS	COG0455	41769	42440	-	[D] ATPases involved in chromosome partitioning 
+	INAHJMBO_00044	CDS	NA	42437	42763	-	NA
+20
+	INAHJMBO_00045	CDS	NA	42931	43239	-	NA
+	INAHJMBO_00046	CDS	NA	43257	44384	-	NA
+21
+	INAHJMBO_00047	CDS	COG0551	44450	46453	-	[L] Zn-finger domain associated with topoisomerase type
+	INAHJMBO_00048	CDS	ROG6604	46488	47219	-	NA
+	INAHJMBO_00049	CDS	NA	47228	47791	-	NA
+	INAHJMBO_00050	CDS	ROG4498	47788	48204	-	NA
+22
+	INAHJMBO_00051	CDS	NA	48274	48621	-	NA
+	INAHJMBO_00052	CDS	ROG2832	48625	49083	-	NA
+	INAHJMBO_00053	CDS	NA	49083	49859	-	NA
+	INAHJMBO_00054	CDS	NA	49873	50967	-	NA
+	INAHJMBO_00055	CDS	NA	50985	51629	-	NA
+	INAHJMBO_00056	CDS	NA	51659	52591	-	NA
+	INAHJMBO_00057	CDS	ROG5974	52588	52860	-	NA
+	INAHJMBO_00058	CDS	NA	52870	53634	-	NA
+	INAHJMBO_00059	CDS	COG5074	53631	53816	-	[U] t-SNARE complex subunit, syntaxin  
+	INAHJMBO_00060	CDS	ROG0730	53818	54459	-	NA
+	INAHJMBO_00061	CDS	ROG3733	54469	54771	-	NA
+	INAHJMBO_00062	CDS	ROG2163	54780	55358	-	NA
+23
+	INAHJMBO_00063	CDS	COG3950	55469	55951	-	[R] Predicted ATP-binding protein involved in virulence
+	INAHJMBO_00064	CDS	NA	55966	56310	-	NA
+	INAHJMBO_00065	CDS	ROG2627	56310	56708	-	NA
+24
+	INAHJMBO_00066	CDS	NA	56851	57060	+	NA
+25
+	INAHJMBO_00067	CDS	ROG3981	57067	57738	-	NA
+	INAHJMBO_00068	CDS	NA	57728	57838	-	NA
+	INAHJMBO_00069	CDS	NA	57856	58491	-	NA
+	INAHJMBO_00070	CDS	NA	58497	59297	-	NA
+	INAHJMBO_00071	CDS	ROG7577	59317	59580	-	NA
+26
+	INAHJMBO_00072	CDS	COG0551	60068	60280	-	[L] Zn-finger domain associated with topoisomerase type
+	INAHJMBO_00073	CDS	NA	60277	60366	-	NA
+	INAHJMBO_00074	CDS	COG0550	60405	62267	-	[L] Topoisomerase IA    
+	INAHJMBO_00075	CDS	NA	62279	63187	-	NA
+	INAHJMBO_00076	CDS	ROG4967	63184	63489	-	NA
+	INAHJMBO_00077	CDS	ROG6303	63496	63792	-	NA
+	INAHJMBO_00078	CDS	ROG2798	63803	64522	-	NA
+	INAHJMBO_00079	CDS	NA	64519	64779	-	NA
+	INAHJMBO_00080	CDS	ROG2031	64779	65702	-	NA
+27
+	INAHJMBO_00081	CDS	ROG2490	65805	66383	-	NA
+	INAHJMBO_00082	CDS	ROG6271	66383	66955	-	NA
+28
+	INAHJMBO_00083	CDS	COG2825	67086	67898	-	[M] Outer membrane protein   
+29
+	INAHJMBO_00084	CDS	ROG0146	68003	68815	-	NA
+	INAHJMBO_00085	CDS	COG3177	68846	69628	-	[S] Uncharacterized conserved protein   
+	INAHJMBO_00086	CDS	NA	69625	70920	-	NA
+	INAHJMBO_00087	CDS	NA	70922	72919	-	NA
+	INAHJMBO_00088	CDS	COG3177	72935	73657	-	[S] Uncharacterized conserved protein   
+30
+	INAHJMBO_00089	CDS	ROG5757	73995	74255	-	NA
+31
+	INAHJMBO_00090	CDS	NA	74327	75055	-	NA
+32
+	INAHJMBO_00091	CDS	COG4646	75358	76182	-	[KL] DNA methylase    
+	INAHJMBO_00092	CDS	COG4646	76464	77393	-	[KL] DNA methylase    
+33
+	INAHJMBO_00093	CDS	ROG4768	77489	77653	-	NA
+	INAHJMBO_00094	CDS	ROG4034	77685	77987	-	NA
+	INAHJMBO_00095	CDS	COG0827	77950	79728	-	[L] Adenine-specific DNA methylase   
+34
+	INAHJMBO_00096	CDS	NA	80072	80668	-	NA
+35
+	INAHJMBO_00097	CDS	NA	80983	81810	+	NA
+36
+	INAHJMBO_00098	CDS	NA	81819	82034	-	NA
+	INAHJMBO_00099	CDS	NA	82043	82945	-	NA
+	INAHJMBO_00100	CDS	COG3523	82935	86492	-	[S] Uncharacterized protein conserved in bacteria 
+37
+	INAHJMBO_00101	CDS	COG3157	86601	87116	+	[S] Hemolysin-coregulated protein (uncharacterized)   
+38
+	INAHJMBO_00102	CDS	NA	87359	87778	+	NA
+39
+	INAHJMBO_00103	CDS	NA	88059	89321	-	NA
+	INAHJMBO_00104	CDS	NA	89351	89575	-	NA
+40
+	INAHJMBO_00105	CDS	ROG5339	681	1142	-	NA
+41
+	INAHJMBO_00106	CDS	COG3501	1302	4262	-	[S] Uncharacterized protein conserved in bacteria 
+42
+	INAHJMBO_00107	CDS	NA	4360	4770	-	NA
+	INAHJMBO_00108	CDS	NA	4816	6093	-	NA
+43
+	INAHJMBO_00109	CDS	COG0492	1791	3509	-	[O] Thioredoxin reductase    
+	INAHJMBO_00110	CDS	ROG1383	3559	4326	-	NA
+44
+	INAHJMBO_00111	CDS	COG2841	4636	4860	+	[S] Uncharacterized protein conserved in bacteria 
+	INAHJMBO_00112	CDS	COG0457	4888	6702	+	[R] FOG: TPR repeat   
+45
+	INAHJMBO_00113	CDS	COG0147	7163	8713	+	[EH] Anthranilate/para-aminobenzoate synthases component I  
+	INAHJMBO_00114	CDS	COG0512	8694	9287	+	[EH] Anthranilate/para-aminobenzoate synthases component II  
+	INAHJMBO_00115	CDS	COG0547	9272	10321	+	[E] Anthranilate phosphoribosyltransferase    
+	INAHJMBO_00116	CDS	COG0134	10318	11139	+	[E] Indole-3-glycerol phosphate synthase   
+	INAHJMBO_00117	CDS	COG0135	11172	11789	+	[E] Phosphoribosylanthranilate isomerase    
+	INAHJMBO_00118	CDS	COG0133	11800	12978	+	[E] Tryptophan synthase beta chain  
+	INAHJMBO_00119	CDS	COG0159	12971	13771	+	[E] Tryptophan synthase alpha chain  
+46
+	INAHJMBO_00120	tRNA	NA	18680	18755	-	NA
+	INAHJMBO_00121	tRNA	NA	18759	18835	-	NA
+47
+	INAHJMBO_00122	CDS	COG2849	21676	23784	+	[S] Uncharacterized protein conserved in bacteria 
+48
+	INAHJMBO_00123	CDS	COG1179	23853	24509	+	[H] Dinucleotide-utilizing enzymes involved in molybdopterin and
+	INAHJMBO_00124	CDS	NA	24513	24677	+	NA
+	INAHJMBO_00125	CDS	COG0388	24680	25564	+	[R] Predicted amidohydrolase    
+	INAHJMBO_00126	CDS	NA	25612	27702	+	NA
+49
+	INAHJMBO_00127	CDS	ROG1319	28227	28691	+	NA
+50
+	INAHJMBO_00128	CDS	COG2127	28807	29118	+	[S] Uncharacterized conserved protein   
+	INAHJMBO_00129	CDS	COG0542	29174	31369	+	[O] ATPases with chaperone activity, ATP-binding subunit
+51
+	INAHJMBO_00130	CDS	NA	31831	31989	+	NA
+	INAHJMBO_00131	CDS	COG4421	31961	33172	+	[G] Capsular polysaccharide biosynthesis protein  
+52
+	INAHJMBO_00132	CDS	COG0438	33567	34703	-	[M] Glycosyltransferase     
+	INAHJMBO_00133	CDS	ROG0035	34704	35147	-	NA
+	INAHJMBO_00134	CDS	COG0500	35147	36031	-	[QR] SAM-dependent methyltransferases    
+	INAHJMBO_00135	CDS	ROG1407	36040	37074	-	NA
+	INAHJMBO_00136	CDS	COG0143	37074	39128	-	[J] Methionyl-tRNA synthetase    
+53
+	INAHJMBO_00137	CDS	COG1283	39271	41274	-	[P] Na+/phosphate symporter    
+	INAHJMBO_00138	CDS	COG0769	41304	42605	-	[M] UDP-N-acetylmuramyl tripeptide synthase   
+	INAHJMBO_00139	CDS	ROG1459	42602	43261	-	NA
+	INAHJMBO_00140	CDS	COG0694	43264	43518	-	[O] Thioredoxin-like proteins and domains  
+54
+	INAHJMBO_00141	CDS	COG0494	44015	44590	+	[LR] NTP pyrophosphohydrolases including oxidative damage repair
+	INAHJMBO_00142	CDS	COG0527	44590	45792	+	[E] Aspartokinases     
+	INAHJMBO_00143	CDS	ROG1339	45789	46346	+	NA
+	INAHJMBO_00144	CDS	COG2812	46365	47132	+	[L] DNA polymerase III, gamma/tau subunits 
+	INAHJMBO_00145	CDS	COG0294	47129	48289	+	[H] Dihydropteroate synthase and related enzymes 
+	INAHJMBO_00146	CDS	ROG1638	48289	50343	+	NA
+	INAHJMBO_00147	CDS	COG0263	50343	51482	+	[E] Glutamate 5-kinase    
+	INAHJMBO_00148	CDS	COG0014	51526	52773	+	[E] Gamma-glutamyl phosphate reductase   
+55
+	INAHJMBO_00149	CDS	NA	53177	53419	+	NA
+56
+	INAHJMBO_00150	CDS	ROG3369	53634	54227	+	NA
+57
+	INAHJMBO_00151	tRNA	NA	54481	54557	-	NA
+	INAHJMBO_00152	tRNA	NA	54584	54660	-	NA
+	INAHJMBO_00153	tRNA	NA	54667	54743	-	NA
+	INAHJMBO_00154	tRNA	NA	54791	54868	-	NA
+58
+	INAHJMBO_00155	CDS	NA	54946	56130	-	NA
+59
+	INAHJMBO_00156	CDS	COG0605	56426	57061	-	[P] Superoxide dismutase    
+60
+	INAHJMBO_00157	CDS	COG2246	57320	57706	+	[S] Predicted membrane protein   
+61
+	INAHJMBO_00158	CDS	COG0748	57879	58637	-	[P] Putative heme iron utilization protein 
+62
+	INAHJMBO_00159	CDS	COG0188	58815	61313	+	[L] Type IIA topoisomerase (DNA gyrase/topo II,
+63
+	INAHJMBO_00160	CDS	COG1368	61466	62746	+	[M] Phosphoglycerol transferase and related proteins, alkaline
+64
+	INAHJMBO_00161	CDS	NA	63470	63997	+	NA
+65
+	INAHJMBO_00162	CDS	ROG3890	64180	64389	+	NA
+	INAHJMBO_00163	CDS	COG2026	64386	64646	+	[JD] Cytotoxic translational repressor of toxin-antitoxin stability
+	INAHJMBO_00164	CDS	NA	64695	65387	+	NA
+	INAHJMBO_00165	CDS	COG2204	65408	66721	+	[T] Response regulator containing CheY-like receiver, AAA-type
+66
+	INAHJMBO_00166	CDS	COG0441	66786	68666	+	[J] Threonyl-tRNA synthetase    
+	INAHJMBO_00167	CDS	COG0290	68663	69181	+	[J] Translation initiation factor 3 (IF-3) 
+	INAHJMBO_00168	CDS	COG0291	69206	69400	+	[J] Ribosomal protein L35   
+	INAHJMBO_00169	CDS	COG0292	69481	69831	+	[J] Ribosomal protein L20   
+67
+	INAHJMBO_00170	CDS	COG3200	69992	71350	+	[E] 3-deoxy-D-arabino-heptulosonate 7-phosphate (DAHP) synthase  
+68
+	INAHJMBO_00171	CDS	NA	71371	72822	-	NA
+	INAHJMBO_00172	CDS	COG0500	72845	73147	-	[QR] SAM-dependent methyltransferases    
+	INAHJMBO_00173	CDS	NA	73135	73644	-	NA
+	INAHJMBO_00174	CDS	ROG6262	73694	75691	-	NA
+69
+	INAHJMBO_00175	CDS	COG0463	75800	76597	-	[M] Glycosyltransferases involved in cell wall biogenesis
+	INAHJMBO_00176	CDS	NA	76563	76652	-	NA
+	INAHJMBO_00177	CDS	ROG7607	76681	77550	-	NA
+	INAHJMBO_00178	CDS	ROG3636	77566	77877	-	NA
+70
+	INAHJMBO_00179	CDS	COG0582	78867	79301	+	[L] Integrase     
+71
+	INAHJMBO_00180	CDS	ROG7940	80065	80802	-	NA
+	INAHJMBO_00181	CDS	ROG7940	80839	81282	-	NA
+72
+	INAHJMBO_00182	CDS	COG3621	81532	81933	-	[R] Patatin     
+	INAHJMBO_00183	CDS	COG0532	81963	82886	-	[J] Translation initiation factor 2 (IF-2; GTPase)
+73
+	INAHJMBO_00184	CDS	NA	82976	83149	-	NA
+74
+	INAHJMBO_00185	CDS	ROG7417	83506	84030	+	NA
+	INAHJMBO_00186	CDS	ROG1442	84031	85818	+	NA
+75
+	INAHJMBO_00187	CDS	COG2361	85832	86161	-	[S] Uncharacterized conserved protein   
+	INAHJMBO_00188	CDS	NA	86158	86250	-	NA
+	INAHJMBO_00189	CDS	COG1669	86243	86566	-	[R] Predicted nucleotidyltransferases    
+76
+	INAHJMBO_00190	CDS	NA	87248	87361	-	NA
+77
+	INAHJMBO_00191	CDS	COG4771	87433	88017	+	[P] Outer membrane receptor for ferrienterochelin and
+	INAHJMBO_00192	CDS	COG4771	88159	88692	+	[P] Outer membrane receptor for ferrienterochelin and
+	INAHJMBO_00193	CDS	COG3182	88799	89374	+	[S] Uncharacterized iron-regulated membrane protein  
+78
+	INAHJMBO_00194	CDS	COG0240	89607	90581	-	[C] Glycerol-3-phosphate dehydrogenase    
+	INAHJMBO_00195	CDS	COG0477	90583	91878	-	[GEPR] Permeases of the major facilitator superfamily
+79
+	INAHJMBO_00196	CDS	NA	92085	92702	+	NA
+80
+	INAHJMBO_00197	CDS	COG0459	93383	95014	-	[O] Chaperonin GroEL (HSP60 family)  
+	INAHJMBO_00198	CDS	COG0234	95050	95319	-	[O] Co-chaperonin GroES (HSP10)   
+81
+	INAHJMBO_00199	CDS	COG0358	95552	97153	+	[L] DNA primase (bacterial type)  
+	INAHJMBO_00200	CDS	NA	97150	98223	+	NA
+82
+	INAHJMBO_00201	CDS	ROG4526	98669	98959	+	NA
+	INAHJMBO_00202	CDS	ROG6736	98940	99584	+	NA
+83
+	INAHJMBO_00203	CDS	COG5662	100034	100348	-	[K] Predicted transmembrane transcriptional regulator (anti-sigma factor)
+	INAHJMBO_00204	CDS	ROG3940	100401	100862	-	NA
+	INAHJMBO_00205	CDS	ROG6147	100835	101386	-	NA
+	INAHJMBO_00206	CDS	COG3880	101412	101657	-	[S] Uncharacterized protein with conserved CXXC pairs
+84
+	INAHJMBO_00207	CDS	COG1113	102240	102344	-	[E] Gamma-aminobutyrate permease and related permeases 
+	INAHJMBO_00208	CDS	COG1294	102354	103520	-	[C] Cytochrome bd-type quinol oxidase, subunit 2
+	INAHJMBO_00209	CDS	COG1271	103550	105151	-	[C] Cytochrome bd-type quinol oxidase, subunit 1
+	INAHJMBO_00210	CDS	ROG2651	105154	105393	-	NA
+85
+	INAHJMBO_00211	CDS	COG0790	105813	106721	-	[R] FOG: TPR repeat, SEL1 subfamily 
+	INAHJMBO_00212	CDS	COG3417	106731	107381	-	[R] Collagen-binding surface adhesin SpaP (antigen I/II
+86
+	INAHJMBO_00213	CDS	NA	107457	107687	-	NA
+87
+	INAHJMBO_00214	CDS	ROG3861	107902	108195	-	NA
+	INAHJMBO_00215	CDS	COG0863	108192	109121	-	[L] DNA modification methylase   
+88
+	INAHJMBO_00216	CDS	NA	109614	110726	-	NA
+89
+	INAHJMBO_00217	CDS	ROG1853	35	427	+	NA
+90
+	INAHJMBO_00218	CDS	COG1225	901	1350	-	[O] Peroxiredoxin     
+	INAHJMBO_00219	CDS	COG1556	1354	1980	-	[S] Uncharacterized conserved protein   
+	INAHJMBO_00220	CDS	COG1139	1973	3433	-	[C] Uncharacterized conserved protein containing a ferredoxin-like
+	INAHJMBO_00221	CDS	COG0247	3435	4160	-	[C] Fe-S oxidoreductase    
+91
+	INAHJMBO_00222	CDS	COG1200	4262	6148	-	[LK] RecG-like helicase    
+92
+	INAHJMBO_00223	CDS	COG0348	6234	7658	-	[C] Polyferredoxin     
+93
+	INAHJMBO_00224	CDS	COG0488	7992	9602	+	[R] ATPase components of ABC transporters with
+	INAHJMBO_00225	CDS	NA	9606	9974	+	NA
+94
+	INAHJMBO_00226	CDS	NA	10100	10585	+	NA
+95
+	INAHJMBO_00227	CDS	NA	10589	11152	-	NA
+	INAHJMBO_00228	CDS	COG0827	11169	11861	-	[L] Adenine-specific DNA methylase   
+96
+	INAHJMBO_00229	CDS	NA	12037	12228	+	NA
+	INAHJMBO_00230	CDS	COG3654	12283	12612	+	[R] Prophage maintenance system killer protein 
+97
+	INAHJMBO_00231	CDS	COG3077	12769	12933	+	[L] DNA-damage-inducible protein J   
+	INAHJMBO_00232	CDS	COG3041	12926	13102	+	[S] Uncharacterized protein conserved in bacteria 
+98
+	INAHJMBO_00233	CDS	COG0757	13262	13774	+	[E] 3-dehydroquinate dehydratase II   
+	INAHJMBO_00234	CDS	COG0006	13761	14789	+	[E] Xaa-Pro aminopeptidase    
+99
+	INAHJMBO_00235	CDS	COG1121	14822	15595	-	[P] ABC-type Mn/Zn transport systems, ATPase component
+	INAHJMBO_00236	CDS	COG0609	15592	16581	-	[P] ABC-type Fe3+-siderophore transport system, permease component
+	INAHJMBO_00237	CDS	COG4771	16585	18816	-	[P] Outer membrane receptor for ferrienterochelin and
+100
+	INAHJMBO_00238	CDS	ROG2270	18999	20546	+	NA
+101
+	INAHJMBO_00239	CDS	COG0614	20725	21783	+	[P] ABC-type Fe3+-hydroxamate transport system, periplasmic component
+102
+	INAHJMBO_00240	CDS	COG0282	21907	23106	+	[C] Acetate kinase    
+	INAHJMBO_00241	CDS	COG1335	23116	23895	+	[Q] Amidases related to nicotinamidase  
+103
+	INAHJMBO_00242	tRNA	NA	23989	24073	-	NA
+104
+	INAHJMBO_00243	CDS	COG1858	24261	25316	-	[P] Cytochrome c peroxidase   
+105
+	INAHJMBO_00244	CDS	COG0587	25556	29215	+	[L] DNA polymerase III, alpha subunit 
+106
+	INAHJMBO_00245	CDS	COG1013	29683	30627	-	[C] Pyruvate:ferredoxin oxidoreductase and related 2-oxoacid:ferredoxin oxidoreductases,
+	INAHJMBO_00246	CDS	COG0674	30642	31865	-	[C] Pyruvate:ferredoxin oxidoreductase and related 2-oxoacid:ferredoxin oxidoreductases,
+	INAHJMBO_00247	CDS	COG1144	31869	32279	-	[C] Pyruvate:ferredoxin oxidoreductase and related 2-oxoacid:ferredoxin oxidoreductases,
+	INAHJMBO_00248	CDS	COG1014	32291	32851	-	[C] Pyruvate:ferredoxin oxidoreductase and related 2-oxoacid:ferredoxin oxidoreductases,
+107
+	INAHJMBO_00249	CDS	COG0546	33011	33730	-	[R] Predicted phosphatases    
+	INAHJMBO_00250	CDS	COG0534	33750	34157	-	[V] Na+-driven multidrug efflux pump  
+	INAHJMBO_00251	CDS	COG0534	34139	35167	-	[V] Na+-driven multidrug efflux pump  
+108
+	INAHJMBO_00252	CDS	COG0103	35259	35648	-	[J] Ribosomal protein S9   
+	INAHJMBO_00253	CDS	COG0102	35661	36086	-	[J] Ribosomal protein L13   
+109
+	INAHJMBO_00254	CDS	COG0109	36403	37314	+	[O] Polyprenyltransferase (cytochrome oxidase assembly factor) 
+110
+	INAHJMBO_00255	CDS	COG1807	37377	39110	+	[M] 4-amino-4-deoxy-L-arabinose transferase and related glycosyltransferases of
+	INAHJMBO_00256	CDS	COG3399	39113	40348	+	[S] Uncharacterized protein conserved in bacteria 
+	INAHJMBO_00257	CDS	COG2246	40335	40805	+	[S] Predicted membrane protein   
+111
+	INAHJMBO_00258	CDS	COG0697	41134	41496	+	[GER] Permeases of the drug/metabolite transporter (DMT)
+	INAHJMBO_00259	CDS	COG0451	41499	42491	+	[MG] Nucleoside-diphosphate-sugar epimerases    
+	INAHJMBO_00260	CDS	NA	42526	43245	+	NA
+112
+	INAHJMBO_00261	CDS	NA	43372	44172	-	NA
+113
+	INAHJMBO_00262	CDS	COG1074	44274	45812	+	[L] ATP-dependent exoDNAse (exonuclease V) beta subunit
+	INAHJMBO_00263	CDS	COG1074	45878	47461	+	[L] ATP-dependent exoDNAse (exonuclease V) beta subunit
+114
+	INAHJMBO_00264	CDS	COG1208	47553	48413	+	[MJ] Nucleoside-diphosphate-sugar pyrophosphorylase involved in lipopolysaccharide biosynthesis/translation
+115
+	INAHJMBO_00265	CDS	NA	48517	49104	+	NA
+	INAHJMBO_00266	CDS	NA	49101	49952	+	NA
+	INAHJMBO_00267	CDS	COG0500	49955	51136	+	[QR] SAM-dependent methyltransferases    
+	INAHJMBO_00268	CDS	COG0451	51156	52607	+	[MG] Nucleoside-diphosphate-sugar epimerases    
+	INAHJMBO_00269	CDS	COG0535	52646	54079	+	[R] Predicted Fe-S oxidoreductases   
+	INAHJMBO_00270	CDS	COG0451	54076	55212	+	[MG] Nucleoside-diphosphate-sugar epimerases    
+	INAHJMBO_00271	CDS	COG1004	55213	56547	+	[M] Predicted UDP-glucose 6-dehydrogenase   
+	INAHJMBO_00272	CDS	COG1898	56561	57163	+	[M] dTDP-4-dehydrorhamnose 3,5-epimerase and related enzymes 
+	INAHJMBO_00273	CDS	COG0399	57238	58614	+	[M] Predicted pyridoxal phosphate-dependent enzyme apparently involved
+	INAHJMBO_00274	CDS	COG1898	58611	59177	+	[M] dTDP-4-dehydrorhamnose 3,5-epimerase and related enzymes 
+116
+	INAHJMBO_00275	CDS	NA	59872	61071	-	NA
+117
+	INAHJMBO_00276	CDS	ROG0053	61398	62657	+	NA
+	INAHJMBO_00277	CDS	COG4421	62687	63955	+	[G] Capsular polysaccharide biosynthesis protein  
+	INAHJMBO_00278	CDS	NA	63978	64127	+	NA
+	INAHJMBO_00279	CDS	COG1090	64127	65152	+	[R] Predicted nucleoside-diphosphate sugar epimerase  
+	INAHJMBO_00280	CDS	COG1090	65152	66201	+	[R] Predicted nucleoside-diphosphate sugar epimerase  
+	INAHJMBO_00281	CDS	COG0702	66201	67082	+	[MG] Predicted nucleoside-diphosphate-sugar epimerases   
+	INAHJMBO_00282	CDS	COG0702	67230	68108	+	[MG] Predicted nucleoside-diphosphate-sugar epimerases   
+118
+	INAHJMBO_00283	CDS	COG0399	68367	69494	+	[M] Predicted pyridoxal phosphate-dependent enzyme apparently involved
+	INAHJMBO_00284	CDS	COG0299	69494	70294	+	[F] Folate-dependent phosphoribosylglycinamide formyltransferase PurN  
+	INAHJMBO_00285	CDS	COG1044	70355	71026	+	[M] UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase   
+119
+	INAHJMBO_00286	CDS	COG1216	71098	71649	+	[R] Predicted glycosyltransferases    
+	INAHJMBO_00287	CDS	ROG1392	71613	72314	+	NA
+	INAHJMBO_00288	CDS	COG0110	72332	73018	+	[R] Acetyltransferase (isoleucine patch superfamily)  
+120
+	INAHJMBO_00289	CDS	ROG7351	73780	75264	+	NA
+	INAHJMBO_00290	CDS	COG5000	75257	76750	+	[T] Signal transduction histidine kinase involved in
+	INAHJMBO_00291	CDS	COG4753	76760	77446	+	[T] Response regulator containing CheY-like receiver domain
+121
+	INAHJMBO_00292	CDS	COG1158	77519	78841	+	[K] Transcription termination factor   
+	INAHJMBO_00293	CDS	COG0796	78845	79597	+	[M] Glutamate racemase    
+	INAHJMBO_00294	CDS	COG0864	79629	80105	+	[K] Predicted transcriptional regulators containing the CopG/Arc/MetJ
+	INAHJMBO_00295	CDS	COG1057	80105	80656	+	[H] Nicotinic acid mononucleotide adenylyltransferase  
+	INAHJMBO_00296	CDS	COG0799	80653	80997	+	[S] Uncharacterized homolog of plant Iojap protein
+	INAHJMBO_00297	CDS	COG1387	80997	81788	+	[ER] Histidinol phosphatase and related hydrolases of
+	INAHJMBO_00298	CDS	NA	81836	83605	+	NA
+122
+	INAHJMBO_00299	CDS	COG0529	83680	84207	-	[P] Adenylylsulfate kinase and related kinases 
+	INAHJMBO_00300	CDS	COG1218	84194	85048	-	[P] 3'-Phosphoadenosine 5'-phosphosulfate (PAPS) 3'-phosphatase  
+	INAHJMBO_00301	CDS	COG1213	85086	85835	-	[M] Predicted sugar nucleotidyltransferases   
+	INAHJMBO_00302	CDS	COG2071	85845	86501	-	[R] Predicted glutamine amidotransferases   
+	INAHJMBO_00303	CDS	COG1080	86535	88973	-	[G] Phosphoenolpyruvate-protein kinase (PTS system EI component
+	INAHJMBO_00304	CDS	ROG4549	88973	89467	-	NA
+	INAHJMBO_00305	CDS	NA	89458	90327	-	NA
+	INAHJMBO_00306	CDS	COG0500	90355	91212	-	[QR] SAM-dependent methyltransferases    
+	INAHJMBO_00307	CDS	COG0500	91263	92033	-	[QR] SAM-dependent methyltransferases    
+	INAHJMBO_00308	CDS	ROG2895	92034	92417	-	NA
+	INAHJMBO_00309	CDS	NA	92414	93334	-	NA
+123
+	INAHJMBO_00310	CDS	ROG2515	93630	94613	-	NA
+	INAHJMBO_00311	CDS	NA	94610	94825	-	NA
+124
+	INAHJMBO_00312	CDS	COG1012	95160	96665	+	[C] NAD-dependent aldehyde dehydrogenases   
+125
+	INAHJMBO_00313	CDS	COG1064	97412	98470	+	[R] Zn-dependent alcohol dehydrogenases   
+	INAHJMBO_00314	CDS	COG3564	98491	98868	+	[S] Uncharacterized protein conserved in bacteria 
+126
+	INAHJMBO_00315	CDS	NA	99098	99709	+	NA
+	INAHJMBO_00316	CDS	ROG0172	99706	99831	+	NA
+	INAHJMBO_00317	CDS	NA	99885	100448	+	NA
+127
+	INAHJMBO_00318	CDS	ROG5392	100699	100905	+	NA
+128
+	INAHJMBO_00319	CDS	ROG7083	101074	102693	-	NA
+	INAHJMBO_00320	CDS	COG0589	102693	103109	-	[T] Universal stress protein UspA and related
+129
+	INAHJMBO_00321	CDS	COG1684	103234	103998	-	[NU] Flagellar biosynthesis pathway, component FliR 
+	INAHJMBO_00322	CDS	COG4940	103998	105191	-	[U] Competence protein ComGF   
+	INAHJMBO_00323	CDS	ROG0644	105188	105847	-	NA
+	INAHJMBO_00324	CDS	COG1463	105844	106629	-	[Q] ABC-type transport system involved in resistance
+	INAHJMBO_00325	CDS	COG1127	106614	107390	-	[Q] ABC-type transport system involved in resistance
+	INAHJMBO_00326	CDS	COG0767	107393	108535	-	[Q] ABC-type transport system involved in resistance
+130
+	INAHJMBO_00327	CDS	NA	108631	109266	+	NA
+131
+	INAHJMBO_00328	CDS	COG0733	109690	111060	+	[R] Na+-dependent transporters of the SNF family
+132
+	INAHJMBO_00329	CDS	COG0130	111458	112333	+	[J] Pseudouridine synthase    
+	INAHJMBO_00330	CDS	COG1551	112317	112550	+	[T] Carbon storage regulator (could also regulate
+	INAHJMBO_00331	CDS	COG1947	112547	113395	+	[I] 4-diphosphocytidyl-2C-methyl-D-erythritol 2-phosphate synthase   
+	INAHJMBO_00332	CDS	COG0691	113404	113865	+	[O] tmRNA-binding protein    
+	INAHJMBO_00333	CDS	COG0811	113875	114336	+	[U] Biopolymer transport proteins   
+	INAHJMBO_00334	CDS	COG0848	114421	114807	+	[U] Biopolymer transport protein   
+133
+	INAHJMBO_00335	CDS	NA	114884	115912	-	NA
+134
+	INAHJMBO_00336	CDS	COG0652	115991	116497	+	[O] Peptidyl-prolyl cis-trans isomerase (rotamase) - cyclophilin
+135
+	INAHJMBO_00337	CDS	ROG0282	116998	121338	-	NA
+136
+	INAHJMBO_00338	CDS	COG0697	121753	122643	+	[GER] Permeases of the drug/metabolite transporter (DMT)
+137
+	INAHJMBO_00339	CDS	COG3018	122929	123582	+	[S] Uncharacterized protein conserved in bacteria 
+138
+	INAHJMBO_00340	CDS	ROG1534	123663	124232	+	NA
+139
+	INAHJMBO_00341	CDS	NA	124553	124714	-	NA
+140
+	INAHJMBO_00342	CDS	COG0021	124818	126758	+	[G] Transketolase     
+	INAHJMBO_00343	CDS	COG0801	126783	127379	+	[H] 7,8-dihydro-6-hydroxymethylpterin-pyrophosphokinase     
+	INAHJMBO_00344	CDS	COG1419	127376	128860	+	[N] Flagellar GTP-binding protein   
+	INAHJMBO_00345	CDS	COG0455	128898	129752	+	[D] ATPases involved in chromosome partitioning 
+	INAHJMBO_00346	CDS	ROG3976	129762	130097	+	NA
+	INAHJMBO_00347	CDS	COG1191	130121	130816	+	[K] DNA-directed RNA polymerase specialized sigma subunit
+	INAHJMBO_00348	CDS	COG1868	130809	131867	+	[N] Flagellar motor switch protein  
+	INAHJMBO_00349	CDS	COG1886	131893	132738	+	[NU] Flagellar motor switch/type III secretory pathway
+141
+	INAHJMBO_00350	CDS	COG0607	132822	133148	+	[P] Rhodanese-related sulfurtransferase    
+	INAHJMBO_00351	CDS	COG0345	133177	133935	+	[E] Pyrroline-5-carboxylate reductase    
+	INAHJMBO_00352	CDS	COG2274	133966	135768	+	[V] ABC-type bacteriocin/lantibiotic exporters, contain an N-terminal
+142
+	INAHJMBO_00353	CDS	COG3018	135856	136362	-	[S] Uncharacterized protein conserved in bacteria 
+143
+	INAHJMBO_00354	CDS	COG1052	136517	137455	+	[CHR] Lactate dehydrogenase and related dehydrogenases 
+	INAHJMBO_00355	CDS	COG0229	137456	137830	+	[O] Conserved domain frequently associated with peptide
+	INAHJMBO_00356	CDS	COG0063	137830	139344	+	[G] Predicted sugar kinase   
+144
+	INAHJMBO_00357	CDS	COG1197	139688	142675	-	[LK] Transcription-repair coupling factor (superfamily II helicase)
+	INAHJMBO_00358	CDS	COG1664	142653	143057	-	[M] Integral membrane protein CcmA involved in
+	INAHJMBO_00359	CDS	COG0739	143015	143902	-	[M] Membrane proteins related to metalloendopeptidases 
+	INAHJMBO_00360	CDS	COG0739	143899	144831	-	[M] Membrane proteins related to metalloendopeptidases 
+	INAHJMBO_00361	CDS	COG0285	144821	145957	-	[H] Folylpolyglutamate synthase    
+	INAHJMBO_00362	CDS	ROG1370	145958	146521	-	NA
+	INAHJMBO_00363	CDS	COG0495	146537	148975	-	[J] Leucyl-tRNA synthetase    
+	INAHJMBO_00364	CDS	COG0341	149043	150008	-	[U] Preprotein translocase subunit SecF  
+	INAHJMBO_00365	CDS	COG0342	150021	151646	-	[U] Preprotein translocase subunit SecD  
+	INAHJMBO_00366	CDS	COG1862	151643	151936	-	[U] Preprotein translocase subunit YajC  
+	INAHJMBO_00367	CDS	COG3004	151983	153362	-	[P] Na+/H+ antiporter    
+145
+	INAHJMBO_00368	CDS	COG0699	153565	156009	+	[R] Predicted GTPases (dynamin-related)   
+	INAHJMBO_00369	CDS	COG0699	156006	157895	+	[R] Predicted GTPases (dynamin-related)   
+146
+	INAHJMBO_00370	CDS	COG1696	158340	158669	+	[M] Predicted membrane protein involved in D-alanine
+	INAHJMBO_00371	CDS	COG1696	158933	160102	+	[M] Predicted membrane protein involved in D-alanine
+	INAHJMBO_00372	CDS	COG1575	160059	160316	+	[H] 1,4-dihydroxy-2-naphthoate octaprenyltransferase    
+	INAHJMBO_00373	CDS	ROG2191	160326	161318	+	NA
+147
+	INAHJMBO_00374	CDS	COG0653	161394	163958	+	[U] Preprotein translocase subunit SecA (ATPase, RNA
+	INAHJMBO_00375	CDS	COG4591	163958	165199	+	[M] ABC-type transport system, involved in lipoprotein
+148
+	INAHJMBO_00376	CDS	COG0724	165343	165588	+	[R] RNA-binding proteins (RRM domain)  
+149
+	INAHJMBO_00377	CDS	ROG1743	166442	167266	-	NA
+150
+	INAHJMBO_00378	CDS	COG0288	167429	168082	+	[P] Carbonic anhydrase    
+	INAHJMBO_00379	CDS	NA	168093	168737	+	NA
+	INAHJMBO_00380	CDS	COG2877	168734	169624	+	[M] 3-deoxy-D-manno-octulosonic acid (KDO) 8-phosphate synthase 
+	INAHJMBO_00381	CDS	COG0054	169659	170129	+	[H] Riboflavin synthase beta-chain   
+	INAHJMBO_00382	CDS	COG0781	170129	170536	+	[K] Transcription termination factor   
+	INAHJMBO_00383	CDS	COG1442	170536	171660	+	[M] Lipopolysaccharide biosynthesis proteins, LPS:glycosyltransferases  
+151
+	INAHJMBO_00384	CDS	COG0535	171726	173183	+	[R] Predicted Fe-S oxidoreductases   
+	INAHJMBO_00385	CDS	COG0463	173180	174064	+	[M] Glycosyltransferases involved in cell wall biogenesis
+152
+	INAHJMBO_00386	CDS	COG0840	174785	176572	-	[NT] Methyl-accepting chemotaxis protein   
+	INAHJMBO_00387	CDS	NA	176586	176822	-	NA
+	INAHJMBO_00388	CDS	ROG1992	176837	178201	-	NA
+153
+	INAHJMBO_00389	CDS	NA	178903	179190	+	NA
+154
+	INAHJMBO_00390	CDS	NA	179284	179718	+	NA
+155
+	INAHJMBO_00391	CDS	NA	180081	181064	+	NA
+156
+	INAHJMBO_00392	CDS	COG0730	181558	182343	+	[R] Predicted permeases    
+157
+	INAHJMBO_00393	CDS	ROG3677	182370	182990	-	NA
+	INAHJMBO_00394	CDS	ROG3044	183030	183566	-	NA
+	INAHJMBO_00395	CDS	ROG2793	183566	184543	-	NA
+	INAHJMBO_00396	CDS	COG2121	184546	185229	-	[S] Uncharacterized protein conserved in bacteria 
+	INAHJMBO_00397	CDS	COG0621	185189	186502	-	[J] 2-methylthioadenine synthetase    
+	INAHJMBO_00398	CDS	ROG1365	186502	186762	-	NA
+158
+	INAHJMBO_00399	CDS	COG0195	186886	188022	+	[K] Transcription elongation factor   
+159
+	INAHJMBO_00400	tRNA	NA	188973	189059	-	NA
+	INAHJMBO_00401	tRNA	NA	189106	189190	-	NA
+	INAHJMBO_00402	CDS	COG0636	189215	189580	-	[C] F0F1-type ATP synthase, subunit c/Archaeal/vacuolar-type H+-ATPase,
+	INAHJMBO_00403	CDS	COG1185	189658	191712	-	[J] Polyribonucleotide nucleotidyltransferase (polynucleotide phosphorylase)  
+160
+	INAHJMBO_00404	CDS	COG1452	192208	194535	-	[M] Organic solvent tolerance protein OstA 
+	INAHJMBO_00405	CDS	COG1714	194550	195023	-	[S] Predicted membrane protein/domain   
+	INAHJMBO_00406	CDS	COG0151	195023	196333	-	[F] Phosphoribosylamine-glycine ligase    
+161
+	INAHJMBO_00407	CDS	COG1089	196726	197847	+	[M] GDP-D-mannose dehydratase    
+162
+	INAHJMBO_00408	CDS	NA	197893	198240	-	NA
+163
+	INAHJMBO_00409	CDS	COG0338	198397	199326	+	[L] Site-specific DNA methylase   
+	INAHJMBO_00410	CDS	ROG8529	199329	200078	+	NA
+	INAHJMBO_00411	CDS	COG0863	200075	201295	+	[L] DNA modification methylase   
+	INAHJMBO_00412	CDS	NA	201305	201754	+	NA
+164
+	INAHJMBO_00413	CDS	COG4627	202054	202425	+	[S] Uncharacterized protein conserved in bacteria 
+165
+	INAHJMBO_00414	CDS	COG1496	202440	203237	-	[S] Uncharacterized conserved protein   
+166
+	INAHJMBO_00415	tRNA	NA	203389	203464	+	NA
+	INAHJMBO_00416	tRNA	NA	203524	203608	+	NA
+	INAHJMBO_00417	tRNA	NA	203645	203721	+	NA
+	INAHJMBO_00418	tRNA	NA	203796	203870	+	NA
+167
+	INAHJMBO_00419	CDS	COG0050	203962	205161	+	[J] GTPases - translation elongation factors 
+	INAHJMBO_00420	CDS	COG0267	205173	205343	+	[J] Ribosomal protein L33   
+	INAHJMBO_00421	tRNA	NA	205366	205441	+	NA
+	INAHJMBO_00422	CDS	COG0690	205467	205655	+	[U] Preprotein translocase subunit SecE  
+	INAHJMBO_00423	CDS	COG0250	205665	206195	+	[K] Transcription antiterminator    
+	INAHJMBO_00424	CDS	COG0080	206217	206642	+	[J] Ribosomal protein L11   
+	INAHJMBO_00425	CDS	COG0081	206673	207377	+	[J] Ribosomal protein L1   
+	INAHJMBO_00426	CDS	COG0244	207469	207951	+	[J] Ribosomal protein L10   
+	INAHJMBO_00427	CDS	COG0222	207980	208357	+	[J] Ribosomal protein L7/L12   
+	INAHJMBO_00428	CDS	COG0086	208512	217175	+	[K] DNA-directed RNA polymerase, beta' subunit/160 kD
+	INAHJMBO_00429	CDS	COG0048	217249	217638	+	[J] Ribosomal protein S12   
+	INAHJMBO_00430	CDS	COG0049	217658	218125	+	[J] Ribosomal protein S7   
+	INAHJMBO_00431	CDS	COG0480	218135	220213	+	[J] Translation elongation factors (GTPases)  
+	INAHJMBO_00432	CDS	ROG0280	220244	220438	+	NA
+	INAHJMBO_00433	CDS	ROG0280	220620	221261	+	NA
+168
+	INAHJMBO_00434	CDS	COG2214	221777	222700	+	[O] DnaJ-class molecular chaperone   
+	INAHJMBO_00435	CDS	ROG0188	222711	223061	+	NA
+	INAHJMBO_00436	CDS	COG2256	223079	224419	+	[L] ATPase related to the helicase subunit
+169
+	INAHJMBO_00437	CDS	ROG7024	224605	225063	-	NA
+170
+	INAHJMBO_00438	CDS	COG0192	225521	226675	-	[H] S-adenosylmethionine synthetase    
+171
+	INAHJMBO_00439	CDS	ROG0018	227040	227810	+	NA
+	INAHJMBO_00440	CDS	COG1053	227811	229781	+	[C] Succinate dehydrogenase/fumarate reductase, flavoprotein subunit 
+	INAHJMBO_00441	CDS	COG0479	229781	230506	+	[C] Succinate dehydrogenase/fumarate reductase, Fe-S protein subunit
+172
+	INAHJMBO_00442	CDS	COG4771	231000	233243	-	[P] Outer membrane receptor for ferrienterochelin and
+173
+	INAHJMBO_00443	CDS	COG0280	233729	234730	-	[C] Phosphotransacetylase     
+174
+	INAHJMBO_00444	CDS	COG0133	234821	236032	-	[E] Tryptophan synthase beta chain  
+175
+	INAHJMBO_00445	CDS	ROG0532	236114	237463	-	NA
+	INAHJMBO_00446	CDS	ROG3777	237451	238158	-	NA
+176
+	INAHJMBO_00447	CDS	ROG1603	238237	239538	-	NA
+	INAHJMBO_00448	CDS	COG1171	239516	240724	-	[E] Threonine dehydratase    
+177
+	INAHJMBO_00449	CDS	COG0716	241143	241640	-	[C] Flavodoxins     
+178
+	INAHJMBO_00450	CDS	COG1087	241727	242773	-	[M] UDP-glucose 4-epimerase    
+179
+	INAHJMBO_00451	CDS	COG1607	242879	243349	+	[I] Acyl-CoA hydrolase    
+180
+	INAHJMBO_00452	CDS	ROG2601	243470	244162	+	NA
+181
+	INAHJMBO_00453	CDS	COG0449	244303	246093	-	[M] Glucosamine 6-phosphate synthetase, contains amidotransferase and
+182
+	INAHJMBO_00454	CDS	COG1420	246360	247139	+	[K] Transcriptional regulator of heat shock gene
+	INAHJMBO_00455	CDS	COG0576	247173	247682	+	[O] Molecular chaperone GrpE (heat shock protein)
+	INAHJMBO_00456	CDS	COG0443	247704	249593	+	[O] Molecular chaperone    
+183
+	INAHJMBO_00457	CDS	ROG2106	249674	250537	+	NA
+184
+	INAHJMBO_00458	CDS	COG0451	251070	252011	-	[MG] Nucleoside-diphosphate-sugar epimerases    
+185
+	INAHJMBO_00459	CDS	NA	252083	252580	-	NA
+	INAHJMBO_00460	CDS	NA	252558	253697	-	NA
+186
+	INAHJMBO_00461	CDS	COG3671	253860	254582	+	[S] Predicted membrane protein   
+187
+	INAHJMBO_00462	CDS	COG2054	255161	256780	-	[R] Uncharacterized archaeal kinase related to aspartokinases,
+188
+	INAHJMBO_00463	CDS	NA	256907	258325	-	NA
+189
+	INAHJMBO_00464	CDS	COG1232	258446	259960	-	[H] Protoporphyrinogen oxidase    
+	INAHJMBO_00465	CDS	COG1087	259996	260991	-	[M] UDP-glucose 4-epimerase    
+	INAHJMBO_00466	CDS	COG1087	260942	261175	-	[M] UDP-glucose 4-epimerase    
+190
+	INAHJMBO_00467	CDS	NA	261241	263007	-	NA
+191
+	INAHJMBO_00468	CDS	COG1004	263166	264503	-	[M] Predicted UDP-glucose 6-dehydrogenase   
+192
+	INAHJMBO_00469	CDS	ROG2106	264630	265835	+	NA
+	INAHJMBO_00470	CDS	COG0836	265888	267381	+	[M] Mannose-1-phosphate guanylyltransferase    
+193
+	INAHJMBO_00471	CDS	COG0697	267577	268506	-	[GER] Permeases of the drug/metabolite transporter (DMT)
+194
+	INAHJMBO_00472	CDS	COG1160	269027	270661	-	[R] Predicted GTPases    
+	INAHJMBO_00473	CDS	ROG7083	270721	272472	-	NA
+195
+	INAHJMBO_00474	CDS	COG0059	273182	274084	-	[EH] Ketol-acid reductoisomerase    
+196
+	INAHJMBO_00475	CDS	COG2352	274360	277080	+	[C] Phosphoenolpyruvate carboxylase    
+197
+	INAHJMBO_00476	CDS	COG1752	277474	278727	-	[R] Predicted esterase of the alpha-beta hydrolase
+	INAHJMBO_00477	CDS	COG1267	278727	279203	-	[I] Phosphatidylglycerophosphatase A and related proteins 
+	INAHJMBO_00478	CDS	COG0166	279200	280453	-	[G] Glucose-6-phosphate isomerase    
+	INAHJMBO_00479	CDS	COG0057	280474	281454	-	[G] Glyceraldehyde-3-phosphate dehydrogenase/erythrose-4-phosphate dehydrogenase   
+	INAHJMBO_00480	CDS	ROG7492	281451	283223	-	NA
+	INAHJMBO_00481	CDS	COG0463	283223	284377	-	[M] Glycosyltransferases involved in cell wall biogenesis
+198
+	INAHJMBO_00482	CDS	COG0825	284475	285404	-	[I] Acetyl-CoA carboxylase alpha subunit  
+	INAHJMBO_00483	CDS	COG0304	285425	286663	-	[IQ] 3-oxoacyl-(acyl-carrier-protein) synthase    
+	INAHJMBO_00484	CDS	COG0236	286728	286961	-	[IQ] Acyl carrier protein   
+	INAHJMBO_00485	CDS	COG1028	287053	287796	-	[IQR] Dehydrogenases with different specificities (related to
+199
+	INAHJMBO_00486	CDS	NA	287903	288502	-	NA
+	INAHJMBO_00487	CDS	NA	288483	288653	-	NA
+200
+	INAHJMBO_00488	CDS	COG0350	288851	289549	+	[L] Methylated DNA-protein cysteine methyltransferase  
+201
+	INAHJMBO_00489	CDS	COG0594	290372	290734	+	[J] RNase P protein component  
+	INAHJMBO_00490	CDS	COG0759	290785	291171	+	[S] Uncharacterized conserved protein   
+	INAHJMBO_00491	CDS	COG0706	291181	292908	+	[U] Preprotein translocase subunit YidC  
+	INAHJMBO_00492	CDS	ROG1848	292917	293858	+	NA
+	INAHJMBO_00493	CDS	COG0486	293842	295206	+	[R] Predicted GTPase    
+202
+	INAHJMBO_00494	CDS	COG0438	295181	296878	-	[M] Glycosyltransferase     
+	INAHJMBO_00495	CDS	COG0463	297045	297869	-	[M] Glycosyltransferases involved in cell wall biogenesis
+	INAHJMBO_00496	CDS	COG0463	298130	299275	-	[M] Glycosyltransferases involved in cell wall biogenesis
+	INAHJMBO_00497	CDS	COG0463	299265	299735	-	[M] Glycosyltransferases involved in cell wall biogenesis
+203
+	INAHJMBO_00498	CDS	NA	154	315	-	NA
+204
+	INAHJMBO_00499	CDS	COG0021	419	2602	+	[G] Transketolase     
+	INAHJMBO_00500	CDS	COG2513	2599	3969	+	[G] PEP phosphonomutase and related enzymes 
+	INAHJMBO_00501	CDS	COG4032	4105	5553	+	[R] Predicted thiamine-pyrophosphate-binding protein   
+	INAHJMBO_00502	CDS	NA	5543	5845	+	NA
+	INAHJMBO_00503	CDS	NA	5838	6317	+	NA
+	INAHJMBO_00504	CDS	COG1213	6314	7021	+	[M] Predicted sugar nucleotidyltransferases   
+	INAHJMBO_00505	CDS	COG0075	7018	8076	+	[E] Serine-pyruvate aminotransferase/archaeal aspartate aminotransferase  
+205
+	INAHJMBO_00506	CDS	COG3545	8205	8774	+	[R] Predicted esterase of the alpha/beta hydrolase
+206
+	INAHJMBO_00507	CDS	COG0454	8941	9384	-	[KR] Histone acetyltransferase HPA2 and related acetyltransferases
+	INAHJMBO_00508	CDS	COG0863	9381	10229	-	[L] DNA modification methylase   
+	INAHJMBO_00509	CDS	ROG1913	10226	11056	-	NA
+	INAHJMBO_00510	CDS	COG0519	11070	12800	-	[F] GMP synthase, PP-ATPase domain/subunit  
+207
+	INAHJMBO_00511	CDS	ROG4032	13226	13642	+	NA
+208
+	INAHJMBO_00512	CDS	NA	13920	14243	+	NA
+209
+	INAHJMBO_00513	CDS	COG2020	14512	14859	-	[O] Putative protein-S-isoprenylcysteine methyltransferase   
+	INAHJMBO_00514	CDS	NA	14886	15077	-	NA
+210
+	INAHJMBO_00515	CDS	COG1146	15464	15790	+	[C] Ferredoxin     
+	INAHJMBO_00516	CDS	COG0674	15790	16914	+	[C] Pyruvate:ferredoxin oxidoreductase and related 2-oxoacid:ferredoxin oxidoreductases,
+	INAHJMBO_00517	CDS	COG1013	16916	17746	+	[C] Pyruvate:ferredoxin oxidoreductase and related 2-oxoacid:ferredoxin oxidoreductases,
+	INAHJMBO_00518	CDS	COG1014	17750	18310	+	[C] Pyruvate:ferredoxin oxidoreductase and related 2-oxoacid:ferredoxin oxidoreductases,
+	INAHJMBO_00519	CDS	COG0564	18329	19327	+	[J] Pseudouridylate synthases, 23S RNA-specific  
+211
+	INAHJMBO_00520	CDS	COG0537	19391	19720	-	[FGR] Diadenosine tetraphosphate (Ap4A) hydrolase and other
+	INAHJMBO_00521	CDS	NA	19717	19827	-	NA
+212
+	INAHJMBO_00522	CDS	COG0275	19887	20819	+	[M] Predicted S-adenosylmethionine-dependent methyltransferase involved in cell
+	INAHJMBO_00523	CDS	ROG1660	20862	21173	+	NA
+213
+	INAHJMBO_00524	CDS	COG1559	21280	22218	-	[R] Predicted periplasmic solute-binding protein  
+214
+	INAHJMBO_00525	CDS	ROG1460	22244	25894	+	NA
+	INAHJMBO_00526	CDS	COG0210	25894	27906	+	[L] Superfamily I DNA and RNA helicases
+	INAHJMBO_00527	CDS	COG1651	27989	28663	+	[O] Protein-disulfide isomerase    
+	INAHJMBO_00528	CDS	COG1495	28685	29350	+	[O] Disulfide bond formation protein DsbB 
+215
+	INAHJMBO_00529	CDS	COG3893	29850	32228	-	[L] Inactivated superfamily I helicase  
+	INAHJMBO_00530	CDS	COG3247	32234	32767	-	[S] Uncharacterized conserved protein   
+216
+	INAHJMBO_00531	CDS	COG1740	32851	34689	-	[C] Ni,Fe-hydrogenase I small subunit  
+217
+	INAHJMBO_00532	CDS	NA	34880	36055	+	NA
+218
+	INAHJMBO_00533	CDS	NA	36234	37406	+	NA
+219
+	INAHJMBO_00534	CDS	COG1578	37420	38268	-	[S] Uncharacterized conserved protein   
+	INAHJMBO_00535	CDS	ROG3154	38303	38839	-	NA
+	INAHJMBO_00536	CDS	COG0041	38839	39336	-	[F] Phosphoribosylcarboxyaminoimidazole (NCAIR) mutase   
+	INAHJMBO_00537	CDS	COG0209	39346	41718	-	[F] Ribonucleotide reductase, alpha subunit  
+	INAHJMBO_00538	CDS	COG1217	41786	43588	-	[T] Predicted membrane GTPase involved in stress
+220
+	INAHJMBO_00539	CDS	COG3014	43803	45371	+	[S] Uncharacterized protein conserved in bacteria 
+	INAHJMBO_00540	CDS	ROG2869	45429	46472	+	NA
+	INAHJMBO_00541	CDS	COG0818	46469	46873	+	[M] Diacylglycerol kinase    
+221
+	INAHJMBO_00542	CDS	ROG1861	47178	48098	-	NA
+	INAHJMBO_00543	CDS	COG1854	48100	48594	-	[T] LuxS protein involved in autoinducer AI2
+	INAHJMBO_00544	CDS	COG3417	48645	49253	-	[R] Collagen-binding surface adhesin SpaP (antigen I/II
+	INAHJMBO_00545	CDS	COG0574	49275	51701	-	[G] Phosphoenolpyruvate synthase/pyruvate phosphate dikinase  
+222
+	INAHJMBO_00546	CDS	COG0046	51859	54126	+	[F] Phosphoribosylformylglycinamidine (FGAM) synthase, synthetase domain 
+	INAHJMBO_00547	CDS	COG0042	54166	55164	+	[J] tRNA-dihydrouridine synthase    
+	INAHJMBO_00548	CDS	NA	55161	56180	+	NA
+223
+	INAHJMBO_00549	CDS	COG0835	56687	57196	-	[NT] Chemotaxis signal transduction protein  
+	INAHJMBO_00550	CDS	COG0643	57198	59600	-	[NT] Chemotaxis protein histidine kinase and related
+	INAHJMBO_00551	CDS	COG0835	59661	60599	-	[NT] Chemotaxis signal transduction protein  
+	INAHJMBO_00552	CDS	COG2908	60592	61395	-	[S] Uncharacterized protein conserved in bacteria 
+	INAHJMBO_00553	CDS	COG0840	61410	63041	-	[NT] Methyl-accepting chemotaxis protein   
+	INAHJMBO_00554	CDS	COG1207	63083	64420	-	[M] N-acetylglucosamine-1-phosphate uridyltransferase (contains nucleotidyltransferase and I-patch
+224
+	INAHJMBO_00555	CDS	COG0020	64548	65306	+	[I] Undecaprenyl pyrophosphate synthase   
+225
+	INAHJMBO_00556	tRNA	NA	65458	65533	+	NA
+226
+	INAHJMBO_00557	CDS	COG0500	66140	67135	-	[QR] SAM-dependent methyltransferases    
+227
+	INAHJMBO_00558	CDS	COG0277	67589	68965	-	[C] FAD/FMN-containing dehydrogenases    
+	INAHJMBO_00559	CDS	ROG1369	68976	69746	-	NA
+	INAHJMBO_00560	CDS	COG0494	69743	70387	-	[LR] NTP pyrophosphohydrolases including oxidative damage repair
+	INAHJMBO_00561	CDS	COG0739	70491	71552	-	[M] Membrane proteins related to metalloendopeptidases 
+228
+	INAHJMBO_00562	CDS	ROG6495	71735	71926	+	NA
+229
+	INAHJMBO_00563	CDS	ROG7371	72019	72231	+	NA
+	INAHJMBO_00564	CDS	ROG3020	72273	72713	+	NA
+	INAHJMBO_00565	CDS	COG1256	72745	74571	+	[N] Flagellar hook-associated protein   
+230
+	INAHJMBO_00566	CDS	ROG0109	75089	75973	+	NA
+231
+	INAHJMBO_00567	CDS	COG0608	76032	77621	-	[L] Single-stranded DNA-specific exonuclease   
+	INAHJMBO_00568	CDS	COG0504	77624	79276	-	[F] CTP synthase (UTP-ammonia lyase)  
+232
+	INAHJMBO_00569	CDS	COG0501	79413	80600	+	[O] Zn-dependent protease with chaperone function 
+	INAHJMBO_00570	CDS	COG2890	80650	81441	+	[J] Methylase of polypeptide chain release factors
+	INAHJMBO_00571	CDS	COG2812	81506	83515	+	[L] DNA polymerase III, gamma/tau subunits 
+	INAHJMBO_00572	CDS	COG0802	83508	83960	+	[R] Predicted ATPase or kinase  
+	INAHJMBO_00573	CDS	COG1137	84044	84772	+	[R] ABC-type (unclassified) transport system, ATPase component
+	INAHJMBO_00574	CDS	COG1508	84782	86086	+	[K] DNA-directed RNA polymerase specialized sigma subunit,
+	INAHJMBO_00575	CDS	COG1193	86093	88564	+	[L] Mismatch repair ATPase (MutS family) 
+233
+	INAHJMBO_00576	CDS	NA	89843	90325	-	NA
+	INAHJMBO_00577	CDS	NA	90318	91298	-	NA
+	INAHJMBO_00578	CDS	NA	91313	91888	-	NA
+234
+	INAHJMBO_00579	CDS	NA	91997	92239	-	NA
+235
+	INAHJMBO_00580	CDS	COG2834	92531	93040	-	[M] Outer membrane lipoprotein-sorting protein  
+236
+	INAHJMBO_00581	CDS	COG1047	93118	93687	-	[O] FKBP-type peptidyl-prolyl cis-trans isomerases 2 
+	INAHJMBO_00582	CDS	ROG2778	93684	94607	-	NA
+	INAHJMBO_00583	CDS	COG2885	94617	95138	-	[M] Outer membrane protein and related peptidoglycan-associated
+	INAHJMBO_00584	CDS	COG0823	95204	96457	-	[U] Periplasmic component of the Tol biopolymer
+	INAHJMBO_00585	CDS	ROG2987	96454	97173	-	NA
+	INAHJMBO_00586	CDS	COG0848	97166	97564	-	[U] Biopolymer transport protein   
+	INAHJMBO_00587	CDS	COG0811	97582	98139	-	[U] Biopolymer transport proteins   
+	INAHJMBO_00588	CDS	COG0355	98140	98526	-	[C] F0F1-type ATP synthase, epsilon subunit (mitochondrial
+	INAHJMBO_00589	CDS	COG0055	98545	99939	-	[C] F0F1-type ATP synthase, beta subunit 
+	INAHJMBO_00590	CDS	COG0224	99959	100870	-	[C] F0F1-type ATP synthase, gamma subunit 
+	INAHJMBO_00591	CDS	COG0056	100897	102405	-	[C] F0F1-type ATP synthase, alpha subunit 
+	INAHJMBO_00592	CDS	COG0712	102428	102952	-	[C] F0F1-type ATP synthase, delta subunit (mitochondrial
+	INAHJMBO_00593	CDS	COG0711	102952	103464	-	[C] F0F1-type ATP synthase, subunit b 
+	INAHJMBO_00594	CDS	COG0711	103487	103915	-	[C] F0F1-type ATP synthase, subunit b 
+	INAHJMBO_00595	CDS	COG1475	103970	104818	-	[K] Predicted transcriptional regulators   
+	INAHJMBO_00596	CDS	COG1192	104820	105623	-	[D] ATPases involved in chromosome partitioning 
+	INAHJMBO_00597	CDS	COG0340	105627	106373	-	[H] Biotin-(acetyl-CoA carboxylase) ligase   
+	INAHJMBO_00598	CDS	COG0223	106370	107272	-	[J] Methionyl-tRNA formyltransferase    
+237
+	INAHJMBO_00599	CDS	NA	107352	108092	-	NA
+238
+	INAHJMBO_00600	CDS	COG4121	108197	108886	-	[S] Uncharacterized conserved protein   
+239
+	INAHJMBO_00601	CDS	COG0516	109008	110453	-	[F] IMP dehydrogenase/GMP reductase   
+	INAHJMBO_00602	CDS	COG0154	110480	111820	-	[J] Asp-tRNAAsn/Glu-tRNAGln amidotransferase A subunit and related
+240
+	INAHJMBO_00603	CDS	ROG4124	112010	112333	-	NA
+241
+	INAHJMBO_00604	CDS	COG2836	112787	113461	-	[S] Uncharacterized conserved protein   
+242
+	INAHJMBO_00605	CDS	ROG6830	113647	113973	-	NA
+243
+	INAHJMBO_00606	CDS	COG0008	114065	115390	+	[J] Glutamyl- and glutaminyl-tRNA synthetases  
+	INAHJMBO_00607	CDS	COG0762	115400	115675	+	[S] Predicted integral membrane protein  
+	INAHJMBO_00608	CDS	COG0741	115675	117345	+	[M] Soluble lytic murein transglycosylase and related
+244
+	INAHJMBO_00609	CDS	COG1210	117411	118241	+	[M] UDP-glucose pyrophosphorylase    
+	INAHJMBO_00610	CDS	COG0766	118251	119933	+	[M] UDP-N-acetylglucosamine enolpyruvyl transferase   
+245
+	INAHJMBO_00611	CDS	COG2249	120375	120962	-	[R] Putative NADPH-quinone reductase (modulator of drug
+	INAHJMBO_00612	CDS	COG2249	121165	121353	-	[R] Putative NADPH-quinone reductase (modulator of drug
+	INAHJMBO_00613	CDS	ROG5434	121384	121800	-	NA
+246
+	INAHJMBO_00614	CDS	NA	121903	122256	-	NA
+	INAHJMBO_00615	CDS	COG0778	122313	122984	-	[C] Nitroreductase     
+247
+	INAHJMBO_00616	CDS	NA	123468	123659	+	NA
+248
+	INAHJMBO_00617	CDS	COG2189	123794	125317	+	[L] Adenine specific DNA methylase Mod 
+	INAHJMBO_00618	CDS	NA	125308	125703	+	NA
+	INAHJMBO_00619	CDS	COG3587	125703	128666	+	[V] Restriction endonuclease    
+249
+	INAHJMBO_00620	CDS	NA	128888	129358	+	NA
+250
+	INAHJMBO_00621	CDS	COG1222	129500	129838	+	[O] ATP-dependent 26S proteasome regulatory subunit 
+	INAHJMBO_00622	CDS	ROG3981	129840	131285	+	NA
+	INAHJMBO_00623	CDS	NA	131266	131679	+	NA
+251
+	INAHJMBO_00624	CDS	COG3309	131685	132074	-	[S] Uncharacterized virulence-associated protein D  
+	INAHJMBO_00625	CDS	NA	132049	132384	-	NA
+252
+	INAHJMBO_00626	CDS	COG3513	132606	135746	+	[S] Uncharacterized protein conserved in bacteria 
+	INAHJMBO_00627	CDS	COG1518	135748	136644	+	[L] Uncharacterized protein predicted to be involved
+	INAHJMBO_00628	CDS	COG3512	136670	137089	+	[S] Uncharacterized protein conserved in bacteria 
+253
+	INAHJMBO_00629	CDS	NA	138233	138571	+	NA
+	INAHJMBO_00630	CDS	COG3309	138568	138939	+	[S] Uncharacterized virulence-associated protein D  
+254
+	INAHJMBO_00631	CDS	ROG1305	139008	139505	-	NA
+	INAHJMBO_00632	CDS	COG0675	139553	139912	-	[L] Transposase and inactivated derivatives  
+	INAHJMBO_00633	CDS	COG0675	139979	140800	-	[L] Transposase and inactivated derivatives  
+	INAHJMBO_00634	CDS	COG2452	141057	141416	-	[L] Predicted site-specific integrase-resolvase   
+255
+	INAHJMBO_00635	CDS	COG2910	141648	141971	-	[R] Putative NADH-flavin reductase   
+	INAHJMBO_00636	CDS	COG2910	141934	142281	-	[R] Putative NADH-flavin reductase   
+256
+	INAHJMBO_00637	CDS	COG1064	142770	143867	-	[R] Zn-dependent alcohol dehydrogenases   
+	INAHJMBO_00638	CDS	COG0450	144075	144671	-	[O] Peroxiredoxin     
+257
+	INAHJMBO_00639	CDS	COG2350	144864	145166	+	[S] Uncharacterized protein conserved in bacteria 
+	INAHJMBO_00640	CDS	COG0586	145183	145857	+	[S] Uncharacterized membrane-associated protein   
+	INAHJMBO_00641	CDS	COG0284	145860	146675	+	[F] Orotidine-5'-phosphate decarboxylase    
+	INAHJMBO_00642	CDS	COG0414	146672	147520	+	[H] Panthothenate synthetase    
+	INAHJMBO_00643	CDS	ROG2196	147531	148793	+	NA
+258
+	INAHJMBO_00644	CDS	COG0370	148865	151033	+	[P] Fe2+ transport system protein B 
+259
+	INAHJMBO_00645	CDS	ROG2801	151861	152061	-	NA
+	INAHJMBO_00646	CDS	COG0158	152077	152925	-	[G] Fructose-1,6-bisphosphatase     
+260
+	INAHJMBO_00647	CDS	COG0036	153056	153694	+	[G] Pentose-5-phosphate-3-epimerase     
+	INAHJMBO_00648	CDS	COG0847	153694	154470	+	[L] DNA polymerase III, epsilon subunit and
+261
+	INAHJMBO_00649	CDS	ROG3767	648	1253	+	NA
+	INAHJMBO_00650	CDS	NA	1264	1692	+	NA
+	INAHJMBO_00651	CDS	NA	1694	2134	+	NA
+	INAHJMBO_00652	CDS	NA	2136	2573	+	NA
+262
+	INAHJMBO_00653	CDS	COG3501	2741	3190	+	[S] Uncharacterized protein conserved in bacteria 
+	INAHJMBO_00654	CDS	COG3501	3159	4226	+	[S] Uncharacterized protein conserved in bacteria 
+263
+	INAHJMBO_00655	CDS	NA	4306	4503	+	NA
+	INAHJMBO_00656	CDS	ROG3639	4490	6268	+	NA
+	INAHJMBO_00657	CDS	NA	6255	6689	+	NA
+	INAHJMBO_00658	CDS	COG3179	6686	7045	+	[R] Predicted chitinase    
+	INAHJMBO_00659	CDS	NA	7055	7747	+	NA
+	INAHJMBO_00660	CDS	COG3179	7747	8124	+	[R] Predicted chitinase    
+	INAHJMBO_00661	CDS	NA	8125	8799	+	NA
+	INAHJMBO_00662	CDS	NA	8796	8990	+	NA
+	INAHJMBO_00663	CDS	NA	8987	9115	+	NA
+264
+	INAHJMBO_00664	CDS	ROG3639	9263	9574	+	NA
+	INAHJMBO_00665	CDS	NA	9574	10056	+	NA
+	INAHJMBO_00666	CDS	NA	10057	10233	+	NA
+265
+	INAHJMBO_00667	CDS	COG0666	10312	10863	+	[R] FOG: Ankyrin repeat   
+	INAHJMBO_00668	CDS	ROG3408	10867	12252	+	NA
+	INAHJMBO_00669	CDS	COG1002	12268	12795	+	[V] Type II restriction enzyme, methylase subunits
+266
+	INAHJMBO_00670	CDS	NA	12862	13377	+	NA
+	INAHJMBO_00671	CDS	NA	13414	13911	+	NA
+267
+	INAHJMBO_00672	CDS	COG0457	14169	14492	+	[R] FOG: TPR repeat   
+268
+	INAHJMBO_00673	CDS	NA	14742	15245	+	NA
+269
+	INAHJMBO_00674	CDS	NA	15430	15879	+	NA
+270
+	INAHJMBO_00675	CDS	NA	16144	17097	+	NA
+271
+	INAHJMBO_00676	CDS	NA	17172	18485	-	NA
+	INAHJMBO_00677	CDS	NA	18499	19866	-	NA
+272
+	INAHJMBO_00678	CDS	COG0212	19933	22155	-	[H] 5-formyltetrahydrofolate cyclo-ligase    
+	INAHJMBO_00679	CDS	NA	22139	22453	-	NA
+	INAHJMBO_00680	CDS	NA	22450	22881	-	NA
+	INAHJMBO_00681	CDS	ROG4006	22884	23615	-	NA
+273
+	INAHJMBO_00682	CDS	COG1161	840	2228	-	[R] Predicted GTPases    
+	INAHJMBO_00683	CDS	NA	2259	2867	-	NA
+274
+	INAHJMBO_00684	CDS	NA	67	252	+	NA
+275
+	INAHJMBO_00685	CDS	NA	340	723	+	NA
+	INAHJMBO_00686	CDS	NA	702	1472	+	NA
+	INAHJMBO_00687	CDS	COG2267	1482	3176	+	[I] Lysophospholipase     
+	INAHJMBO_00688	CDS	NA	3192	5537	+	NA
+	INAHJMBO_00689	CDS	NA	5537	6019	+	NA
+	INAHJMBO_00690	CDS	NA	6016	7065	+	NA
+	INAHJMBO_00691	CDS	NA	7062	7490	+	NA
+	INAHJMBO_00692	CDS	NA	7490	8884	+	NA
+	INAHJMBO_00693	CDS	NA	8881	9321	+	NA
+276
+	INAHJMBO_00694	CDS	NA	9402	9614	+	NA
+	INAHJMBO_00695	CDS	NA	9631	10089	+	NA
+	INAHJMBO_00696	CDS	NA	10086	10286	+	NA
+	INAHJMBO_00697	CDS	NA	10289	10705	+	NA
+	INAHJMBO_00698	CDS	NA	10702	10980	+	NA
+	INAHJMBO_00699	CDS	NA	11012	12424	+	NA
+277
+	INAHJMBO_00700	CDS	NA	12515	12793	+	NA
+	INAHJMBO_00701	CDS	NA	12816	13655	+	NA
+278
+	INAHJMBO_00702	CDS	NA	13906	14088	+	NA
+	INAHJMBO_00703	CDS	NA	14085	14552	+	NA
+	INAHJMBO_00704	CDS	NA	14563	14709	+	NA
+	INAHJMBO_00705	CDS	NA	14720	15211	+	NA
+279
+	INAHJMBO_00706	CDS	NA	15365	15820	+	NA
+	INAHJMBO_00707	CDS	NA	15835	16062	+	NA
+	INAHJMBO_00708	CDS	NA	16059	16400	+	NA
+	INAHJMBO_00709	CDS	NA	16412	16864	+	NA
+	INAHJMBO_00710	CDS	NA	16861	17355	+	NA
+	INAHJMBO_00711	CDS	NA	17352	18695	+	NA
+	INAHJMBO_00712	CDS	NA	18699	19265	+	NA
+	INAHJMBO_00713	CDS	NA	19276	19608	+	NA
+	INAHJMBO_00714	CDS	NA	19622	21289	+	NA
+	INAHJMBO_00715	CDS	NA	21286	21753	+	NA
+	INAHJMBO_00716	CDS	ROG3591	21750	22310	+	NA
+	INAHJMBO_00717	CDS	NA	22307	22777	+	NA
+	INAHJMBO_00718	CDS	NA	22767	25184	+	NA
+280
+	INAHJMBO_00719	CDS	COG0551	25272	25979	+	[L] Zn-finger domain associated with topoisomerase type
+281
+	INAHJMBO_00720	CDS	NA	26237	26488	+	NA
+	INAHJMBO_00721	CDS	NA	26488	26586	+	NA
+	INAHJMBO_00722	CDS	NA	26583	27083	+	NA
+	INAHJMBO_00723	CDS	NA	27080	27211	+	NA
+	INAHJMBO_00724	CDS	NA	27208	27705	+	NA
+	INAHJMBO_00725	CDS	NA	27695	28009	+	NA
+	INAHJMBO_00726	CDS	NA	28070	28576	+	NA
+	INAHJMBO_00727	CDS	COG1841	28573	28671	+	[J] Ribosomal protein L30/L7E   
+	INAHJMBO_00728	CDS	NA	28674	29156	+	NA
+	INAHJMBO_00729	CDS	NA	29159	29650	+	NA
+	INAHJMBO_00730	CDS	COG0596	29674	31011	+	[R] Predicted hydrolases or acyltransferases (alpha/beta hydrolase
+	INAHJMBO_00731	CDS	NA	31022	31702	+	NA
+	INAHJMBO_00732	CDS	ROG1214	31713	31907	+	NA
+282
+	INAHJMBO_00733	CDS	NA	603	911	-	NA
+283
+	INAHJMBO_00734	CDS	NA	1041	1376	-	NA
+284
+	INAHJMBO_00735	CDS	COG2192	1705	1917	+	[O] Predicted carbamoyl transferase, NodU family 
+	INAHJMBO_00736	CDS	COG2192	1874	4105	+	[O] Predicted carbamoyl transferase, NodU family 
+	INAHJMBO_00737	CDS	NA	4092	4469	+	NA
+	INAHJMBO_00738	CDS	ROG0972	4486	5748	+	NA
+	INAHJMBO_00739	CDS	ROG3828	5745	6176	+	NA
+285
+	INAHJMBO_00740	CDS	ROG3078	6353	6634	+	NA
+286
+	INAHJMBO_00741	CDS	COG0817	6649	7128	-	[L] Holliday junction resolvasome, endonuclease subunit 
+287
+	INAHJMBO_00742	CDS	COG0593	7261	8586	+	[L] ATPase involved in DNA replication initiation
+	INAHJMBO_00743	CDS	COG0592	8786	9886	+	[L] DNA polymerase sliding clamp subunit (PCNA
+	INAHJMBO_00744	CDS	COG0187	9969	12287	+	[L] Type IIA topoisomerase (DNA gyrase/topo II,
+	INAHJMBO_00745	CDS	ROG3571	12290	12541	+	NA
+288
+	INAHJMBO_00746	CDS	COG0632	12709	13284	-	[L] Holliday junction resolvasome, DNA-binding subunit 
+	INAHJMBO_00747	CDS	ROG2924	13284	15143	-	NA
+289
+	INAHJMBO_00748	CDS	COG0728	15207	16652	+	[R] Uncharacterized membrane protein, putative virulence factor
+	INAHJMBO_00749	CDS	COG0215	16682	18121	+	[J] Cysteinyl-tRNA synthetase    
+290
+	INAHJMBO_00750	tRNA	NA	18191	18266	-	NA
+291
+	INAHJMBO_00751	CDS	COG4461	18511	19194	+	[S] Uncharacterized protein conserved in bacteria, putative
+	INAHJMBO_00752	CDS	COG0344	19222	19878	+	[S] Predicted membrane protein   
+	INAHJMBO_00753	CDS	COG1539	19897	20277	+	[H] Dihydroneopterin aldolase    
+	INAHJMBO_00754	CDS	COG0463	20274	21485	+	[M] Glycosyltransferases involved in cell wall biogenesis
+292
+	INAHJMBO_00755	CDS	COG3399	21601	22044	-	[S] Uncharacterized protein conserved in bacteria 
+293
+	INAHJMBO_00756	CDS	ROG2104	22551	23090	-	NA
+294
+	INAHJMBO_00757	CDS	COG1638	23310	24335	+	[G] TRAP-type C4-dicarboxylate transport system, periplasmic component
+	INAHJMBO_00758	CDS	COG3090	24353	24973	+	[G] TRAP-type C4-dicarboxylate transport system, small permease
+	INAHJMBO_00759	CDS	COG1942	24976	25188	+	[R] Uncharacterized protein, 4-oxalocrotonate tautomerase homolog 
+	INAHJMBO_00760	CDS	COG1593	25185	26480	+	[G] TRAP-type C4-dicarboxylate transport system, large permease
+295
+	INAHJMBO_00761	CDS	COG0407	26551	27585	+	[H] Uroporphyrinogen-III decarboxylase    
+	INAHJMBO_00762	CDS	COG0696	27606	29087	+	[G] Phosphoglyceromutase     
+296
+	INAHJMBO_00763	CDS	COG2064	29274	30878	-	[NU] Flp pilus assembly protein TadC 
+297
+	INAHJMBO_00764	CDS	COG2217	31272	32489	-	[P] Cation transport ATPase   
+	INAHJMBO_00765	CDS	COG2217	32489	33688	-	[P] Cation transport ATPase   
+	INAHJMBO_00766	CDS	COG0671	33698	34435	-	[I] Membrane-associated phospholipid phosphatase   
+298
+	INAHJMBO_00767	CDS	COG0673	34498	35487	-	[R] Predicted dehydrogenases and related proteins 
+299
+	INAHJMBO_00768	CDS	COG0621	35552	37312	-	[J] 2-methylthioadenine synthetase    
+	INAHJMBO_00769	CDS	COG0075	37312	38421	-	[E] Serine-pyruvate aminotransferase/archaeal aspartate aminotransferase  
+300
+	INAHJMBO_00770	CDS	COG3338	38585	39331	+	[P] Carbonic anhydrase    
+301
+	INAHJMBO_00771	CDS	COG0352	39422	40201	+	[H] Thiamine monophosphate synthase   
+302
+	INAHJMBO_00772	CDS	COG0668	40372	42021	+	[M] Small-conductance mechanosensitive channel   
+	INAHJMBO_00773	CDS	COG0621	42014	43273	+	[J] 2-methylthioadenine synthetase    
+	INAHJMBO_00774	CDS	COG0465	43260	44927	+	[O] ATP-dependent Zn proteases   
+303
+	INAHJMBO_00775	CDS	COG1742	45127	45453	-	[S] Uncharacterized conserved protein   
+	INAHJMBO_00776	CDS	COG0708	45453	46211	-	[L] Exonuclease III    
+304
+	INAHJMBO_00777	tRNA	NA	46582	46657	+	NA
+305
+	INAHJMBO_00778	CDS	NA	46769	47068	+	NA
+306
+	INAHJMBO_00779	CDS	NA	47141	47428	+	NA
+	INAHJMBO_00780	CDS	NA	47445	47573	+	NA
+307
+	INAHJMBO_00781	CDS	COG1340	47605	47844	-	[S] Uncharacterized archaeal coiled-coil protein  
+	INAHJMBO_00782	CDS	COG0794	47867	48832	-	[M] Predicted sugar phosphate isomerase involved in
+	INAHJMBO_00783	CDS	COG0595	48843	50795	-	[R] Predicted hydrolase of the metallo-beta-lactamase superfamily
+	INAHJMBO_00784	CDS	COG0030	50798	51595	-	[J] Dimethyladenosine transferase (rRNA methylation)  
+308
+	INAHJMBO_00785	CDS	COG0107	51694	52485	+	[E] Imidazoleglycerol-phosphate synthase    
+	INAHJMBO_00786	CDS	ROG1355	52487	53044	+	NA
+	INAHJMBO_00787	CDS	COG0820	53022	54137	+	[R] Predicted Fe-S-cluster redox enzyme  
+	INAHJMBO_00788	CDS	COG1580	54139	54240	+	[N] Flagellar basal body-associated protein  
+	INAHJMBO_00789	CDS	COG1636	54240	55406	+	[S] Uncharacterized protein conserved in bacteria 
+309
+	INAHJMBO_00790	CDS	COG0764	55609	56076	+	[I] 3-hydroxymyristoyl/3-hydroxydecanoyl-(acyl carrier protein) dehydratases  
+	INAHJMBO_00791	CDS	COG1043	56076	56873	+	[M] Acyl-[acyl carrier protein]--UDP-N-acetylglucosamine O-acyltransferase  
+	INAHJMBO_00792	CDS	COG1219	56866	58188	+	[O] ATP-dependent protease Clp, ATPase subunit 
+	INAHJMBO_00793	CDS	COG1077	58190	59233	+	[D] Actin-like ATPase involved in cell morphogenesis
+	INAHJMBO_00794	CDS	COG1792	59248	60060	+	[M] Cell shape-determining protein   
+	INAHJMBO_00795	CDS	ROG7341	60064	62235	+	NA
+	INAHJMBO_00796	CDS	NA	62264	62656	+	NA
+	INAHJMBO_00797	CDS	NA	62669	63109	+	NA
+310
+	INAHJMBO_00798	CDS	NA	63476	64009	+	NA
+311
+	INAHJMBO_00799	CDS	NA	64291	65262	+	NA
+312
+	INAHJMBO_00800	CDS	COG3384	65436	66236	-	[S] Uncharacterized conserved protein   
+313
+	INAHJMBO_00801	CDS	COG0789	66477	66656	+	[K] Predicted transcriptional regulators   
+	INAHJMBO_00802	CDS	NA	66653	66877	+	NA
+	INAHJMBO_00803	CDS	COG0656	66887	67645	+	[R] Aldo/keto reductases, related to diketogulonate reductase
+314
+	INAHJMBO_00804	CDS	NA	67647	67805	-	NA
+315
+	INAHJMBO_00805	CDS	COG1741	67916	68752	-	[R] Pirin-related protein    
+316
+	INAHJMBO_00806	CDS	COG0286	68821	69078	-	[V] Type I restriction-modification system methyltransferase subunit
+	INAHJMBO_00807	CDS	COG0286	69211	69456	-	[V] Type I restriction-modification system methyltransferase subunit
+317
+	INAHJMBO_00808	CDS	COG0610	69804	70058	+	[V] Type I site-specific restriction-modification system, R
+	INAHJMBO_00809	CDS	COG0610	70229	71050	+	[V] Type I site-specific restriction-modification system, R
+	INAHJMBO_00810	CDS	COG0732	71357	71908	+	[V] Restriction endonuclease S subunits  
+318
+	INAHJMBO_00811	CDS	COG3077	71988	72254	+	[L] DNA-damage-inducible protein J   
+	INAHJMBO_00812	CDS	COG3041	72292	72486	+	[S] Uncharacterized protein conserved in bacteria 
+319
+	INAHJMBO_00813	CDS	COG2220	72645	73838	-	[R] Predicted Zn-dependent hydrolases of the beta-lactamase
+320
+	INAHJMBO_00814	CDS	COG3969	73972	75714	+	[R] Predicted phosphoadenosine phosphosulfate sulfotransferase  
+	INAHJMBO_00815	CDS	COG0419	75720	77726	+	[L] ATPase involved in DNA repair 
+	INAHJMBO_00816	CDS	COG1674	77736	79250	+	[D] DNA segregation ATPase FtsK/SpoIIIE and related
+321
+	INAHJMBO_00817	CDS	NA	79452	79556	-	NA
+322
+	INAHJMBO_00818	CDS	ROG1360	79645	79902	-	NA
+	INAHJMBO_00819	CDS	ROG1360	79902	80699	-	NA
+323
+	INAHJMBO_00820	CDS	COG3202	81024	81392	-	[C] ATP/ADP translocase    
+324
+	INAHJMBO_00821	CDS	NA	81612	82022	-	NA
+325
+	INAHJMBO_00822	CDS	COG2910	82381	83139	-	[R] Putative NADH-flavin reductase   
+326
+	INAHJMBO_00823	CDS	COG1733	83343	83687	+	[K] Predicted transcriptional regulators   
+327
+	INAHJMBO_00824	CDS	COG2353	83726	84226	-	[S] Uncharacterized conserved protein   
+328
+	INAHJMBO_00825	CDS	COG1917	84399	84983	-	[S] Uncharacterized conserved protein, contains double-stranded beta-helix
+	INAHJMBO_00826	CDS	COG0656	84986	85867	-	[R] Aldo/keto reductases, related to diketogulonate reductase
+329
+	INAHJMBO_00827	CDS	COG0338	86245	87363	+	[L] Site-specific DNA methylase   
+	INAHJMBO_00828	CDS	ROG5618	87353	89224	+	NA
+	INAHJMBO_00829	CDS	COG3392	89187	90281	+	[L] Adenine-specific DNA methylase   
+330
+	INAHJMBO_00830	CDS	COG0110	90504	91064	-	[R] Acetyltransferase (isoleucine patch superfamily)  
+	INAHJMBO_00831	CDS	COG4925	91078	91434	-	[S] Uncharacterized conserved protein   
+331
+	INAHJMBO_00832	CDS	COG0667	91511	92092	-	[C] Predicted oxidoreductases (related to aryl-alcohol dehydrogenases)
+	INAHJMBO_00833	CDS	COG0667	92089	92601	-	[C] Predicted oxidoreductases (related to aryl-alcohol dehydrogenases)
+332
+	INAHJMBO_00834	CDS	COG2249	92777	93007	-	[R] Putative NADPH-quinone reductase (modulator of drug
+	INAHJMBO_00835	CDS	COG0599	93131	93484	-	[S] Uncharacterized homolog of gamma-carboxymuconolactone decarboxylase subunit
+	INAHJMBO_00836	CDS	NA	93503	93919	-	NA
+333
+	INAHJMBO_00837	CDS	COG1064	94285	94779	-	[R] Zn-dependent alcohol dehydrogenases   
+	INAHJMBO_00838	CDS	COG1064	94773	95441	-	[R] Zn-dependent alcohol dehydrogenases   
+	INAHJMBO_00839	CDS	COG3743	95471	95713	-	[S] Uncharacterized conserved protein   
+334
+	INAHJMBO_00840	CDS	COG0859	95795	96808	-	[M] ADP-heptose:LPS heptosyltransferase    
+	INAHJMBO_00841	CDS	NA	96840	97286	-	NA
+335
+	INAHJMBO_00842	CDS	NA	97519	97854	+	NA
+	INAHJMBO_00843	CDS	COG4096	97824	98195	+	[V] Type I site-specific restriction-modification system, R
+336
+	INAHJMBO_00844	CDS	COG0300	98395	99375	+	[R] Short-chain dehydrogenases of various substrate specificities
+337
+	INAHJMBO_00845	CDS	NA	99462	100889	+	NA
+	INAHJMBO_00846	CDS	COG0338	100886	101800	+	[L] Site-specific DNA methylase   
+	INAHJMBO_00847	CDS	COG3392	101781	102863	+	[L] Adenine-specific DNA methylase   
+338
+	INAHJMBO_00848	CDS	NA	102986	104002	+	NA
+	INAHJMBO_00849	CDS	COG0546	104020	104643	+	[R] Predicted phosphatases    
+339
+	INAHJMBO_00850	CDS	COG0270	104804	105271	+	[L] Site-specific DNA methylase   
+	INAHJMBO_00851	CDS	NA	105271	105612	+	NA
+340
+	INAHJMBO_00852	CDS	NA	105722	105919	+	NA
+341
+	INAHJMBO_00853	CDS	COG4123	106030	106953	-	[R] Predicted O-methyltransferase    
+	INAHJMBO_00854	CDS	COG0117	106929	107993	-	[H] Pyrimidine deaminase    
+342
+	INAHJMBO_00855	CDS	COG0168	108228	109568	+	[P] Trk-type K+ transport systems, membrane components
+	INAHJMBO_00856	CDS	COG0569	109565	110209	+	[P] K+ transport systems, NAD-binding component 
+	INAHJMBO_00857	CDS	COG2231	110230	110874	+	[L] Uncharacterized protein related to Endonuclease III
+343
+	INAHJMBO_00858	CDS	COG2195	111286	112827	+	[E] Di- and tripeptidases   
+	INAHJMBO_00859	CDS	NA	112844	113902	+	NA
+344
+	INAHJMBO_00860	CDS	COG0855	114015	116099	+	[P] Polyphosphate kinase    
+	INAHJMBO_00861	CDS	COG0167	116137	117192	+	[F] Dihydroorotate dehydrogenase    
+	INAHJMBO_00862	CDS	COG0612	117189	118487	+	[R] Predicted Zn-dependent peptidases   
+	INAHJMBO_00863	CDS	COG0329	118498	119376	+	[EM] Dihydrodipicolinate synthase/N-acetylneuraminate lyase   
+	INAHJMBO_00864	CDS	COG1028	119373	120173	+	[IQR] Dehydrogenases with different specificities (related to
+345
+	INAHJMBO_00865	CDS	NA	120329	121834	+	NA
+346
+	INAHJMBO_00866	CDS	COG3965	121936	122949	+	[P] Predicted Co/Zn/Cd cation transporters  
+347
+	INAHJMBO_00867	CDS	COG0265	123270	124700	-	[O] Trypsin-like serine proteases, typically periplasmic, contain
+348
+	INAHJMBO_00868	CDS	ROG2295	125057	127774	+	NA
+	INAHJMBO_00869	CDS	COG1858	127830	128915	+	[P] Cytochrome c peroxidase   
+349
+	INAHJMBO_00870	CDS	COG0816	128967	129395	-	[L] Predicted endonuclease involved in recombination (possible
+	INAHJMBO_00871	CDS	COG0758	129404	130210	-	[LU] Predicted Rossmann fold nucleotide-binding protein involved
+	INAHJMBO_00872	CDS	COG2861	130222	131805	-	[S] Uncharacterized protein conserved in bacteria 
+	INAHJMBO_00873	CDS	COG0851	131805	132041	-	[D] Septum formation topological specificity factor 
+	INAHJMBO_00874	CDS	COG2894	132038	132847	-	[D] Septum formation inhibitor-activating ATPase  
+350
+	INAHJMBO_00875	CDS	ROG3796	133015	133701	-	NA
+351
+	INAHJMBO_00876	CDS	ROG1555	133840	134514	-	NA
+352
+	INAHJMBO_00877	CDS	COG1322	134726	136090	-	[S] Uncharacterized protein conserved in bacteria 
+353
+	INAHJMBO_00878	CDS	COG1897	136149	137042	-	[E] Homoserine trans-succinylase    
+	INAHJMBO_00879	CDS	COG2873	137140	138429	-	[E] O-acetylhomoserine sulfhydrylase    
+354
+	INAHJMBO_00880	CDS	ROG1446	138837	139826	-	NA
+	INAHJMBO_00881	CDS	COG1734	139816	140229	-	[T] DnaK suppressor protein   
+	INAHJMBO_00882	CDS	COG1576	140241	140693	-	[S] Uncharacterized conserved protein   
+	INAHJMBO_00883	CDS	COG0777	140659	141540	-	[I] Acetyl-CoA carboxylase beta subunit  
+	INAHJMBO_00884	CDS	COG0483	141587	142315	-	[G] Archaeal fructose-1,6-bisphosphatase and related enzymes of
+	INAHJMBO_00885	CDS	COG0399	142328	143563	-	[M] Predicted pyridoxal phosphate-dependent enzyme apparently involved
+	INAHJMBO_00886	CDS	COG2346	143572	143952	-	[R] Truncated hemoglobins    
+	INAHJMBO_00887	CDS	COG0343	143949	145079	-	[J] Queuine/archaeosine tRNA-ribosyltransferase    
+355
+	INAHJMBO_00888	CDS	COG3400	145121	146572	+	[S] Uncharacterized protein conserved in bacteria 
+	INAHJMBO_00889	CDS	COG0337	146581	147618	+	[E] 3-dehydroquinate synthetase    
+356
+	INAHJMBO_00890	CDS	COG0694	147674	148654	-	[O] Thioredoxin-like proteins and domains  
+	INAHJMBO_00891	CDS	COG0778	148710	149348	-	[C] Nitroreductase     
+	INAHJMBO_00892	CDS	COG1104	149358	150524	-	[E] Cysteine sulfinate desulfinase/cysteine desulfurase and related
+357
+	INAHJMBO_00893	CDS	COG1699	150838	151248	+	[S] Uncharacterized protein conserved in bacteria 
+358
+	INAHJMBO_00894	CDS	COG1121	151453	152304	-	[P] ABC-type Mn/Zn transport systems, ATPase component
+	INAHJMBO_00895	CDS	COG0609	152291	153223	-	[P] ABC-type Fe3+-siderophore transport system, permease component
+	INAHJMBO_00896	CDS	COG0614	153272	154372	-	[P] ABC-type Fe3+-hydroxamate transport system, periplasmic component
+	INAHJMBO_00897	CDS	COG1629	154452	156833	-	[P] Outer membrane receptor proteins, mostly Fe
+359
+	INAHJMBO_00898	CDS	NA	156922	157227	-	NA
+	INAHJMBO_00899	CDS	COG1293	157264	158736	-	[K] Predicted RNA-binding protein homologous to eukaryotic
+	INAHJMBO_00900	CDS	COG0497	158785	160341	-	[L] ATPase involved in DNA repair 
+	INAHJMBO_00901	CDS	COG0061	160338	161186	-	[G] Predicted sugar kinase   
+360
+	INAHJMBO_00902	CDS	ROG3847	161290	163158	-	NA
+	INAHJMBO_00903	CDS	NA	163206	163421	-	NA
+	INAHJMBO_00904	CDS	ROG3255	163441	164217	-	NA
+361
+	INAHJMBO_00905	CDS	COG2079	164988	166442	-	[R] Uncharacterized protein involved in propionate catabolism
+	INAHJMBO_00906	CDS	COG0372	166460	167587	-	[C] Citrate synthase    
+	INAHJMBO_00907	CDS	COG2513	167584	168474	-	[G] PEP phosphonomutase and related enzymes 
+	INAHJMBO_00908	CDS	COG0365	168699	170609	-	[I] Acyl-coenzyme A synthetases/AMP-(fatty) acid ligases 
+362
+	INAHJMBO_00909	CDS	NA	170891	171718	+	NA
+	INAHJMBO_00910	CDS	NA	171718	171816	+	NA
+363
+	INAHJMBO_00911	CDS	COG1344	172348	173886	-	[N] Flagellin and related hook-associated proteins 
+364
+	INAHJMBO_00912	CDS	COG1502	174102	175649	+	[I] Phosphatidylserine/phosphatidylglycerophosphate/cardiolipin synthases and related enzymes 
+365
+	INAHJMBO_00913	CDS	COG1164	175799	177616	+	[E] Oligoendopeptidase F    
+	INAHJMBO_00914	CDS	ROG1425	177606	178106	+	NA
+	INAHJMBO_00915	CDS	COG0464	178119	179843	+	[O] ATPases of the AAA+ class 
+	INAHJMBO_00916	CDS	COG0692	179849	180559	+	[L] Uracil DNA glycosylase   
+366
+	INAHJMBO_00917	CDS	COG2314	181009	181260	+	[S] Predicted membrane protein   
+	INAHJMBO_00918	CDS	NA	181319	181423	+	NA
+	INAHJMBO_00919	CDS	ROG5835	181427	181732	+	NA
+	INAHJMBO_00920	CDS	NA	181748	182497	+	NA
+367
+	INAHJMBO_00921	CDS	NA	183209	183934	-	NA
+	INAHJMBO_00922	CDS	COG0768	183931	185703	-	[M] Cell division protein FtsI/penicillin-binding protein 2
+	INAHJMBO_00923	CDS	COG1677	185715	186020	-	[NU] Flagellar hook-basal body protein  
+	INAHJMBO_00924	CDS	COG1558	186065	186559	-	[N] Flagellar basal body rod protein 
+	INAHJMBO_00925	CDS	COG1815	186570	187016	-	[N] Flagellar basal body protein  
+	INAHJMBO_00926	tRNA	NA	187067	187142	-	NA
+	INAHJMBO_00927	CDS	ROG2428	187180	188106	-	NA
+	INAHJMBO_00928	CDS	ROG2275	188129	188671	-	NA
+	INAHJMBO_00929	CDS	COG0112	188703	189953	-	[E] Glycine/serine hydroxymethyltransferase    
+	INAHJMBO_00930	CDS	COG1190	189950	191572	-	[J] Lysyl-tRNA synthetase (class II)  
+	INAHJMBO_00931	CDS	COG1286	191579	192193	-	[R] Uncharacterized membrane protein, required for colicin
+368
+	INAHJMBO_00932	CDS	COG0815	192273	193904	+	[M] Apolipoprotein N-acyltransferase    
+	INAHJMBO_00933	CDS	COG4181	193904	194548	+	[Q] Predicted ABC-type transport system involved in
+369
+	INAHJMBO_00934	CDS	COG0771	194662	196290	-	[M] UDP-N-acetylmuramoylalanine-D-glutamate ligase    
+	INAHJMBO_00935	CDS	COG0472	196290	197354	-	[M] UDP-N-acetylmuramyl pentapeptide phosphotransferase/UDP-N-acetylglucosamine-1-phosphate transferase  
+370
+	INAHJMBO_00936	CDS	ROG1476	197967	198893	+	NA
+	INAHJMBO_00937	CDS	COG3307	198906	200324	+	[M] Lipid A core - O-antigen ligase
+	INAHJMBO_00938	CDS	COG0463	200317	201393	+	[M] Glycosyltransferases involved in cell wall biogenesis
+	INAHJMBO_00939	CDS	COG3077	201413	201619	+	[L] DNA-damage-inducible protein J   
+	INAHJMBO_00940	CDS	COG0463	201619	202950	+	[M] Glycosyltransferases involved in cell wall biogenesis
+	INAHJMBO_00941	CDS	COG0438	202947	205466	+	[M] Glycosyltransferase     
+	INAHJMBO_00942	CDS	ROG1617	205528	206556	+	NA
+371
+	INAHJMBO_00943	CDS	COG0562	206793	207890	+	[M] UDP-galactopyranose mutase    
+372
+	INAHJMBO_00944	CDS	ROG1722	208390	209379	+	NA
+373
+	INAHJMBO_00945	CDS	COG3581	209490	210932	-	[S] Uncharacterized protein conserved in bacteria 
+	INAHJMBO_00946	CDS	COG1924	210966	214052	-	[I] Activator of 2-hydroxyglutaryl-CoA dehydratase (HSP70-class ATPase
+374
+	INAHJMBO_00947	CDS	COG0840	214317	216080	+	[NT] Methyl-accepting chemotaxis protein   
+375
+	INAHJMBO_00948	CDS	COG0031	216753	217652	-	[E] Cysteine synthase    
+376
+	INAHJMBO_00949	CDS	COG0753	217871	219304	-	[P] Catalase     
+377
+	INAHJMBO_00950	CDS	COG0422	219470	220831	+	[H] Thiamine biosynthesis protein ThiC  
+378
+	INAHJMBO_00951	CDS	COG2604	221194	223137	+	[S] Uncharacterized protein conserved in bacteria 
+379
+	INAHJMBO_00952	CDS	COG2337	223234	223554	-	[T] Growth inhibitor    
+	INAHJMBO_00953	CDS	ROG5757	223551	223802	-	NA
+380
+	INAHJMBO_00954	CDS	COG0015	223983	225314	+	[F] Adenylosuccinate lyase    
+381
+	INAHJMBO_00955	CDS	NA	225429	226865	-	NA
+382
+	INAHJMBO_00956	CDS	ROG1853	64	420	+	NA
+	INAHJMBO_00957	CDS	COG0531	417	1739	+	[E] Amino acid transporters   
+383
+	INAHJMBO_00958	CDS	COG1749	1984	4134	+	[N] Flagellar hook protein FlgE  
+384
+	INAHJMBO_00959	CDS	ROG2141	4336	5091	-	NA
+	INAHJMBO_00960	CDS	COG4555	5085	5783	-	[CP] ABC-type Na+ transport system, ATPase component
+385
+	INAHJMBO_00961	CDS	NA	6170	6388	-	NA
+	INAHJMBO_00962	CDS	COG1516	6372	6752	-	[NUO] Flagellin-specific chaperone FliS   
+	INAHJMBO_00963	CDS	COG1345	6763	8790	-	[N] Flagellar capping protein   
+	INAHJMBO_00964	CDS	COG1334	8828	9211	-	[N] Uncharacterized flagellar protein FlaG  
+	INAHJMBO_00965	CDS	ROG5417	9273	10556	-	NA
+	INAHJMBO_00966	CDS	ROG1600	10556	11365	-	NA
+	INAHJMBO_00967	CDS	COG2884	11352	12026	-	[D] Predicted ATPase involved in cell division
+	INAHJMBO_00968	CDS	COG0220	12023	13240	-	[R] Predicted S-adenosylmethionine-dependent methyltransferase   
+	INAHJMBO_00969	CDS	COG3401	13241	14476	-	[R] Fibronectin type 3 domain-containing protein 
+	INAHJMBO_00970	CDS	COG0564	14433	15545	-	[J] Pseudouridylate synthases, 23S RNA-specific  
+386
+	INAHJMBO_00971	CDS	COG0772	15590	16768	+	[D] Bacterial cell division membrane protein 
+387
+	INAHJMBO_00972	tRNA	NA	16846	16922	+	NA
+388
+	INAHJMBO_00973	CDS	ROG4983	17939	19363	-	NA
+389
+	INAHJMBO_00974	CDS	COG0381	19471	20577	+	[M] UDP-N-acetylglucosamine 2-epimerase    
+	INAHJMBO_00975	CDS	COG0673	20609	21571	+	[R] Predicted dehydrogenases and related proteins 
+390
+	INAHJMBO_00976	CDS	COG0834	21681	22508	+	[ET] ABC-type amino acid transport/signal transduction systems,
+	INAHJMBO_00977	CDS	COG0626	22546	23709	+	[E] Cystathionine beta-lyases/cystathionine gamma-synthases   
+	INAHJMBO_00978	CDS	COG0031	23717	24622	+	[E] Cysteine synthase    
+	INAHJMBO_00979	CDS	COG1408	24631	25785	+	[R] Predicted phosphohydrolases    
+	INAHJMBO_00980	CDS	COG1981	25795	26238	+	[S] Predicted membrane protein   
+	INAHJMBO_00981	CDS	COG0165	26248	27696	+	[E] Argininosuccinate lyase    
+	INAHJMBO_00982	CDS	COG2226	27719	28432	+	[H] Methylase involved in ubiquinone/menaquinone biosynthesis 
+391
+	INAHJMBO_00983	CDS	COG0253	28415	29269	-	[E] Diaminopimelate epimerase    
+392
+	INAHJMBO_00984	CDS	COG2318	29358	29870	+	[S] Uncharacterized protein conserved in bacteria 
+	INAHJMBO_00985	CDS	NA	29870	30904	+	NA
+393
+	INAHJMBO_00986	CDS	COG0779	31547	32014	-	[S] Uncharacterized protein conserved in bacteria 
+	INAHJMBO_00987	CDS	COG0858	32030	32422	-	[J] Ribosome-binding factor A   
+	INAHJMBO_00988	CDS	COG0532	32438	34171	-	[J] Translation initiation factor 2 (IF-2; GTPase)
+	INAHJMBO_00989	CDS	ROG0195	34207	35085	-	NA
+	INAHJMBO_00990	CDS	COG2740	35073	35330	-	[K] Predicted nucleic-acid-binding protein implicated in transcription
+394
+	INAHJMBO_00991	CDS	ROG2048	35418	36317	-	NA
+	INAHJMBO_00992	CDS	COG1159	36327	37232	-	[R] GTPase     
+395
+	INAHJMBO_00993	CDS	COG1220	37287	38612	-	[O] ATP-dependent protease HslVU (ClpYQ), ATPase subunit
+	INAHJMBO_00994	CDS	COG5405	38708	39256	-	[O] ATP-dependent protease HslVU (ClpYQ), peptidase subunit
+	INAHJMBO_00995	CDS	COG0359	39263	39706	-	[J] Ribosomal protein L9   
+396
+	INAHJMBO_00996	CDS	COG1451	39756	40439	+	[R] Predicted metal-dependent hydrolase   
+397
+	INAHJMBO_00997	CDS	NA	40704	41024	-	NA
+	INAHJMBO_00998	CDS	COG0330	41043	41867	-	[O] Membrane protease subunits, stomatin/prohibitin homologs 
+	INAHJMBO_00999	CDS	COG4237	41904	42086	-	[C] Hydrogenase 4 membrane component (E) 
+398
+	INAHJMBO_01000	CDS	COG0451	42442	43359	-	[MG] Nucleoside-diphosphate-sugar epimerases    
+399
+	INAHJMBO_01001	CDS	NA	43704	44096	-	NA
+400
+	INAHJMBO_01002	CDS	COG1794	44633	45316	-	[M] Aspartate racemase    
+401
+	INAHJMBO_01003	CDS	COG1262	45725	46009	-	[S] Uncharacterized conserved protein   
+402
+	INAHJMBO_01004	CDS	COG0474	46405	49188	-	[P] Cation transport ATPase   
+403
+	INAHJMBO_01005	CDS	COG2265	49460	50836	-	[J] SAM-dependent methyltransferases related to tRNA (uracil-5-)-methyltransferase
+404
+	INAHJMBO_01006	CDS	COG0326	51323	53182	+	[O] Molecular chaperone, HSP90 family  
+405
+	INAHJMBO_01007	CDS	COG1757	53461	54999	-	[C] Na+/H+ antiporter    
+	INAHJMBO_01008	CDS	NA	55010	55648	-	NA
+406
+	INAHJMBO_01009	CDS	COG0251	55778	56164	+	[J] Putative translation initiation inhibitor, yjgF family
+407
+	INAHJMBO_01010	CDS	COG0261	56278	56592	+	[J] Ribosomal protein L21   
+	INAHJMBO_01011	CDS	COG0211	56602	56859	+	[J] Ribosomal protein L27   
+408
+	INAHJMBO_01012	CDS	COG3184	57063	57569	+	[S] Uncharacterized protein conserved in bacteria 
+	INAHJMBO_01013	CDS	COG0536	57590	58717	+	[R] Predicted GTPase    
+409
+	INAHJMBO_01014	CDS	COG3677	59419	60168	+	[L] Transposase and inactivated derivatives  
+	INAHJMBO_01015	CDS	NA	60191	60790	+	NA
+410
+	INAHJMBO_01016	CDS	COG0840	60868	62010	-	[NT] Methyl-accepting chemotaxis protein   
+	INAHJMBO_01017	CDS	NA	62048	62452	-	NA
+	INAHJMBO_01018	CDS	NA	62437	62709	-	NA
+411
+	INAHJMBO_01019	CDS	COG0463	63339	64316	-	[M] Glycosyltransferases involved in cell wall biogenesis
+412
+	INAHJMBO_01020	CDS	COG1896	64555	65211	-	[R] Predicted hydrolases of HD superfamily 
+413
+	INAHJMBO_01021	CDS	NA	65572	65784	+	NA
+	INAHJMBO_01022	CDS	NA	65781	66140	+	NA
+	INAHJMBO_01023	CDS	NA	66161	66697	+	NA
+414
+	INAHJMBO_01024	CDS	NA	67127	67660	+	NA
+415
+	INAHJMBO_01025	CDS	ROG1853	77	340	+	NA
+416
+	INAHJMBO_01026	CDS	COG1049	700	3273	-	[C] Aconitase B    
+417
+	INAHJMBO_01027	CDS	COG0108	3464	4498	-	[H] 3,4-dihydroxy-2-butanone 4-phosphate synthase   
+418
+	INAHJMBO_01028	tRNA	NA	4640	4714	+	NA
+	INAHJMBO_01029	tRNA	NA	4761	4837	+	NA
+	INAHJMBO_01030	CDS	COG2107	4883	5743	+	[R] Predicted periplasmic solute-binding protein  
+419
+	INAHJMBO_01031	CDS	COG0715	6051	7064	+	[P] ABC-type nitrate/sulfonate/bicarbonate transport systems, periplasmic components
+	INAHJMBO_01032	CDS	COG0600	7351	8121	+	[P] ABC-type nitrate/sulfonate/bicarbonate transport system, permease component
+	INAHJMBO_01033	CDS	COG1116	8118	8882	+	[P] ABC-type nitrate/sulfonate/bicarbonate transport system, ATPase component
+420
+	INAHJMBO_01034	CDS	ROG0989	9003	9539	+	NA
+	INAHJMBO_01035	CDS	COG4024	9541	10653	+	[S] Uncharacterized protein conserved in archaea 
+421
+	INAHJMBO_01036	CDS	NA	10819	10929	+	NA
+422
+	INAHJMBO_01037	CDS	ROG0790	11007	11936	+	NA
+423
+	INAHJMBO_01038	CDS	NA	12428	12652	-	NA
+	INAHJMBO_01039	CDS	NA	12683	12889	-	NA
+424
+	INAHJMBO_01040	CDS	NA	12985	13347	-	NA
+	INAHJMBO_01041	CDS	NA	13385	13723	-	NA
+	INAHJMBO_01042	CDS	COG2217	13729	14205	-	[P] Cation transport ATPase   
+425
+	INAHJMBO_01043	CDS	COG4794	14556	14681	+	[U] Type III secretory pathway, component EscS
+426
+	INAHJMBO_01044	CDS	NA	14747	20086	+	NA
+427
+	INAHJMBO_01045	CDS	COG0343	20150	20770	+	[J] Queuine/archaeosine tRNA-ribosyltransferase    
+428
+	INAHJMBO_01046	CDS	COG1132	20730	21422	-	[V] ABC-type multidrug transport system, ATPase and
+429
+	INAHJMBO_01047	CDS	COG0203	21880	22230	-	[J] Ribosomal protein L17   
+	INAHJMBO_01048	CDS	COG0202	22240	23253	-	[K] DNA-directed RNA polymerase, alpha subunit/40 kD
+	INAHJMBO_01049	CDS	COG0522	23273	23899	-	[J] Ribosomal protein S4 and related proteins
+	INAHJMBO_01050	CDS	COG0100	23909	24298	-	[J] Ribosomal protein S11   
+	INAHJMBO_01051	CDS	COG0099	24308	24673	-	[J] Ribosomal protein S13   
+	INAHJMBO_01052	CDS	COG0361	24895	25113	-	[J] Translation initiation factor 1 (IF-1) 
+	INAHJMBO_01053	CDS	COG0024	25127	25885	-	[J] Methionine aminopeptidase    
+	INAHJMBO_01054	CDS	COG0201	25886	27145	-	[U] Preprotein translocase subunit SecY  
+	INAHJMBO_01055	CDS	COG0200	27155	27598	-	[J] Ribosomal protein L15   
+	INAHJMBO_01056	CDS	COG0098	27620	28060	-	[J] Ribosomal protein S5   
+	INAHJMBO_01057	CDS	COG0256	28070	28426	-	[J] Ribosomal protein L18   
+	INAHJMBO_01058	CDS	COG0097	28439	28975	-	[J] Ribosomal protein L6P/L9E   
+	INAHJMBO_01059	CDS	COG0096	28985	29380	-	[J] Ribosomal protein S8   
+	INAHJMBO_01060	CDS	COG0199	29391	29576	-	[J] Ribosomal protein S14   
+	INAHJMBO_01061	CDS	COG0094	29579	30124	-	[J] Ribosomal protein L5   
+	INAHJMBO_01062	CDS	COG0198	30128	30358	-	[J] Ribosomal protein L24   
+	INAHJMBO_01063	CDS	COG0093	30358	30726	-	[J] Ribosomal protein L14   
+	INAHJMBO_01064	CDS	COG0186	30728	30988	-	[J] Ribosomal protein S17   
+	INAHJMBO_01065	CDS	COG0255	30993	31181	-	[J] Ribosomal protein L29   
+	INAHJMBO_01066	CDS	COG0197	31168	31593	-	[J] Ribosomal protein L16/L10E   
+	INAHJMBO_01067	CDS	COG0092	31599	32303	-	[J] Ribosomal protein S3   
+	INAHJMBO_01068	CDS	COG0091	32306	32842	-	[J] Ribosomal protein L22   
+	INAHJMBO_01069	CDS	COG0185	32852	33133	-	[J] Ribosomal protein S19   
+	INAHJMBO_01070	CDS	COG0090	33143	33970	-	[J] Ribosomal protein L2   
+	INAHJMBO_01071	CDS	COG0089	33984	34265	-	[J] Ribosomal protein L23   
+	INAHJMBO_01072	CDS	COG0088	34266	34895	-	[J] Ribosomal protein L4   
+	INAHJMBO_01073	CDS	COG0087	34913	35491	-	[J] Ribosomal protein L3   
+	INAHJMBO_01074	CDS	COG0051	35524	35838	-	[J] Ribosomal protein S10   
+430
+	INAHJMBO_01075	CDS	COG1373	36160	37221	+	[R] Predicted ATPase (AAA+ superfamily)  
+431
+	INAHJMBO_01076	CDS	COG1739	37241	37840	-	[S] Uncharacterized conserved protein   
+	INAHJMBO_01077	CDS	COG0043	37855	39684	-	[H] 3-polyprenyl-4-hydroxybenzoate decarboxylase and related decarboxylases 
+432
+	INAHJMBO_01078	CDS	COG0325	39946	40683	-	[R] Predicted enzyme with a TIM-barrel fold
+	INAHJMBO_01079	CDS	COG0332	40625	41590	-	[I] 3-oxoacyl-[acyl-carrier-protein] synthase III   
+	INAHJMBO_01080	CDS	COG0416	41618	42610	-	[I] Fatty acid/phospholipid biosynthesis enzyme  
+	INAHJMBO_01081	CDS	COG0333	42636	42785	-	[J] Ribosomal protein L32   
+	INAHJMBO_01082	CDS	ROG1310	42796	43146	-	NA
+	INAHJMBO_01083	CDS	COG0105	43150	43563	-	[F] Nucleoside diphosphate kinase   
+433
+	INAHJMBO_01084	CDS	COG1560	43697	44641	-	[M] Lauroyl/myristoyl acyltransferase    
+434
+	INAHJMBO_01085	CDS	NA	44852	45187	+	NA
+	INAHJMBO_01086	CDS	ROG8270	45244	45759	+	NA
+435
+	INAHJMBO_01087	CDS	COG0859	45716	46792	-	[M] ADP-heptose:LPS heptosyltransferase    
+	INAHJMBO_01088	CDS	COG0248	46789	48252	-	[FP] Exopolyphosphatase     
+	INAHJMBO_01089	CDS	COG1146	48252	48503	-	[C] Ferredoxin     
+436
+	INAHJMBO_01090	CDS	ROG2478	889	1134	-	NA
+437
+	INAHJMBO_01091	CDS	COG0840	1326	3395	+	[NT] Methyl-accepting chemotaxis protein   
+438
+	INAHJMBO_01092	CDS	COG1295	4795	5646	-	[S] Predicted membrane protein   
+439
+	INAHJMBO_01093	CDS	COG2077	5979	6476	-	[O] Peroxiredoxin     
+440
+	INAHJMBO_01094	CDS	COG1875	6562	8010	+	[T] Predicted ATPase related to phosphate starvation-inducible
+441
+	INAHJMBO_01095	CDS	COG0642	8558	9922	-	[T] Signal transduction histidine kinase  
+	INAHJMBO_01096	CDS	COG0745	9906	10580	-	[TK] Response regulators consisting of a CheY-like
+442
+	INAHJMBO_01097	CDS	NA	10914	11429	-	NA
+443
+	INAHJMBO_01098	CDS	ROG1519	11593	11850	-	NA
+	INAHJMBO_01099	CDS	COG0824	11847	12290	-	[R] Predicted thioesterase    
+444
+	INAHJMBO_01100	CDS	NA	12356	12544	-	NA
+	INAHJMBO_01101	CDS	NA	12541	13137	-	NA
+445
+	INAHJMBO_01102	CDS	ROG3899	13208	13414	-	NA
+	INAHJMBO_01103	CDS	COG3980	13453	14493	-	[M] Spore coat polysaccharide biosynthesis protein, predicted
+	INAHJMBO_01104	CDS	COG1083	14490	15236	-	[M] CMP-N-acetylneuraminic acid synthetase   
+	INAHJMBO_01105	CDS	COG2063	15268	15981	-	[N] Flagellar basal body L-ring protein 
+446
+	INAHJMBO_01106	CDS	COG1610	16069	16512	+	[S] Uncharacterized conserved protein   
+	INAHJMBO_01107	CDS	COG2996	16512	17456	+	[S] Uncharacterized protein conserved in bacteria 
+447
+	INAHJMBO_01108	CDS	COG4221	17853	18605	+	[R] Short-chain alcohol dehydrogenase of unknown specificity
+448
+	INAHJMBO_01109	CDS	NA	18699	20327	-	NA
+	INAHJMBO_01110	CDS	ROG8106	20327	21337	-	NA
+	INAHJMBO_01111	CDS	COG0500	21365	21865	-	[QR] SAM-dependent methyltransferases    
+	INAHJMBO_01112	CDS	COG0500	21867	22181	-	[QR] SAM-dependent methyltransferases    
+	INAHJMBO_01113	CDS	COG0859	22178	23404	-	[M] ADP-heptose:LPS heptosyltransferase    
+449
+	INAHJMBO_01114	CDS	COG1089	23637	25946	-	[M] GDP-D-mannose dehydratase    
+	INAHJMBO_01115	CDS	COG0438	25934	26392	-	[M] Glycosyltransferase     
+	INAHJMBO_01116	CDS	COG0438	26653	27960	-	[M] Glycosyltransferase     
+450
+	INAHJMBO_01117	CDS	COG4786	28035	28823	-	[N] Flagellar basal body rod protein 
+451
+	INAHJMBO_01118	CDS	COG4105	29026	29670	+	[R] DNA uptake lipoprotein   
+	INAHJMBO_01119	CDS	COG0466	29680	32169	+	[O] ATP-dependent Lon protease, bacterial type 
+452
+	INAHJMBO_01120	CDS	NA	32298	33290	+	NA
+453
+	INAHJMBO_01121	CDS	ROG0414	33408	34367	-	NA
+	INAHJMBO_01122	CDS	ROG0414	34510	35172	-	NA
+454
+	INAHJMBO_01123	CDS	NA	109	777	-	NA
+	INAHJMBO_01124	CDS	COG1058	774	3251	-	[R] Predicted nucleotide-utilizing enzyme related to molybdopterin-biosynthesis
+	INAHJMBO_01125	CDS	NA	3268	3909	-	NA
+455
+	INAHJMBO_01126	CDS	NA	780	1496	-	NA
+456
+	INAHJMBO_01127	CDS	COG2173	1759	2430	-	[M] D-alanyl-D-alanine dipeptidase    
+	INAHJMBO_01128	CDS	NA	2437	2880	-	NA
+	INAHJMBO_01129	CDS	NA	2924	3385	-	NA
+457
+	INAHJMBO_01130	CDS	NA	3549	4550	-	NA
+458
+	INAHJMBO_01131	CDS	NA	4646	5053	-	NA
+	INAHJMBO_01132	CDS	NA	5066	5842	-	NA
+	INAHJMBO_01133	CDS	NA	5842	6567	-	NA
+	INAHJMBO_01134	CDS	NA	6575	7003	-	NA
+	INAHJMBO_01135	CDS	NA	7000	7758	-	NA
+	INAHJMBO_01136	CDS	NA	7762	7980	-	NA
+459
+	INAHJMBO_01137	CDS	COG4632	8137	8667	-	[G] Exopolysaccharide biosynthesis protein related to N-acetylglucosamine-1-phosphodiester
+	INAHJMBO_01138	CDS	COG0790	8679	9932	-	[R] FOG: TPR repeat, SEL1 subfamily 
+	INAHJMBO_01139	CDS	COG3034	10065	10655	-	[S] Uncharacterized protein conserved in bacteria 
+	INAHJMBO_01140	CDS	NA	10666	11715	-	NA
+460
+	INAHJMBO_01141	CDS	COG4208	11784	12593	-	[P] ABC-type sulfate transport system, permease component
+	INAHJMBO_01142	CDS	COG0555	12620	13468	-	[O] ABC-type sulfate transport system, permease component
+	INAHJMBO_01143	CDS	COG4706	13465	13971	-	[I] Predicted 3-hydroxylacyl-(acyl carrier protein) dehydratase 
+	INAHJMBO_01144	CDS	COG3846	13991	14485	-	[U] Type IV secretory pathway, TrbL components
+	INAHJMBO_01145	CDS	COG3451	14478	15287	-	[U] Type IV secretory pathway, VirB4 components
+	INAHJMBO_01146	CDS	COG3451	15274	15516	-	[U] Type IV secretory pathway, VirB4 components
+	INAHJMBO_01147	CDS	COG3451	15525	16583	-	[U] Type IV secretory pathway, VirB4 components
+	INAHJMBO_01148	CDS	COG3451	16580	16819	-	[U] Type IV secretory pathway, VirB4 components
+461
+	INAHJMBO_01149	CDS	ROG4687	17106	17411	-	NA
+	INAHJMBO_01150	CDS	ROG7204	17356	17952	-	NA
+462
+	INAHJMBO_01151	CDS	NA	18253	18744	+	NA
+463
+	INAHJMBO_01152	CDS	COG3298	18784	19584	-	[L] Predicted 3'-5' exonuclease related to the
+	INAHJMBO_01153	CDS	COG2860	19615	20238	-	[S] Predicted membrane protein   
+464
+	INAHJMBO_01154	CDS	COG0008	20337	21719	+	[J] Glutamyl- and glutaminyl-tRNA synthetases  
+465
+	INAHJMBO_01155	CDS	COG0706	21990	24821	-	[U] Preprotein translocase subunit YidC  
+	INAHJMBO_01156	CDS	COG1887	24814	26256	-	[M] Putative glycosyl/glycerophosphate transferases involved in teichoic
+466
+	INAHJMBO_01157	CDS	COG0573	26793	27686	+	[P] ABC-type phosphate transport system, permease component
+	INAHJMBO_01158	CDS	COG0581	27683	28567	+	[P] ABC-type phosphate transport system, permease component
+	INAHJMBO_01159	CDS	COG1117	28590	29342	+	[P] ABC-type phosphate transport system, ATPase component
+	INAHJMBO_01160	CDS	COG0704	29342	29989	+	[P] Phosphate uptake regulator   
+	INAHJMBO_01161	CDS	COG0745	30104	30778	+	[TK] Response regulators consisting of a CheY-like
+467
+	INAHJMBO_01162	CDS	NA	3786	4211	-	NA
+	INAHJMBO_01163	CDS	NA	4221	4442	-	NA
+	INAHJMBO_01164	CDS	COG0819	4468	5415	-	[K] Putative transcription activator   
+	INAHJMBO_01165	CDS	NA	5412	5834	-	NA
+	INAHJMBO_01166	CDS	NA	5813	6067	-	NA
+	INAHJMBO_01167	CDS	NA	6097	6480	-	NA
+	INAHJMBO_01168	CDS	NA	6467	6886	-	NA
+	INAHJMBO_01169	CDS	NA	6888	7298	-	NA
+	INAHJMBO_01170	CDS	NA	7302	7436	-	NA
+	INAHJMBO_01171	CDS	NA	7426	7785	-	NA
+	INAHJMBO_01172	CDS	NA	7812	8393	-	NA
+	INAHJMBO_01173	CDS	NA	8366	8824	-	NA
+	INAHJMBO_01174	CDS	NA	8821	9549	-	NA
+	INAHJMBO_01175	CDS	NA	9549	11372	-	NA
+	INAHJMBO_01176	CDS	NA	11365	12984	-	NA
+	INAHJMBO_01177	CDS	ROG0690	12974	13585	-	NA
+	INAHJMBO_01178	CDS	NA	13575	13850	-	NA
+	INAHJMBO_01179	CDS	NA	13847	14677	-	NA
+	INAHJMBO_01180	CDS	NA	14667	15650	-	NA
+	INAHJMBO_01181	CDS	COG0596	15651	17483	-	[R] Predicted hydrolases or acyltransferases (alpha/beta hydrolase
+	INAHJMBO_01182	CDS	NA	17480	18259	-	NA
+	INAHJMBO_01183	CDS	COG4753	18256	18705	-	[T] Response regulator containing CheY-like receiver domain
+	INAHJMBO_01184	CDS	ROG3760	18696	19757	-	NA
+468
+	INAHJMBO_01185	CDS	NA	60	2348	+	NA
+	INAHJMBO_01186	CDS	NA	2348	2488	+	NA
+469
+	INAHJMBO_01187	CDS	NA	2658	3557	+	NA
+	INAHJMBO_01188	CDS	NA	3532	3954	+	NA
+	INAHJMBO_01189	CDS	ROG1628	3963	4292	+	NA
+	INAHJMBO_01190	CDS	NA	4296	4538	+	NA
+470
+	INAHJMBO_01191	CDS	COG2856	4801	5283	+	[E] Predicted Zn peptidase   
+	INAHJMBO_01192	CDS	NA	5270	5713	+	NA
+471
+	INAHJMBO_01193	CDS	NA	6509	7192	-	NA
+			NA				NA
+472
+	INAHJMBO_01195	CDS	ROG1853	64	456	+	NA
+473
+	INAHJMBO_01196	CDS	COG1408	1006	1968	-	[R] Predicted phosphohydrolases    
+474
+	INAHJMBO_01197	CDS	COG1112	2069	3790	-	[L] Superfamily I DNA and RNA helicases
+	INAHJMBO_01198	CDS	COG0289	3787	4551	-	[E] Dihydrodipicolinate reductase    
+	INAHJMBO_01199	CDS	COG0492	4631	5572	-	[O] Thioredoxin reductase    
+	INAHJMBO_01200	CDS	COG0526	5653	5970	-	[OC] Thiol-disulfide isomerase and thioredoxins  
+475
+	INAHJMBO_01201	CDS	ROG3762	6461	7603	-	NA
+	INAHJMBO_01202	CDS	NA	7636	8724	-	NA
+	INAHJMBO_01203	CDS	COG0193	8724	9632	-	[J] Peptidyl-tRNA hydrolase    
+	INAHJMBO_01204	CDS	COG1825	9682	10218	-	[J] Ribosomal protein L25 (general stress protein
+	INAHJMBO_01205	CDS	COG0176	10393	11415	-	[G] Transaldolase     
+476
+	INAHJMBO_01206	CDS	NA	11634	12659	+	NA
+	INAHJMBO_01207	CDS	COG0484	12680	13795	+	[O] DnaJ-class molecular chaperone with C-terminal Zn
+477
+	INAHJMBO_01208	CDS	COG0399	14375	15487	-	[M] Predicted pyridoxal phosphate-dependent enzyme apparently involved
+	INAHJMBO_01209	CDS	COG4866	15534	16448	-	[S] Uncharacterized conserved protein   
+	INAHJMBO_01210	CDS	COG0077	16508	17590	-	[E] Prephenate dehydratase    
+	INAHJMBO_01211	CDS	COG0019	17592	18905	-	[E] Diaminopimelate decarboxylase    
+478
+	INAHJMBO_01212	CDS	ROG7504	18997	19383	+	NA
+	INAHJMBO_01213	CDS	COG0765	19445	20101	+	[E] ABC-type amino acid transport system, permease
+	INAHJMBO_01214	CDS	COG0765	20121	20777	+	[E] ABC-type amino acid transport system, permease
+	INAHJMBO_01215	CDS	COG1126	20793	21536	+	[E] ABC-type polar amino acid transport system,
+479
+	INAHJMBO_01216	CDS	COG0137	21719	22933	-	[E] Argininosuccinate synthase    
+480
+	INAHJMBO_01217	CDS	COG0834	23121	23888	+	[ET] ABC-type amino acid transport/signal transduction systems,
+	INAHJMBO_01218	CDS	COG0225	23921	24454	+	[O] Peptide methionine sulfoxide reductase  
+	INAHJMBO_01219	CDS	COG1309	24496	25065	+	[K] Transcriptional regulator    
+481
+	INAHJMBO_01220	CDS	COG1044	25617	26081	-	[M] UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase   
+	INAHJMBO_01221	CDS	COG0286	26084	27748	-	[V] Type I restriction-modification system methyltransferase subunit
+482
+	INAHJMBO_01222	CDS	COG0106	27920	28642	+	[E] Phosphoribosylformimino-5-aminoimidazole carboxamide ribonucleotide (ProFAR) isomerase 
+483
+	INAHJMBO_01223	CDS	COG3706	28756	29130	+	[T] Response regulator containing a CheY-like receiver
+	INAHJMBO_01224	CDS	COG2264	29171	30073	+	[J] Ribosomal protein L11 methylase  
+	INAHJMBO_01225	CDS	COG0465	30136	32055	+	[O] ATP-dependent Zn proteases   
+	INAHJMBO_01226	CDS	NA	32108	32707	+	NA
+	INAHJMBO_01227	CDS	COG1183	32704	33444	+	[I] Phosphatidylserine synthase    
+	INAHJMBO_01228	CDS	COG0119	33499	35052	+	[E] Isopropylmalate/homocitrate/citramalate synthases    
+	INAHJMBO_01229	CDS	COG2217	35068	37299	+	[P] Cation transport ATPase   
+	INAHJMBO_01230	CDS	COG2608	37320	37520	+	[P] Copper chaperone    
+	INAHJMBO_01231	CDS	COG1132	37534	39213	+	[V] ABC-type multidrug transport system, ATPase and
+	INAHJMBO_01232	CDS	COG4186	39203	39862	+	[R] Predicted phosphoesterase or phosphohydrolase  
+484
+	INAHJMBO_01233	CDS	COG1987	40036	40302	+	[NU] Flagellar biosynthesis pathway, component FliQ 
+	INAHJMBO_01234	CDS	COG0812	40310	41122	+	[M] UDP-N-acetylmuramate dehydrogenase    
+	INAHJMBO_01235	CDS	COG1314	41165	41569	+	[U] Preprotein translocase subunit SecG  
+	INAHJMBO_01236	CDS	COG0233	41566	42123	+	[J] Ribosome recycling factor   
+	INAHJMBO_01237	CDS	COG0461	42120	42746	+	[F] Orotate phosphoribosyltransferase    
+	INAHJMBO_01238	CDS	COG1714	42774	43286	+	[S] Predicted membrane protein/domain   
+485
+	INAHJMBO_01239	CDS	COG0319	43330	43752	-	[R] Predicted metal-dependent hydrolase   
+486
+	INAHJMBO_01240	CDS	ROG7683	43853	45001	+	NA
+	INAHJMBO_01241	CDS	COG1918	45022	45315	+	[P] Fe2+ transport system protein A 
+	INAHJMBO_01242	CDS	COG0177	45282	45965	+	[L] Predicted EndoIII-related endonuclease   
+487
+	INAHJMBO_01243	CDS	COG1406	46021	46428	+	[N] Predicted inhibitor of MCP methylation, homolog
+	INAHJMBO_01244	CDS	COG1886	46431	46796	+	[NU] Flagellar motor switch/type III secretory pathway
+	INAHJMBO_01245	CDS	ROG3110	46805	47764	+	NA
+	INAHJMBO_01246	CDS	COG0810	47775	48602	+	[M] Periplasmic protein TonB, links inner and
+	INAHJMBO_01247	CDS	COG0418	48612	49652	+	[F] Dihydroorotase     
+488
+	INAHJMBO_01248	CDS	NA	49751	50527	+	NA
+	INAHJMBO_01249	CDS	NA	50573	51118	+	NA
+	INAHJMBO_01250	tRNA	NA	51169	51246	+	NA
+489
+	INAHJMBO_01251	CDS	ROG3130	51532	52410	-	NA
+	INAHJMBO_01252	CDS	ROG0066	52446	54143	-	NA
+490
+	INAHJMBO_01253	CDS	COG0786	54213	55907	-	[E] Na+/glutamate symporter    
+491
+	INAHJMBO_01254	CDS	COG0736	56208	56570	-	[I] Phosphopantetheinyl transferase (holo-ACP synthase)  
+	INAHJMBO_01255	CDS	COG1580	56573	57106	-	[N] Flagellar basal body-associated protein  
+	INAHJMBO_01256	CDS	COG0742	57099	58088	-	[L] N6-adenine-specific methylase    
+	INAHJMBO_01257	CDS	ROG2322	58078	58461	-	NA
+492
+	INAHJMBO_01258	CDS	COG1749	58952	60739	-	[N] Flagellar hook protein FlgE  
+	INAHJMBO_01259	CDS	COG1843	60790	61551	-	[N] Flagellar hook capping protein  
+493
+	INAHJMBO_01260	CDS	ROG4531	61717	63963	-	NA
+494
+	INAHJMBO_01261	CDS	COG0111	64039	65619	-	[HE] Phosphoglycerate dehydrogenase and related dehydrogenases 
+	INAHJMBO_01262	CDS	ROG4735	65640	66107	-	NA
+	INAHJMBO_01263	CDS	COG0539	66129	67775	-	[J] Ribosomal protein S1   
+	INAHJMBO_01264	CDS	COG0761	67850	68680	-	[IM] Penicillin tolerance protein   
+	INAHJMBO_01265	CDS	COG0128	68690	69997	-	[E] 5-enolpyruvylshikimate-3-phosphate synthase    
+	INAHJMBO_01266	CDS	COG0072	70007	72421	-	[J] Phenylalanyl-tRNA synthetase beta subunit  
+	INAHJMBO_01267	CDS	COG0016	72421	73410	-	[J] Phenylalanyl-tRNA synthetase alpha subunit  
+495
+	INAHJMBO_01268	CDS	ROG0285	73540	75375	-	NA
+	INAHJMBO_01269	CDS	COG0334	75376	76728	-	[E] Glutamate dehydrogenase/leucine dehydrogenase   
+496
+	INAHJMBO_01270	CDS	COG0488	76849	78897	-	[R] ATPase components of ABC transporters with
+497
+	INAHJMBO_01271	CDS	COG1427	78996	79733	+	[R] Predicted periplasmic solute-binding protein  
+	INAHJMBO_01272	CDS	COG1466	79755	80756	+	[L] DNA polymerase III, delta subunit 
+498
+	INAHJMBO_01273	CDS	COG0360	80825	81241	+	[J] Ribosomal protein S6   
+	INAHJMBO_01274	CDS	COG0629	81258	81788	+	[L] Single-stranded DNA-binding protein   
+	INAHJMBO_01275	CDS	COG0238	81803	82057	+	[J] Ribosomal protein S18   
+499
+	INAHJMBO_01276	CDS	COG0542	82972	85542	-	[O] ATPases with chaperone activity, ATP-binding subunit
+500
+	INAHJMBO_01277	CDS	COG0793	85784	87148	+	[M] Periplasmic protease    
+	INAHJMBO_01278	CDS	COG0152	87145	87888	+	[F] Phosphoribosylaminoimidazolesuccinocarboxamide (SAICAR) synthase   
+	INAHJMBO_01279	CDS	COG1828	87912	88160	+	[F] Phosphoribosylformylglycinamidine (FGAM) synthase, PurS component 
+	INAHJMBO_01280	CDS	COG0047	88288	88950	+	[F] Phosphoribosylformylglycinamidine (FGAM) synthase, glutamine amidotransferase domain
+	INAHJMBO_01281	CDS	ROG1845	88983	90098	+	NA
+	INAHJMBO_01282	CDS	COG0204	90088	90798	+	[I] 1-acyl-sn-glycerol-3-phosphate acyltransferase    
+501
+	INAHJMBO_01283	tRNA	NA	91044	91119	+	NA
+502
+	INAHJMBO_01284	CDS	NA	91556	91708	+	NA
+	INAHJMBO_01285	CDS	ROG6902	91740	92207	+	NA
+503
+	INAHJMBO_01286	CDS	COG0252	92274	93242	-	[EJ] L-asparaginase/archaeal Glu-tRNAGln amidotransferase subunit D 
+	INAHJMBO_01287	CDS	COG1242	93266	94231	-	[R] Predicted Fe-S oxidoreductase   
+	INAHJMBO_01288	CDS	COG0034	94228	95637	-	[F] Glutamine phosphoribosylpyrophosphate amidotransferase   
+	INAHJMBO_01289	CDS	COG2972	95640	96860	-	[T] Predicted signal transduction protein with a
+	INAHJMBO_01290	CDS	COG0745	96908	97588	-	[TK] Response regulators consisting of a CheY-like
+504
+	INAHJMBO_01291	CDS	ROG5041	97883	98395	-	NA
+	INAHJMBO_01292	CDS	ROG2574	98386	98637	-	NA
+	INAHJMBO_01293	CDS	COG0473	98686	99780	-	[CE] Isocitrate/isopropylmalate dehydrogenase    
+	INAHJMBO_01294	CDS	COG0066	99777	100298	-	[E] 3-isopropylmalate dehydratase small subunit  
+	INAHJMBO_01295	CDS	ROG2063	100355	101287	-	NA
+	INAHJMBO_01296	CDS	COG1639	101287	102147	-	[T] Predicted signal transduction protein  
+505
+	INAHJMBO_01297	CDS	COG0114	102811	104202	-	[C] Fumarase     
+506
+	INAHJMBO_01298	CDS	COG0477	104427	105710	-	[GEPR] Permeases of the major facilitator superfamily
+507
+	INAHJMBO_01299	CDS	COG0735	105869	106213	+	[P] Fe2+/Zn2+ uptake regulation proteins  
+	INAHJMBO_01300	CDS	NA	106213	106479	+	NA
+508
+	INAHJMBO_01301	CDS	COG0037	106442	107554	-	[D] Predicted ATPase of the PP-loop superfamily
+	INAHJMBO_01302	CDS	COG1377	107564	108646	-	[NU] Flagellar biosynthesis pathway, component FlhB 
+	INAHJMBO_01303	CDS	COG1060	108650	109735	-	[HR] Thiamine biosynthesis enzyme ThiH and related
+509
+	INAHJMBO_01304	CDS	COG0666	109789	110634	-	[R] FOG: Ankyrin repeat   
+	INAHJMBO_01305	CDS	COG0537	110631	111125	-	[FGR] Diadenosine tetraphosphate (Ap4A) hydrolase and other
+	INAHJMBO_01306	CDS	COG0770	111134	112609	-	[M] UDP-N-acetylmuramyl pentapeptide synthase   
+	INAHJMBO_01307	CDS	COG1254	112618	113616	-	[C] Acylphosphatases     
+	INAHJMBO_01308	CDS	COG1181	113680	114729	-	[M] D-alanine-D-alanine ligase and related ATP-grasp enzymes
+510
+	INAHJMBO_01309	CDS	COG0475	114833	116032	-	[P] Kef-type K+ transport systems, membrane components
+511
+	INAHJMBO_01310	CDS	COG0299	116111	116743	-	[F] Folate-dependent phosphoribosylglycinamide formyltransferase PurN  
+512
+	INAHJMBO_01311	CDS	COG3887	117013	117180	+	[T] Predicted signaling protein consisting of a
+513
+	INAHJMBO_01312	CDS	COG5373	117439	118137	+	[S] Predicted membrane protein   
+	INAHJMBO_01313	CDS	ROG8152	118127	119278	+	NA
+514
+	INAHJMBO_01314	CDS	NA	119459	119746	+	NA
+	INAHJMBO_01315	CDS	NA	119788	120525	+	NA
+515
+	INAHJMBO_01316	CDS	COG0721	120830	121108	+	[J] Asp-tRNAAsn/Glu-tRNAGln amidotransferase C subunit  
+	INAHJMBO_01317	CDS	COG0178	121111	122523	+	[L] Excinuclease ATPase subunit   
+	INAHJMBO_01318	CDS	COG0178	122505	123932	+	[L] Excinuclease ATPase subunit   
+516
+	INAHJMBO_01319	CDS	COG0002	124021	125073	+	[E] Acetylglutamate semialdehyde dehydrogenase   
+517
+	INAHJMBO_01320	CDS	COG0454	125141	125641	+	[KR] Histone acetyltransferase HPA2 and related acetyltransferases
+	INAHJMBO_01321	CDS	COG1364	125651	126889	+	[E] N-acetylglutamate synthase (N-acetylornithine aminotransferase)  
+	INAHJMBO_01322	CDS	COG0548	126899	127768	+	[E] Acetylglutamate kinase    
+	INAHJMBO_01323	CDS	COG4992	127799	128998	+	[E] Ornithine/acetylornithine aminotransferase    
+	INAHJMBO_01324	CDS	COG0666	129031	129555	+	[R] FOG: Ankyrin repeat   
+518
+	INAHJMBO_01325	CDS	COG0752	129772	130686	+	[J] Glycyl-tRNA synthetase, alpha subunit  
+	INAHJMBO_01326	CDS	COG0327	130714	131445	+	[S] Uncharacterized conserved protein   
+	INAHJMBO_01327	CDS	COG1579	131456	132166	+	[R] Zn-ribbon protein, possibly nucleic acid-binding 
+	INAHJMBO_01328	CDS	COG1519	132108	133373	+	[M] 3-deoxy-D-manno-octulosonic-acid transferase    
+	INAHJMBO_01329	CDS	COG0564	133357	134103	+	[J] Pseudouridylate synthases, 23S RNA-specific  
+519
+	INAHJMBO_01330	CDS	NA	134519	134857	+	NA
+	INAHJMBO_01331	CDS	COG0682	134873	135742	+	[M] Prolipoprotein diacylglyceryltransferase    
+	INAHJMBO_01332	CDS	COG2076	135742	136131	+	[P] Membrane transporters of cations and cationic
+	INAHJMBO_01333	CDS	COG2076	136147	136506	+	[P] Membrane transporters of cations and cationic
+520
+	INAHJMBO_01334	CDS	COG2267	136532	137533	-	[I] Lysophospholipase     
+521
+	INAHJMBO_01335	CDS	COG3610	137811	138386	-	[S] Uncharacterized conserved protein   
+	INAHJMBO_01336	CDS	COG2966	138379	139197	-	[S] Uncharacterized conserved protein   
+522
+	INAHJMBO_01337	CDS	COG0402	139333	140682	+	[FR] Cytosine deaminase and related metal-dependent hydrolases
+523
+	INAHJMBO_01338	CDS	COG4206	140685	142856	-	[H] Outer membrane cobalamin receptor protein 
+524
+	INAHJMBO_01339	CDS	COG0807	143476	144084	-	[H] GTP cyclohydrolase II   
+	INAHJMBO_01340	CDS	ROG2863	144106	144873	-	NA
+	INAHJMBO_01341	CDS	COG1296	144927	145634	-	[E] Predicted branched-chain amino acid permease (azaleucine
+	INAHJMBO_01342	CDS	COG0842	145655	146851	-	[V] ABC-type multidrug transport system, permease component
+	INAHJMBO_01343	CDS	COG0842	146848	147945	-	[V] ABC-type multidrug transport system, permease component
+	INAHJMBO_01344	CDS	COG1566	147961	148962	-	[V] Multidrug resistance efflux pump  
+	INAHJMBO_01345	CDS	ROG5691	148987	150429	-	NA
+525
+	INAHJMBO_01346	CDS	COG3528	150616	151716	-	[S] Uncharacterized protein conserved in bacteria 
+526
+	INAHJMBO_01347	CDS	COG0810	151907	152644	-	[M] Periplasmic protein TonB, links inner and
+	INAHJMBO_01348	CDS	COG0848	152610	152990	-	[U] Biopolymer transport protein   
+	INAHJMBO_01349	CDS	COG0811	152987	153448	-	[U] Biopolymer transport proteins   
+527
+	INAHJMBO_01350	CDS	COG3004	153721	155208	+	[P] Na+/H+ antiporter    
+528
+	INAHJMBO_01351	CDS	NA	155179	155742	-	NA
+	INAHJMBO_01352	CDS	NA	155703	155897	-	NA
+529
+	INAHJMBO_01353	CDS	NA	156148	157584	+	NA
+530
+	INAHJMBO_01354	CDS	COG0272	158090	160054	-	[L] NAD-dependent DNA ligase (contains BRCT domain
+531
+	INAHJMBO_01355	CDS	COG0835	160194	161165	+	[NT] Chemotaxis signal transduction protein  
+	INAHJMBO_01356	CDS	COG0173	161187	162944	+	[J] Aspartyl-tRNA synthetase    
+	INAHJMBO_01357	CDS	COG0563	162989	163561	+	[F] Adenylate kinase and related kinases 
+	INAHJMBO_01358	CDS	COG0221	163571	164089	+	[C] Inorganic pyrophosphatase    
+	INAHJMBO_01359	CDS	COG0353	164108	164716	+	[L] Recombinational DNA repair protein (RecF pathway)
+	INAHJMBO_01360	CDS	NA	164761	164904	+	NA
+	INAHJMBO_01361	CDS	COG0790	164927	166855	+	[R] FOG: TPR repeat, SEL1 subfamily 
+532
+	INAHJMBO_01362	CDS	COG0528	166982	167695	-	[F] Uridylate kinase    
+533
+	INAHJMBO_01363	CDS	COG0242	167874	168419	-	[J] N-formylmethionyl-tRNA deformylase    
+	INAHJMBO_01364	CDS	ROG7159	168416	169501	-	NA
+	INAHJMBO_01365	CDS	COG0740	169541	170128	-	[OU] Protease subunit of ATP-dependent Clp proteases
+	INAHJMBO_01366	CDS	COG0544	170125	171528	-	[O] FKBP-type peptidyl-prolyl cis-trans isomerase (trigger factor)
+534
+	INAHJMBO_01367	CDS	COG1157	171630	172952	+	[NU] Flagellar biosynthesis/type III secretory pathway ATPase
+535
+	INAHJMBO_01368	CDS	ROG4011	173046	174581	+	NA
+	INAHJMBO_01369	CDS	COG4786	174634	175467	+	[N] Flagellar basal body rod protein 
+536
+	INAHJMBO_01370	CDS	COG3306	175740	176381	+	[M] Glycosyltransferase involved in LPS biosynthesis 
+537
+	INAHJMBO_01371	CDS	COG0731	176577	177575	-	[C] Fe-S oxidoreductases    
+	INAHJMBO_01372	CDS	COG0550	177568	179835	-	[L] Topoisomerase IA    
+538
+	INAHJMBO_01373	CDS	COG1344	180101	181645	+	[N] Flagellin and related hook-associated proteins 
+539
+	INAHJMBO_01374	CDS	COG1188	181841	182098	-	[J] Ribosome-associated heat shock protein implicated in
+	INAHJMBO_01375	CDS	ROG1815	182095	182571	-	NA
+540
+	INAHJMBO_01376	CDS	COG0458	182644	185937	-	[EF] Carbamoylphosphate synthase large subunit (split gene
+541
+	INAHJMBO_01377	CDS	COG0471	186024	187508	-	[P] Di- and tricarboxylate transporters  
+542
+	INAHJMBO_01378	CDS	COG0845	187928	189055	+	[M] Membrane-fusion protein    
+	INAHJMBO_01379	CDS	COG0841	189080	192202	+	[V] Cation/multidrug efflux pump   
+543
+	INAHJMBO_01380	CDS	COG1408	192344	193000	-	[R] Predicted phosphohydrolases    
+	INAHJMBO_01381	CDS	NA	193021	193524	-	NA
+544
+	INAHJMBO_01382	CDS	COG1670	193936	194457	+	[J] Acetyltransferases, including N-acetylases of ribosomal proteins
+	INAHJMBO_01383	CDS	COG2089	194536	195621	+	[M] Sialic acid synthase   
+545
+	INAHJMBO_01384	CDS	NA	195895	196011	-	NA
+546
+	INAHJMBO_01385	CDS	COG3307	196099	196329	-	[M] Lipid A core - O-antigen ligase
+547
+	INAHJMBO_01386	CDS	COG0037	196678	197442	-	[D] Predicted ATPase of the PP-loop superfamily
+	INAHJMBO_01387	CDS	COG0477	197452	198828	-	[GEPR] Permeases of the major facilitator superfamily
+548
+	INAHJMBO_01388	CDS	COG0127	198906	199643	+	[F] Xanthosine triphosphate pyrophosphatase   
+	INAHJMBO_01389	CDS	COG2246	199655	200047	+	[S] Predicted membrane protein   
+549
+	INAHJMBO_01390	CDS	COG0463	200085	201074	-	[M] Glycosyltransferases involved in cell wall biogenesis
+	INAHJMBO_01391	CDS	COG0381	201074	203521	-	[M] UDP-N-acetylglucosamine 2-epimerase    
+	INAHJMBO_01392	CDS	COG0463	203461	204516	-	[M] Glycosyltransferases involved in cell wall biogenesis
+550
+	INAHJMBO_01393	CDS	NA	204592	205053	-	NA
+	INAHJMBO_01394	CDS	ROG5230	205113	206030	-	NA
+	INAHJMBO_01395	CDS	COG1216	206027	207025	-	[R] Predicted glycosyltransferases    
+551
+	INAHJMBO_01396	CDS	NA	207108	207302	+	NA
+552
+	INAHJMBO_01397	CDS	COG1351	207380	207988	-	[F] Predicted alternative thymidylate synthase  
+	INAHJMBO_01398	CDS	COG2805	208025	209008	-	[NU] Tfp pilus assembly protein, pilus retraction
+	INAHJMBO_01399	CDS	NA	209008	209358	-	NA
+	INAHJMBO_01400	CDS	ROG2031	209348	209770	-	NA
+	INAHJMBO_01401	CDS	ROG4393	209767	210066	-	NA
+	INAHJMBO_01402	CDS	ROG1871	210098	210808	-	NA
+	INAHJMBO_01403	CDS	ROG1562	210812	211432	-	NA
+	INAHJMBO_01404	CDS	NA	211442	211546	-	NA
+	INAHJMBO_01405	CDS	ROG3139	211557	211757	-	NA
+	INAHJMBO_01406	CDS	COG2010	211768	212643	-	[C] Cytochrome c, mono- and diheme variants
+	INAHJMBO_01407	CDS	COG4736	212643	212858	-	[O] Cbb3-type cytochrome oxidase, subunit 3 
+	INAHJMBO_01408	CDS	COG2993	212882	213574	-	[C] Cbb3-type cytochrome oxidase, cytochrome c subunit
+	INAHJMBO_01409	CDS	COG3278	213585	215051	-	[O] Cbb3-type cytochrome oxidase, subunit 1 
+553
+	INAHJMBO_01410	CDS	ROG5671	215291	216256	-	NA
+	INAHJMBO_01411	CDS	NA	216222	216518	-	NA
+554
+	INAHJMBO_01412	CDS	ROG2002	216766	217836	-	NA
+555
+	INAHJMBO_01413	CDS	COG4716	218098	219870	+	[S] Myosin-crossreactive antigen    
+556
+	INAHJMBO_01414	CDS	COG3421	220259	222835	-	[S] Uncharacterized protein conserved in bacteria 
+	INAHJMBO_01415	CDS	COG2189	222828	223928	-	[L] Adenine specific DNA methylase Mod 
+	INAHJMBO_01416	CDS	COG2189	223979	224764	-	[L] Adenine specific DNA methylase Mod 
+557
+	INAHJMBO_01417	CDS	COG1942	224831	225007	-	[R] Uncharacterized protein, 4-oxalocrotonate tautomerase homolog 
+558
+	INAHJMBO_01418	CDS	COG1966	225232	227382	+	[T] Carbon starvation protein, predicted membrane protein
+	INAHJMBO_01419	CDS	COG2879	227372	227641	+	[S] Uncharacterized small protein   
+559
+	INAHJMBO_01420	CDS	COG0216	227958	229022	-	[J] Protein chain release factor A 
+	INAHJMBO_01421	CDS	COG0268	229061	229333	-	[J] Ribosomal protein S20   
+560
+	INAHJMBO_01422	CDS	COG1109	229437	230774	+	[G] Phosphomannomutase     
+	INAHJMBO_01423	CDS	COG0597	230771	231253	+	[MU] Lipoprotein signal peptidase   
+561
+	INAHJMBO_01424	CDS	COG1324	231671	232210	+	[P] Uncharacterized protein involved in tolerance to
+	INAHJMBO_01425	CDS	NA	232210	232929	+	NA
+562
+	INAHJMBO_01426	CDS	COG1738	233135	233716	+	[S] Uncharacterized conserved protein   
+563
+	INAHJMBO_01427	CDS	COG0840	234066	235265	-	[NT] Methyl-accepting chemotaxis protein   
+564
+	INAHJMBO_01428	CDS	COG1573	235780	236397	-	[L] Uracil-DNA glycosylase    
+	INAHJMBO_01429	CDS	COG1027	236384	237817	-	[E] Aspartate ammonia-lyase    
+565
+	INAHJMBO_01430	CDS	NA	238066	239133	+	NA
+	INAHJMBO_01431	CDS	ROG2339	239109	239408	+	NA
+566
+	INAHJMBO_01432	CDS	COG0556	239740	241716	-	[L] Helicase subunit of the DNA excision
+567
+	INAHJMBO_01433	CDS	ROG7067	241802	242044	+	NA
+	INAHJMBO_01434	CDS	COG1936	242057	242284	+	[F] Predicted nucleotide kinase (related to CMP
+	INAHJMBO_01435	CDS	COG1198	242318	244420	+	[L] Primosomal protein N' (replication factor Y)
+568
+	INAHJMBO_01436	CDS	COG2604	245117	247009	+	[S] Uncharacterized protein conserved in bacteria 
+569
+	INAHJMBO_01437	CDS	COG0760	247095	248558	+	[O] Parvulin-like peptidyl-prolyl isomerase   
+	INAHJMBO_01438	CDS	COG0849	248610	250001	+	[D] Actin-like ATPase involved in cell division
+	INAHJMBO_01439	CDS	COG0206	250016	251173	+	[D] Cell division GTPase   
+	INAHJMBO_01440	CDS	COG0481	251230	253023	+	[M] Membrane GTPase LepA   
+	INAHJMBO_01441	CDS	NA	253082	253453	+	NA
+	INAHJMBO_01442	CDS	NA	253440	253841	+	NA
+570
+	INAHJMBO_01443	CDS	ROG4291	483	2042	+	NA
+571
+	INAHJMBO_01444	CDS	COG4172	2577	4277	-	[R] ABC-type uncharacterized transport system, duplicated ATPase
+	INAHJMBO_01445	CDS	COG4239	4270	5379	-	[R] ABC-type uncharacterized transport system, permease component
+	INAHJMBO_01446	CDS	COG0693	5413	5985	-	[R] Putative intracellular protease/amidase   
+572
+	INAHJMBO_01447	CDS	COG0231	6665	7228	-	[J] Translation elongation factor P (EF-P)/translation initiation
+	INAHJMBO_01448	CDS	COG0191	7452	8375	-	[G] Fructose/tagatose bisphosphate aldolase   
+	INAHJMBO_01449	CDS	COG0760	8387	9238	-	[O] Parvulin-like peptidyl-prolyl isomerase   
+573
+	INAHJMBO_01450	CDS	COG0445	9473	11458	+	[D] NAD/FAD-utilizing enzyme apparently involved in cell
+	INAHJMBO_01451	CDS	COG0624	11468	12622	+	[E] Acetylornithine deacetylase/Succinyl-diaminopimelate desuccinylase and related deacylases
+574
+	INAHJMBO_01452	tRNA	NA	13142	13232	+	NA
+575
+	INAHJMBO_01453	CDS	COG0500	13384	14376	+	[QR] SAM-dependent methyltransferases    
+576
+	INAHJMBO_01454	CDS	COG0331	14849	15790	+	[I] (acyl-carrier-protein) S-malonyltransferase    
+	INAHJMBO_01455	CDS	COG0775	15787	16476	+	[F] Nucleoside phosphorylase    
+577
+	INAHJMBO_01456	CDS	COG2165	16544	16990	+	[NU] Type II secretory pathway, pseudopilin PulG
+	INAHJMBO_01457	CDS	NA	16971	17393	+	NA
+578
+	INAHJMBO_01458	CDS	COG3187	17515	18204	+	[O] Heat shock protein   
+579
+	INAHJMBO_01459	CDS	COG0787	18317	19339	+	[M] Alanine racemase    
+	INAHJMBO_01460	CDS	COG0585	19339	20532	+	[S] Uncharacterized conserved protein   
+	INAHJMBO_01461	CDS	COG0501	20555	21493	+	[O] Zn-dependent protease with chaperone function 
+	INAHJMBO_01462	CDS	COG0302	21539	22093	+	[H] GTP cyclohydrolase I   
+580
+	INAHJMBO_01463	CDS	NA	22268	23086	+	NA
+	INAHJMBO_01464	CDS	COG1194	23116	24372	+	[L] A/G-specific DNA glycosylase   
+	INAHJMBO_01465	CDS	COG2202	24421	24930	+	[T] FOG: PAS/PAC domain   
+581
+	INAHJMBO_01466	CDS	NA	24944	26263	-	NA
+582
+	INAHJMBO_01467	CDS	NA	4970	5494	+	NA
+	INAHJMBO_01468	CDS	NA	5504	5917	+	NA
+583
+	INAHJMBO_01469	CDS	NA	147	350	-	NA
+	INAHJMBO_01470	CDS	COG1338	382	1068	-	[NU] Flagellar biosynthesis pathway, component FliP 
+	INAHJMBO_01471	CDS	COG4809	1065	1883	-	[G] Archaeal ADP-dependent phosphofructokinase/glucokinase   
+	INAHJMBO_01472	CDS	ROG8279	1880	2293	-	NA
+	INAHJMBO_01473	CDS	NA	2303	2473	-	NA
+	INAHJMBO_01474	CDS	NA	2470	2889	-	NA
+	INAHJMBO_01475	CDS	NA	2889	3635	-	NA
+	INAHJMBO_01476	CDS	NA	3635	4261	-	NA
+	INAHJMBO_01477	CDS	ROG8279	4258	4671	-	NA
+	INAHJMBO_01478	CDS	NA	4681	4851	-	NA
+584
+	INAHJMBO_01479	CDS	NA	205	1032	+	NA
+	INAHJMBO_01480	CDS	NA	1044	1616	+	NA
+	INAHJMBO_01481	CDS	COG0860	1609	3690	+	[M] N-acetylmuramoyl-L-alanine amidase    
+585
+	INAHJMBO_01482	CDS	NA	41	247	+	NA
+586
+	INAHJMBO_01483	CDS	NA	690	2564	+	NA
+			NA				NA
+587
+	INAHJMBO_01485	CDS	COG0754	89	1261	+	[E] Glutathionylspermidine synthase    
+588
+	INAHJMBO_01486	CDS	COG3544	1346	2044	-	[S] Uncharacterized protein conserved in bacteria 
+589
+	INAHJMBO_01487	CDS	NA	2272	2745	+	NA
+590
+	INAHJMBO_01488	CDS	NA	2821	3261	-	NA
+	INAHJMBO_01489	CDS	COG0064	3310	4749	-	[J] Asp-tRNAAsn/Glu-tRNAGln amidotransferase B subunit (PET112 homolog)
+	INAHJMBO_01490	CDS	COG0612	4746	6095	-	[R] Predicted Zn-dependent peptidases   
+591
+	INAHJMBO_01491	CDS	COG1060	6175	7221	-	[HR] Thiamine biosynthesis enzyme ThiH and related
+592
+	INAHJMBO_01492	CDS	COG4775	7286	9721	-	[M] Outer membrane protein/protective antigen OMA87 
+593
+	INAHJMBO_01493	CDS	COG1570	10031	11284	-	[L] Exonuclease VII, large subunit  
+	INAHJMBO_01494	CDS	COG0750	11281	12618	-	[M] Predicted membrane-associated Zn-dependent proteases 1 
+	INAHJMBO_01495	CDS	COG0558	12618	13160	-	[I] Phosphatidylglycerophosphate synthase    
+594
+	INAHJMBO_01496	CDS	NA	13366	13611	-	NA
+595
+	INAHJMBO_01497	CDS	ROG4593	13970	14752	+	NA
+	INAHJMBO_01498	CDS	COG0079	14786	15892	+	[E] Histidinol-phosphate/aromatic aminotransferase and cobyric acid decarboxylase
+	INAHJMBO_01499	CDS	COG1766	15895	17577	+	[NU] Flagellar biosynthesis/type III secretory pathway lipoprotein
+	INAHJMBO_01500	CDS	COG1536	17586	18620	+	[N] Flagellar motor switch protein  
+	INAHJMBO_01501	CDS	COG1317	18613	18942	+	[NU] Flagellar biosynthesis/type III secretory pathway protein
+	INAHJMBO_01502	CDS	COG1317	18891	19406	+	[NU] Flagellar biosynthesis/type III secretory pathway protein
+	INAHJMBO_01503	CDS	COG1154	19417	21285	+	[HI] Deoxyxylulose-5-phosphate synthase    
+	INAHJMBO_01504	CDS	COG0727	21287	21658	+	[R] Predicted Fe-S-cluster oxidoreductase   
+	INAHJMBO_01505	CDS	ROG1882	21687	23027	+	NA
+596
+	INAHJMBO_01506	tRNA	NA	23165	23242	+	NA
+597
+	INAHJMBO_01507	CDS	COG0821	23487	24740	-	[I] Enzyme involved in the deoxyxylulose pathway
+598
+	INAHJMBO_01508	CDS	COG0375	24860	25231	+	[R] Zn finger protein HypA/HybF (possibly regulating
+	INAHJMBO_01509	CDS	ROG3733	25264	26082	+	NA
+	INAHJMBO_01510	CDS	COG0763	26079	27143	+	[M] Lipid A disaccharide synthetase  
+	INAHJMBO_01511	CDS	COG0782	27184	27675	+	[K] Transcription elongation factor   
+	INAHJMBO_01512	CDS	COG0756	27679	28131	+	[F] dUTPase     
+	INAHJMBO_01513	CDS	ROG1610	28134	28796	+	NA
+599
+	INAHJMBO_01514	CDS	ROG1381	28861	29955	+	NA
+	INAHJMBO_01515	CDS	COG1521	29955	30596	+	[K] Putative transcriptional regulator, homolog of Bvg
+	INAHJMBO_01516	CDS	COG0040	30593	31201	+	[E] ATP phosphoribosyltransferase    
+600
+	INAHJMBO_01517	CDS	COG0834	31532	32338	-	[ET] ABC-type amino acid transport/signal transduction systems,
+601
+	INAHJMBO_01518	CDS	COG1629	32509	34287	-	[P] Outer membrane receptor proteins, mostly Fe
+	INAHJMBO_01519	CDS	COG1629	34256	34756	-	[P] Outer membrane receptor proteins, mostly Fe
+602
+	INAHJMBO_01520	CDS	COG3600	35436	36008	+	[S] Uncharacterized phage-associated protein   
+	INAHJMBO_01521	CDS	ROG5967	35993	36232	+	NA
+	INAHJMBO_01522	CDS	COG0491	36254	36892	+	[R] Zn-dependent hydrolases, including glyoxylases  
+603
+	INAHJMBO_01523	CDS	COG1706	37224	38306	+	[N] Flagellar basal-body P-ring protein  
+604
+	INAHJMBO_01524	CDS	ROG2918	38376	38672	+	NA
+	INAHJMBO_01525	CDS	COG5000	38675	39850	+	[T] Signal transduction histidine kinase involved in
+	INAHJMBO_01526	CDS	COG1793	39904	41016	+	[L] ATP-dependent DNA ligase   
+605
+	INAHJMBO_01527	CDS	COG0227	41141	41329	+	[J] Ribosomal protein L28   
+606
+	INAHJMBO_01528	CDS	COG0001	41548	42840	+	[H] Glutamate-1-semialdehyde aminotransferase    
+	INAHJMBO_01529	CDS	ROG1435	42840	43382	+	NA
+	INAHJMBO_01530	CDS	COG0859	43383	44378	+	[M] ADP-heptose:LPS heptosyltransferase    
+	INAHJMBO_01531	CDS	COG0129	44532	46220	+	[EG] Dihydroxyacid dehydratase/phosphogluconate dehydratase   
+607
+	INAHJMBO_01532	CDS	NA	46308	46997	+	NA
+608
+	INAHJMBO_01533	CDS	COG0279	47178	47741	-	[G] Phosphoheptose isomerase    
+	INAHJMBO_01534	CDS	COG2870	47743	49158	-	[M] ADP-heptose synthase, bifunctional sugar kinase/adenylyltransferase 
+	INAHJMBO_01535	CDS	COG0451	49151	50203	-	[MG] Nucleoside-diphosphate-sugar epimerases    
+	INAHJMBO_01536	CDS	COG0241	50215	50751	-	[E] Histidinol phosphatase and related phosphatases 
+609
+	INAHJMBO_01537	CDS	COG0791	51221	51841	-	[M] Cell wall-associated hydrolases (invasion-associated proteins) 
+	INAHJMBO_01538	CDS	COG2257	51871	52143	-	[S] Uncharacterized homolog of the cytoplasmic domain
+	INAHJMBO_01539	CDS	COG0307	52196	52846	-	[H] Riboflavin synthase alpha chain  
+610
+	INAHJMBO_01540	CDS	COG0084	53065	53862	+	[L] Mg-dependent DNase    
+	INAHJMBO_01541	CDS	COG1388	53903	55003	+	[M] FOG: LysM repeat   
+611
+	INAHJMBO_01542	CDS	COG0797	55239	56213	+	[M] Lipoproteins     
+	INAHJMBO_01543	CDS	COG0131	56226	56801	+	[E] Imidazoleglycerol-phosphate dehydratase    
+	INAHJMBO_01544	CDS	COG1778	56798	57310	+	[R] Low specificity phosphatase (HAD superfamily) 
+	INAHJMBO_01545	CDS	ROG3114	57297	58004	+	NA
+	INAHJMBO_01546	CDS	COG1934	58004	58570	+	[S] Uncharacterized protein conserved in bacteria 
+	INAHJMBO_01547	CDS	COG0218	58567	59361	+	[R] Predicted GTPase    
+	INAHJMBO_01548	CDS	ROG5073	59381	59875	+	NA
+	INAHJMBO_01549	CDS	COG0768	59875	61665	+	[M] Cell division protein FtsI/penicillin-binding protein 2
+612
+	INAHJMBO_01550	CDS	NA	61929	63098	-	NA
+613
+	INAHJMBO_01551	CDS	COG2843	63205	64245	+	[M] Putative enzyme of poly-gamma-glutamate biosynthesis (capsule
+614
+	INAHJMBO_01552	CDS	COG1663	64628	66244	-	[M] Tetraacyldisaccharide-1-P 4'-kinase    
+615
+	INAHJMBO_01553	CDS	COG0171	66334	67185	-	[H] NAD synthase    
+616
+	INAHJMBO_01554	CDS	COG0575	67312	68130	+	[I] CDP-diglyceride synthetase    
+	INAHJMBO_01555	CDS	COG0743	68157	69275	+	[I] 1-deoxy-D-xylulose 5-phosphate reductoisomerase   
+617
+	INAHJMBO_01556	CDS	COG1166	69376	71223	+	[E] Arginine decarboxylase (spermidine biosynthesis)  
+	INAHJMBO_01557	CDS	COG1045	71225	72022	+	[E] Serine acetyltransferase    
+618
+	INAHJMBO_01558	tRNA	NA	72509	72596	-	NA
+	INAHJMBO_01559	tRNA	NA	72613	72687	-	NA
+	INAHJMBO_01560	tRNA	NA	72695	72782	-	NA
+	INAHJMBO_01561	tRNA	NA	72822	72896	-	NA
+619
+	INAHJMBO_01562	CDS	COG0773	73035	75527	+	[M] UDP-N-acetylmuramate-alanine ligase    
+	INAHJMBO_01563	CDS	ROG3043	75527	75937	+	NA
+	INAHJMBO_01564	CDS	NA	75959	76666	+	NA
+	INAHJMBO_01565	CDS	NA	76712	76903	+	NA
+620
+	INAHJMBO_01566	CDS	COG1464	77052	77819	-	[P] ABC-type metal ion transport system, periplasmic
+	INAHJMBO_01567	CDS	COG1464	77946	78749	-	[P] ABC-type metal ion transport system, periplasmic
+	INAHJMBO_01568	CDS	COG2011	78874	80121	-	[P] ABC-type metal ion transport system, permease
+	INAHJMBO_01569	CDS	COG1135	80118	81197	-	[P] ABC-type metal ion transport system, ATPase
+621
+	INAHJMBO_01570	CDS	NA	81314	81517	-	NA
+622
+	INAHJMBO_01571	CDS	COG0477	81656	82915	-	[GEPR] Permeases of the major facilitator superfamily
+	INAHJMBO_01572	CDS	COG2141	83037	84050	-	[C] Coenzyme F420-dependent N5,N10-methylene tetrahydromethanopterin reductase and
+	INAHJMBO_01573	CDS	ROG3329	84053	85036	-	NA
+	INAHJMBO_01574	CDS	COG2141	85026	86480	-	[C] Coenzyme F420-dependent N5,N10-methylene tetrahydromethanopterin reductase and
+623
+	INAHJMBO_01575	CDS	COG0217	87173	87889	-	[S] Uncharacterized conserved protein   
+624
+	INAHJMBO_01576	CDS	COG0052	88249	89043	+	[J] Ribosomal protein S2   
+	INAHJMBO_01577	CDS	COG0264	89045	90112	+	[J] Translation elongation factor Ts  
+625
+	INAHJMBO_01578	CDS	COG0560	90178	90804	+	[E] Phosphoserine phosphatase    
+	INAHJMBO_01579	CDS	COG1442	90812	90979	+	[M] Lipopolysaccharide biosynthesis proteins, LPS:glycosyltransferases  
+	INAHJMBO_01580	CDS	COG1442	91018	92034	+	[M] Lipopolysaccharide biosynthesis proteins, LPS:glycosyltransferases  
+	INAHJMBO_01581	CDS	COG1704	92038	92403	+	[S] Uncharacterized conserved protein   
+	INAHJMBO_01582	CDS	NA	92357	93352	+	NA
+626
+	INAHJMBO_01583	CDS	COG1216	93446	94396	+	[R] Predicted glycosyltransferases    
+627
+	INAHJMBO_01584	CDS	COG0747	94573	96354	-	[E] ABC-type dipeptide transport system, periplasmic component
+628
+	INAHJMBO_01585	CDS	COG0180	96429	97415	-	[J] Tryptophanyl-tRNA synthetase    
+629
+	INAHJMBO_01586	CDS	ROG3307	97532	98062	+	NA
+630
+	INAHJMBO_01587	CDS	COG0219	98162	98626	+	[J] Predicted rRNA methylase (SpoU class) 
+631
+	INAHJMBO_01588	CDS	COG0184	98736	99008	-	[J] Ribosomal protein S15P/S13E   
+632
+	INAHJMBO_01589	CDS	COG1298	99206	101422	+	[NU] Flagellar biosynthesis pathway, component FlhA 
+	INAHJMBO_01590	CDS	COG2404	101441	102520	+	[R] Predicted phosphohydrolase (DHH superfamily)  
+	INAHJMBO_01591	CDS	ROG6511	102541	102897	+	NA
+	INAHJMBO_01592	CDS	COG1432	102920	103633	+	[S] Uncharacterized conserved protein   
+633
+	INAHJMBO_01593	CDS	ROG0280	103634	104470	-	NA
+634
+	INAHJMBO_01594	CDS	COG5659	104700	105947	-	[L] FOG: Transposase    
+	INAHJMBO_01595	CDS	COG0606	105985	107499	-	[O] Predicted ATPase with chaperone activity 
+635
+	INAHJMBO_01596	CDS	COG0372	108059	109342	-	[C] Citrate synthase    
+636
+	INAHJMBO_01597	CDS	COG2814	109463	110629	-	[G] Arabinose efflux permease   
+637
+	INAHJMBO_01598	CDS	COG0760	110772	111689	+	[O] Parvulin-like peptidyl-prolyl isomerase   
+	INAHJMBO_01599	CDS	COG0457	111697	112746	+	[R] FOG: TPR repeat   
+	INAHJMBO_01600	CDS	COG0328	112743	113186	+	[L] Ribonuclease HI    
+	INAHJMBO_01601	CDS	COG0571	113203	113901	+	[K] dsRNA-specific ribonuclease    
+	INAHJMBO_01602	CDS	COG0082	113898	114989	+	[E] Chorismate synthase    
+638
+	INAHJMBO_01603	CDS	COG0506	115292	118831	+	[E] Proline dehydrogenase    
+639
+	INAHJMBO_01604	CDS	ROG3145	118934	119419	-	NA
+640
+	INAHJMBO_01605	CDS	COG0029	119600	121048	+	[H] Aspartate oxidase    
+641
+	INAHJMBO_01606	CDS	COG0790	121448	122581	+	[R] FOG: TPR repeat, SEL1 subfamily 
+	INAHJMBO_01607	CDS	COG0635	122601	123695	+	[H] Coproporphyrinogen III oxidase and related Fe-S
+642
+	INAHJMBO_01608	CDS	COG0078	123904	124884	+	[E] Ornithine carbamoyltransferase    
+	INAHJMBO_01609	CDS	ROG1977	124863	125306	+	NA
+	INAHJMBO_01610	CDS	COG0635	125303	126688	+	[H] Coproporphyrinogen III oxidase and related Fe-S
+	INAHJMBO_01611	CDS	COG0247	126685	127992	+	[C] Fe-S oxidoreductase    
+	INAHJMBO_01612	CDS	COG0438	127989	129080	+	[M] Glycosyltransferase     
+	INAHJMBO_01613	CDS	COG1215	129107	130771	+	[M] Glycosyltransferases, probably involved in cell wall
+643
+	INAHJMBO_01614	CDS	COG0861	131124	131843	-	[P] Membrane protein TerC, possibly involved in
+	INAHJMBO_01615	CDS	COG0598	131840	132799	-	[P] Mg2+ and Co2+ transporters  
+	INAHJMBO_01616	CDS	COG0126	132819	134030	-	[G] 3-phosphoglycerate kinase    
+644
+	INAHJMBO_01617	CDS	NA	134290	134601	-	NA
+645
+	INAHJMBO_01618	CDS	ROG5362	134866	136638	+	NA
+646
+	INAHJMBO_01619	CDS	COG0457	136715	139174	+	[R] FOG: TPR repeat   
+	INAHJMBO_01620	CDS	COG1109	139178	140548	+	[G] Phosphomannomutase     
+647
+	INAHJMBO_01621	CDS	COG0776	140702	140983	+	[L] Bacterial nucleoid DNA-binding protein  
+	INAHJMBO_01622	tRNA	NA	141015	141091	+	NA
+648
+	INAHJMBO_01623	CDS	ROG2760	141333	143882	+	NA
+649
+	INAHJMBO_01624	CDS	COG0745	144303	144983	+	[TK] Response regulators consisting of a CheY-like
+	INAHJMBO_01625	CDS	COG0028	145010	146695	+	[EH] Thiamine pyrophosphate-requiring enzymes [acetolactate synthase, pyruvate
+	INAHJMBO_01626	CDS	COG0440	146705	147175	+	[E] Acetolactate synthase, small (regulatory) subunit 
+	INAHJMBO_01627	CDS	COG1807	147211	148158	+	[M] 4-amino-4-deoxy-L-arabinose transferase and related glycosyltransferases of
+	INAHJMBO_01628	CDS	NA	148158	148775	+	NA
+650
+	INAHJMBO_01629	CDS	COG3247	148907	149299	-	[S] Uncharacterized conserved protein   
+651
+	INAHJMBO_01630	CDS	NA	149373	150620	-	NA
+652
+	INAHJMBO_01631	CDS	ROG5961	150934	151161	-	NA
+653
+	INAHJMBO_01632	CDS	COG1607	151332	151583	-	[I] Acyl-CoA hydrolase    
+654
+	INAHJMBO_01633	CDS	COG1479	151690	153402	+	[S] Uncharacterized conserved protein   
+655
+	INAHJMBO_01634	CDS	ROG0046	153678	154061	+	NA
+	INAHJMBO_01635	CDS	COG1708	154046	154357	+	[R] Predicted nucleotidyltransferases    
+656
+	INAHJMBO_01636	CDS	ROG3104	154474	156465	-	NA
+657
+	INAHJMBO_01637	CDS	NA	156604	156795	+	NA
+658
+	INAHJMBO_01638	CDS	COG2189	156868	157245	+	[L] Adenine specific DNA methylase Mod 
+659
+	INAHJMBO_01639	CDS	COG0699	157105	157428	-	[R] Predicted GTPases (dynamin-related)   
+660
+	INAHJMBO_01640	CDS	COG3190	157518	157736	-	[N] Flagellar biogenesis protein   
+	INAHJMBO_01641	CDS	ROG5256	157758	158069	-	NA
+	INAHJMBO_01642	CDS	NA	158090	158629	-	NA
+	INAHJMBO_01643	CDS	NA	158632	159150	-	NA
+661
+	INAHJMBO_01644	CDS	COG3034	159378	160370	+	[S] Uncharacterized protein conserved in bacteria 
+	INAHJMBO_01645	CDS	COG1338	160386	161165	+	[NU] Flagellar biosynthesis pathway, component FliP 
+662
+	INAHJMBO_01646	CDS	COG2046	161706	162878	-	[P] ATP sulfurylase (sulfate adenylyltransferase)  
+	INAHJMBO_01647	CDS	COG2204	162856	163740	-	[T] Response regulator containing CheY-like receiver, AAA-type
+	INAHJMBO_01648	CDS	COG0245	163715	164938	-	[I] 2C-methyl-D-erythritol 2,4-cyclodiphosphate synthase   
+663
+	INAHJMBO_01649	CDS	COG1086	165087	166079	+	[MG] Predicted nucleoside-diphosphate sugar epimerases  
+664
+	INAHJMBO_01650	CDS	ROG2373	166094	166825	-	NA
+665
+	INAHJMBO_01651	CDS	COG0826	166916	168220	-	[O] Collagenase and related proteases  
+	INAHJMBO_01652	CDS	ROG2983	168217	168936	-	NA
+666
+	INAHJMBO_01653	CDS	COG1186	169004	170104	-	[J] Protein chain release factor B 
+667
+	INAHJMBO_01654	CDS	NA	170256	171335	+	NA
+668
+	INAHJMBO_01655	CDS	ROG7786	131	772	+	NA
+669
+	INAHJMBO_01656	CDS	ROG7540	962	1405	+	NA
+670
+	INAHJMBO_01657	CDS	COG0697	2811	3677	-	[GER] Permeases of the drug/metabolite transporter (DMT)
+	INAHJMBO_01658	CDS	COG0525	3681	6206	-	[J] Valyl-tRNA synthetase    
+	INAHJMBO_01659	CDS	COG0525	6281	6451	-	[J] Valyl-tRNA synthetase    
+671
+	INAHJMBO_01660	CDS	NA	6610	7011	-	NA
+672
+	INAHJMBO_01661	CDS	COG0703	7195	7698	-	[E] Shikimate kinase    
+	INAHJMBO_01662	CDS	ROG2132	7753	8394	-	NA
+	INAHJMBO_01663	CDS	ROG1628	8391	8651	-	NA
+	INAHJMBO_01664	CDS	COG0148	8648	9925	-	[G] Enolase     
+	INAHJMBO_01665	CDS	COG0468	9960	11000	-	[L] RecA/RadA recombinase    
+673
+	INAHJMBO_01666	CDS	COG1368	11110	11472	-	[M] Phosphoglycerol transferase and related proteins, alkaline
+	INAHJMBO_01667	CDS	NA	11429	11527	-	NA
+674
+	INAHJMBO_01668	CDS	COG0493	11698	13245	-	[ER] NADPH-dependent glutamate synthase beta chain and
+	INAHJMBO_01669	CDS	NA	13245	13487	-	NA
+	INAHJMBO_01670	CDS	COG2263	13477	14619	-	[J] Predicted RNA methylase   
+	INAHJMBO_01671	CDS	COG0863	14619	14822	-	[L] DNA modification methylase   
+	INAHJMBO_01672	CDS	COG0069	14825	19444	-	[E] Glutamate synthase domain 2  
+675
+	INAHJMBO_01673	CDS	COG2171	19750	20961	+	[E] Tetrahydrodipicolinate N-succinyltransferase    
+676
+	INAHJMBO_01674	CDS	COG0679	21125	22051	-	[R] Predicted permeases    
+677
+	INAHJMBO_01675	CDS	ROG4626	22153	23160	-	NA
+678
+	INAHJMBO_01676	CDS	COG0409	23492	24667	-	[O] Hydrogenase maturation factor   
+679
+	INAHJMBO_01677	CDS	COG4731	24819	25334	-	[S] Uncharacterized protein conserved in bacteria 
+	INAHJMBO_01678	CDS	COG0298	25331	25588	-	[O] Hydrogenase maturation factor   
+	INAHJMBO_01679	CDS	COG0378	25598	26320	-	[OK] Ni2+-binding GTPase involved in regulation of
+680
+	INAHJMBO_01680	CDS	COG2755	26427	28133	-	[E] Lysophospholipase L1 and related esterases 
+	INAHJMBO_01681	CDS	COG2845	28143	29513	-	[S] Uncharacterized protein conserved in bacteria 
+	INAHJMBO_01682	CDS	COG1696	29514	30968	-	[M] Predicted membrane protein involved in D-alanine
+681
+	INAHJMBO_01683	CDS	COG0500	31051	31794	-	[QR] SAM-dependent methyltransferases    
+682
+	INAHJMBO_01684	CDS	COG0149	32054	32764	+	[G] Triosephosphate isomerase    
+	INAHJMBO_01685	CDS	COG1044	32784	33773	+	[M] UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase   
+683
+	INAHJMBO_01686	CDS	ROG6208	34042	34638	-	NA
+684
+	INAHJMBO_01687	CDS	ROG1336	34739	36616	+	NA
+	INAHJMBO_01688	CDS	COG2607	36672	37466	+	[R] Predicted ATPase (AAA+ superfamily)  
+685
+	INAHJMBO_01689	CDS	COG0668	37734	38549	-	[M] Small-conductance mechanosensitive channel   
+686
+	INAHJMBO_01690	CDS	COG0044	38696	39919	-	[F] Dihydroorotase and related cyclic amidohydrolases 
+	INAHJMBO_01691	CDS	COG0785	39949	40659	-	[O] Cytochrome c biogenesis protein  
+687
+	INAHJMBO_01692	CDS	COG2843	40767	42335	-	[M] Putative enzyme of poly-gamma-glutamate biosynthesis (capsule
+	INAHJMBO_01693	CDS	COG0124	42354	43688	-	[J] Histidyl-tRNA synthetase    
+688
+	INAHJMBO_01694	CDS	NA	43886	44476	+	NA
+689
+	INAHJMBO_01695	CDS	COG0863	44729	47164	-	[L] DNA modification methylase   
+690
+	INAHJMBO_01696	CDS	COG0174	47229	48665	-	[E] Glutamine synthetase    
+691
+	INAHJMBO_01697	CDS	NA	49076	49288	-	NA
+692
+	INAHJMBO_01698	CDS	COG0498	49467	50984	+	[E] Threonine synthase    
+	INAHJMBO_01699	CDS	COG3306	51029	51769	+	[M] Glycosyltransferase involved in LPS biosynthesis 
+693
+	INAHJMBO_01700	CDS	COG0745	51857	52525	+	[TK] Response regulators consisting of a CheY-like
+	INAHJMBO_01701	CDS	COG2972	52525	53754	+	[T] Predicted signal transduction protein with a
+694
+	INAHJMBO_01702	CDS	NA	53964	55400	+	NA
+	INAHJMBO_01703	CDS	COG1566	55411	56115	+	[V] Multidrug resistance efflux pump  
+	INAHJMBO_01704	CDS	COG0841	56136	59207	+	[V] Cation/multidrug efflux pump   
+695
+	INAHJMBO_01705	CDS	NA	59303	59758	+	NA
+696
+	INAHJMBO_01706	CDS	COG3399	59766	60206	-	[S] Uncharacterized protein conserved in bacteria 
+697
+	INAHJMBO_01707	CDS	COG1459	60291	61475	+	[NU] Type II secretory pathway, component PulF
+	INAHJMBO_01708	CDS	COG1995	61475	62581	+	[H] Pyridoxal phosphate biosynthesis protein  
+	INAHJMBO_01709	CDS	COG0424	62578	63135	+	[D] Nucleotide-binding protein implicated in inhibition of
+	INAHJMBO_01710	CDS	COG3197	63132	64280	+	[P] Uncharacterized protein, possibly involved in nitrogen
+698
+	INAHJMBO_01711	CDS	COG0057	64501	65577	+	[G] Glyceraldehyde-3-phosphate dehydrogenase/erythrose-4-phosphate dehydrogenase   
+	INAHJMBO_01712	CDS	COG1817	65614	66711	+	[S] Uncharacterized protein conserved in archaea 
+699
+	INAHJMBO_01713	CDS	COG4889	66894	72419	-	[R] Predicted helicase    
+700
+	INAHJMBO_01714	CDS	COG0670	72576	73271	-	[R] Integral membrane protein, interacts with FtsH
+701
+	INAHJMBO_01715	CDS	ROG1639	73552	74229	+	NA
+702
+	INAHJMBO_01716	CDS	COG3303	74366	76195	-	[P] Formate-dependent nitrite reductase, periplasmic cytochrome c552
+	INAHJMBO_01717	CDS	COG3005	76226	76699	-	[C] Nitrate/TMAO reductases, membrane-bound tetraheme cytochrome c
+703
+	INAHJMBO_01718	CDS	COG0859	76889	77740	-	[M] ADP-heptose:LPS heptosyltransferase    
+704
+	INAHJMBO_01719	CDS	COG2804	77974	79353	-	[NU] Type II secretory pathway, ATPase PulE/Tfp
+	INAHJMBO_01720	CDS	NA	79355	80038	-	NA
+	INAHJMBO_01721	CDS	COG1450	80062	81648	-	[NU] Type II secretory pathway, component PulD
+	INAHJMBO_01722	CDS	ROG5385	81645	81977	-	NA
+	INAHJMBO_01723	CDS	ROG3281	82003	82521	-	NA
+	INAHJMBO_01724	CDS	ROG0626	82514	83767	-	NA
+705
+	INAHJMBO_01725	CDS	COG0560	84080	84673	-	[E] Phosphoserine phosphatase    
+706
+	INAHJMBO_01726	CDS	ROG6683	84792	86486	-	NA
+	INAHJMBO_01727	CDS	COG0118	86536	87153	-	[E] Glutamine amidotransferase    
+	INAHJMBO_01728	CDS	COG0060	87313	90108	-	[J] Isoleucyl-tRNA synthetase    
+707
+	INAHJMBO_01729	CDS	COG1748	90261	92222	+	[E] Saccharopine dehydrogenase and related proteins 
+708
+	INAHJMBO_01730	CDS	COG0286	92307	94418	+	[V] Type I restriction-modification system methyltransferase subunit
+709
+	INAHJMBO_01731	CDS	ROG0283	94515	95165	+	NA
+	INAHJMBO_01732	CDS	NA	95165	95314	+	NA
+	INAHJMBO_01733	CDS	COG0732	95265	96785	+	[V] Restriction endonuclease S subunits  
+710
+	INAHJMBO_01734	CDS	COG0351	97676	98506	+	[H] Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase    
+711
+	INAHJMBO_01735	CDS	COG0828	98892	99104	-	[J] Ribosomal protein S21   
+712
+	INAHJMBO_01736	tRNA	NA	99262	99338	+	NA
+713
+	INAHJMBO_01737	CDS	COG0287	99594	100421	+	[E] Prephenate dehydrogenase    
+	INAHJMBO_01738	CDS	NA	100444	101199	+	NA
+714
+	INAHJMBO_01739	CDS	NA	1713	3128	+	NA
+715
+	INAHJMBO_01740	CDS	NA	3259	4119	+	NA
+716
+	INAHJMBO_01741	CDS	COG0668	4275	6236	+	[M] Small-conductance mechanosensitive channel   
+717
+	INAHJMBO_01742	CDS	COG0181	6347	7288	-	[H] Porphobilinogen deaminase    
+	INAHJMBO_01743	CDS	COG3030	7285	7740	-	[R] Protein affecting phage T7 exclusion by
+	INAHJMBO_01744	CDS	COG0442	7730	9481	-	[J] Prolyl-tRNA synthetase    
+	INAHJMBO_01745	CDS	COG0373	9503	10831	-	[H] Glutamyl-tRNA reductase    
+	INAHJMBO_01746	CDS	COG0142	10831	11742	-	[H] Geranylgeranyl pyrophosphate synthase   
+718
+	INAHJMBO_01747	CDS	ROG7885	11844	12239	-	NA
+719
+	INAHJMBO_01748	CDS	ROG3047	12306	12569	-	NA
+	INAHJMBO_01749	CDS	COG0141	12595	13896	-	[E] Histidinol dehydrogenase    
+720
+	INAHJMBO_01750	CDS	COG0783	14017	14454	-	[P] DNA-binding ferritin-like protein (oxidative damage protectant)
+721
+	INAHJMBO_01751	CDS	COG1687	14600	14932	+	[E] Predicted branched-chain amino acid permeases (azaleucine
+722
+	INAHJMBO_01752	CDS	NA	15204	15743	+	NA
+723
+	INAHJMBO_01753	CDS	NA	16151	16753	+	NA
+	INAHJMBO_01754	CDS	ROG6497	16782	17258	+	NA
+724
+	INAHJMBO_01755	CDS	COG2833	17665	18474	-	[S] Uncharacterized protein conserved in bacteria 
+	INAHJMBO_01756	CDS	COG0591	18471	20240	-	[ER] Na+/proline symporter    
+725
+	INAHJMBO_01757	CDS	ROG3774	20353	21609	-	NA
+	INAHJMBO_01758	CDS	COG3696	21646	24786	-	[P] Putative silver efflux pump  
+	INAHJMBO_01759	CDS	ROG2269	24783	25832	-	NA
+	INAHJMBO_01760	CDS	COG1846	25829	26290	-	[K] Transcriptional regulators    
+	INAHJMBO_01761	CDS	COG1167	26367	27575	-	[KE] Transcriptional regulators containing a DNA-binding HTH
+726
+	INAHJMBO_01762	CDS	COG0617	27731	29158	-	[J] tRNA nucleotidyltransferase/poly(A) polymerase   
+727
+	INAHJMBO_01763	CDS	COG1758	29271	29492	+	[K] DNA-directed RNA polymerase, subunit K/omega 
+	INAHJMBO_01764	CDS	COG0317	29501	31642	+	[TK] Guanosine polyphosphate pyrophosphohydrolases/synthetases   
+	INAHJMBO_01765	CDS	COG0162	31653	32879	+	[J] Tyrosyl-tRNA synthetase    
+	INAHJMBO_01766	CDS	COG2070	32893	33984	+	[R] Dioxygenases related to 2-nitropropane dioxygenase 
+	INAHJMBO_01767	CDS	COG0860	33987	35321	+	[M] N-acetylmuramoyl-L-alanine amidase    
+	INAHJMBO_01768	CDS	NA	35331	36317	+	NA
+	INAHJMBO_01769	CDS	COG0394	36314	36748	+	[T] Protein-tyrosine-phosphatase     
+	INAHJMBO_01770	CDS	COG1393	36745	37083	+	[P] Arsenate reductase and related proteins, glutaredoxin
+728
+	INAHJMBO_01771	CDS	COG0791	37178	38554	+	[M] Cell wall-associated hydrolases (invasion-associated proteins) 
+	INAHJMBO_01772	CDS	COG0803	38551	39378	+	[P] ABC-type metal ion transport system, periplasmic
+	INAHJMBO_01773	CDS	COG1121	39388	40119	+	[P] ABC-type Mn/Zn transport systems, ATPase component
+	INAHJMBO_01774	CDS	COG0579	40120	41475	+	[R] Predicted dehydrogenase    
+	INAHJMBO_01775	CDS	COG1108	41475	42290	+	[P] ABC-type Mn2+/Zn2+ transport systems, permease components
+	INAHJMBO_01776	CDS	ROG1127	42283	42504	+	NA
+729
+	INAHJMBO_01777	CDS	COG2703	42575	43180	-	[P] Hemerythrin     
+730
+	INAHJMBO_01778	CDS	COG2217	43247	45394	-	[P] Cation transport ATPase   
+731
+	INAHJMBO_01779	CDS	COG2067	45690	47423	-	[I] Long-chain fatty acid transport protein 
+732
+	INAHJMBO_01780	CDS	COG0196	47989	48840	-	[H] FAD synthase    
+	INAHJMBO_01781	CDS	COG1189	48806	49588	-	[J] Predicted rRNA methylase   
+	INAHJMBO_01782	CDS	NA	49588	50163	-	NA
+733
+	INAHJMBO_01783	CDS	COG0540	50387	51313	+	[F] Aspartate carbamoyltransferase, catalytic chain  
+	INAHJMBO_01784	CDS	COG0460	51298	52599	+	[E] Homoserine dehydrogenase    
+	INAHJMBO_01785	CDS	COG0792	52602	53168	+	[L] Predicted endonuclease distantly related to archaeal
+734
+	INAHJMBO_01786	CDS	COG0462	53259	54188	+	[FE] Phosphoribosylpyrophosphate synthetase    
+	INAHJMBO_01787	CDS	COG3705	54206	55054	+	[E] ATP phosphoribosyltransferase involved in histidine biosynthesis
+	INAHJMBO_01788	CDS	COG0104	55101	56342	+	[F] Adenylosuccinate synthase    
+	INAHJMBO_01789	CDS	ROG4054	56284	56808	+	NA
+	INAHJMBO_01790	CDS	COG3334	56805	57521	+	[S] Uncharacterized conserved protein   
+735
+	INAHJMBO_01791	CDS	COG0642	58278	59990	-	[T] Signal transduction histidine kinase  
+736
+	INAHJMBO_01792	CDS	COG0226	60149	61015	+	[P] ABC-type phosphate transport system, periplasmic component
+737
+	INAHJMBO_01793	CDS	COG1252	61386	62564	-	[C] NADH dehydrogenase, FAD-containing subunit  
+738
+	INAHJMBO_01794	tRNA	NA	62687	62761	-	NA
+739
+	INAHJMBO_01795	CDS	COG0677	62825	64171	-	[M] UDP-N-acetyl-D-mannosaminuronate dehydrogenase    
+	INAHJMBO_01796	CDS	COG1044	64168	64752	-	[M] UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase   
+740
+	INAHJMBO_01797	CDS	ROG4646	64888	66834	-	NA
+741
+	INAHJMBO_01798	CDS	COG1279	67054	67689	+	[R] Lysine efflux permease   
+	INAHJMBO_01799	CDS	ROG7382	67738	68310	+	NA
+	INAHJMBO_01800	CDS	COG2849	68307	68786	+	[S] Uncharacterized protein conserved in bacteria 
+742
+	INAHJMBO_01801	CDS	COG1674	69184	71928	-	[D] DNA segregation ATPase FtsK/SpoIIIE and related
+743
+	INAHJMBO_01802	CDS	ROG3130	72091	73563	+	NA
+744
+	INAHJMBO_01803	CDS	COG2255	73965	75014	-	[L] Holliday junction resolvasome, helicase subunit 
+	INAHJMBO_01804	CDS	COG0413	75015	75800	-	[H] Ketopantoate hydroxymethyltransferase    
+745
+	INAHJMBO_01805	CDS	NA	75914	76627	+	NA
+	INAHJMBO_01806	CDS	NA	76617	77378	+	NA
+	INAHJMBO_01807	CDS	NA	77388	78485	+	NA
+746
+	INAHJMBO_01808	CDS	COG3019	78652	79104	+	[R] Predicted metal-binding protein   
+747
+	INAHJMBO_01809	CDS	COG0496	79402	80175	-	[R] Predicted acid phosphatase   
+	INAHJMBO_01810	CDS	COG0142	80175	81089	-	[H] Geranylgeranyl pyrophosphate synthase   
+	INAHJMBO_01811	CDS	COG0265	81156	82226	-	[O] Trypsin-like serine proteases, typically periplasmic, contain
+748
+	INAHJMBO_01812	CDS	COG2211	82537	83718	+	[G] Na+/melibiose symporter and related transporters 
+	INAHJMBO_01813	CDS	COG0305	83765	85252	+	[L] Replicative DNA helicase   
+	INAHJMBO_01814	CDS	COG0658	85252	86559	+	[R] Predicted membrane metal-binding protein  
+749
+	INAHJMBO_01815	CDS	COG0788	87007	87837	-	[F] Formyltetrahydrofolate hydrolase    
+750
+	INAHJMBO_01816	CDS	NA	87891	88748	-	NA
+751
+	INAHJMBO_01817	CDS	COG0489	351	1430	+	[D] ATPases involved in chromosome partitioning 
+752
+	INAHJMBO_01818	CDS	COG1620	1466	3121	-	[C] L-lactate permease    
+753
+	INAHJMBO_01819	CDS	COG0018	3347	5095	-	[J] Arginyl-tRNA synthetase    
+	INAHJMBO_01820	CDS	COG1826	5101	5514	-	[U] Sec-independent protein secretion pathway components 
+754
+	INAHJMBO_01821	CDS	COG0194	5574	6176	-	[F] Guanylate kinase    
+	INAHJMBO_01822	CDS	NA	6173	8593	-	NA
+755
+	INAHJMBO_01823	CDS	COG1502	8932	9453	+	[I] Phosphatidylserine/phosphatidylglycerophosphate/cardiolipin synthases and related enzymes 
+	INAHJMBO_01824	CDS	COG1352	9475	10323	+	[NT] Methylase of chemotaxis methyl-accepting proteins 
+	INAHJMBO_01825	CDS	COG2201	10329	10973	+	[NT] Chemotaxis response regulator containing a CheY-like
+756
+	INAHJMBO_01826	CDS	COG1999	11461	12009	-	[R] Uncharacterized protein SCO1/SenC/PrrC, involved in biogenesis
+	INAHJMBO_01827	CDS	COG0685	12045	12962	-	[E] 5,10-methylenetetrahydrofolate reductase    
+757
+	INAHJMBO_01828	CDS	NA	12979	13287	+	NA
+758
+	INAHJMBO_01829	CDS	COG0620	13349	15610	-	[E] Methionine synthase II (cobalamin-independent)  
+759
+	INAHJMBO_01830	CDS	COG0840	15841	17247	-	[NT] Methyl-accepting chemotaxis protein   
+760
+	INAHJMBO_01831	CDS	COG0856	17914	18489	-	[F] Orotate phosphoribosyltransferase homologs   
+	INAHJMBO_01832	CDS	COG0125	18486	19070	-	[F] Thymidylate kinase    
+	INAHJMBO_01833	CDS	COG0669	19061	19546	-	[H] Phosphopantetheine adenylyltransferase    
+	INAHJMBO_01834	CDS	COG0163	19549	20166	-	[H] 3-polyprenyl-4-hydroxybenzoate decarboxylase    
+761
+	INAHJMBO_01835	CDS	COG1261	20329	21012	-	[NO] Flagellar basal body P-ring biosynthesis protein
+	INAHJMBO_01836	CDS	COG0210	21032	22597	-	[L] Superfamily I DNA and RNA helicases
+	INAHJMBO_01837	CDS	COG0210	22675	23082	-	[L] Superfamily I DNA and RNA helicases
+	INAHJMBO_01838	CDS	COG0457	23079	25517	-	[R] FOG: TPR repeat   
+	INAHJMBO_01839	CDS	COG0172	25527	26849	-	[J] Seryl-tRNA synthetase    
+762
+	INAHJMBO_01840	CDS	COG2838	27540	29765	+	[C] Monomeric isocitrate dehydrogenase   
+763
+	INAHJMBO_01841	CDS	ROG8324	30077	30589	-	NA
+764
+	INAHJMBO_01842	CDS	ROG3873	30661	31455	-	NA
+	INAHJMBO_01843	CDS	ROG8324	31469	32170	-	NA
+765
+	INAHJMBO_01844	CDS	ROG2112	32321	34240	-	NA
+766
+	INAHJMBO_01845	CDS	COG0447	34438	35112	+	[H] Dihydroxynaphthoic acid synthase   
+767
+	INAHJMBO_01846	CDS	COG0352	35718	36332	-	[H] Thiamine monophosphate synthase   
+	INAHJMBO_01847	CDS	NA	36322	37473	-	NA
+	INAHJMBO_01848	CDS	COG2958	37473	38435	-	[S] Uncharacterized protein conserved in bacteria 
+	INAHJMBO_01849	CDS	COG2022	38450	39217	-	[H] Uncharacterized enzyme of thiazole biosynthesis 
+	INAHJMBO_01850	CDS	COG0476	39392	40192	-	[H] Dinucleotide-utilizing enzymes involved in molybdopterin and
+	INAHJMBO_01851	CDS	COG2104	40246	40437	-	[H] Sulfur transfer protein involved in thiamine
+	INAHJMBO_01852	CDS	COG0322	40478	42316	-	[L] Nuclease subunit of the excinuclease complex
+	INAHJMBO_01853	CDS	COG0611	42376	43311	-	[H] Thiamine monophosphate kinase   
+	INAHJMBO_01854	CDS	COG0157	43325	44143	-	[H] Nicotinate-nucleotide pyrophosphorylase    
+	INAHJMBO_01855	CDS	COG0379	44152	45168	-	[H] Quinolinate synthase    
+	INAHJMBO_01856	CDS	COG0688	45246	46037	-	[I] Phosphatidylserine decarboxylase    
+	INAHJMBO_01857	CDS	COG2935	46034	46633	-	[O] Putative arginyl-tRNA:protein arginylyltransferase   
+768
+	INAHJMBO_01858	CDS	ROG3124	46811	47314	-	NA
+	INAHJMBO_01859	CDS	ROG3390	47307	47858	-	NA
+769
+	INAHJMBO_01860	CDS	COG0382	47938	48819	-	[H] 4-hydroxybenzoate polyprenyltransferase and related prenyltransferases 
+	INAHJMBO_01861	CDS	COG2928	48819	49361	-	[S] Uncharacterized conserved protein   
+770
+	INAHJMBO_01862	CDS	COG0101	49550	50290	-	[J] Pseudouridylate synthase    
+	INAHJMBO_01863	CDS	COG0795	50296	51309	-	[R] Predicted permeases    
+	INAHJMBO_01864	CDS	COG1989	51306	51932	-	[NOU] Type II secretory pathway, prepilin signal
+	INAHJMBO_01865	CDS	COG2518	51942	52574	-	[O] Protein-L-isoaspartate carboxylmethyltransferase    
+	INAHJMBO_01866	CDS	COG0388	52562	53299	-	[R] Predicted amidohydrolase    
+	INAHJMBO_01867	CDS	COG0208	53289	54356	-	[F] Ribonucleotide reductase, beta subunit  
+771
+	INAHJMBO_01868	CDS	COG0388	54442	55233	-	[R] Predicted amidohydrolase    
+	INAHJMBO_01869	CDS	COG1722	55256	55453	-	[L] Exonuclease VII small subunit  
+	INAHJMBO_01870	CDS	COG0733	55476	56825	-	[R] Na+-dependent transporters of the SNF family
+	INAHJMBO_01871	CDS	COG0733	56873	58039	-	[R] Na+-dependent transporters of the SNF family
+	INAHJMBO_01872	CDS	COG0733	58018	58281	-	[R] Na+-dependent transporters of the SNF family
+772
+	INAHJMBO_01873	CDS	ROG6417	153	749	+	NA
+773
+	INAHJMBO_01874	CDS	COG0367	1030	1275	+	[E] Asparagine synthase (glutamine-hydrolyzing)   
+	INAHJMBO_01875	CDS	COG0367	1218	2996	+	[E] Asparagine synthase (glutamine-hydrolyzing)   
+774
+	INAHJMBO_01876	CDS	COG0436	3258	4478	+	[E] Aspartate/tyrosine/aromatic aminotransferase    
+775
+	INAHJMBO_01877	CDS	COG0164	4952	5659	+	[L] Ribonuclease HII    
+776
+	INAHJMBO_01878	CDS	ROG0432	5713	6291	-	NA
+	INAHJMBO_01879	CDS	COG0735	6338	6793	-	[P] Fe2+/Zn2+ uptake regulation proteins  
+777
+	INAHJMBO_01880	CDS	COG0840	6993	8357	+	[NT] Methyl-accepting chemotaxis protein   
+	INAHJMBO_01881	CDS	COG0744	8401	10338	+	[M] Membrane carboxypeptidase (penicillin-binding protein)  
+778
+	INAHJMBO_01882	CDS	COG2952	10439	10990	+	[S] Uncharacterized protein conserved in bacteria 
+	INAHJMBO_01883	CDS	COG0505	10990	12120	+	[EF] Carbamoylphosphate synthase small subunit  
+779
+	INAHJMBO_01884	CDS	NA	12302	13699	+	NA
+780
+	INAHJMBO_01885	CDS	COG0749	14108	16822	+	[L] DNA polymerase I - 3'-5' exonuclease
+	INAHJMBO_01886	CDS	COG0726	16896	17780	+	[G] Predicted xylanase/chitin deacetylase   
+781
+	INAHJMBO_01887	CDS	COG0557	17798	19732	-	[K] Exoribonuclease R    
+	INAHJMBO_01888	CDS	COG0169	19729	20520	-	[E] Shikimate 5-dehydrogenase    
+	INAHJMBO_01889	CDS	COG3103	20517	21341	-	[T] SH3 domain protein   
+	INAHJMBO_01890	CDS	COG0150	21378	22367	-	[F] Phosphoribosylaminoimidazole (AIR) synthetase   
+	INAHJMBO_01891	CDS	COG2194	22415	23203	-	[R] Predicted membrane-associated, metal-dependent hydrolase  
+	INAHJMBO_01892	CDS	COG2194	23152	24072	-	[R] Predicted membrane-associated, metal-dependent hydrolase  
+782
+	INAHJMBO_01893	CDS	COG0568	24228	26090	-	[K] DNA-directed RNA polymerase, sigma subunit (sigma70/sigma32)
+783
+	INAHJMBO_01894	CDS	COG4753	26184	26903	-	[T] Response regulator containing CheY-like receiver domain
+784
+	INAHJMBO_01895	CDS	COG1699	27257	27742	+	[S] Uncharacterized protein conserved in bacteria 
+	INAHJMBO_01896	CDS	COG0707	27742	28821	+	[M] UDP-N-acetylglucosamine:LPS N-acetylglucosamine transferase   
+785
+	INAHJMBO_01897	CDS	NA	28830	29849	-	NA
+	INAHJMBO_01898	CDS	NA	29818	30003	-	NA
+	INAHJMBO_01899	CDS	COG0324	30046	30951	-	[J] tRNA delta(2)-isopentenylpyrophosphate transferase   
+	INAHJMBO_01900	CDS	COG0772	30962	32152	-	[D] Bacterial cell division membrane protein 
+786
+	INAHJMBO_01901	CDS	COG1280	32350	33093	-	[E] Putative threonine efflux protein  
+	INAHJMBO_01902	CDS	COG2326	33116	33946	-	[S] Uncharacterized conserved protein   
+787
+	INAHJMBO_01903	CDS	COG1546	34062	34805	+	[R] Uncharacterized protein (competence- and mitomycin-induced) 
+788
+	INAHJMBO_01904	tRNA	NA	34887	34962	+	NA
+	INAHJMBO_01905	tRNA	NA	34981	35055	+	NA
+	INAHJMBO_01906	tRNA	NA	35078	35153	+	NA
+	INAHJMBO_01907	tRNA	NA	35187	35263	+	NA
+789
+	INAHJMBO_01908	CDS	COG0277	35460	38615	+	[C] FAD/FMN-containing dehydrogenases    
+790
+	INAHJMBO_01909	CDS	NA	38943	42602	-	NA
+791
+	INAHJMBO_01910	CDS	COG1476	392	1048	+	[K] Predicted transcriptional regulators   
+792
+	INAHJMBO_01911	CDS	ROG3689	1184	1459	-	NA
+793
+	INAHJMBO_01912	CDS	COG4953	1556	3979	-	[M] Membrane carboxypeptidase/penicillin-binding protein PbpC  
+794
+	INAHJMBO_01913	CDS	COG1277	4229	4591	+	[R] ABC-type transport system involved in multi-copper
+795
+	INAHJMBO_01914	CDS	COG2373	4654	7275	+	[R] Large extracellular alpha-helical protein  
+	INAHJMBO_01915	CDS	COG2373	7269	9398	+	[R] Large extracellular alpha-helical protein  
+796
+	INAHJMBO_01916	CDS	COG3041	9494	9766	-	[S] Uncharacterized protein conserved in bacteria 
+	INAHJMBO_01917	CDS	NA	9759	9968	-	NA
+	INAHJMBO_01918	CDS	ROG5701	10006	10320	-	NA
+797
+	INAHJMBO_01919	CDS	ROG4498	10617	10778	-	NA
+	INAHJMBO_01920	CDS	NA	10766	10873	-	NA
+798
+	INAHJMBO_01921	CDS	NA	10954	11046	-	NA
+	INAHJMBO_01922	CDS	ROG2851	11043	11219	-	NA
+799
+	INAHJMBO_01923	CDS	COG1002	11695	12462	-	[V] Type II restriction enzyme, methylase subunits
+	INAHJMBO_01924	CDS	NA	12512	12712	-	NA
+800
+	INAHJMBO_01925	CDS	COG1385	13044	13718	-	[S] Uncharacterized protein conserved in bacteria 
+	INAHJMBO_01926	CDS	NA	13719	14141	-	NA
+801
+	INAHJMBO_01927	CDS	COG0276	14291	15241	+	[H] Protoheme ferro-lyase (ferrochelatase)   
+	INAHJMBO_01928	CDS	COG2143	15280	15903	+	[O] Thioredoxin-related protein    
+	INAHJMBO_01929	CDS	COG0755	15913	18822	+	[O] ABC-type transport system involved in cytochrome
+	INAHJMBO_01930	CDS	ROG1638	18830	20344	+	NA
+802
+	INAHJMBO_01931	tRNA	NA	20348	20435	-	NA
+803
+	INAHJMBO_01932	CDS	ROG8270	20558	21670	-	NA
+	INAHJMBO_01933	CDS	NA	21713	21997	-	NA
+	INAHJMBO_01934	CDS	COG3696	22008	25064	-	[P] Putative silver efflux pump  
+	INAHJMBO_01935	CDS	COG2139	25064	26131	-	[J] Ribosomal protein L21E   
+	INAHJMBO_01936	CDS	ROG3774	26128	27372	-	NA
+804
+	INAHJMBO_01937	CDS	COG0751	27487	29619	-	[J] Glycyl-tRNA synthetase, beta subunit  
+805
+	INAHJMBO_01938	CDS	NA	29680	30675	+	NA
+806
+	INAHJMBO_01939	CDS	COG0013	30755	33520	+	[J] Alanyl-tRNA synthetase    
+807
+	INAHJMBO_01940	CDS	COG0463	33570	34277	-	[M] Glycosyltransferases involved in cell wall biogenesis
+	INAHJMBO_01941	CDS	COG0463	34402	34749	-	[M] Glycosyltransferases involved in cell wall biogenesis
+808
+	INAHJMBO_01942	CDS	ROG7340	34940	35470	-	NA
+	INAHJMBO_01943	CDS	COG0139	35504	36199	-	[E] Phosphoribosyl-AMP cyclohydrolase    
+	INAHJMBO_01944	CDS	COG0330	36218	37321	-	[O] Membrane protease subunits, stomatin/prohibitin homologs 
+	INAHJMBO_01945	CDS	COG0115	37333	38256	-	[EH] Branched-chain amino acid aminotransferase/4-amino-4-deoxychorismate lyase 
+809
+	INAHJMBO_01946	CDS	COG0513	38358	39758	-	[LKJ] Superfamily II DNA and RNA helicases
+810
+	INAHJMBO_01947	CDS	ROG0135	345	704	+	NA
+811
+	INAHJMBO_01948	CDS	COG3309	886	1329	-	[S] Uncharacterized virulence-associated protein D  
+	INAHJMBO_01949	CDS	NA	1326	1676	-	NA
+	INAHJMBO_01950	CDS	ROG2689	1721	3037	-	NA
+	INAHJMBO_01951	CDS	NA	3034	3177	-	NA
+	INAHJMBO_01952	CDS	NA	3171	3329	-	NA
+	INAHJMBO_01953	CDS	ROG1608	3331	3765	-	NA
+	INAHJMBO_01954	CDS	COG0500	3769	4266	-	[QR] SAM-dependent methyltransferases    
+	INAHJMBO_01955	CDS	ROG0229	4263	4514	-	NA
+812
+	INAHJMBO_01956	CDS	COG1476	4637	5317	+	[K] Predicted transcriptional regulators   
+813
+	INAHJMBO_01957	CDS	NA	5353	5634	-	NA
+	INAHJMBO_01958	CDS	ROG8292	5627	6145	-	NA
+814
+	INAHJMBO_01959	CDS	NA	6593	6721	-	NA
+	INAHJMBO_01960	CDS	COG0582	6696	7565	-	[L] Integrase     
+	INAHJMBO_01961	CDS	COG0582	7589	7954	-	[L] Integrase     
+	INAHJMBO_01962	CDS	NA	8004	8387	-	NA
+815
+	INAHJMBO_01963	CDS	NA	8509	8700	-	NA
+816
+	INAHJMBO_01964	CDS	COG2857	8813	9826	-	[C] Cytochrome c1    
+	INAHJMBO_01965	CDS	COG1290	9823	11079	-	[C] Cytochrome b subunit of the bc
+	INAHJMBO_01966	CDS	COG0723	11089	11592	-	[C] Rieske Fe-S protein   
+	INAHJMBO_01967	CDS	COG0451	11727	12776	-	[MG] Nucleoside-diphosphate-sugar epimerases    
+817
+	INAHJMBO_01968	CDS	COG0065	12890	14170	+	[E] 3-isopropylmalate dehydratase large subunit  
+	INAHJMBO_01969	CDS	COG0739	14177	15586	+	[M] Membrane proteins related to metalloendopeptidases 
+	INAHJMBO_01970	CDS	COG0850	15583	16149	+	[D] Septum formation inhibitor   
+	INAHJMBO_01971	CDS	COG0774	16146	17039	+	[M] UDP-3-O-acyl-N-acetylglucosamine deacetylase    
+	INAHJMBO_01972	CDS	NA	17039	17488	+	NA
+818
+	INAHJMBO_01973	CDS	COG0083	17551	18453	+	[E] Homoserine kinase    
+819
+	INAHJMBO_01974	CDS	COG0717	18464	19027	-	[F] Deoxycytidine deaminase    
+820
+	INAHJMBO_01975	CDS	COG0511	19114	19596	+	[I] Biotin carboxyl carrier protein  
+	INAHJMBO_01976	CDS	COG0439	19597	20958	+	[I] Biotin carboxylase    
+	INAHJMBO_01977	CDS	NA	21020	21733	+	NA
+	INAHJMBO_01978	CDS	COG0399	21733	22869	+	[M] Predicted pyridoxal phosphate-dependent enzyme apparently involved
+821
+	INAHJMBO_01979	CDS	ROG3569	22898	23308	-	NA
+822
+	INAHJMBO_01980	CDS	NA	23394	23783	+	NA
+823
+	INAHJMBO_01982	CDS	COG0642	24673	26385	-	[T] Signal transduction histidine kinase  
+824
+	INAHJMBO_01983	CDS	COG0226	26544	27410	+	[P] ABC-type phosphate transport system, periplasmic component
+825
+	INAHJMBO_01984	CDS	COG1252	27781	28959	-	[C] NADH dehydrogenase, FAD-containing subunit  
+826
+	INAHJMBO_01985	tRNA	NA	29082	29156	-	NA
+827
+	INAHJMBO_01986	CDS	COG0677	29220	30566	-	[M] UDP-N-acetyl-D-mannosaminuronate dehydrogenase    
+	INAHJMBO_01987	CDS	COG1044	30563	31147	-	[M] UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase   
+828
+	INAHJMBO_01988	CDS	ROG4646	31283	33229	-	NA
+829
+	INAHJMBO_01989	CDS	COG0534	842	2200	-	[V] Na+-driven multidrug efflux pump  
+830
+	INAHJMBO_01990	CDS	COG0452	2352	3788	+	[H] Phosphopantothenoylcysteine synthetase/decarboxylase    
+	INAHJMBO_01991	CDS	ROG3808	3797	4549	+	NA
+831
+	INAHJMBO_01992	CDS	COG3787	4526	5248	-	[S] Uncharacterized protein conserved in bacteria 
+832
+	INAHJMBO_01993	CDS	COG1528	5381	5875	+	[P] Ferritin-like protein    
+833
+	INAHJMBO_01994	CDS	COG0735	6278	6715	-	[P] Fe2+/Zn2+ uptake regulation proteins  
+834
+	INAHJMBO_01995	CDS	NA	6837	6989	+	NA
+	INAHJMBO_01996	CDS	COG0541	7021	8352	+	[U] Signal recognition particle GTPase  
+	INAHJMBO_01997	CDS	COG0228	8412	8645	+	[J] Ribosomal protein S16   
+	INAHJMBO_01998	CDS	COG1837	8689	8934	+	[R] Predicted RNA-binding protein (contains KH domain)
+	INAHJMBO_01999	CDS	COG0806	8924	9514	+	[J] RimM protein, required for 16S rRNA
+	INAHJMBO_02000	CDS	COG0336	9514	10320	+	[J] tRNA-(guanine-N1)-methyltransferase     
+	INAHJMBO_02001	CDS	COG0335	10317	10673	+	[J] Ribosomal protein L19   
+835
+	INAHJMBO_02002	CDS	COG0306	10761	12230	+	[P] Phosphate/sulphate permeases    
+836
+	INAHJMBO_02003	CDS	COG1253	12378	13706	+	[R] Hemolysins and related proteins containing CBS
+837
+	INAHJMBO_02004	CDS	COG1418	14301	15872	+	[R] Predicted HD superfamily hydrolase  
+	INAHJMBO_02005	CDS	ROG2786	15909	16487	+	NA
+	INAHJMBO_02006	CDS	COG0552	16509	17399	+	[U] Signal recognition particle GTPase  
+	INAHJMBO_02007	CDS	COG1066	17383	18723	+	[O] Predicted ATP-dependent serine protease  
+	INAHJMBO_02008	CDS	COG2731	18775	19290	+	[G] Beta-galactosidase, beta subunit   
+	INAHJMBO_02009	CDS	COG4731	19324	19812	+	[S] Uncharacterized protein conserved in bacteria 
+838
+	INAHJMBO_02010	CDS	ROG1590	19834	20235	-	NA
+839
+	INAHJMBO_02011	CDS	ROG6964	20310	20501	-	NA
+	INAHJMBO_02012	CDS	COG0357	20498	21076	-	[M] Predicted S-adenosylmethionine-dependent methyltransferase involved in bacterial
+	INAHJMBO_02013	CDS	COG0809	21073	22200	-	[J] S-adenosylmethionine:tRNA-ribosyltransferase-isomerase (queuine synthetase)   
+	INAHJMBO_02014	CDS	COG0805	22206	22970	-	[U] Sec-independent protein secretion pathway component TatC
+	INAHJMBO_02015	CDS	COG1826	22983	23561	-	[U] Sec-independent protein secretion pathway components 
+840
+	INAHJMBO_02016	CDS	NA	23600	23827	+	NA
+841
+	INAHJMBO_02017	CDS	NA	23836	24519	-	NA
+842
+	INAHJMBO_02018	CDS	COG1479	478	774	+	[S] Uncharacterized conserved protein   
+843
+	INAHJMBO_02019	CDS	COG1740	1428	2582	+	[C] Ni,Fe-hydrogenase I small subunit  
+	INAHJMBO_02020	CDS	COG0374	2610	4352	+	[C] Ni,Fe-hydrogenase I large subunit  
+	INAHJMBO_02021	CDS	COG1969	4362	5063	+	[C] Ni,Fe-hydrogenase I cytochrome b subunit 
+	INAHJMBO_02022	CDS	COG0680	5077	5604	+	[C] Ni,Fe-hydrogenase maturation factor   
+	INAHJMBO_02023	CDS	ROG1714	5617	7401	+	NA
+	INAHJMBO_02024	CDS	COG0853	7433	7783	+	[H] Aspartate 1-decarboxylase    
+	INAHJMBO_02025	CDS	COG0718	7793	8098	+	[S] Uncharacterized protein conserved in bacteria 
+844
+	INAHJMBO_02026	CDS	COG2076	8457	8873	+	[P] Membrane transporters of cations and cationic
+	INAHJMBO_02027	CDS	COG2076	8870	9184	+	[P] Membrane transporters of cations and cationic
+845
+	INAHJMBO_02028	CDS	NA	9210	9782	-	NA
+	INAHJMBO_02029	CDS	COG1629	9792	11849	-	[P] Outer membrane receptor proteins, mostly Fe
+	INAHJMBO_02030	CDS	NA	11794	11949	-	NA
+846
+	INAHJMBO_02031	CDS	NA	12227	12640	+	NA
+847
+	INAHJMBO_02032	CDS	NA	12742	13122	+	NA
+848
+	INAHJMBO_02033	CDS	ROG1392	13509	13817	-	NA
+849
+	INAHJMBO_02034	CDS	COG0190	13884	14729	+	[H] 5,10-methylene-tetrahydrofolate dehydrogenase/Methenyl tetrahydrofolate cyclohydrolase  
+	INAHJMBO_02035	CDS	COG0681	14726	15640	+	[U] Signal peptidase I   
+	INAHJMBO_02036	CDS	COG1994	15640	16302	+	[R] Zn-dependent proteases    
+	INAHJMBO_02037	CDS	COG0698	16312	16749	+	[G] Ribose 5-phosphate isomerase RpiB  
+	INAHJMBO_02038	CDS	ROG2820	16759	17097	+	NA
+	INAHJMBO_02039	CDS	COG0503	17116	17649	+	[F] Adenine/guanine phosphoribosyltransferases and related PRPP-binding proteins
+	INAHJMBO_02040	CDS	COG0586	17649	18365	+	[S] Uncharacterized membrane-associated protein   
+	INAHJMBO_02041	CDS	COG0260	18369	19829	+	[E] Leucyl aminopeptidase    
+	INAHJMBO_02042	CDS	COG0012	19829	20929	+	[J] Predicted GTPase, probable translation factor 
+850
+	INAHJMBO_02043	CDS	NA	22012	22335	+	NA
+	INAHJMBO_02044	CDS	COG2215	22355	23206	+	[R] ABC-type uncharacterized transport system, permease component
+851
+	INAHJMBO_02045	CDS	NA	23408	23701	+	NA
+852
+	INAHJMBO_02046	CDS	COG4174	27	1076	+	[R] ABC-type uncharacterized transport system, permease component
+853
+	INAHJMBO_02047	CDS	COG0421	1152	1949	+	[E] Spermidine synthase    
+	INAHJMBO_02048	CDS	COG0237	1946	2656	+	[H] Dephospho-CoA kinase    
+854
+	INAHJMBO_02049	CDS	COG1252	2971	3339	+	[C] NADH dehydrogenase, FAD-containing subunit  
+	INAHJMBO_02050	CDS	COG1252	3336	4244	+	[C] NADH dehydrogenase, FAD-containing subunit  
+855
+	INAHJMBO_02051	CDS	COG1360	4437	5231	-	[N] Flagellar motor protein   
+	INAHJMBO_02052	CDS	COG1291	5241	6011	-	[N] Flagellar motor component   
+856
+	INAHJMBO_02053	CDS	COG0526	6406	6714	-	[OC] Thiol-disulfide isomerase and thioredoxins  
+	INAHJMBO_02054	CDS	COG2855	6736	7752	-	[S] Predicted membrane protein   
+	INAHJMBO_02055	CDS	COG0502	7752	8699	-	[H] Biotin synthase and related enzymes 
+857
+	INAHJMBO_02056	CDS	ROG2194	8990	9640	-	NA
+	INAHJMBO_02057	CDS	NA	9669	10391	-	NA
+	INAHJMBO_02058	CDS	ROG5059	10430	10813	-	NA
+858
+	INAHJMBO_02059	CDS	COG1002	11121	11501	+	[V] Type II restriction enzyme, methylase subunits
+	INAHJMBO_02060	CDS	COG1002	11586	13520	+	[V] Type II restriction enzyme, methylase subunits
+859
+	INAHJMBO_02061	CDS	COG1002	13591	13860	-	[V] Type II restriction enzyme, methylase subunits
+	INAHJMBO_02062	CDS	COG1961	13946	14308	-	[L] Site-specific recombinases, DNA invertase Pin homologs
+860
+	INAHJMBO_02063	CDS	ROG4739	14513	14746	+	NA
+	INAHJMBO_02064	CDS	COG3041	14743	15009	+	[S] Uncharacterized protein conserved in bacteria 
+861
+	INAHJMBO_02065	CDS	ROG5365	15278	15478	+	NA
+862
+	INAHJMBO_02066	CDS	COG1002	15900	16037	+	[V] Type II restriction enzyme, methylase subunits
+863
+	INAHJMBO_02067	CDS	COG1212	16185	16889	-	[M] CMP-2-keto-3-deoxyoctulosonic acid synthetase   
+864
+	INAHJMBO_02068	CDS	COG2353	17198	17761	-	[S] Uncharacterized conserved protein   
+865
+	INAHJMBO_02069	CDS	COG0533	17952	19013	+	[O] Metal-dependent proteases with possible chaperone activity
+866
+	INAHJMBO_02070	CDS	NA	19170	19364	-	NA
+867
+	INAHJMBO_02071	CDS	NA	19428	20048	-	NA
+868
+	INAHJMBO_02072	CDS	NA	647	1285	-	NA
+	INAHJMBO_02073	CDS	NA	1305	1643	-	NA
+869
+	INAHJMBO_02074	CDS	COG3520	1727	2629	-	[S] Uncharacterized protein conserved in bacteria 
+	INAHJMBO_02075	CDS	COG3519	2626	4350	-	[S] Uncharacterized protein conserved in bacteria 
+	INAHJMBO_02076	CDS	COG3518	4350	4742	-	[S] Uncharacterized protein conserved in bacteria 
+	INAHJMBO_02077	CDS	COG3517	4745	6199	-	[S] Uncharacterized protein conserved in bacteria 
+	INAHJMBO_02078	CDS	COG3516	6208	6693	-	[S] Uncharacterized protein conserved in bacteria 
+	INAHJMBO_02079	CDS	COG3515	6776	8044	-	[S] Uncharacterized protein conserved in bacteria 
+870
+	INAHJMBO_02080	CDS	COG3521	8147	8602	+	[S] Uncharacterized protein conserved in bacteria 
+	INAHJMBO_02081	CDS	COG3522	8619	10019	+	[S] Uncharacterized protein conserved in bacteria 
+	INAHJMBO_02082	CDS	COG3455	10029	10805	+	[S] Uncharacterized protein conserved in bacteria 
+871
+	INAHJMBO_02083	CDS	NA	10861	11271	-	NA
+	INAHJMBO_02084	CDS	COG2361	11304	11690	-	[S] Uncharacterized conserved protein   
+	INAHJMBO_02085	CDS	COG1708	11683	12003	-	[R] Predicted nucleotidyltransferases    
+	INAHJMBO_02086	CDS	NA	12016	12255	-	NA
+	INAHJMBO_02087	CDS	NA	12281	12421	-	NA
+872
+	INAHJMBO_02088	CDS	NA	12501	13025	-	NA
+	INAHJMBO_02089	CDS	NA	12974	13585	-	NA
+	INAHJMBO_02090	CDS	NA	13578	13739	-	NA
+	INAHJMBO_02091	CDS	NA	13739	14338	-	NA
+	INAHJMBO_02092	CDS	COG1525	14328	14867	-	[L] Micrococcal nuclease (thermonuclease) homologs  
+	INAHJMBO_02093	CDS	COG0433	14869	17208	-	[R] Predicted ATPase    
+	INAHJMBO_02094	CDS	NA	17205	17765	-	NA
+873
+	INAHJMBO_02095	CDS	COG0343	37	591	+	[J] Queuine/archaeosine tRNA-ribosyltransferase    
+874
+	INAHJMBO_02096	CDS	ROG5298	613	1047	-	NA
+875
+	INAHJMBO_02097	CDS	NA	2152	2271	-	NA
+	INAHJMBO_02098	CDS	COG1479	2286	4094	-	[S] Uncharacterized conserved protein   
+876
+	INAHJMBO_02099	CDS	ROG4430	4453	4734	-	NA
+	INAHJMBO_02100	CDS	ROG4430	4799	5005	-	NA
+	INAHJMBO_02101	CDS	ROG4689	5059	5295	-	NA
+	INAHJMBO_02102	CDS	COG4637	5285	5962	-	[R] Predicted ATPase    
+	INAHJMBO_02103	CDS	COG4938	5959	6714	-	[S] Uncharacterized conserved protein   
+	INAHJMBO_02104	CDS	NA	6727	8526	-	NA
+	INAHJMBO_02105	CDS	COG1476	8526	8789	-	[K] Predicted transcriptional regulators   
+877
+	INAHJMBO_02106	CDS	COG4771	9104	10213	-	[P] Outer membrane receptor for ferrienterochelin and
+878
+	INAHJMBO_02107	CDS	NA	10690	11619	-	NA
+	INAHJMBO_02108	CDS	ROG2478	11629	11928	-	NA
+879
+	INAHJMBO_02109	CDS	ROG1319	1	519	-	NA
+880
+	INAHJMBO_02110	CDS	COG3022	586	1395	+	[S] Uncharacterized protein conserved in bacteria 
+881
+	INAHJMBO_02111	CDS	COG2847	1474	1995	+	[S] Uncharacterized protein conserved in bacteria 
+	INAHJMBO_02112	CDS	ROG6354	2029	2520	+	NA
+	INAHJMBO_02113	CDS	COG2143	2523	3248	+	[O] Thioredoxin-related protein    
+	INAHJMBO_02114	CDS	COG0854	3258	4031	+	[H] Pyridoxal phosphate biosynthesis protein  
+	INAHJMBO_02115	CDS	COG0482	4090	5118	+	[J] Predicted tRNA(5-methylaminomethyl-2-thiouridylate) methyltransferase, contains the PP-loop
+882
+	INAHJMBO_02116	CDS	COG0147	5167	7350	+	[EH] Anthranilate/para-aminobenzoate synthases component I  
+	INAHJMBO_02117	CDS	COG0512	7328	7903	+	[EH] Anthranilate/para-aminobenzoate synthases component II  
+883
+	INAHJMBO_02118	CDS	NA	349	963	-	NA
+	INAHJMBO_02119	CDS	COG3772	956	3769	-	[R] Phage-related lysozyme (muraminidase)   
+	INAHJMBO_02120	CDS	COG4461	3791	4990	-	[S] Uncharacterized protein conserved in bacteria, putative
+	INAHJMBO_02121	CDS	COG4461	5034	5789	-	[S] Uncharacterized protein conserved in bacteria, putative
+	INAHJMBO_02122	CDS	COG4461	5837	6673	-	[S] Uncharacterized protein conserved in bacteria, putative
+884
+	INAHJMBO_02123	CDS	NA	105	905	-	NA
+	INAHJMBO_02124	CDS	NA	902	1153	-	NA
+	INAHJMBO_02125	CDS	NA	1113	2528	-	NA
+	INAHJMBO_02126	CDS	NA	2590	2853	-	NA
+	INAHJMBO_02127	CDS	COG0739	2822	4627	-	[M] Membrane proteins related to metalloendopeptidases 
+	INAHJMBO_02128	CDS	NA	4636	5280	-	NA
+	INAHJMBO_02129	CDS	COG3501	5302	5826	-	[S] Uncharacterized protein conserved in bacteria 
+885
+	INAHJMBO_02130	CDS	NA	634	858	-	NA
+	INAHJMBO_02131	CDS	NA	889	1095	-	NA
+886
+	INAHJMBO_02132	CDS	NA	1191	1553	-	NA
+	INAHJMBO_02133	CDS	NA	1591	1929	-	NA
+	INAHJMBO_02134	CDS	COG2217	1935	2411	-	[P] Cation transport ATPase   
+887
+	INAHJMBO_02135	CDS	NA	2762	2887	+	NA
+888
+	INAHJMBO_02136	CDS	NA	472	864	-	NA
+889
+	INAHJMBO_02137	CDS	NA	1033	1500	-	NA
+	INAHJMBO_02138	CDS	NA	1503	1691	-	NA
+	INAHJMBO_02139	CDS	NA	1699	2133	-	NA
+	INAHJMBO_02140	CDS	ROG6583	2133	4244	-	NA
+	INAHJMBO_02141	CDS	ROG8178	4241	4414	-	NA
+890
+	INAHJMBO_02142	CDS	ROG6713	1951	2163	-	NA
+	INAHJMBO_02143	CDS	COG0596	2148	3671	-	[R] Predicted hydrolases or acyltransferases (alpha/beta hydrolase
+	INAHJMBO_02144	CDS	NA	3672	4289	-	NA
+	INAHJMBO_02145	CDS	NA	4326	4502	-	NA
+891
+	INAHJMBO_02146	CDS	COG2819	115	1050	+	[R] Predicted hydrolase of the alpha/beta superfamily
+892
+	INAHJMBO_02147	CDS	COG0666	1137	1607	-	[R] FOG: Ankyrin repeat   
+	INAHJMBO_02148	CDS	COG0753	1618	2115	-	[P] Catalase     
+893
+	INAHJMBO_02149	CDS	COG1757	2306	3841	-	[C] Na+/H+ antiporter    
+			NA				NA
+894
+	INAHJMBO_02151	CDS	NA	543	1076	-	NA
+895
+	INAHJMBO_02152	CDS	NA	1229	1711	-	NA
+	INAHJMBO_02153	CDS	COG4290	1723	2385	-	[F] Guanyl-specific ribonuclease Sa   
+896
+	INAHJMBO_02154	CDS	COG1691	9	404	-	[R] NCAIR mutase (PurE)-related proteins  
+	INAHJMBO_02155	CDS	COG4461	404	1519	-	[S] Uncharacterized protein conserved in bacteria, putative
+	INAHJMBO_02156	CDS	COG4461	1599	2423	-	[S] Uncharacterized protein conserved in bacteria, putative
+897
+	INAHJMBO_02157	CDS	NA	36	650	+	NA
+	INAHJMBO_02158	CDS	NA	643	789	+	NA
+	INAHJMBO_02159	CDS	ROG4217	777	1670	+	NA
+			NA				NA
+			NA				NA
