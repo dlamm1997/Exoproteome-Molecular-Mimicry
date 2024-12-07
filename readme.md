@@ -76,7 +76,7 @@ for acc in `cat query_accs` ; do subdir='operon_mapper_results/' ; u="_*"; infil
 
 for acc in `cat query_accs` ; do subdir='operon_mapper_results/' ; u="/*/predicted_protein_sequences*" ; indir="$subdir$acc$u" ;  makeblastdb -in $indir -input_type fasta -dbtype prot ; done
 
-operon_analysis]$ for acc in `cat query_accs` ; do subdir='operon_mapper_results/' ; job=$(ls $subdir$acc) ;  db_dir="$subdir$acc/$job"; a="/predicted_protein_sequences_" ; db="$db_dir$a$job" ; query="query_fastas/$acc.fa"  ; blastp -query  $query -db $db -max_target_seqs 1 -outfmt 6 | head -n 1  > $db_dir/$acc.blast ; done
+for acc in `cat query_accs` ; do subdir='operon_mapper_results/' ; job=$(ls $subdir$acc) ;  db_dir="$subdir$acc/$job"; a="/predicted_protein_sequences_" ; db="$db_dir$a$job" ; query="query_fastas/$acc.fa"  ; blastp -query  $query -db $db -max_target_seqs 1 -outfmt 6 | head -n 1  > $db_dir/$acc.blast ; done
 
 for acc in `cat query_accs` ; do subdir='operon_mapper_results/' ; job=$(ls $subdir$acc) ;  db_dir="$subdir$acc/$job"; blast_file="$db_dir/$acc.blast" ; operon_mapper_id=$(cat $blast_file |awk -F"\t" '{print $2}') ;  prefix=$"/list_of_operons_" ; operon_file="$db_dir$prefix$job" ; echo $acc $operon_mapper_id $operon_file >> acc2operons ;  done
 ```
