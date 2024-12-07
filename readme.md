@@ -62,4 +62,21 @@ cat deeplocpro_out/results_20241202-231226.csv | grep "Extracellular" | awk -F",
 awk -F"\t" 'FNR==NR {arr[$1]; next} $2 in arr {print $0}'  deeploc_extracellular_accs  extracell_hits_prob1_TM50_qcov80_bact_arch.m8  >  extracell_hits_prob1_TM50_qcov80_bact_arch.DeeplocExtracell.m8
 ```
 
+## Operon analysis
 
+
+0. The identity of single domain proteins in the "FGF mimic" cluster from the analysis.ipynb notebook (n=21), were mapped to the relevant emble DNA assemblies using Uniprots ID mapping tool. These assemblies were submitted to the Operon Mapper Webs server.
+1. Unpack the results files from Operon Mapper
+2. Make BLAST databases with the predicted protein sequences from Operon Mapper
+3. Use BLASTp to map our FGF mimic proteins to the predicted protein sequences from Operon Mapper
+4. Create a single file with format: Uniprot_ACC Operon_Mapper_ID location_of_operon_file (this is referenced in operon analysis.ipynb
+
+```bash
+for acc in `cat query_accs` ; do subdir='operon_mapper_results/' ; u="_*"; infile="$subdir$acc$u" ; outdir="$subdir$acc" ; echo $infile $outdir ; tar -xf $infile -C $outdir ; done
+
+for acc in `cat query_accs` ; do subdir='operon_mapper_results/' ; u="/*/predicted_protein_sequences*" ; indir="$subdir$acc$u" ;  makeblastdb -in $indir -input_type fasta -dbtype prot ; done
+
+operon_analysis]$ for acc in `cat query_accs` ; do subdir='operon_mapper_results/' ; job=$(ls $subdir$acc) ;  db_dir="$subdir$acc/$job"; a="/predicted_protein_sequences_" ; db="$db_dir$a$job" ; query="query_fastas/$acc.fa"  ; blastp -query  $query -db $db -max_target_seqs 1 -outfmt 6 | head -n 1  > $db_dir/$acc.blast ; done
+
+for acc in `cat query_accs` ; do subdir='operon_mapper_results/' ; job=$(ls $subdir$acc) ;  db_dir="$subdir$acc/$job"; blast_file="$db_dir/$acc.blast" ; operon_mapper_id=$(cat $blast_file |awk -F"\t" '{print $2}') ;  prefix=$"/list_of_operons_" ; operon_file="$db_dir$prefix$job" ; echo $acc $operon_mapper_id $operon_file >> acc2operons ;  done
+```
